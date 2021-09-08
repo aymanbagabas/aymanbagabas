@@ -6,9 +6,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [aymanbagabas/iosevka-fonts](https://github.com/aymanbagabas/iosevka-fonts) -  (today)
-- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - Nothing like ~ (1 day ago)
-- [linrunner/TLP](https://github.com/linrunner/TLP) - TLP - Optimize Linux Laptop Battery Life (1 day ago)
+- [aymanbagabas/iosevka-fonts](https://github.com/aymanbagabas/iosevka-fonts) -  (1 day ago)
+- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - Nothing like ~ (2 days ago)
+- [linrunner/TLP](https://github.com/linrunner/TLP) - TLP - Optimize Linux Laptop Battery Life (2 days ago)
 - [aymanbagabas/fss3](https://github.com/aymanbagabas/fss3) - FSS3 is an S3 filesystem abstraction layer for Golang (2 weeks ago)
 - [aymanbagabas/termimg](https://github.com/aymanbagabas/termimg) -  (2 months ago)
 
@@ -22,7 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [libretro/retroarch-joypad-autoconfig](https://github.com/libretro/retroarch-joypad-autoconfig) ([v1.9.9](https://github.com/libretro/retroarch-joypad-autoconfig/releases/tag/v1.9.9), 1 day ago) - RetroArch joypad autoconfig files
+- [libretro/retroarch-joypad-autoconfig](https://github.com/libretro/retroarch-joypad-autoconfig) ([v1.9.9](https://github.com/libretro/retroarch-joypad-autoconfig/releases/tag/v1.9.9), 2 days ago) - RetroArch joypad autoconfig files
 - [VSCodeVim/Vim](https://github.com/VSCodeVim/Vim) ([v1.21.7](https://github.com/VSCodeVim/Vim/releases/tag/v1.21.7), 1 week ago) - :star: Vim for Visual Studio Code
 - [b-lam/Resplash](https://github.com/b-lam/Resplash) ([v3.3.4](https://github.com/b-lam/Resplash/releases/tag/v3.3.4), 2 weeks ago) - Unofficial Unsplash Android App
 - [aymanbagabas/fss3](https://github.com/aymanbagabas/fss3) ([v0.1.1](https://github.com/aymanbagabas/fss3/releases/tag/v0.1.1), 2 weeks ago) - FSS3 is an S3 filesystem abstraction layer for Golang
@@ -30,9 +30,9 @@
 
 #### 🔨 My recent Pull Requests
 
-- [bat.d (huawei) fix driver platform sysfs path](https://github.com/linrunner/TLP/pull/577) on [linrunner/TLP](https://github.com/linrunner/TLP) (1 day ago)
+- [bat.d (huawei) fix driver platform sysfs path](https://github.com/linrunner/TLP/pull/577) on [linrunner/TLP](https://github.com/linrunner/TLP) (2 days ago)
 - [Release: Use GoReleaser for release](https://github.com/shazow/ssh-chat/pull/400) on [shazow/ssh-chat](https://github.com/shazow/ssh-chat) (1 week ago)
-- [Support uint and uint64](https://github.com/meowgorithm/babyenv/pull/2) on [meowgorithm/babyenv](https://github.com/meowgorithm/babyenv) (4 weeks ago)
+- [Support uint and uint64](https://github.com/meowgorithm/babyenv/pull/2) on [meowgorithm/babyenv](https://github.com/meowgorithm/babyenv) (1 month ago)
 - [Support parsing embedded structs](https://github.com/meowgorithm/babyenv/pull/1) on [meowgorithm/babyenv](https://github.com/meowgorithm/babyenv) (2 months ago)
 - [Fix build when sixel is enabled](https://github.com/atanunq/viu/pull/76) on [atanunq/viu](https://github.com/atanunq/viu) (2 months ago)
 
@@ -46,8 +46,8 @@
 
 #### ⭐ Recent Stars
 
-- [muesli/gitty](https://github.com/muesli/gitty) - Contextual information about your git projects, right on the command-line (5 days ago)
-- [bensadeh/circumflex](https://github.com/bensadeh/circumflex) - 🌿 It&#39;s Hacker News in your terminal (6 days ago)
+- [muesli/gitty](https://github.com/muesli/gitty) - Contextual information about your git projects, right on the command-line (6 days ago)
+- [bensadeh/circumflex](https://github.com/bensadeh/circumflex) - 🌿 It&#39;s Hacker News in your terminal (1 week ago)
 - [aymanbagabas/fss3](https://github.com/aymanbagabas/fss3) - FSS3 is an S3 filesystem abstraction layer for Golang (2 weeks ago)
 - [maaslalani/confetty](https://github.com/maaslalani/confetty) - Confetti in your TTY (1 month ago)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible (1 month ago)
