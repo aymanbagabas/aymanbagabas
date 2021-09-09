@@ -22,11 +22,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [linrunner/TLP](https://github.com/linrunner/TLP) ([1.4.0-beta.2](https://github.com/linrunner/TLP/releases/tag/1.4.0-beta.2), today) - TLP - Optimize Linux Laptop Battery Life
 - [libretro/retroarch-joypad-autoconfig](https://github.com/libretro/retroarch-joypad-autoconfig) ([v1.9.9](https://github.com/libretro/retroarch-joypad-autoconfig/releases/tag/v1.9.9), 3 days ago) - RetroArch joypad autoconfig files
 - [VSCodeVim/Vim](https://github.com/VSCodeVim/Vim) ([v1.21.7](https://github.com/VSCodeVim/Vim/releases/tag/v1.21.7), 1 week ago) - :star: Vim for Visual Studio Code
 - [b-lam/Resplash](https://github.com/b-lam/Resplash) ([v3.3.4](https://github.com/b-lam/Resplash/releases/tag/v3.3.4), 2 weeks ago) - Unofficial Unsplash Android App
 - [aymanbagabas/fss3](https://github.com/aymanbagabas/fss3) ([v0.1.1](https://github.com/aymanbagabas/fss3/releases/tag/v0.1.1), 2 weeks ago) - FSS3 is an S3 filesystem abstraction layer for Golang
-- [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) ([v5.2.1](https://github.com/OpenAPITools/openapi-generator/releases/tag/v5.2.1), 3 weeks ago) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
 
 #### 🔨 My recent Pull Requests
 
