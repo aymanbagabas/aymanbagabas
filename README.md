@@ -46,11 +46,11 @@
 
 #### ⭐ Recent Stars
 
+- [tomnomnom/gron](https://github.com/tomnomnom/gron) - Make JSON greppable! (today)
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (2 days ago)
 - [muesli/gitty](https://github.com/muesli/gitty) - Contextual information about your git projects, right on the command-line (1 week ago)
 - [bensadeh/circumflex](https://github.com/bensadeh/circumflex) - 🌿 It&#39;s Hacker News in your terminal (1 week ago)
 - [aymanbagabas/fss3](https://github.com/aymanbagabas/fss3) - FSS3 is an S3 filesystem abstraction layer for Golang (3 weeks ago)
-- [maaslalani/confetty](https://github.com/maaslalani/confetty) - Confetti in your TTY (1 month ago)
 
 #### 📫 How to reach me
 
