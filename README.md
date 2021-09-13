@@ -22,7 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/keygen](https://github.com/charmbracelet/keygen) ([v0.1.1](https://github.com/charmbracelet/keygen/releases/tag/v0.1.1), today) - An SSH key pair generator
+- [charmbracelet/keygen](https://github.com/charmbracelet/keygen) ([v0.1.2](https://github.com/charmbracelet/keygen/releases/tag/v0.1.2), today) - An SSH key pair generator
 - [linrunner/TLP](https://github.com/linrunner/TLP) ([1.4.0-beta.2](https://github.com/linrunner/TLP/releases/tag/1.4.0-beta.2), 4 days ago) - TLP - Optimize Linux Laptop Battery Life
 - [libretro/retroarch-joypad-autoconfig](https://github.com/libretro/retroarch-joypad-autoconfig) ([v1.9.9](https://github.com/libretro/retroarch-joypad-autoconfig/releases/tag/v1.9.9), 1 week ago) - RetroArch joypad autoconfig files
 - [VSCodeVim/Vim](https://github.com/VSCodeVim/Vim) ([v1.21.7](https://github.com/VSCodeVim/Vim/releases/tag/v1.21.7), 1 week ago) - :star: Vim for Visual Studio Code
