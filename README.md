@@ -6,9 +6,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/keygen](https://github.com/charmbracelet/keygen) - An SSH key pair generator (today)
-- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - Nothing like ~ (5 days ago)
-- [aymanbagabas/iosevka-fonts](https://github.com/aymanbagabas/iosevka-fonts) -  (6 days ago)
+- [charmbracelet/keygen](https://github.com/charmbracelet/keygen) - An SSH key pair generator (1 day ago)
+- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - Nothing like ~ (6 days ago)
+- [aymanbagabas/iosevka-fonts](https://github.com/aymanbagabas/iosevka-fonts) -  (1 week ago)
 - [linrunner/TLP](https://github.com/linrunner/TLP) - TLP - Optimize Linux Laptop Battery Life (1 week ago)
 - [aymanbagabas/fss3](https://github.com/aymanbagabas/fss3) - FSS3 is an S3 filesystem abstraction layer for Golang (3 weeks ago)
 
@@ -22,10 +22,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/keygen](https://github.com/charmbracelet/keygen) ([v0.1.2](https://github.com/charmbracelet/keygen/releases/tag/v0.1.2), today) - An SSH key pair generator
-- [linrunner/TLP](https://github.com/linrunner/TLP) ([1.4.0-beta.2](https://github.com/linrunner/TLP/releases/tag/1.4.0-beta.2), 4 days ago) - TLP - Optimize Linux Laptop Battery Life
+- [charmbracelet/keygen](https://github.com/charmbracelet/keygen) ([v0.1.2](https://github.com/charmbracelet/keygen/releases/tag/v0.1.2), 1 day ago) - An SSH key pair generator
+- [linrunner/TLP](https://github.com/linrunner/TLP) ([1.4.0-beta.2](https://github.com/linrunner/TLP/releases/tag/1.4.0-beta.2), 5 days ago) - TLP - Optimize Linux Laptop Battery Life
 - [libretro/retroarch-joypad-autoconfig](https://github.com/libretro/retroarch-joypad-autoconfig) ([v1.9.9](https://github.com/libretro/retroarch-joypad-autoconfig/releases/tag/v1.9.9), 1 week ago) - RetroArch joypad autoconfig files
-- [VSCodeVim/Vim](https://github.com/VSCodeVim/Vim) ([v1.21.7](https://github.com/VSCodeVim/Vim/releases/tag/v1.21.7), 1 week ago) - :star: Vim for Visual Studio Code
+- [VSCodeVim/Vim](https://github.com/VSCodeVim/Vim) ([v1.21.7](https://github.com/VSCodeVim/Vim/releases/tag/v1.21.7), 2 weeks ago) - :star: Vim for Visual Studio Code
 - [b-lam/Resplash](https://github.com/b-lam/Resplash) ([v3.3.4](https://github.com/b-lam/Resplash/releases/tag/v3.3.4), 3 weeks ago) - Unofficial Unsplash Android App
 
 #### 🔨 My recent Pull Requests
@@ -38,7 +38,7 @@
 
 #### 📜 My recent blog posts
 
-- [Run native C/C&#43;&#43; code in the browser using Emscripten](https://aymanbagabas.com/blog/2020/11/18/run-native-c-c&#43;&#43;-code-in-the-browser-using-emscripten.html) (9 months ago)
+- [Run native C/C&#43;&#43; code in the browser using Emscripten](https://aymanbagabas.com/blog/2020/11/18/run-native-c-c&#43;&#43;-code-in-the-browser-using-emscripten.html) (10 months ago)
 - [Dynamic DNS using DDclient](https://aymanbagabas.com/blog/2019/02/16/dynamic-dns-using-ddclient.html) (2 years ago)
 - [Writing a Chip-8 emulator](https://aymanbagabas.com/blog/2018/09/17/chip-8-emulator.html) (3 years ago)
 - [Arch Linux on Matebook X Pro](https://aymanbagabas.com/blog/2018/07/23/archlinux-on-matebook-x-pro.html) (3 years ago)
@@ -46,9 +46,9 @@
 
 #### ⭐ Recent Stars
 
-- [charmbracelet/keygen](https://github.com/charmbracelet/keygen) - An SSH key pair generator (today)
-- [tomnomnom/gron](https://github.com/tomnomnom/gron) - Make JSON greppable! (3 days ago)
-- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (5 days ago)
+- [charmbracelet/keygen](https://github.com/charmbracelet/keygen) - An SSH key pair generator (1 day ago)
+- [tomnomnom/gron](https://github.com/tomnomnom/gron) - Make JSON greppable! (4 days ago)
+- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (6 days ago)
 - [muesli/gitty](https://github.com/muesli/gitty) - Contextual information about your git projects, right on the command-line (1 week ago)
 - [bensadeh/circumflex](https://github.com/bensadeh/circumflex) - 🌿 It&#39;s Hacker News in your terminal (1 week ago)
 
