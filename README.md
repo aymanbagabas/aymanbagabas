@@ -25,8 +25,8 @@
 - [charmbracelet/keygen](https://github.com/charmbracelet/keygen) ([v0.1.2](https://github.com/charmbracelet/keygen/releases/tag/v0.1.2), 3 days ago) - An SSH key pair generator
 - [linrunner/TLP](https://github.com/linrunner/TLP) ([1.4.0-beta.2](https://github.com/linrunner/TLP/releases/tag/1.4.0-beta.2), 1 week ago) - TLP - Optimize Linux Laptop Battery Life
 - [libretro/retroarch-joypad-autoconfig](https://github.com/libretro/retroarch-joypad-autoconfig) ([v1.9.9](https://github.com/libretro/retroarch-joypad-autoconfig/releases/tag/v1.9.9), 1 week ago) - RetroArch joypad autoconfig files
-- [VSCodeVim/Vim](https://github.com/VSCodeVim/Vim) ([v1.21.7](https://github.com/VSCodeVim/Vim/releases/tag/v1.21.7), 2 weeks ago) - :star: Vim for Visual Studio Code
 - [b-lam/Resplash](https://github.com/b-lam/Resplash) ([v3.3.4](https://github.com/b-lam/Resplash/releases/tag/v3.3.4), 3 weeks ago) - Unofficial Unsplash Android App
+- [aymanbagabas/fss3](https://github.com/aymanbagabas/fss3) ([v0.1.1](https://github.com/aymanbagabas/fss3/releases/tag/v0.1.1), 3 weeks ago) - FSS3 is an S3 filesystem abstraction layer for Golang
 
 #### 🔨 My recent Pull Requests
 
