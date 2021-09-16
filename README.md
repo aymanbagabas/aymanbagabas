@@ -6,7 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/keygen](https://github.com/charmbracelet/keygen) - An SSH key pair generator (2 days ago)
+- [charmbracelet/keygen](https://github.com/charmbracelet/keygen) - An SSH key pair generator (3 days ago)
 - [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - Nothing like ~ (1 week ago)
 - [aymanbagabas/iosevka-fonts](https://github.com/aymanbagabas/iosevka-fonts) -  (1 week ago)
 - [linrunner/TLP](https://github.com/linrunner/TLP) - TLP - Optimize Linux Laptop Battery Life (1 week ago)
@@ -22,8 +22,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/keygen](https://github.com/charmbracelet/keygen) ([v0.1.2](https://github.com/charmbracelet/keygen/releases/tag/v0.1.2), 2 days ago) - An SSH key pair generator
-- [linrunner/TLP](https://github.com/linrunner/TLP) ([1.4.0-beta.2](https://github.com/linrunner/TLP/releases/tag/1.4.0-beta.2), 6 days ago) - TLP - Optimize Linux Laptop Battery Life
+- [charmbracelet/keygen](https://github.com/charmbracelet/keygen) ([v0.1.2](https://github.com/charmbracelet/keygen/releases/tag/v0.1.2), 3 days ago) - An SSH key pair generator
+- [linrunner/TLP](https://github.com/linrunner/TLP) ([1.4.0-beta.2](https://github.com/linrunner/TLP/releases/tag/1.4.0-beta.2), 1 week ago) - TLP - Optimize Linux Laptop Battery Life
 - [libretro/retroarch-joypad-autoconfig](https://github.com/libretro/retroarch-joypad-autoconfig) ([v1.9.9](https://github.com/libretro/retroarch-joypad-autoconfig/releases/tag/v1.9.9), 1 week ago) - RetroArch joypad autoconfig files
 - [VSCodeVim/Vim](https://github.com/VSCodeVim/Vim) ([v1.21.7](https://github.com/VSCodeVim/Vim/releases/tag/v1.21.7), 2 weeks ago) - :star: Vim for Visual Studio Code
 - [b-lam/Resplash](https://github.com/b-lam/Resplash) ([v3.3.4](https://github.com/b-lam/Resplash/releases/tag/v3.3.4), 3 weeks ago) - Unofficial Unsplash Android App
@@ -31,7 +31,7 @@
 #### 🔨 My recent Pull Requests
 
 - [bat.d (huawei) fix driver platform sysfs path](https://github.com/linrunner/TLP/pull/577) on [linrunner/TLP](https://github.com/linrunner/TLP) (1 week ago)
-- [Release: Use GoReleaser for release](https://github.com/shazow/ssh-chat/pull/400) on [shazow/ssh-chat](https://github.com/shazow/ssh-chat) (2 weeks ago)
+- [Release: Use GoReleaser for release](https://github.com/shazow/ssh-chat/pull/400) on [shazow/ssh-chat](https://github.com/shazow/ssh-chat) (3 weeks ago)
 - [Support uint and uint64](https://github.com/meowgorithm/babyenv/pull/2) on [meowgorithm/babyenv](https://github.com/meowgorithm/babyenv) (1 month ago)
 - [Support parsing embedded structs](https://github.com/meowgorithm/babyenv/pull/1) on [meowgorithm/babyenv](https://github.com/meowgorithm/babyenv) (2 months ago)
 - [Fix build when sixel is enabled](https://github.com/atanunq/viu/pull/76) on [atanunq/viu](https://github.com/atanunq/viu) (3 months ago)
@@ -46,10 +46,10 @@
 
 #### ⭐ Recent Stars
 
-- [charmbracelet/keygen](https://github.com/charmbracelet/keygen) - An SSH key pair generator (2 days ago)
-- [tomnomnom/gron](https://github.com/tomnomnom/gron) - Make JSON greppable! (5 days ago)
+- [charmbracelet/keygen](https://github.com/charmbracelet/keygen) - An SSH key pair generator (3 days ago)
+- [tomnomnom/gron](https://github.com/tomnomnom/gron) - Make JSON greppable! (6 days ago)
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (1 week ago)
-- [muesli/gitty](https://github.com/muesli/gitty) - Contextual information about your git projects, right on the command-line (1 week ago)
+- [muesli/gitty](https://github.com/muesli/gitty) - Contextual information about your git projects, right on the command-line (2 weeks ago)
 - [bensadeh/circumflex](https://github.com/bensadeh/circumflex) - 🌿 It&#39;s Hacker News in your terminal (2 weeks ago)
 
 #### 📫 How to reach me
