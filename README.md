@@ -46,11 +46,11 @@
 
 #### ⭐ Recent Stars
 
+- [abhimanyu003/sttr](https://github.com/abhimanyu003/sttr) - cross-platform, cli app to perform various operations on string (today)
 - [charmbracelet/keygen](https://github.com/charmbracelet/keygen) - An SSH key pair generator (1 week ago)
 - [tomnomnom/gron](https://github.com/tomnomnom/gron) - Make JSON greppable! (1 week ago)
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (1 week ago)
 - [muesli/gitty](https://github.com/muesli/gitty) - Contextual information about your git projects, right on the command-line (2 weeks ago)
-- [bensadeh/circumflex](https://github.com/bensadeh/circumflex) - 🌿 It&#39;s Hacker News in your terminal (2 weeks ago)
 
 #### 📫 How to reach me
 
