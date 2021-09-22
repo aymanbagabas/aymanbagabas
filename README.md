@@ -7,7 +7,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [charmbracelet/keygen](https://github.com/charmbracelet/keygen) - An SSH key pair generator (1 week ago)
-- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - Nothing like ~ (1 week ago)
+- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - Nothing like ~ (2 weeks ago)
 - [aymanbagabas/iosevka-fonts](https://github.com/aymanbagabas/iosevka-fonts) -  (2 weeks ago)
 - [linrunner/TLP](https://github.com/linrunner/TLP) - TLP - Optimize Linux Laptop Battery Life (2 weeks ago)
 - [aymanbagabas/fss3](https://github.com/aymanbagabas/fss3) - FSS3 is an S3 filesystem abstraction layer for Golang (1 month ago)
@@ -46,10 +46,10 @@
 
 #### ⭐ Recent Stars
 
-- [abhimanyu003/sttr](https://github.com/abhimanyu003/sttr) - cross-platform, cli app to perform various operations on string (1 day ago)
+- [abhimanyu003/sttr](https://github.com/abhimanyu003/sttr) - cross-platform, cli app to perform various operations on string (2 days ago)
 - [charmbracelet/keygen](https://github.com/charmbracelet/keygen) - An SSH key pair generator (1 week ago)
 - [tomnomnom/gron](https://github.com/tomnomnom/gron) - Make JSON greppable! (1 week ago)
-- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (1 week ago)
+- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (2 weeks ago)
 - [muesli/gitty](https://github.com/muesli/gitty) - Contextual information about your git projects, right on the command-line (2 weeks ago)
 
 #### 📫 How to reach me
