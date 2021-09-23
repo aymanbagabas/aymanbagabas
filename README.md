@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Use CSS prefers-color-scheme](https://github.com/gskinner/regexr/pull/443) on [gskinner/regexr](https://github.com/gskinner/regexr) (today)
 - [bat.d (huawei) fix driver platform sysfs path](https://github.com/linrunner/TLP/pull/577) on [linrunner/TLP](https://github.com/linrunner/TLP) (2 weeks ago)
 - [Release: Use GoReleaser for release](https://github.com/shazow/ssh-chat/pull/400) on [shazow/ssh-chat](https://github.com/shazow/ssh-chat) (4 weeks ago)
 - [Support uint and uint64](https://github.com/meowgorithm/babyenv/pull/2) on [meowgorithm/babyenv](https://github.com/meowgorithm/babyenv) (1 month ago)
 - [Support parsing embedded structs](https://github.com/meowgorithm/babyenv/pull/1) on [meowgorithm/babyenv](https://github.com/meowgorithm/babyenv) (3 months ago)
-- [Fix build when sixel is enabled](https://github.com/atanunq/viu/pull/76) on [atanunq/viu](https://github.com/atanunq/viu) (3 months ago)
 
 #### 📜 My recent blog posts
 
