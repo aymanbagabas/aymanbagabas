@@ -23,7 +23,7 @@
 #### 🔭 Latest releases I've contributed to
 
 - [charmbracelet/keygen](https://github.com/charmbracelet/keygen) ([v0.1.2](https://github.com/charmbracelet/keygen/releases/tag/v0.1.2), 1 week ago) - An SSH key pair generator
-- [linrunner/TLP](https://github.com/linrunner/TLP) ([1.4.0-beta.2](https://github.com/linrunner/TLP/releases/tag/1.4.0-beta.2), 1 week ago) - TLP - Optimize Linux Laptop Battery Life
+- [linrunner/TLP](https://github.com/linrunner/TLP) ([1.4.0-beta.2](https://github.com/linrunner/TLP/releases/tag/1.4.0-beta.2), 2 weeks ago) - TLP - Optimize Linux Laptop Battery Life
 - [libretro/retroarch-joypad-autoconfig](https://github.com/libretro/retroarch-joypad-autoconfig) ([v1.9.9](https://github.com/libretro/retroarch-joypad-autoconfig/releases/tag/v1.9.9), 2 weeks ago) - RetroArch joypad autoconfig files
 - [b-lam/Resplash](https://github.com/b-lam/Resplash) ([v3.3.4](https://github.com/b-lam/Resplash/releases/tag/v3.3.4), 1 month ago) - Unofficial Unsplash Android App
 - [aymanbagabas/fss3](https://github.com/aymanbagabas/fss3) ([v0.1.1](https://github.com/aymanbagabas/fss3/releases/tag/v0.1.1), 1 month ago) - FSS3 is an S3 filesystem abstraction layer for Golang
@@ -31,7 +31,7 @@
 #### 🔨 My recent Pull Requests
 
 - [bat.d (huawei) fix driver platform sysfs path](https://github.com/linrunner/TLP/pull/577) on [linrunner/TLP](https://github.com/linrunner/TLP) (2 weeks ago)
-- [Release: Use GoReleaser for release](https://github.com/shazow/ssh-chat/pull/400) on [shazow/ssh-chat](https://github.com/shazow/ssh-chat) (3 weeks ago)
+- [Release: Use GoReleaser for release](https://github.com/shazow/ssh-chat/pull/400) on [shazow/ssh-chat](https://github.com/shazow/ssh-chat) (4 weeks ago)
 - [Support uint and uint64](https://github.com/meowgorithm/babyenv/pull/2) on [meowgorithm/babyenv](https://github.com/meowgorithm/babyenv) (1 month ago)
 - [Support parsing embedded structs](https://github.com/meowgorithm/babyenv/pull/1) on [meowgorithm/babyenv](https://github.com/meowgorithm/babyenv) (3 months ago)
 - [Fix build when sixel is enabled](https://github.com/atanunq/viu/pull/76) on [atanunq/viu](https://github.com/atanunq/viu) (3 months ago)
@@ -46,11 +46,11 @@
 
 #### ⭐ Recent Stars
 
-- [abhimanyu003/sttr](https://github.com/abhimanyu003/sttr) - cross-platform, cli app to perform various operations on string (2 days ago)
+- [abhimanyu003/sttr](https://github.com/abhimanyu003/sttr) - cross-platform, cli app to perform various operations on string (3 days ago)
 - [charmbracelet/keygen](https://github.com/charmbracelet/keygen) - An SSH key pair generator (1 week ago)
 - [tomnomnom/gron](https://github.com/tomnomnom/gron) - Make JSON greppable! (1 week ago)
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (2 weeks ago)
-- [muesli/gitty](https://github.com/muesli/gitty) - Contextual information about your git projects, right on the command-line (2 weeks ago)
+- [muesli/gitty](https://github.com/muesli/gitty) - Contextual information about your git projects, right on the command-line (3 weeks ago)
 
 #### 📫 How to reach me
 
