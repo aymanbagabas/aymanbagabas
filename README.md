@@ -9,7 +9,7 @@
 - [charmbracelet/soft-serve-action](https://github.com/charmbracelet/soft-serve-action) - Soft-Serve Github Action (1 day ago)
 - [charmbracelet/keygen](https://github.com/charmbracelet/keygen) - An SSH key pair generator (1 week ago)
 - [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - Nothing like ~ (2 weeks ago)
-- [aymanbagabas/iosevka-fonts](https://github.com/aymanbagabas/iosevka-fonts) -  (2 weeks ago)
+- [aymanbagabas/iosevka-fonts](https://github.com/aymanbagabas/iosevka-fonts) - Iosevka fonts mirror (2 weeks ago)
 - [linrunner/TLP](https://github.com/linrunner/TLP) - TLP - Optimize Linux Laptop Battery Life (2 weeks ago)
 
 #### 🌱 My latest projects
@@ -17,7 +17,7 @@
 - [aymanbagabas/fss3](https://github.com/aymanbagabas/fss3) - FSS3 is an S3 filesystem abstraction layer for Golang
 - [aymanbagabas/termimg](https://github.com/aymanbagabas/termimg) - 
 - [aymanbagabas/hknui](https://github.com/aymanbagabas/hknui) - 
-- [aymanbagabas/iosevka-fonts](https://github.com/aymanbagabas/iosevka-fonts) - 
+- [aymanbagabas/iosevka-fonts](https://github.com/aymanbagabas/iosevka-fonts) - Iosevka fonts mirror
 - [aymanbagabas/wmidumpper](https://github.com/aymanbagabas/wmidumpper) - A set of tools to help analyze a WMI ACPI device mapping information and descriptors.
 
 #### 🔭 Latest releases I've contributed to
