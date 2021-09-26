@@ -6,27 +6,27 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [aymanbagabas/fnanendb](https://github.com/aymanbagabas/fnanendb) - Fnanen.com scraper (2 days ago)
 - [charmbracelet/soft-serve-action](https://github.com/charmbracelet/soft-serve-action) - Soft-Serve Github Action (3 days ago)
 - [charmbracelet/keygen](https://github.com/charmbracelet/keygen) - An SSH key pair generator (1 week ago)
 - [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - Nothing like ~ (2 weeks ago)
 - [aymanbagabas/iosevka-fonts](https://github.com/aymanbagabas/iosevka-fonts) - Iosevka fonts mirror (2 weeks ago)
-- [linrunner/TLP](https://github.com/linrunner/TLP) - TLP - Optimize Linux Laptop Battery Life (2 weeks ago)
 
 #### 🌱 My latest projects
 
+- [aymanbagabas/fnanendb](https://github.com/aymanbagabas/fnanendb) - Fnanen.com scraper
 - [aymanbagabas/fss3](https://github.com/aymanbagabas/fss3) - FSS3 is an S3 filesystem abstraction layer for Golang
 - [aymanbagabas/termimg](https://github.com/aymanbagabas/termimg) - 
 - [aymanbagabas/hknui](https://github.com/aymanbagabas/hknui) - 
 - [aymanbagabas/iosevka-fonts](https://github.com/aymanbagabas/iosevka-fonts) - Iosevka fonts mirror
-- [aymanbagabas/wmidumpper](https://github.com/aymanbagabas/wmidumpper) - A set of tools to help analyze a WMI ACPI device mapping information and descriptors.
 
 #### 🔭 Latest releases I've contributed to
 
+- [aymanbagabas/fnanendb](https://github.com/aymanbagabas/fnanendb) ([v20210926.014113](https://github.com/aymanbagabas/fnanendb/releases/tag/v20210926.014113), today) - Fnanen.com scraper
 - [linrunner/TLP](https://github.com/linrunner/TLP) ([1.4.0](https://github.com/linrunner/TLP/releases/tag/1.4.0), 2 days ago) - TLP - Optimize Linux Laptop Battery Life
 - [charmbracelet/soft-serve-action](https://github.com/charmbracelet/soft-serve-action) ([v1](https://github.com/charmbracelet/soft-serve-action/releases/tag/v1), 3 days ago) - Soft-Serve Github Action
 - [charmbracelet/keygen](https://github.com/charmbracelet/keygen) ([v0.1.2](https://github.com/charmbracelet/keygen/releases/tag/v0.1.2), 1 week ago) - An SSH key pair generator
 - [libretro/retroarch-joypad-autoconfig](https://github.com/libretro/retroarch-joypad-autoconfig) ([v1.9.9](https://github.com/libretro/retroarch-joypad-autoconfig/releases/tag/v1.9.9), 2 weeks ago) - RetroArch joypad autoconfig files
-- [b-lam/Resplash](https://github.com/b-lam/Resplash) ([v3.3.4](https://github.com/b-lam/Resplash/releases/tag/v3.3.4), 1 month ago) - Unofficial Unsplash Android App
 
 #### 🔨 My recent Pull Requests
 
