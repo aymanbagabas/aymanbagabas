@@ -6,11 +6,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [aymanbagabas/wmidumpper](https://github.com/aymanbagabas/wmidumpper) - A set of tools to help analyze a WMI ACPI device mapping information and descriptors. (today)
 - [aymanbagabas/fnanendb](https://github.com/aymanbagabas/fnanendb) - Fnanen.com scraper (5 days ago)
 - [charmbracelet/soft-serve-action](https://github.com/charmbracelet/soft-serve-action) - Soft-Serve Github Action (6 days ago)
 - [charmbracelet/keygen](https://github.com/charmbracelet/keygen) - An SSH key pair generator (2 weeks ago)
 - [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - Nothing like ~ (3 weeks ago)
-- [aymanbagabas/iosevka-fonts](https://github.com/aymanbagabas/iosevka-fonts) - Iosevka fonts mirror (3 weeks ago)
 
 #### 🌱 My latest projects
 
