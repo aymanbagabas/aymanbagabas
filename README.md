@@ -6,9 +6,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [aymanbagabas/Huawei-WMI](https://github.com/aymanbagabas/Huawei-WMI) - Huawei WMI laptop extras linux driver (today)
-- [aymanbagabas/wmidumpper](https://github.com/aymanbagabas/wmidumpper) - A set of tools to help analyze a WMI ACPI device mapping information and descriptors. (1 day ago)
-- [aymanbagabas/fnanendb](https://github.com/aymanbagabas/fnanendb) - Fnanen.com scraper (6 days ago)
+- [aymanbagabas/Huawei-WMI](https://github.com/aymanbagabas/Huawei-WMI) - Huawei WMI laptop extras linux driver (1 day ago)
+- [aymanbagabas/wmidumpper](https://github.com/aymanbagabas/wmidumpper) - A set of tools to help analyze a WMI ACPI device mapping information and descriptors. (2 days ago)
+- [aymanbagabas/fnanendb](https://github.com/aymanbagabas/fnanendb) - Fnanen.com scraper (1 week ago)
 - [charmbracelet/soft-serve-action](https://github.com/charmbracelet/soft-serve-action) - Soft-Serve Github Action (1 week ago)
 - [charmbracelet/keygen](https://github.com/charmbracelet/keygen) - An SSH key pair generator (2 weeks ago)
 
@@ -22,8 +22,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [aymanbagabas/fnanendb](https://github.com/aymanbagabas/fnanendb) ([v20210926.014113](https://github.com/aymanbagabas/fnanendb/releases/tag/v20210926.014113), 4 days ago) - Fnanen.com scraper
-- [linrunner/TLP](https://github.com/linrunner/TLP) ([1.4.0](https://github.com/linrunner/TLP/releases/tag/1.4.0), 6 days ago) - TLP - Optimize Linux Laptop Battery Life
+- [aymanbagabas/fnanendb](https://github.com/aymanbagabas/fnanendb) ([v20210926.014113](https://github.com/aymanbagabas/fnanendb/releases/tag/v20210926.014113), 5 days ago) - Fnanen.com scraper
+- [linrunner/TLP](https://github.com/linrunner/TLP) ([1.4.0](https://github.com/linrunner/TLP/releases/tag/1.4.0), 1 week ago) - TLP - Optimize Linux Laptop Battery Life
 - [charmbracelet/soft-serve-action](https://github.com/charmbracelet/soft-serve-action) ([v1](https://github.com/charmbracelet/soft-serve-action/releases/tag/v1), 1 week ago) - Soft-Serve Github Action
 - [charmbracelet/keygen](https://github.com/charmbracelet/keygen) ([v0.1.2](https://github.com/charmbracelet/keygen/releases/tag/v0.1.2), 2 weeks ago) - An SSH key pair generator
 - [libretro/retroarch-joypad-autoconfig](https://github.com/libretro/retroarch-joypad-autoconfig) ([v1.9.9](https://github.com/libretro/retroarch-joypad-autoconfig/releases/tag/v1.9.9), 3 weeks ago) - RetroArch joypad autoconfig files
@@ -49,7 +49,7 @@
 - [charmbracelet/soft-serve-action](https://github.com/charmbracelet/soft-serve-action) - Soft-Serve Github Action (1 week ago)
 - [abhimanyu003/sttr](https://github.com/abhimanyu003/sttr) - cross-platform, cli app to perform various operations on string (1 week ago)
 - [charmbracelet/keygen](https://github.com/charmbracelet/keygen) - An SSH key pair generator (2 weeks ago)
-- [tomnomnom/gron](https://github.com/tomnomnom/gron) - Make JSON greppable! (2 weeks ago)
+- [tomnomnom/gron](https://github.com/tomnomnom/gron) - Make JSON greppable! (3 weeks ago)
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (3 weeks ago)
 
 #### 📫 How to reach me
