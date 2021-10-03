@@ -22,7 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [aymanbagabas/fnanendb](https://github.com/aymanbagabas/fnanendb) ([v20210926.014113](https://github.com/aymanbagabas/fnanendb/releases/tag/v20210926.014113), 1 week ago) - Fnanen.com scraper
+- [aymanbagabas/fnanendb](https://github.com/aymanbagabas/fnanendb) ([v20211003.014705](https://github.com/aymanbagabas/fnanendb/releases/tag/v20211003.014705), today) - Fnanen.com scraper
 - [linrunner/TLP](https://github.com/linrunner/TLP) ([1.4.0](https://github.com/linrunner/TLP/releases/tag/1.4.0), 1 week ago) - TLP - Optimize Linux Laptop Battery Life
 - [charmbracelet/soft-serve-action](https://github.com/charmbracelet/soft-serve-action) ([v1](https://github.com/charmbracelet/soft-serve-action/releases/tag/v1), 1 week ago) - Soft-Serve Github Action
 - [charmbracelet/keygen](https://github.com/charmbracelet/keygen) ([v0.1.2](https://github.com/charmbracelet/keygen/releases/tag/v0.1.2), 2 weeks ago) - An SSH key pair generator
