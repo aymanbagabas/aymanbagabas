@@ -6,10 +6,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [aymanbagabas/fss3](https://github.com/aymanbagabas/fss3) - FSS3 is an S3 filesystem abstraction layer for Golang (2 days ago)
+- [aymanbagabas/fss3](https://github.com/aymanbagabas/fss3) - FSS3 is an S3 filesystem abstraction layer for Golang (3 days ago)
 - [aymanbagabas/Huawei-WMI](https://github.com/aymanbagabas/Huawei-WMI) - Huawei WMI laptop extras linux driver (1 week ago)
 - [aymanbagabas/wmidumpper](https://github.com/aymanbagabas/wmidumpper) - A set of tools to help analyze a WMI ACPI device mapping information and descriptors. (1 week ago)
-- [aymanbagabas/fnanendb](https://github.com/aymanbagabas/fnanendb) - Fnanen.com scraper (1 week ago)
+- [aymanbagabas/fnanendb](https://github.com/aymanbagabas/fnanendb) - Fnanen.com scraper (2 weeks ago)
 - [charmbracelet/soft-serve-action](https://github.com/charmbracelet/soft-serve-action) - Soft-Serve Github Action (2 weeks ago)
 
 #### 🌱 My latest projects
@@ -22,9 +22,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [aymanbagabas/fss3](https://github.com/aymanbagabas/fss3) ([v0.2.0](https://github.com/aymanbagabas/fss3/releases/tag/v0.2.0), 2 days ago) - FSS3 is an S3 filesystem abstraction layer for Golang
-- [aymanbagabas/fnanendb](https://github.com/aymanbagabas/fnanendb) ([v20211003.014705](https://github.com/aymanbagabas/fnanendb/releases/tag/v20211003.014705), 4 days ago) - Fnanen.com scraper
-- [linrunner/TLP](https://github.com/linrunner/TLP) ([1.4.0](https://github.com/linrunner/TLP/releases/tag/1.4.0), 1 week ago) - TLP - Optimize Linux Laptop Battery Life
+- [aymanbagabas/fss3](https://github.com/aymanbagabas/fss3) ([v0.2.0](https://github.com/aymanbagabas/fss3/releases/tag/v0.2.0), 3 days ago) - FSS3 is an S3 filesystem abstraction layer for Golang
+- [aymanbagabas/fnanendb](https://github.com/aymanbagabas/fnanendb) ([v20211003.014705](https://github.com/aymanbagabas/fnanendb/releases/tag/v20211003.014705), 5 days ago) - Fnanen.com scraper
+- [linrunner/TLP](https://github.com/linrunner/TLP) ([1.4.0](https://github.com/linrunner/TLP/releases/tag/1.4.0), 2 weeks ago) - TLP - Optimize Linux Laptop Battery Life
 - [charmbracelet/soft-serve-action](https://github.com/charmbracelet/soft-serve-action) ([v1](https://github.com/charmbracelet/soft-serve-action/releases/tag/v1), 2 weeks ago) - Soft-Serve Github Action
 - [charmbracelet/keygen](https://github.com/charmbracelet/keygen) ([v0.1.2](https://github.com/charmbracelet/keygen/releases/tag/v0.1.2), 3 weeks ago) - An SSH key pair generator
 
@@ -34,7 +34,7 @@
 - [Add gh action](https://github.com/charmbracelet/soft-serve-action/pull/1) on [charmbracelet/soft-serve-action](https://github.com/charmbracelet/soft-serve-action) (3 weeks ago)
 - [bat.d (huawei) fix driver platform sysfs path](https://github.com/linrunner/TLP/pull/577) on [linrunner/TLP](https://github.com/linrunner/TLP) (1 month ago)
 - [Release: Use GoReleaser for release](https://github.com/shazow/ssh-chat/pull/400) on [shazow/ssh-chat](https://github.com/shazow/ssh-chat) (1 month ago)
-- [Support uint and uint64](https://github.com/meowgorithm/babyenv/pull/2) on [meowgorithm/babyenv](https://github.com/meowgorithm/babyenv) (1 month ago)
+- [Support uint and uint64](https://github.com/meowgorithm/babyenv/pull/2) on [meowgorithm/babyenv](https://github.com/meowgorithm/babyenv) (2 months ago)
 
 #### 📜 My recent blog posts
 
@@ -49,8 +49,8 @@
 - [charmbracelet/soft-serve-action](https://github.com/charmbracelet/soft-serve-action) - Soft-Serve Github Action (2 weeks ago)
 - [abhimanyu003/sttr](https://github.com/abhimanyu003/sttr) - cross-platform, cli app to perform various operations on string (2 weeks ago)
 - [charmbracelet/keygen](https://github.com/charmbracelet/keygen) - An SSH key pair generator (3 weeks ago)
-- [tomnomnom/gron](https://github.com/tomnomnom/gron) - Make JSON greppable! (3 weeks ago)
-- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (4 weeks ago)
+- [tomnomnom/gron](https://github.com/tomnomnom/gron) - Make JSON greppable! (4 weeks ago)
+- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (1 month ago)
 
 #### 📫 How to reach me
 
