@@ -22,11 +22,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [jmcnamara/libxlsxwriter](https://github.com/jmcnamara/libxlsxwriter) ([RELEASE_1.1.4](https://github.com/jmcnamara/libxlsxwriter/releases/tag/RELEASE_1.1.4), today) - A C library for creating Excel XLSX files.
 - [aymanbagabas/fss3](https://github.com/aymanbagabas/fss3) ([v0.2.0](https://github.com/aymanbagabas/fss3/releases/tag/v0.2.0), 4 days ago) - FSS3 is an S3 filesystem abstraction layer for Golang
 - [aymanbagabas/fnanendb](https://github.com/aymanbagabas/fnanendb) ([v20211003.014705](https://github.com/aymanbagabas/fnanendb/releases/tag/v20211003.014705), 6 days ago) - Fnanen.com scraper
 - [linrunner/TLP](https://github.com/linrunner/TLP) ([1.4.0](https://github.com/linrunner/TLP/releases/tag/1.4.0), 2 weeks ago) - TLP - Optimize Linux Laptop Battery Life
 - [charmbracelet/soft-serve-action](https://github.com/charmbracelet/soft-serve-action) ([v1](https://github.com/charmbracelet/soft-serve-action/releases/tag/v1), 2 weeks ago) - Soft-Serve Github Action
-- [charmbracelet/keygen](https://github.com/charmbracelet/keygen) ([v0.1.2](https://github.com/charmbracelet/keygen/releases/tag/v0.1.2), 3 weeks ago) - An SSH key pair generator
 
 #### 🔨 My recent Pull Requests
 
