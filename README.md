@@ -16,8 +16,8 @@
 
 - [aymanbagabas/fnanendb](https://github.com/aymanbagabas/fnanendb) - Fnanen.com scraper
 - [aymanbagabas/fss3](https://github.com/aymanbagabas/fss3) - FSS3 is an S3 filesystem abstraction layer for Golang
-- [aymanbagabas/termimg](https://github.com/aymanbagabas/termimg) - 
-- [aymanbagabas/hknui](https://github.com/aymanbagabas/hknui) - 
+- [aymanbagabas/termimg](https://github.com/aymanbagabas/termimg) - WIP - Yet another terminal image renderer
+- [aymanbagabas/hknui](https://github.com/aymanbagabas/hknui) - A Hacker News TUI
 - [aymanbagabas/iosevka-fonts](https://github.com/aymanbagabas/iosevka-fonts) - Iosevka fonts mirror
 
 #### 🔭 Latest releases I've contributed to
