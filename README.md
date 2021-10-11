@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: requestPty before shell](https://github.com/shazow/ssh-hammer/pull/2) on [shazow/ssh-hammer](https://github.com/shazow/ssh-hammer) (today)
 - [Use CSS prefers-color-scheme](https://github.com/gskinner/regexr/pull/443) on [gskinner/regexr](https://github.com/gskinner/regexr) (2 weeks ago)
 - [Add gh action](https://github.com/charmbracelet/soft-serve-action/pull/1) on [charmbracelet/soft-serve-action](https://github.com/charmbracelet/soft-serve-action) (3 weeks ago)
 - [bat.d (huawei) fix driver platform sysfs path](https://github.com/linrunner/TLP/pull/577) on [linrunner/TLP](https://github.com/linrunner/TLP) (1 month ago)
 - [Release: Use GoReleaser for release](https://github.com/shazow/ssh-chat/pull/400) on [shazow/ssh-chat](https://github.com/shazow/ssh-chat) (1 month ago)
-- [Support uint and uint64](https://github.com/meowgorithm/babyenv/pull/2) on [meowgorithm/babyenv](https://github.com/meowgorithm/babyenv) (2 months ago)
 
 #### 📜 My recent blog posts
 
