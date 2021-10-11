@@ -6,7 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [aymanbagabas/fss3](https://github.com/aymanbagabas/fss3) - FSS3 is an S3 filesystem abstraction layer for Golang (5 days ago)
+- [aymanbagabas/fss3](https://github.com/aymanbagabas/fss3) - FSS3 is an S3 filesystem abstraction layer for Golang (6 days ago)
 - [aymanbagabas/Huawei-WMI](https://github.com/aymanbagabas/Huawei-WMI) - Huawei WMI laptop extras linux driver (1 week ago)
 - [aymanbagabas/wmidumpper](https://github.com/aymanbagabas/wmidumpper) - A set of tools to help analyze a WMI ACPI device mapping information and descriptors. (1 week ago)
 - [aymanbagabas/fnanendb](https://github.com/aymanbagabas/fnanendb) - Fnanen.com scraper (2 weeks ago)
@@ -22,9 +22,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [aymanbagabas/fnanendb](https://github.com/aymanbagabas/fnanendb) ([v20211010.014300](https://github.com/aymanbagabas/fnanendb/releases/tag/v20211010.014300), today) - Fnanen.com scraper
-- [jmcnamara/libxlsxwriter](https://github.com/jmcnamara/libxlsxwriter) ([RELEASE_1.1.4](https://github.com/jmcnamara/libxlsxwriter/releases/tag/RELEASE_1.1.4), 1 day ago) - A C library for creating Excel XLSX files.
-- [aymanbagabas/fss3](https://github.com/aymanbagabas/fss3) ([v0.2.0](https://github.com/aymanbagabas/fss3/releases/tag/v0.2.0), 5 days ago) - FSS3 is an S3 filesystem abstraction layer for Golang
+- [aymanbagabas/fnanendb](https://github.com/aymanbagabas/fnanendb) ([v20211010.014300](https://github.com/aymanbagabas/fnanendb/releases/tag/v20211010.014300), 1 day ago) - Fnanen.com scraper
+- [jmcnamara/libxlsxwriter](https://github.com/jmcnamara/libxlsxwriter) ([RELEASE_1.1.4](https://github.com/jmcnamara/libxlsxwriter/releases/tag/RELEASE_1.1.4), 2 days ago) - A C library for creating Excel XLSX files.
+- [aymanbagabas/fss3](https://github.com/aymanbagabas/fss3) ([v0.2.0](https://github.com/aymanbagabas/fss3/releases/tag/v0.2.0), 6 days ago) - FSS3 is an S3 filesystem abstraction layer for Golang
 - [linrunner/TLP](https://github.com/linrunner/TLP) ([1.4.0](https://github.com/linrunner/TLP/releases/tag/1.4.0), 2 weeks ago) - TLP - Optimize Linux Laptop Battery Life
 - [charmbracelet/soft-serve-action](https://github.com/charmbracelet/soft-serve-action) ([v1](https://github.com/charmbracelet/soft-serve-action/releases/tag/v1), 2 weeks ago) - Soft-Serve Github Action
 
@@ -47,8 +47,8 @@
 #### ⭐ Recent Stars
 
 - [charmbracelet/soft-serve-action](https://github.com/charmbracelet/soft-serve-action) - Soft-Serve Github Action (2 weeks ago)
-- [abhimanyu003/sttr](https://github.com/abhimanyu003/sttr) - cross-platform, cli app to perform various operations on string (2 weeks ago)
-- [charmbracelet/keygen](https://github.com/charmbracelet/keygen) - An SSH key pair generator (3 weeks ago)
+- [abhimanyu003/sttr](https://github.com/abhimanyu003/sttr) - cross-platform, cli app to perform various operations on string (3 weeks ago)
+- [charmbracelet/keygen](https://github.com/charmbracelet/keygen) - An SSH key pair generator (4 weeks ago)
 - [tomnomnom/gron](https://github.com/tomnomnom/gron) - Make JSON greppable! (1 month ago)
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (1 month ago)
 
