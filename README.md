@@ -9,7 +9,7 @@
 - [aymanbagabas/fss3](https://github.com/aymanbagabas/fss3) - FSS3 is an S3 filesystem abstraction layer for Golang (1 week ago)
 - [aymanbagabas/Huawei-WMI](https://github.com/aymanbagabas/Huawei-WMI) - Huawei WMI laptop extras linux driver (2 weeks ago)
 - [aymanbagabas/wmidumpper](https://github.com/aymanbagabas/wmidumpper) - A set of tools to help analyze a WMI ACPI device mapping information and descriptors. (2 weeks ago)
-- [aymanbagabas/fnanendb](https://github.com/aymanbagabas/fnanendb) - Fnanen.com scraper (2 weeks ago)
+- [aymanbagabas/fnanendb](https://github.com/aymanbagabas/fnanendb) - Fnanen.com scraper (3 weeks ago)
 - [charmbracelet/soft-serve-action](https://github.com/charmbracelet/soft-serve-action) - Soft-Serve Github Action (3 weeks ago)
 
 #### 🌱 My latest projects
@@ -22,17 +22,17 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [aymanbagabas/fnanendb](https://github.com/aymanbagabas/fnanendb) ([v20211010.014300](https://github.com/aymanbagabas/fnanendb/releases/tag/v20211010.014300), 4 days ago) - Fnanen.com scraper
-- [jmcnamara/libxlsxwriter](https://github.com/jmcnamara/libxlsxwriter) ([RELEASE_1.1.4](https://github.com/jmcnamara/libxlsxwriter/releases/tag/RELEASE_1.1.4), 5 days ago) - A C library for creating Excel XLSX files.
+- [aymanbagabas/fnanendb](https://github.com/aymanbagabas/fnanendb) ([v20211010.014300](https://github.com/aymanbagabas/fnanendb/releases/tag/v20211010.014300), 5 days ago) - Fnanen.com scraper
+- [jmcnamara/libxlsxwriter](https://github.com/jmcnamara/libxlsxwriter) ([RELEASE_1.1.4](https://github.com/jmcnamara/libxlsxwriter/releases/tag/RELEASE_1.1.4), 6 days ago) - A C library for creating Excel XLSX files.
 - [aymanbagabas/fss3](https://github.com/aymanbagabas/fss3) ([v0.2.0](https://github.com/aymanbagabas/fss3/releases/tag/v0.2.0), 1 week ago) - FSS3 is an S3 filesystem abstraction layer for Golang
-- [linrunner/TLP](https://github.com/linrunner/TLP) ([1.4.0](https://github.com/linrunner/TLP/releases/tag/1.4.0), 2 weeks ago) - TLP - Optimize Linux Laptop Battery Life
+- [linrunner/TLP](https://github.com/linrunner/TLP) ([1.4.0](https://github.com/linrunner/TLP/releases/tag/1.4.0), 3 weeks ago) - TLP - Optimize Linux Laptop Battery Life
 - [charmbracelet/soft-serve-action](https://github.com/charmbracelet/soft-serve-action) ([v1](https://github.com/charmbracelet/soft-serve-action/releases/tag/v1), 3 weeks ago) - Soft-Serve Github Action
 
 #### 🔨 My recent Pull Requests
 
-- [fix: requestPty before shell](https://github.com/shazow/ssh-hammer/pull/2) on [shazow/ssh-hammer](https://github.com/shazow/ssh-hammer) (3 days ago)
+- [fix: requestPty before shell](https://github.com/shazow/ssh-hammer/pull/2) on [shazow/ssh-hammer](https://github.com/shazow/ssh-hammer) (4 days ago)
 - [Use CSS prefers-color-scheme](https://github.com/gskinner/regexr/pull/443) on [gskinner/regexr](https://github.com/gskinner/regexr) (3 weeks ago)
-- [Add gh action](https://github.com/charmbracelet/soft-serve-action/pull/1) on [charmbracelet/soft-serve-action](https://github.com/charmbracelet/soft-serve-action) (4 weeks ago)
+- [Add gh action](https://github.com/charmbracelet/soft-serve-action/pull/1) on [charmbracelet/soft-serve-action](https://github.com/charmbracelet/soft-serve-action) (1 month ago)
 - [bat.d (huawei) fix driver platform sysfs path](https://github.com/linrunner/TLP/pull/577) on [linrunner/TLP](https://github.com/linrunner/TLP) (1 month ago)
 - [Release: Use GoReleaser for release](https://github.com/shazow/ssh-chat/pull/400) on [shazow/ssh-chat](https://github.com/shazow/ssh-chat) (1 month ago)
 
