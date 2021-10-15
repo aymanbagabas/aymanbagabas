@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Upgrade to aws sdk v2 and fix issue #7](https://github.com/libdns/route53/pull/9) on [libdns/route53](https://github.com/libdns/route53) (today)
 - [fix: requestPty before shell](https://github.com/shazow/ssh-hammer/pull/2) on [shazow/ssh-hammer](https://github.com/shazow/ssh-hammer) (4 days ago)
 - [Use CSS prefers-color-scheme](https://github.com/gskinner/regexr/pull/443) on [gskinner/regexr](https://github.com/gskinner/regexr) (3 weeks ago)
 - [Add gh action](https://github.com/charmbracelet/soft-serve-action/pull/1) on [charmbracelet/soft-serve-action](https://github.com/charmbracelet/soft-serve-action) (1 month ago)
 - [bat.d (huawei) fix driver platform sysfs path](https://github.com/linrunner/TLP/pull/577) on [linrunner/TLP](https://github.com/linrunner/TLP) (1 month ago)
-- [Release: Use GoReleaser for release](https://github.com/shazow/ssh-chat/pull/400) on [shazow/ssh-chat](https://github.com/shazow/ssh-chat) (1 month ago)
 
 #### 📜 My recent blog posts
 
