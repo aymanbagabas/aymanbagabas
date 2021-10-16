@@ -22,16 +22,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [aymanbagabas/fnanendb](https://github.com/aymanbagabas/fnanendb) ([v20211010.014300](https://github.com/aymanbagabas/fnanendb/releases/tag/v20211010.014300), 5 days ago) - Fnanen.com scraper
-- [jmcnamara/libxlsxwriter](https://github.com/jmcnamara/libxlsxwriter) ([RELEASE_1.1.4](https://github.com/jmcnamara/libxlsxwriter/releases/tag/RELEASE_1.1.4), 6 days ago) - A C library for creating Excel XLSX files.
+- [aymanbagabas/fnanendb](https://github.com/aymanbagabas/fnanendb) ([v20211010.014300](https://github.com/aymanbagabas/fnanendb/releases/tag/v20211010.014300), 6 days ago) - Fnanen.com scraper
+- [jmcnamara/libxlsxwriter](https://github.com/jmcnamara/libxlsxwriter) ([RELEASE_1.1.4](https://github.com/jmcnamara/libxlsxwriter/releases/tag/RELEASE_1.1.4), 1 week ago) - A C library for creating Excel XLSX files.
 - [aymanbagabas/fss3](https://github.com/aymanbagabas/fss3) ([v0.2.0](https://github.com/aymanbagabas/fss3/releases/tag/v0.2.0), 1 week ago) - FSS3 is an S3 filesystem abstraction layer for Golang
 - [linrunner/TLP](https://github.com/linrunner/TLP) ([1.4.0](https://github.com/linrunner/TLP/releases/tag/1.4.0), 3 weeks ago) - TLP - Optimize Linux Laptop Battery Life
 - [charmbracelet/soft-serve-action](https://github.com/charmbracelet/soft-serve-action) ([v1](https://github.com/charmbracelet/soft-serve-action/releases/tag/v1), 3 weeks ago) - Soft-Serve Github Action
 
 #### 🔨 My recent Pull Requests
 
-- [Upgrade to aws sdk v2 and fix issue #7](https://github.com/libdns/route53/pull/9) on [libdns/route53](https://github.com/libdns/route53) (today)
-- [fix: requestPty before shell](https://github.com/shazow/ssh-hammer/pull/2) on [shazow/ssh-hammer](https://github.com/shazow/ssh-hammer) (4 days ago)
+- [Upgrade to aws sdk v2 and fix issue #7](https://github.com/libdns/route53/pull/9) on [libdns/route53](https://github.com/libdns/route53) (1 day ago)
+- [fix: requestPty before shell](https://github.com/shazow/ssh-hammer/pull/2) on [shazow/ssh-hammer](https://github.com/shazow/ssh-hammer) (5 days ago)
 - [Use CSS prefers-color-scheme](https://github.com/gskinner/regexr/pull/443) on [gskinner/regexr](https://github.com/gskinner/regexr) (3 weeks ago)
 - [Add gh action](https://github.com/charmbracelet/soft-serve-action/pull/1) on [charmbracelet/soft-serve-action](https://github.com/charmbracelet/soft-serve-action) (1 month ago)
 - [bat.d (huawei) fix driver platform sysfs path](https://github.com/linrunner/TLP/pull/577) on [linrunner/TLP](https://github.com/linrunner/TLP) (1 month ago)
