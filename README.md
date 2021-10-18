@@ -46,11 +46,11 @@
 
 #### ⭐ Recent Stars
 
+- [muesli/ansi](https://github.com/muesli/ansi) - Raw ANSI sequence helpers (today)
 - [charmbracelet/soft-serve-action](https://github.com/charmbracelet/soft-serve-action) - Soft-Serve Github Action (3 weeks ago)
 - [abhimanyu003/sttr](https://github.com/abhimanyu003/sttr) - cross-platform, cli app to perform various operations on string (4 weeks ago)
 - [charmbracelet/keygen](https://github.com/charmbracelet/keygen) - An SSH key pair generator (1 month ago)
 - [tomnomnom/gron](https://github.com/tomnomnom/gron) - Make JSON greppable! (1 month ago)
-- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (1 month ago)
 
 #### 📫 How to reach me
 
