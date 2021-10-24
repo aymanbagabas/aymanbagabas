@@ -22,7 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [aymanbagabas/fnanendb](https://github.com/aymanbagabas/fnanendb) ([v20211017.014101](https://github.com/aymanbagabas/fnanendb/releases/tag/v20211017.014101), 1 week ago) - Fnanen.com scraper
+- [aymanbagabas/fnanendb](https://github.com/aymanbagabas/fnanendb) ([v20211024.014208](https://github.com/aymanbagabas/fnanendb/releases/tag/v20211024.014208), today) - Fnanen.com scraper
 - [jmcnamara/libxlsxwriter](https://github.com/jmcnamara/libxlsxwriter) ([RELEASE_1.1.4](https://github.com/jmcnamara/libxlsxwriter/releases/tag/RELEASE_1.1.4), 2 weeks ago) - A C library for creating Excel XLSX files.
 - [aymanbagabas/fss3](https://github.com/aymanbagabas/fss3) ([v0.2.0](https://github.com/aymanbagabas/fss3/releases/tag/v0.2.0), 2 weeks ago) - FSS3 is an S3 filesystem abstraction layer for Golang
 - [linrunner/TLP](https://github.com/linrunner/TLP) ([1.4.0](https://github.com/linrunner/TLP/releases/tag/1.4.0), 1 month ago) - TLP - Optimize Linux Laptop Battery Life
