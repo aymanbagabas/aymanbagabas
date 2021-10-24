@@ -22,11 +22,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) ([v5.3.0](https://github.com/OpenAPITools/openapi-generator/releases/tag/v5.3.0), today) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
 - [libretro/retroarch-joypad-autoconfig](https://github.com/libretro/retroarch-joypad-autoconfig) ([v1.9.12](https://github.com/libretro/retroarch-joypad-autoconfig/releases/tag/v1.9.12), today) - RetroArch joypad autoconfig files
 - [aymanbagabas/fnanendb](https://github.com/aymanbagabas/fnanendb) ([v20211024.014208](https://github.com/aymanbagabas/fnanendb/releases/tag/v20211024.014208), today) - Fnanen.com scraper
 - [jmcnamara/libxlsxwriter](https://github.com/jmcnamara/libxlsxwriter) ([RELEASE_1.1.4](https://github.com/jmcnamara/libxlsxwriter/releases/tag/RELEASE_1.1.4), 2 weeks ago) - A C library for creating Excel XLSX files.
 - [aymanbagabas/fss3](https://github.com/aymanbagabas/fss3) ([v0.2.0](https://github.com/aymanbagabas/fss3/releases/tag/v0.2.0), 2 weeks ago) - FSS3 is an S3 filesystem abstraction layer for Golang
-- [linrunner/TLP](https://github.com/linrunner/TLP) ([1.4.0](https://github.com/linrunner/TLP/releases/tag/1.4.0), 1 month ago) - TLP - Optimize Linux Laptop Battery Life
 
 #### 🔨 My recent Pull Requests
 
