@@ -6,8 +6,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [aymanbagabas/aymanbagabas.github.io](https://github.com/aymanbagabas/aymanbagabas.github.io) - A static website using Jekyll (4 days ago)
-- [aymanbagabas/fss3](https://github.com/aymanbagabas/fss3) - FSS3 is an S3 filesystem abstraction layer for Golang (2 weeks ago)
+- [aymanbagabas/aymanbagabas.github.io](https://github.com/aymanbagabas/aymanbagabas.github.io) - A static website using Jekyll (5 days ago)
+- [aymanbagabas/fss3](https://github.com/aymanbagabas/fss3) - FSS3 is an S3 filesystem abstraction layer for Golang (3 weeks ago)
 - [aymanbagabas/Huawei-WMI](https://github.com/aymanbagabas/Huawei-WMI) - Huawei WMI laptop extras linux driver (3 weeks ago)
 - [aymanbagabas/wmidumpper](https://github.com/aymanbagabas/wmidumpper) - A set of tools to help analyze a WMI ACPI device mapping information and descriptors. (3 weeks ago)
 - [aymanbagabas/fnanendb](https://github.com/aymanbagabas/fnanendb) - Fnanen.com scraper (1 month ago)
@@ -22,11 +22,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) ([v5.3.0](https://github.com/OpenAPITools/openapi-generator/releases/tag/v5.3.0), 1 day ago) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
-- [libretro/retroarch-joypad-autoconfig](https://github.com/libretro/retroarch-joypad-autoconfig) ([v1.9.12](https://github.com/libretro/retroarch-joypad-autoconfig/releases/tag/v1.9.12), 1 day ago) - RetroArch joypad autoconfig files
-- [aymanbagabas/fnanendb](https://github.com/aymanbagabas/fnanendb) ([v20211024.014208](https://github.com/aymanbagabas/fnanendb/releases/tag/v20211024.014208), 1 day ago) - Fnanen.com scraper
+- [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) ([v5.3.0](https://github.com/OpenAPITools/openapi-generator/releases/tag/v5.3.0), 2 days ago) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
+- [libretro/retroarch-joypad-autoconfig](https://github.com/libretro/retroarch-joypad-autoconfig) ([v1.9.12](https://github.com/libretro/retroarch-joypad-autoconfig/releases/tag/v1.9.12), 2 days ago) - RetroArch joypad autoconfig files
+- [aymanbagabas/fnanendb](https://github.com/aymanbagabas/fnanendb) ([v20211024.014208](https://github.com/aymanbagabas/fnanendb/releases/tag/v20211024.014208), 2 days ago) - Fnanen.com scraper
 - [jmcnamara/libxlsxwriter](https://github.com/jmcnamara/libxlsxwriter) ([RELEASE_1.1.4](https://github.com/jmcnamara/libxlsxwriter/releases/tag/RELEASE_1.1.4), 2 weeks ago) - A C library for creating Excel XLSX files.
-- [aymanbagabas/fss3](https://github.com/aymanbagabas/fss3) ([v0.2.0](https://github.com/aymanbagabas/fss3/releases/tag/v0.2.0), 2 weeks ago) - FSS3 is an S3 filesystem abstraction layer for Golang
+- [aymanbagabas/fss3](https://github.com/aymanbagabas/fss3) ([v0.2.0](https://github.com/aymanbagabas/fss3/releases/tag/v0.2.0), 3 weeks ago) - FSS3 is an S3 filesystem abstraction layer for Golang
 
 #### 🔨 My recent Pull Requests
 
