@@ -6,19 +6,19 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [aymanbagabas/fnanendb](https://github.com/aymanbagabas/fnanendb) - Fnanen.com scraper (today)
+- [aymanbagabas/kalimat](https://github.com/aymanbagabas/kalimat) -  (today)
 - [aymanbagabas/aymanbagabas.github.io](https://github.com/aymanbagabas/aymanbagabas.github.io) - A static website using Jekyll (1 week ago)
 - [aymanbagabas/fss3](https://github.com/aymanbagabas/fss3) - FSS3 is an S3 filesystem abstraction layer for Golang (3 weeks ago)
 - [aymanbagabas/Huawei-WMI](https://github.com/aymanbagabas/Huawei-WMI) - Huawei WMI laptop extras linux driver (1 month ago)
-- [aymanbagabas/wmidumpper](https://github.com/aymanbagabas/wmidumpper) - A set of tools to help analyze a WMI ACPI device mapping information and descriptors. (1 month ago)
-- [aymanbagabas/fnanendb](https://github.com/aymanbagabas/fnanendb) - Fnanen.com scraper (1 month ago)
 
 #### 🌱 My latest projects
 
+- [aymanbagabas/kalimat](https://github.com/aymanbagabas/kalimat) - 
 - [aymanbagabas/fnanendb](https://github.com/aymanbagabas/fnanendb) - Fnanen.com scraper
 - [aymanbagabas/fss3](https://github.com/aymanbagabas/fss3) - FSS3 is an S3 filesystem abstraction layer for Golang
 - [aymanbagabas/termimg](https://github.com/aymanbagabas/termimg) - WIP - Yet another terminal image renderer
 - [aymanbagabas/hknui](https://github.com/aymanbagabas/hknui) - A Hacker News TUI
-- [aymanbagabas/iosevka-fonts](https://github.com/aymanbagabas/iosevka-fonts) - Iosevka fonts mirror
 
 #### 🔭 Latest releases I've contributed to
 
