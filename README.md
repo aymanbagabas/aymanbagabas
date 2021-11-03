@@ -6,8 +6,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [aymanbagabas/kalimat](https://github.com/aymanbagabas/kalimat) - A PWA to view and search through FnanenDB songs database. (today)
-- [aymanbagabas/fnanendb](https://github.com/aymanbagabas/fnanendb) - Fnanen.com scraper (2 days ago)
+- [aymanbagabas/kalimat](https://github.com/aymanbagabas/kalimat) - A PWA to view and search through FnanenDB songs database. (1 day ago)
+- [aymanbagabas/fnanendb](https://github.com/aymanbagabas/fnanendb) - Fnanen.com scraper (3 days ago)
 - [aymanbagabas/aymanbagabas.github.io](https://github.com/aymanbagabas/aymanbagabas.github.io) - A static website using Jekyll (1 week ago)
 - [aymanbagabas/fss3](https://github.com/aymanbagabas/fss3) - FSS3 is an S3 filesystem abstraction layer for Golang (4 weeks ago)
 - [aymanbagabas/Huawei-WMI](https://github.com/aymanbagabas/Huawei-WMI) - Huawei WMI laptop extras linux driver (1 month ago)
@@ -22,7 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [aymanbagabas/fnanendb](https://github.com/aymanbagabas/fnanendb) ([v20211031.221235](https://github.com/aymanbagabas/fnanendb/releases/tag/v20211031.221235), 2 days ago) - Fnanen.com scraper
+- [aymanbagabas/fnanendb](https://github.com/aymanbagabas/fnanendb) ([v20211031.221235](https://github.com/aymanbagabas/fnanendb/releases/tag/v20211031.221235), 3 days ago) - Fnanen.com scraper
 - [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) ([v5.3.0](https://github.com/OpenAPITools/openapi-generator/releases/tag/v5.3.0), 1 week ago) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
 - [libretro/retroarch-joypad-autoconfig](https://github.com/libretro/retroarch-joypad-autoconfig) ([v1.9.12](https://github.com/libretro/retroarch-joypad-autoconfig/releases/tag/v1.9.12), 1 week ago) - RetroArch joypad autoconfig files
 - [jmcnamara/libxlsxwriter](https://github.com/jmcnamara/libxlsxwriter) ([RELEASE_1.1.4](https://github.com/jmcnamara/libxlsxwriter/releases/tag/RELEASE_1.1.4), 3 weeks ago) - A C library for creating Excel XLSX files.
