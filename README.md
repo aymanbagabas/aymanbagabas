@@ -6,7 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [aymanbagabas/kalimat](https://github.com/aymanbagabas/kalimat) - A PWA to view and search through FnanenDB songs database. (2 days ago)
+- [aymanbagabas/kalima](https://github.com/aymanbagabas/kalima) - A PWA that views and searches through FnanenDB songs database. (today)
 - [aymanbagabas/fnanendb](https://github.com/aymanbagabas/fnanendb) - Fnanen.com scraper (4 days ago)
 - [aymanbagabas/aymanbagabas.github.io](https://github.com/aymanbagabas/aymanbagabas.github.io) - A static website using Jekyll (2 weeks ago)
 - [aymanbagabas/fss3](https://github.com/aymanbagabas/fss3) - FSS3 is an S3 filesystem abstraction layer for Golang (1 month ago)
@@ -14,7 +14,7 @@
 
 #### 🌱 My latest projects
 
-- [aymanbagabas/kalimat](https://github.com/aymanbagabas/kalimat) - A PWA to view and search through FnanenDB songs database.
+- [aymanbagabas/kalima](https://github.com/aymanbagabas/kalima) - A PWA that views and searches through FnanenDB songs database.
 - [aymanbagabas/fnanendb](https://github.com/aymanbagabas/fnanendb) - Fnanen.com scraper
 - [aymanbagabas/fss3](https://github.com/aymanbagabas/fss3) - FSS3 is an S3 filesystem abstraction layer for Golang
 - [aymanbagabas/termimg](https://github.com/aymanbagabas/termimg) - WIP - Yet another terminal image renderer
