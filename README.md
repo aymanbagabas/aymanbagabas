@@ -46,11 +46,11 @@
 
 #### ⭐ Recent Stars
 
+- [egormanga/gnome-extension-huawei-wmi](https://github.com/egormanga/gnome-extension-huawei-wmi) - Control various Huawei &amp; Honor laptops WMI functions, such as battery protection, Fn-lock and keyboard backlight (just not yet). (today)
 - [muesli/ansi](https://github.com/muesli/ansi) - Raw ANSI sequence helpers (2 weeks ago)
 - [charmbracelet/soft-serve-action](https://github.com/charmbracelet/soft-serve-action) - Soft-Serve Github Action (1 month ago)
 - [abhimanyu003/sttr](https://github.com/abhimanyu003/sttr) - cross-platform, cli app to perform various operations on string (1 month ago)
 - [charmbracelet/keygen](https://github.com/charmbracelet/keygen) - An SSH key pair generator (1 month ago)
-- [tomnomnom/gron](https://github.com/tomnomnom/gron) - Make JSON greppable! (1 month ago)
 
 #### 📫 How to reach me
 
