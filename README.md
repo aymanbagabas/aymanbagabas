@@ -22,8 +22,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [libretro/retroarch-joypad-autoconfig](https://github.com/libretro/retroarch-joypad-autoconfig) ([v1.9.13](https://github.com/libretro/retroarch-joypad-autoconfig/releases/tag/v1.9.13), 4 days ago) - RetroArch joypad autoconfig files
-- [aymanbagabas/fnanendb](https://github.com/aymanbagabas/fnanendb) ([v20211107.014222](https://github.com/aymanbagabas/fnanendb/releases/tag/v20211107.014222), 5 days ago) - Fnanen.com scraper
+- [libretro/retroarch-joypad-autoconfig](https://github.com/libretro/retroarch-joypad-autoconfig) ([v1.9.13](https://github.com/libretro/retroarch-joypad-autoconfig/releases/tag/v1.9.13), 5 days ago) - RetroArch joypad autoconfig files
+- [aymanbagabas/fnanendb](https://github.com/aymanbagabas/fnanendb) ([v20211107.014222](https://github.com/aymanbagabas/fnanendb/releases/tag/v20211107.014222), 6 days ago) - Fnanen.com scraper
 - [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) ([v5.3.0](https://github.com/OpenAPITools/openapi-generator/releases/tag/v5.3.0), 2 weeks ago) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
 - [jmcnamara/libxlsxwriter](https://github.com/jmcnamara/libxlsxwriter) ([RELEASE_1.1.4](https://github.com/jmcnamara/libxlsxwriter/releases/tag/RELEASE_1.1.4), 1 month ago) - A C library for creating Excel XLSX files.
 - [aymanbagabas/fss3](https://github.com/aymanbagabas/fss3) ([v0.2.0](https://github.com/aymanbagabas/fss3/releases/tag/v0.2.0), 1 month ago) - FSS3 is an S3 filesystem abstraction layer for Golang
@@ -38,7 +38,7 @@
 
 #### 📜 My recent blog posts
 
-- [Run native C/C&#43;&#43; code in the browser using Emscripten](https://aymanbagabas.com/blog/2020/11/18/run-native-c-c&#43;&#43;-code-in-the-browser-using-emscripten.html) (11 months ago)
+- [Run native C/C&#43;&#43; code in the browser using Emscripten](https://aymanbagabas.com/blog/2020/11/18/run-native-c-c&#43;&#43;-code-in-the-browser-using-emscripten.html) (1 year ago)
 - [Dynamic DNS using DDclient](https://aymanbagabas.com/blog/2019/02/16/dynamic-dns-using-ddclient.html) (2 years ago)
 - [Writing a Chip-8 emulator](https://aymanbagabas.com/blog/2018/09/17/chip-8-emulator.html) (3 years ago)
 - [Arch Linux on Matebook X Pro](https://aymanbagabas.com/blog/2018/07/23/archlinux-on-matebook-x-pro.html) (3 years ago)
