@@ -8,9 +8,9 @@
 
 - [charmbracelet/skate](https://github.com/charmbracelet/skate) - A personal key value store 🛼 (today)
 - [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (today)
-- [aymanbagabas/kalima](https://github.com/aymanbagabas/kalima) - A PWA that views and searches through FnanenDB songs database. (1 week ago)
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hosted Git server for the command line🍦 (today)
 - [aymanbagabas/fnanendb](https://github.com/aymanbagabas/fnanendb) - Fnanen.com scraper (1 week ago)
-- [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (2 weeks ago)
+- [aymanbagabas/kalima](https://github.com/aymanbagabas/kalima) - A PWA that views and searches through FnanenDB songs database. (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -22,19 +22,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/skate](https://github.com/charmbracelet/skate) ([v0.1.0](https://github.com/charmbracelet/skate/releases/tag/v0.1.0), today) - A personal key value store 🛼
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v0.1.1](https://github.com/charmbracelet/wish/releases/tag/v0.1.1), 1 day ago) - Make SSH apps, just like that! 💫
 - [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.9.0](https://github.com/charmbracelet/charm/releases/tag/v0.9.0), 1 day ago) - The Charm Tool and Library 🌟
 - [libretro/retroarch-joypad-autoconfig](https://github.com/libretro/retroarch-joypad-autoconfig) ([v1.9.14](https://github.com/libretro/retroarch-joypad-autoconfig/releases/tag/v1.9.14), 2 days ago) - RetroArch joypad autoconfig files
 - [aymanbagabas/fnanendb](https://github.com/aymanbagabas/fnanendb) ([v20211205.014712](https://github.com/aymanbagabas/fnanendb/releases/tag/v20211205.014712), 2 days ago) - Fnanen.com scraper
-- [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) ([v5.3.0](https://github.com/OpenAPITools/openapi-generator/releases/tag/v5.3.0), 1 month ago) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
 
 #### 🔨 My recent Pull Requests
 
+- [Prepare for release](https://github.com/charmbracelet/soft-serve/pull/23) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 day ago)
+- [Treat config as a bare git repository to keep consistency](https://github.com/charmbracelet/soft-serve/pull/21) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (2 weeks ago)
 - [Git tidy](https://github.com/charmbracelet/wish/pull/13) on [charmbracelet/wish](https://github.com/charmbracelet/wish) (2 weeks ago)
-- [Upgrade to aws sdk v2 and fix issue #7](https://github.com/libdns/route53/pull/9) on [libdns/route53](https://github.com/libdns/route53) (1 month ago)
-- [fix: requestPty before shell](https://github.com/shazow/ssh-hammer/pull/2) on [shazow/ssh-hammer](https://github.com/shazow/ssh-hammer) (1 month ago)
-- [Fix: quit bubbletea on session ping error](https://github.com/charmbracelet/wish/pull/8) on [charmbracelet/wish](https://github.com/charmbracelet/wish) (2 months ago)
-- [git: check if dir exists before initializing a new repo      ](https://github.com/charmbracelet/wish/pull/6) on [charmbracelet/wish](https://github.com/charmbracelet/wish) (2 months ago)
+- [soft-server http git server](https://github.com/charmbracelet/soft-serve/pull/19) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 month ago)
+- [srv: export tui reload func](https://github.com/charmbracelet/soft-serve/pull/18) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 month ago)
 
 #### 📜 My recent blog posts
 
