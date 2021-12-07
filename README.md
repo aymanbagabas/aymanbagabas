@@ -22,11 +22,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.1.0](https://github.com/charmbracelet/soft-serve/releases/tag/v0.1.0), today) - A tasty, self-hosted Git server for the command line🍦
 - [charmbracelet/skate](https://github.com/charmbracelet/skate) ([v0.1.0](https://github.com/charmbracelet/skate/releases/tag/v0.1.0), today) - A personal key value store 🛼
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v0.1.1](https://github.com/charmbracelet/wish/releases/tag/v0.1.1), 1 day ago) - Make SSH apps, just like that! 💫
 - [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.9.0](https://github.com/charmbracelet/charm/releases/tag/v0.9.0), 1 day ago) - The Charm Tool and Library 🌟
 - [libretro/retroarch-joypad-autoconfig](https://github.com/libretro/retroarch-joypad-autoconfig) ([v1.9.14](https://github.com/libretro/retroarch-joypad-autoconfig/releases/tag/v1.9.14), 2 days ago) - RetroArch joypad autoconfig files
-- [aymanbagabas/fnanendb](https://github.com/aymanbagabas/fnanendb) ([v20211205.014712](https://github.com/aymanbagabas/fnanendb/releases/tag/v20211205.014712), 2 days ago) - Fnanen.com scraper
 
 #### 🔨 My recent Pull Requests
 
@@ -46,11 +46,11 @@
 
 #### ⭐ Recent Stars
 
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hosted Git server for the command line🍦 (today)
 - [charmbracelet/skate](https://github.com/charmbracelet/skate) - A personal key value store 🛼 (today)
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (1 day ago)
 - [egormanga/gnome-extension-huawei-wmi](https://github.com/egormanga/gnome-extension-huawei-wmi) - Control various Huawei &amp; Honor laptops WMI functions, such as battery protection, Fn-lock and keyboard backlight (just not yet). (1 month ago)
 - [muesli/ansi](https://github.com/muesli/ansi) - Raw ANSI sequence helpers (1 month ago)
-- [charmbracelet/soft-serve-action](https://github.com/charmbracelet/soft-serve-action) - Soft-Serve Github Action (2 months ago)
 
 #### 📫 How to reach me
 
