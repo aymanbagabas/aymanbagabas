@@ -6,11 +6,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [charmbracelet/skate](https://github.com/charmbracelet/skate) - A personal key value store 🛼 (today)
 - [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (today)
-- [aymanbagabas/kalima](https://github.com/aymanbagabas/kalima) - A PWA that views and searches through FnanenDB songs database. (6 days ago)
-- [aymanbagabas/fnanendb](https://github.com/aymanbagabas/fnanendb) - Fnanen.com scraper (6 days ago)
+- [aymanbagabas/kalima](https://github.com/aymanbagabas/kalima) - A PWA that views and searches through FnanenDB songs database. (1 week ago)
+- [aymanbagabas/fnanendb](https://github.com/aymanbagabas/fnanendb) - Fnanen.com scraper (1 week ago)
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (2 weeks ago)
-- [aymanbagabas/aymanbagabas.github.io](https://github.com/aymanbagabas/aymanbagabas.github.io) - A static website using Jekyll (1 month ago)
 
 #### 🌱 My latest projects
 
@@ -22,10 +22,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v0.1.1](https://github.com/charmbracelet/wish/releases/tag/v0.1.1), today) - Make SSH apps, just like that! 💫
-- [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.9.0](https://github.com/charmbracelet/charm/releases/tag/v0.9.0), today) - The Charm Tool and Library 🌟
-- [libretro/retroarch-joypad-autoconfig](https://github.com/libretro/retroarch-joypad-autoconfig) ([v1.9.14](https://github.com/libretro/retroarch-joypad-autoconfig/releases/tag/v1.9.14), 1 day ago) - RetroArch joypad autoconfig files
-- [aymanbagabas/fnanendb](https://github.com/aymanbagabas/fnanendb) ([v20211205.014712](https://github.com/aymanbagabas/fnanendb/releases/tag/v20211205.014712), 1 day ago) - Fnanen.com scraper
+- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v0.1.1](https://github.com/charmbracelet/wish/releases/tag/v0.1.1), 1 day ago) - Make SSH apps, just like that! 💫
+- [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.9.0](https://github.com/charmbracelet/charm/releases/tag/v0.9.0), 1 day ago) - The Charm Tool and Library 🌟
+- [libretro/retroarch-joypad-autoconfig](https://github.com/libretro/retroarch-joypad-autoconfig) ([v1.9.14](https://github.com/libretro/retroarch-joypad-autoconfig/releases/tag/v1.9.14), 2 days ago) - RetroArch joypad autoconfig files
+- [aymanbagabas/fnanendb](https://github.com/aymanbagabas/fnanendb) ([v20211205.014712](https://github.com/aymanbagabas/fnanendb/releases/tag/v20211205.014712), 2 days ago) - Fnanen.com scraper
 - [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) ([v5.3.0](https://github.com/OpenAPITools/openapi-generator/releases/tag/v5.3.0), 1 month ago) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
 
 #### 🔨 My recent Pull Requests
@@ -46,11 +46,11 @@
 
 #### ⭐ Recent Stars
 
-- [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (today)
+- [charmbracelet/skate](https://github.com/charmbracelet/skate) - A personal key value store 🛼 (today)
+- [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (1 day ago)
 - [egormanga/gnome-extension-huawei-wmi](https://github.com/egormanga/gnome-extension-huawei-wmi) - Control various Huawei &amp; Honor laptops WMI functions, such as battery protection, Fn-lock and keyboard backlight (just not yet). (1 month ago)
 - [muesli/ansi](https://github.com/muesli/ansi) - Raw ANSI sequence helpers (1 month ago)
 - [charmbracelet/soft-serve-action](https://github.com/charmbracelet/soft-serve-action) - Soft-Serve Github Action (2 months ago)
-- [abhimanyu003/sttr](https://github.com/abhimanyu003/sttr) - cross-platform, cli app to perform various operations on string (2 months ago)
 
 #### 📫 How to reach me
 
