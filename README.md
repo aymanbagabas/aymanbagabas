@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Dockerfile: use alpine and tzdata to set timezone](https://github.com/charmbracelet/charm/pull/30) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (today)
 - [Prepare for release](https://github.com/charmbracelet/soft-serve/pull/23) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (2 days ago)
 - [Treat config as a bare git repository to keep consistency](https://github.com/charmbracelet/soft-serve/pull/21) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (2 weeks ago)
 - [Git tidy](https://github.com/charmbracelet/wish/pull/13) on [charmbracelet/wish](https://github.com/charmbracelet/wish) (2 weeks ago)
 - [soft-server http git server](https://github.com/charmbracelet/soft-serve/pull/19) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 month ago)
-- [srv: export tui reload func](https://github.com/charmbracelet/soft-serve/pull/18) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 month ago)
 
 #### 📜 My recent blog posts
 
