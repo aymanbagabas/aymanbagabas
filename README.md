@@ -22,10 +22,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/skate](https://github.com/charmbracelet/skate) ([v0.1.1](https://github.com/charmbracelet/skate/releases/tag/v0.1.1), today) - A personal key value store 🛼
+- [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.9.1](https://github.com/charmbracelet/charm/releases/tag/v0.9.1), today) - The Charm Tool and Library 🌟
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.1.0](https://github.com/charmbracelet/soft-serve/releases/tag/v0.1.0), 1 day ago) - A tasty, self-hostable Git server for the command line🍦
-- [charmbracelet/skate](https://github.com/charmbracelet/skate) ([v0.1.0](https://github.com/charmbracelet/skate/releases/tag/v0.1.0), 1 day ago) - A personal key value store 🛼
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v0.1.1](https://github.com/charmbracelet/wish/releases/tag/v0.1.1), 2 days ago) - Make SSH apps, just like that! 💫
-- [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.9.0](https://github.com/charmbracelet/charm/releases/tag/v0.9.0), 2 days ago) - The Charm Tool and Library 🌟
 - [libretro/retroarch-joypad-autoconfig](https://github.com/libretro/retroarch-joypad-autoconfig) ([v1.9.14](https://github.com/libretro/retroarch-joypad-autoconfig/releases/tag/v1.9.14), 3 days ago) - RetroArch joypad autoconfig files
 
 #### 🔨 My recent Pull Requests
