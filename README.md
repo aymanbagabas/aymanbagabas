@@ -8,7 +8,7 @@
 
 - [charmbracelet/skate](https://github.com/charmbracelet/skate) - A personal key value store 🛼 (1 day ago)
 - [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (1 day ago)
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hosted Git server for the command line🍦 (1 day ago)
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (1 day ago)
 - [aymanbagabas/fnanendb](https://github.com/aymanbagabas/fnanendb) - Fnanen.com scraper (1 week ago)
 - [aymanbagabas/kalima](https://github.com/aymanbagabas/kalima) - A PWA that views and searches through FnanenDB songs database. (1 week ago)
 
@@ -22,7 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.1.0](https://github.com/charmbracelet/soft-serve/releases/tag/v0.1.0), 1 day ago) - A tasty, self-hosted Git server for the command line🍦
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.1.0](https://github.com/charmbracelet/soft-serve/releases/tag/v0.1.0), 1 day ago) - A tasty, self-hostable Git server for the command line🍦
 - [charmbracelet/skate](https://github.com/charmbracelet/skate) ([v0.1.0](https://github.com/charmbracelet/skate/releases/tag/v0.1.0), 1 day ago) - A personal key value store 🛼
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v0.1.1](https://github.com/charmbracelet/wish/releases/tag/v0.1.1), 2 days ago) - Make SSH apps, just like that! 💫
 - [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.9.0](https://github.com/charmbracelet/charm/releases/tag/v0.9.0), 2 days ago) - The Charm Tool and Library 🌟
@@ -46,7 +46,7 @@
 
 #### ⭐ Recent Stars
 
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hosted Git server for the command line🍦 (1 day ago)
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (1 day ago)
 - [charmbracelet/skate](https://github.com/charmbracelet/skate) - A personal key value store 🛼 (1 day ago)
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (2 days ago)
 - [egormanga/gnome-extension-huawei-wmi](https://github.com/egormanga/gnome-extension-huawei-wmi) - Control various Huawei &amp; Honor laptops WMI functions, such as battery protection, Fn-lock and keyboard backlight (just not yet). (1 month ago)
