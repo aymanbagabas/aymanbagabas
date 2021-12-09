@@ -6,9 +6,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/skate](https://github.com/charmbracelet/skate) - A personal key value store 🛼 (1 day ago)
-- [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (1 day ago)
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (1 day ago)
+- [charmbracelet/skate](https://github.com/charmbracelet/skate) - A personal key value store 🛼 (2 days ago)
+- [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (2 days ago)
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (2 days ago)
 - [aymanbagabas/fnanendb](https://github.com/aymanbagabas/fnanendb) - Fnanen.com scraper (1 week ago)
 - [aymanbagabas/kalima](https://github.com/aymanbagabas/kalima) - A PWA that views and searches through FnanenDB songs database. (1 week ago)
 
@@ -22,18 +22,18 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/skate](https://github.com/charmbracelet/skate) ([v0.1.1](https://github.com/charmbracelet/skate/releases/tag/v0.1.1), today) - A personal key value store 🛼
-- [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.9.1](https://github.com/charmbracelet/charm/releases/tag/v0.9.1), today) - The Charm Tool and Library 🌟
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.1.0](https://github.com/charmbracelet/soft-serve/releases/tag/v0.1.0), 1 day ago) - A tasty, self-hostable Git server for the command line🍦
-- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v0.1.1](https://github.com/charmbracelet/wish/releases/tag/v0.1.1), 2 days ago) - Make SSH apps, just like that! 💫
-- [libretro/retroarch-joypad-autoconfig](https://github.com/libretro/retroarch-joypad-autoconfig) ([v1.9.14](https://github.com/libretro/retroarch-joypad-autoconfig/releases/tag/v1.9.14), 3 days ago) - RetroArch joypad autoconfig files
+- [charmbracelet/skate](https://github.com/charmbracelet/skate) ([v0.1.1](https://github.com/charmbracelet/skate/releases/tag/v0.1.1), 1 day ago) - A personal key value store 🛼
+- [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.9.1](https://github.com/charmbracelet/charm/releases/tag/v0.9.1), 1 day ago) - The Charm Tool and Library 🌟
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.1.0](https://github.com/charmbracelet/soft-serve/releases/tag/v0.1.0), 2 days ago) - A tasty, self-hostable Git server for the command line🍦
+- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v0.1.1](https://github.com/charmbracelet/wish/releases/tag/v0.1.1), 3 days ago) - Make SSH apps, just like that! 💫
+- [libretro/retroarch-joypad-autoconfig](https://github.com/libretro/retroarch-joypad-autoconfig) ([v1.9.14](https://github.com/libretro/retroarch-joypad-autoconfig/releases/tag/v1.9.14), 4 days ago) - RetroArch joypad autoconfig files
 
 #### 🔨 My recent Pull Requests
 
-- [Dockerfile: use alpine and tzdata to set timezone](https://github.com/charmbracelet/charm/pull/30) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (today)
-- [Prepare for release](https://github.com/charmbracelet/soft-serve/pull/23) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (2 days ago)
-- [Treat config as a bare git repository to keep consistency](https://github.com/charmbracelet/soft-serve/pull/21) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (2 weeks ago)
-- [Git tidy](https://github.com/charmbracelet/wish/pull/13) on [charmbracelet/wish](https://github.com/charmbracelet/wish) (2 weeks ago)
+- [Dockerfile: use alpine and tzdata to set timezone](https://github.com/charmbracelet/charm/pull/30) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (1 day ago)
+- [Prepare for release](https://github.com/charmbracelet/soft-serve/pull/23) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (3 days ago)
+- [Treat config as a bare git repository to keep consistency](https://github.com/charmbracelet/soft-serve/pull/21) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (3 weeks ago)
+- [Git tidy](https://github.com/charmbracelet/wish/pull/13) on [charmbracelet/wish](https://github.com/charmbracelet/wish) (3 weeks ago)
 - [soft-server http git server](https://github.com/charmbracelet/soft-serve/pull/19) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 month ago)
 
 #### 📜 My recent blog posts
@@ -46,9 +46,9 @@
 
 #### ⭐ Recent Stars
 
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (1 day ago)
-- [charmbracelet/skate](https://github.com/charmbracelet/skate) - A personal key value store 🛼 (1 day ago)
-- [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (2 days ago)
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (2 days ago)
+- [charmbracelet/skate](https://github.com/charmbracelet/skate) - A personal key value store 🛼 (2 days ago)
+- [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (3 days ago)
 - [egormanga/gnome-extension-huawei-wmi](https://github.com/egormanga/gnome-extension-huawei-wmi) - Control various Huawei &amp; Honor laptops WMI functions, such as battery protection, Fn-lock and keyboard backlight (just not yet). (1 month ago)
 - [muesli/ansi](https://github.com/muesli/ansi) - Raw ANSI sequence helpers (1 month ago)
 
