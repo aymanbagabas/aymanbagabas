@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Add separate goreleaser test workflow and add freebsd](https://github.com/charmbracelet/soft-serve/pull/36) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (today)
+- [Rename module and move binary to cmd/soft](https://github.com/charmbracelet/soft-serve/pull/35) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (today)
 - [Dockerfile: use alpine and tzdata to set timezone](https://github.com/charmbracelet/charm/pull/30) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (1 day ago)
 - [Prepare for release](https://github.com/charmbracelet/soft-serve/pull/23) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (3 days ago)
 - [Treat config as a bare git repository to keep consistency](https://github.com/charmbracelet/soft-serve/pull/21) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (3 weeks ago)
-- [Git tidy](https://github.com/charmbracelet/wish/pull/13) on [charmbracelet/wish](https://github.com/charmbracelet/wish) (3 weeks ago)
-- [soft-server http git server](https://github.com/charmbracelet/soft-serve/pull/19) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 month ago)
 
 #### 📜 My recent blog posts
 
