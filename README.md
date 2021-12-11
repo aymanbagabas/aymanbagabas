@@ -6,10 +6,10 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (2 days ago)
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (2 days ago)
-- [charmbracelet/skate](https://github.com/charmbracelet/skate) - A personal key value store 🛼 (4 days ago)
 - [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (4 days ago)
-- [aymanbagabas/fnanendb](https://github.com/aymanbagabas/fnanendb) - Fnanen.com scraper (1 week ago)
+- [charmbracelet/skate](https://github.com/charmbracelet/skate) - A personal key value store 🛼 (4 days ago)
 - [aymanbagabas/kalima](https://github.com/aymanbagabas/kalima) - A PWA that views and searches through FnanenDB songs database. (1 week ago)
 
 #### 🌱 My latest projects
