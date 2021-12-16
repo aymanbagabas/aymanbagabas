@@ -6,8 +6,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (6 days ago)
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (6 days ago)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 week ago)
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (1 week ago)
 - [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (1 week ago)
 - [charmbracelet/skate](https://github.com/charmbracelet/skate) - A personal key value store 🛼 (1 week ago)
 - [aymanbagabas/kalima](https://github.com/aymanbagabas/kalima) - A PWA that views and searches through FnanenDB songs database. (2 weeks ago)
@@ -22,17 +22,17 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [aymanbagabas/fnanendb](https://github.com/aymanbagabas/fnanendb) ([v20211212.014605](https://github.com/aymanbagabas/fnanendb/releases/tag/v20211212.014605), 3 days ago) - Fnanen.com scraper
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.1.2](https://github.com/charmbracelet/soft-serve/releases/tag/v0.1.2), 5 days ago) - A tasty, self-hostable Git server for the command line🍦
-- [charmbracelet/skate](https://github.com/charmbracelet/skate) ([v0.1.2](https://github.com/charmbracelet/skate/releases/tag/v0.1.2), 6 days ago) - A personal key value store 🛼
+- [aymanbagabas/fnanendb](https://github.com/aymanbagabas/fnanendb) ([v20211212.014605](https://github.com/aymanbagabas/fnanendb/releases/tag/v20211212.014605), 4 days ago) - Fnanen.com scraper
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.1.2](https://github.com/charmbracelet/soft-serve/releases/tag/v0.1.2), 6 days ago) - A tasty, self-hostable Git server for the command line🍦
+- [charmbracelet/skate](https://github.com/charmbracelet/skate) ([v0.1.2](https://github.com/charmbracelet/skate/releases/tag/v0.1.2), 1 week ago) - A personal key value store 🛼
 - [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.9.1](https://github.com/charmbracelet/charm/releases/tag/v0.9.1), 1 week ago) - The Charm Tool and Library 🌟
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v0.1.1](https://github.com/charmbracelet/wish/releases/tag/v0.1.1), 1 week ago) - Make SSH apps, just like that! 💫
 
 #### 🔨 My recent Pull Requests
 
-- [Add cancelreader bsd go1.17 compilation flags](https://github.com/charmbracelet/bubbletea/pull/167) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (6 days ago)
-- [Add separate goreleaser test workflow and add freebsd](https://github.com/charmbracelet/soft-serve/pull/36) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (6 days ago)
-- [Rename module and move binary to cmd/soft](https://github.com/charmbracelet/soft-serve/pull/35) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (6 days ago)
+- [Add cancelreader bsd go1.17 compilation flags](https://github.com/charmbracelet/bubbletea/pull/167) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 week ago)
+- [Add separate goreleaser test workflow and add freebsd](https://github.com/charmbracelet/soft-serve/pull/36) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 week ago)
+- [Rename module and move binary to cmd/soft](https://github.com/charmbracelet/soft-serve/pull/35) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 week ago)
 - [Dockerfile: use alpine and tzdata to set timezone](https://github.com/charmbracelet/charm/pull/30) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (1 week ago)
 - [Prepare for release](https://github.com/charmbracelet/soft-serve/pull/23) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 week ago)
 
