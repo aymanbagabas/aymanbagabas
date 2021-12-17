@@ -22,10 +22,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/skate](https://github.com/charmbracelet/skate) ([v0.1.3](https://github.com/charmbracelet/skate/releases/tag/v0.1.3), today) - A personal key value store 🛼
-- [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.9.2](https://github.com/charmbracelet/charm/releases/tag/v0.9.2), today) - The Charm Tool and Library 🌟
-- [aymanbagabas/fnanendb](https://github.com/aymanbagabas/fnanendb) ([v20211212.014605](https://github.com/aymanbagabas/fnanendb/releases/tag/v20211212.014605), 4 days ago) - Fnanen.com scraper
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.1.2](https://github.com/charmbracelet/soft-serve/releases/tag/v0.1.2), 6 days ago) - A tasty, self-hostable Git server for the command line🍦
+- [charmbracelet/skate](https://github.com/charmbracelet/skate) ([v0.1.3](https://github.com/charmbracelet/skate/releases/tag/v0.1.3), 1 day ago) - A personal key value store 🛼
+- [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.9.2](https://github.com/charmbracelet/charm/releases/tag/v0.9.2), 1 day ago) - The Charm Tool and Library 🌟
+- [aymanbagabas/fnanendb](https://github.com/aymanbagabas/fnanendb) ([v20211212.014605](https://github.com/aymanbagabas/fnanendb/releases/tag/v20211212.014605), 5 days ago) - Fnanen.com scraper
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.1.2](https://github.com/charmbracelet/soft-serve/releases/tag/v0.1.2), 1 week ago) - A tasty, self-hostable Git server for the command line🍦
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v0.1.1](https://github.com/charmbracelet/wish/releases/tag/v0.1.1), 1 week ago) - Make SSH apps, just like that! 💫
 
 #### 🔨 My recent Pull Requests
@@ -50,7 +50,7 @@
 - [charmbracelet/skate](https://github.com/charmbracelet/skate) - A personal key value store 🛼 (1 week ago)
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (1 week ago)
 - [egormanga/gnome-extension-huawei-wmi](https://github.com/egormanga/gnome-extension-huawei-wmi) - Control various Huawei &amp; Honor laptops WMI functions, such as battery protection, Fn-lock and keyboard backlight (just not yet). (1 month ago)
-- [muesli/ansi](https://github.com/muesli/ansi) - Raw ANSI sequence helpers (1 month ago)
+- [muesli/ansi](https://github.com/muesli/ansi) - Raw ANSI sequence helpers (2 months ago)
 
 #### 📫 How to reach me
 
