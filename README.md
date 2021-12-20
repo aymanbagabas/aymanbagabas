@@ -22,11 +22,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [linrunner/TLP](https://github.com/linrunner/TLP) ([1.5.0-beta.1](https://github.com/linrunner/TLP/releases/tag/1.5.0-beta.1), today) - TLP - Optimize Linux Laptop Battery Life
 - [atanunq/viu](https://github.com/atanunq/viu) ([v1.4.0](https://github.com/atanunq/viu/releases/tag/v1.4.0), 2 days ago) - Simple terminal image viewer written in Rust.
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.19.2](https://github.com/charmbracelet/bubbletea/releases/tag/v0.19.2), 3 days ago) - A powerful little TUI framework 🏗
 - [charmbracelet/skate](https://github.com/charmbracelet/skate) ([v0.1.3](https://github.com/charmbracelet/skate/releases/tag/v0.1.3), 4 days ago) - A personal key value store 🛼
 - [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.9.2](https://github.com/charmbracelet/charm/releases/tag/v0.9.2), 4 days ago) - The Charm Tool and Library 🌟
-- [aymanbagabas/fnanendb](https://github.com/aymanbagabas/fnanendb) ([v20211212.014605](https://github.com/aymanbagabas/fnanendb/releases/tag/v20211212.014605), 1 week ago) - Fnanen.com scraper
 
 #### 🔨 My recent Pull Requests
 
