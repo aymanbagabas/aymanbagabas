@@ -8,9 +8,9 @@
 
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 week ago)
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (1 week ago)
-- [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (1 week ago)
-- [charmbracelet/skate](https://github.com/charmbracelet/skate) - A personal key value store 🛼 (1 week ago)
-- [aymanbagabas/kalima](https://github.com/aymanbagabas/kalima) - A PWA that views and searches through FnanenDB songs database. (2 weeks ago)
+- [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (2 weeks ago)
+- [charmbracelet/skate](https://github.com/charmbracelet/skate) - A personal key value store 🛼 (2 weeks ago)
+- [aymanbagabas/kalima](https://github.com/aymanbagabas/kalima) - A PWA that views and searches through FnanenDB songs database. (3 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -22,11 +22,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [linrunner/TLP](https://github.com/linrunner/TLP) ([1.5.0-beta.1](https://github.com/linrunner/TLP/releases/tag/1.5.0-beta.1), today) - TLP - Optimize Linux Laptop Battery Life
-- [atanunq/viu](https://github.com/atanunq/viu) ([v1.4.0](https://github.com/atanunq/viu/releases/tag/v1.4.0), 2 days ago) - Simple terminal image viewer written in Rust.
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.19.2](https://github.com/charmbracelet/bubbletea/releases/tag/v0.19.2), 3 days ago) - A powerful little TUI framework 🏗
-- [charmbracelet/skate](https://github.com/charmbracelet/skate) ([v0.1.3](https://github.com/charmbracelet/skate/releases/tag/v0.1.3), 4 days ago) - A personal key value store 🛼
-- [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.9.2](https://github.com/charmbracelet/charm/releases/tag/v0.9.2), 4 days ago) - The Charm Tool and Library 🌟
+- [linrunner/TLP](https://github.com/linrunner/TLP) ([1.5.0-beta.1](https://github.com/linrunner/TLP/releases/tag/1.5.0-beta.1), 1 day ago) - TLP - Optimize Linux Laptop Battery Life
+- [atanunq/viu](https://github.com/atanunq/viu) ([v1.4.0](https://github.com/atanunq/viu/releases/tag/v1.4.0), 3 days ago) - Simple terminal image viewer written in Rust.
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.19.2](https://github.com/charmbracelet/bubbletea/releases/tag/v0.19.2), 4 days ago) - A powerful little TUI framework 🏗
+- [charmbracelet/skate](https://github.com/charmbracelet/skate) ([v0.1.3](https://github.com/charmbracelet/skate/releases/tag/v0.1.3), 5 days ago) - A personal key value store 🛼
+- [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.9.2](https://github.com/charmbracelet/charm/releases/tag/v0.9.2), 5 days ago) - The Charm Tool and Library 🌟
 
 #### 🔨 My recent Pull Requests
 
@@ -46,8 +46,8 @@
 
 #### ⭐ Recent Stars
 
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (1 week ago)
-- [charmbracelet/skate](https://github.com/charmbracelet/skate) - A personal key value store 🛼 (1 week ago)
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (2 weeks ago)
+- [charmbracelet/skate](https://github.com/charmbracelet/skate) - A personal key value store 🛼 (2 weeks ago)
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (2 weeks ago)
 - [egormanga/gnome-extension-huawei-wmi](https://github.com/egormanga/gnome-extension-huawei-wmi) - Control various Huawei &amp; Honor laptops WMI functions, such as battery protection, Fn-lock and keyboard backlight (just not yet). (1 month ago)
 - [muesli/ansi](https://github.com/muesli/ansi) - Raw ANSI sequence helpers (2 months ago)
