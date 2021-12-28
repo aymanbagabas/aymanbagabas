@@ -8,9 +8,9 @@
 
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (2 weeks ago)
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (2 weeks ago)
-- [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (2 weeks ago)
-- [charmbracelet/skate](https://github.com/charmbracelet/skate) - A personal key value store 🛼 (2 weeks ago)
-- [aymanbagabas/kalima](https://github.com/aymanbagabas/kalima) - A PWA that views and searches through FnanenDB songs database. (3 weeks ago)
+- [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (3 weeks ago)
+- [charmbracelet/skate](https://github.com/charmbracelet/skate) - A personal key value store 🛼 (3 weeks ago)
+- [aymanbagabas/kalima](https://github.com/aymanbagabas/kalima) - A PWA that views and searches through FnanenDB songs database. (4 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -22,8 +22,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [aymanbagabas/fnanendb](https://github.com/aymanbagabas/fnanendb) ([v20211226.014941](https://github.com/aymanbagabas/fnanendb/releases/tag/v20211226.014941), 1 day ago) - Fnanen.com scraper
-- [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) ([v5.3.1](https://github.com/OpenAPITools/openapi-generator/releases/tag/v5.3.1), 6 days ago) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
+- [aymanbagabas/fnanendb](https://github.com/aymanbagabas/fnanendb) ([v20211226.014941](https://github.com/aymanbagabas/fnanendb/releases/tag/v20211226.014941), 2 days ago) - Fnanen.com scraper
+- [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) ([v5.3.1](https://github.com/OpenAPITools/openapi-generator/releases/tag/v5.3.1), 1 week ago) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
 - [linrunner/TLP](https://github.com/linrunner/TLP) ([1.5.0-beta.1](https://github.com/linrunner/TLP/releases/tag/1.5.0-beta.1), 1 week ago) - TLP - Optimize Linux Laptop Battery Life
 - [atanunq/viu](https://github.com/atanunq/viu) ([v1.4.0](https://github.com/atanunq/viu/releases/tag/v1.4.0), 1 week ago) - Simple terminal image viewer written in Rust.
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.19.2](https://github.com/charmbracelet/bubbletea/releases/tag/v0.19.2), 1 week ago) - A powerful little TUI framework 🏗
@@ -46,8 +46,8 @@
 
 #### ⭐ Recent Stars
 
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (2 weeks ago)
-- [charmbracelet/skate](https://github.com/charmbracelet/skate) - A personal key value store 🛼 (2 weeks ago)
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (3 weeks ago)
+- [charmbracelet/skate](https://github.com/charmbracelet/skate) - A personal key value store 🛼 (3 weeks ago)
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (3 weeks ago)
 - [egormanga/gnome-extension-huawei-wmi](https://github.com/egormanga/gnome-extension-huawei-wmi) - Control various Huawei &amp; Honor laptops WMI functions, such as battery protection, Fn-lock and keyboard backlight (just not yet). (1 month ago)
 - [muesli/ansi](https://github.com/muesli/ansi) - Raw ANSI sequence helpers (2 months ago)
