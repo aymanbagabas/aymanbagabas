@@ -22,11 +22,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [aymanbagabas/fnanendb](https://github.com/aymanbagabas/fnanendb) ([v20211226.014941](https://github.com/aymanbagabas/fnanendb/releases/tag/v20211226.014941), 4 days ago) - Fnanen.com scraper
+- [aymanbagabas/fnanendb](https://github.com/aymanbagabas/fnanendb) ([v20211226.014941](https://github.com/aymanbagabas/fnanendb/releases/tag/v20211226.014941), 5 days ago) - Fnanen.com scraper
 - [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) ([v5.3.1](https://github.com/OpenAPITools/openapi-generator/releases/tag/v5.3.1), 1 week ago) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
 - [linrunner/TLP](https://github.com/linrunner/TLP) ([1.5.0-beta.1](https://github.com/linrunner/TLP/releases/tag/1.5.0-beta.1), 1 week ago) - TLP - Optimize Linux Laptop Battery Life
 - [atanunq/viu](https://github.com/atanunq/viu) ([v1.4.0](https://github.com/atanunq/viu/releases/tag/v1.4.0), 1 week ago) - Simple terminal image viewer written in Rust.
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.19.2](https://github.com/charmbracelet/bubbletea/releases/tag/v0.19.2), 1 week ago) - A powerful little TUI framework 🏗
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.19.2](https://github.com/charmbracelet/bubbletea/releases/tag/v0.19.2), 2 weeks ago) - A powerful little TUI framework 🏗
 
 #### 🔨 My recent Pull Requests
 
