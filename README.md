@@ -22,7 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [aymanbagabas/kalimadb](https://github.com/aymanbagabas/kalimadb) ([v20220101.155812](https://github.com/aymanbagabas/kalimadb/releases/tag/v20220101.155812), 1 day ago) - 
+- [aymanbagabas/kalimadb](https://github.com/aymanbagabas/kalimadb) ([v20220102.030032](https://github.com/aymanbagabas/kalimadb/releases/tag/v20220102.030032), today) - 
 - [aymanbagabas/fnanendb](https://github.com/aymanbagabas/fnanendb) ([v20211226.014941](https://github.com/aymanbagabas/fnanendb/releases/tag/v20211226.014941), 1 week ago) - Fnanen.com scraper
 - [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) ([v5.3.1](https://github.com/OpenAPITools/openapi-generator/releases/tag/v5.3.1), 1 week ago) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
 - [linrunner/TLP](https://github.com/linrunner/TLP) ([1.5.0-beta.1](https://github.com/linrunner/TLP/releases/tag/1.5.0-beta.1), 1 week ago) - TLP - Optimize Linux Laptop Battery Life
