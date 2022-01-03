@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Add develop and nightly builds](https://github.com/charmbracelet/soft-serve/pull/52) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (today)
 - [Add cancelreader bsd go1.17 compilation flags](https://github.com/charmbracelet/bubbletea/pull/167) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (3 weeks ago)
 - [Add separate goreleaser test workflow and add freebsd](https://github.com/charmbracelet/soft-serve/pull/36) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (3 weeks ago)
 - [Rename module and move binary to cmd/soft](https://github.com/charmbracelet/soft-serve/pull/35) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (3 weeks ago)
 - [Dockerfile: use alpine and tzdata to set timezone](https://github.com/charmbracelet/charm/pull/30) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (3 weeks ago)
-- [Prepare for release](https://github.com/charmbracelet/soft-serve/pull/23) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (4 weeks ago)
 
 #### 📜 My recent blog posts
 
