@@ -6,9 +6,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (1 day ago)
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (today)
+- [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (today)
 - [aymanbagabas/kalimadb](https://github.com/aymanbagabas/kalimadb) -  (1 day ago)
-- [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (1 day ago)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (3 weeks ago)
 - [charmbracelet/skate](https://github.com/charmbracelet/skate) - A personal key value store 🛼 (4 weeks ago)
 
