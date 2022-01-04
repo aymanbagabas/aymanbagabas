@@ -6,11 +6,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (today)
-- [aymanbagabas/kalimadb](https://github.com/aymanbagabas/kalimadb) -  (today)
-- [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (today)
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (1 day ago)
+- [aymanbagabas/kalimadb](https://github.com/aymanbagabas/kalimadb) -  (1 day ago)
+- [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (1 day ago)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (3 weeks ago)
-- [charmbracelet/skate](https://github.com/charmbracelet/skate) - A personal key value store 🛼 (3 weeks ago)
+- [charmbracelet/skate](https://github.com/charmbracelet/skate) - A personal key value store 🛼 (4 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -22,17 +22,17 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [aymanbagabas/kalimadb](https://github.com/aymanbagabas/kalimadb) ([v20220103.175901](https://github.com/aymanbagabas/kalimadb/releases/tag/v20220103.175901), today) - 
+- [aymanbagabas/kalimadb](https://github.com/aymanbagabas/kalimadb) ([v20220103.175901](https://github.com/aymanbagabas/kalimadb/releases/tag/v20220103.175901), 1 day ago) - 
 - [aymanbagabas/fnanendb](https://github.com/aymanbagabas/fnanendb) ([v20211226.014941](https://github.com/aymanbagabas/fnanendb/releases/tag/v20211226.014941), 1 week ago) - Fnanen.com scraper
-- [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) ([v5.3.1](https://github.com/OpenAPITools/openapi-generator/releases/tag/v5.3.1), 1 week ago) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
+- [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) ([v5.3.1](https://github.com/OpenAPITools/openapi-generator/releases/tag/v5.3.1), 2 weeks ago) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
 - [linrunner/TLP](https://github.com/linrunner/TLP) ([1.5.0-beta.1](https://github.com/linrunner/TLP/releases/tag/1.5.0-beta.1), 2 weeks ago) - TLP - Optimize Linux Laptop Battery Life
 - [atanunq/viu](https://github.com/atanunq/viu) ([v1.4.0](https://github.com/atanunq/viu/releases/tag/v1.4.0), 2 weeks ago) - Simple terminal image viewer written in Rust.
 
 #### 🔨 My recent Pull Requests
 
-- [Expose client http scheme as an env variable](https://github.com/charmbracelet/charm/pull/58) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (today)
-- [Add develop and nightly builds](https://github.com/charmbracelet/charm/pull/57) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (today)
-- [Add develop and nightly builds](https://github.com/charmbracelet/soft-serve/pull/52) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (today)
+- [Expose client http scheme as an env variable](https://github.com/charmbracelet/charm/pull/58) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (1 day ago)
+- [Add develop and nightly builds](https://github.com/charmbracelet/charm/pull/57) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (1 day ago)
+- [Add develop and nightly builds](https://github.com/charmbracelet/soft-serve/pull/52) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 day ago)
 - [Add cancelreader bsd go1.17 compilation flags](https://github.com/charmbracelet/bubbletea/pull/167) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (3 weeks ago)
 - [Add separate goreleaser test workflow and add freebsd](https://github.com/charmbracelet/soft-serve/pull/36) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (3 weeks ago)
 
@@ -46,11 +46,11 @@
 
 #### ⭐ Recent Stars
 
-- [oprypin/nightly.link](https://github.com/oprypin/nightly.link) - Downloads the latest &#34;nightly&#34; build/artifact from a continuous testing workflow (today)
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (3 weeks ago)
-- [charmbracelet/skate](https://github.com/charmbracelet/skate) - A personal key value store 🛼 (3 weeks ago)
+- [oprypin/nightly.link](https://github.com/oprypin/nightly.link) - Downloads the latest &#34;nightly&#34; build/artifact from a continuous testing workflow (1 day ago)
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (4 weeks ago)
+- [charmbracelet/skate](https://github.com/charmbracelet/skate) - A personal key value store 🛼 (4 weeks ago)
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (4 weeks ago)
-- [egormanga/gnome-extension-huawei-wmi](https://github.com/egormanga/gnome-extension-huawei-wmi) - Control various Huawei &amp; Honor laptops WMI functions, such as battery protection, Fn-lock and keyboard backlight (just not yet). (1 month ago)
+- [egormanga/gnome-extension-huawei-wmi](https://github.com/egormanga/gnome-extension-huawei-wmi) - Control various Huawei &amp; Honor laptops WMI functions, such as battery protection, Fn-lock and keyboard backlight (just not yet). (2 months ago)
 
 #### 📫 How to reach me
 
