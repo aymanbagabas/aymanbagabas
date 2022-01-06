@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: use PR HEAD ref instead of merge commit](https://github.com/charmbracelet/charm/pull/60) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (today)
 - [Expose client http scheme as an env variable](https://github.com/charmbracelet/charm/pull/58) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (3 days ago)
 - [Add develop and nightly builds](https://github.com/charmbracelet/charm/pull/57) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (3 days ago)
 - [Add develop and nightly builds](https://github.com/charmbracelet/soft-serve/pull/52) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (3 days ago)
 - [Add cancelreader bsd go1.17 compilation flags](https://github.com/charmbracelet/bubbletea/pull/167) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (4 weeks ago)
-- [Add separate goreleaser test workflow and add freebsd](https://github.com/charmbracelet/soft-serve/pull/36) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (4 weeks ago)
 
 #### 📜 My recent blog posts
 
