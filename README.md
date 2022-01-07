@@ -22,10 +22,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [linrunner/TLP](https://github.com/linrunner/TLP) ([1.5.0](https://github.com/linrunner/TLP/releases/tag/1.5.0), today) - TLP - Optimize Linux Laptop Battery Life
 - [aymanbagabas/kalimadb](https://github.com/aymanbagabas/kalimadb) ([v20220103.175901](https://github.com/aymanbagabas/kalimadb/releases/tag/v20220103.175901), 4 days ago) - 
 - [aymanbagabas/fnanendb](https://github.com/aymanbagabas/fnanendb) ([v20211226.014941](https://github.com/aymanbagabas/fnanendb/releases/tag/v20211226.014941), 1 week ago) - Fnanen.com scraper
 - [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) ([v5.3.1](https://github.com/OpenAPITools/openapi-generator/releases/tag/v5.3.1), 2 weeks ago) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
-- [linrunner/TLP](https://github.com/linrunner/TLP) ([1.5.0-beta.1](https://github.com/linrunner/TLP/releases/tag/1.5.0-beta.1), 2 weeks ago) - TLP - Optimize Linux Laptop Battery Life
 - [atanunq/viu](https://github.com/atanunq/viu) ([v1.4.0](https://github.com/atanunq/viu/releases/tag/v1.4.0), 2 weeks ago) - Simple terminal image viewer written in Rust.
 
 #### 🔨 My recent Pull Requests
