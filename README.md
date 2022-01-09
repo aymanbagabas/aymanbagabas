@@ -22,10 +22,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [aymanbagabas/fnanendb](https://github.com/aymanbagabas/fnanendb) ([v20220109.015004](https://github.com/aymanbagabas/fnanendb/releases/tag/v20220109.015004), today) - Fnanen.com scraper
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.19.3](https://github.com/charmbracelet/bubbletea/releases/tag/v0.19.3), 2 days ago) - A powerful little TUI framework 🏗
 - [linrunner/TLP](https://github.com/linrunner/TLP) ([1.5.0](https://github.com/linrunner/TLP/releases/tag/1.5.0), 2 days ago) - TLP - Optimize Linux Laptop Battery Life
 - [aymanbagabas/kalimadb](https://github.com/aymanbagabas/kalimadb) ([v20220103.175901](https://github.com/aymanbagabas/kalimadb/releases/tag/v20220103.175901), 6 days ago) - 
-- [aymanbagabas/fnanendb](https://github.com/aymanbagabas/fnanendb) ([v20211226.014941](https://github.com/aymanbagabas/fnanendb/releases/tag/v20211226.014941), 2 weeks ago) - Fnanen.com scraper
 - [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) ([v5.3.1](https://github.com/OpenAPITools/openapi-generator/releases/tag/v5.3.1), 2 weeks ago) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
 
 #### 🔨 My recent Pull Requests
