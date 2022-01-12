@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: allow using custom DB, FS and Stats](https://github.com/charmbracelet/charm/pull/61) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (today)
 - [fix: use PR HEAD ref instead of merge commit](https://github.com/charmbracelet/charm/pull/60) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (6 days ago)
 - [Expose client http scheme as an env variable](https://github.com/charmbracelet/charm/pull/58) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (1 week ago)
 - [Add develop and nightly builds](https://github.com/charmbracelet/charm/pull/57) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (1 week ago)
 - [Add develop and nightly builds](https://github.com/charmbracelet/soft-serve/pull/52) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 week ago)
-- [Add cancelreader bsd go1.17 compilation flags](https://github.com/charmbracelet/bubbletea/pull/167) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 month ago)
 
 #### 📜 My recent blog posts
 
@@ -46,11 +46,11 @@
 
 #### ⭐ Recent Stars
 
+- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) - The SSH directory ✨ (today)
 - [oprypin/nightly.link](https://github.com/oprypin/nightly.link) - Downloads the latest &#34;nightly&#34; build/artifact from a continuous testing workflow (1 week ago)
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (1 month ago)
 - [charmbracelet/skate](https://github.com/charmbracelet/skate) - A personal key value store 🛼 (1 month ago)
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (1 month ago)
-- [egormanga/gnome-extension-huawei-wmi](https://github.com/egormanga/gnome-extension-huawei-wmi) - Control various Huawei &amp; Honor laptops WMI functions, such as battery protection, Fn-lock and keyboard backlight (just not yet). (2 months ago)
 
 #### 📫 How to reach me
 
