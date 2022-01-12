@@ -46,11 +46,11 @@
 
 #### ⭐ Recent Stars
 
+- [muesli/mango](https://github.com/muesli/mango) - mango is a man-page generator for the Go flag, pflag, and cobra packages (today)
 - [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) - The SSH directory ✨ (today)
 - [oprypin/nightly.link](https://github.com/oprypin/nightly.link) - Downloads the latest &#34;nightly&#34; build/artifact from a continuous testing workflow (1 week ago)
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (1 month ago)
 - [charmbracelet/skate](https://github.com/charmbracelet/skate) - A personal key value store 🛼 (1 month ago)
-- [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (1 month ago)
 
 #### 📫 How to reach me
 
