@@ -22,11 +22,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.1.3](https://github.com/charmbracelet/soft-serve/releases/tag/v0.1.3), today) - A tasty, self-hostable Git server for the command line🍦
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v0.1.2](https://github.com/charmbracelet/wish/releases/tag/v0.1.2), 1 day ago) - Make SSH apps, just like that! 💫
 - [aymanbagabas/fnanendb](https://github.com/aymanbagabas/fnanendb) ([v20220109.015004](https://github.com/aymanbagabas/fnanendb/releases/tag/v20220109.015004), 4 days ago) - Fnanen.com scraper
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.19.3](https://github.com/charmbracelet/bubbletea/releases/tag/v0.19.3), 6 days ago) - A powerful little TUI framework 🏗
 - [linrunner/TLP](https://github.com/linrunner/TLP) ([1.5.0](https://github.com/linrunner/TLP/releases/tag/1.5.0), 6 days ago) - TLP - Optimize Linux Laptop Battery Life
-- [aymanbagabas/kalimadb](https://github.com/aymanbagabas/kalimadb) ([v20220103.175901](https://github.com/aymanbagabas/kalimadb/releases/tag/v20220103.175901), 1 week ago) - 
 
 #### 🔨 My recent Pull Requests
 
