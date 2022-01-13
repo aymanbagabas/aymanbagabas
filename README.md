@@ -22,16 +22,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v0.1.2](https://github.com/charmbracelet/wish/releases/tag/v0.1.2), today) - Make SSH apps, just like that! 💫
-- [aymanbagabas/fnanendb](https://github.com/aymanbagabas/fnanendb) ([v20220109.015004](https://github.com/aymanbagabas/fnanendb/releases/tag/v20220109.015004), 3 days ago) - Fnanen.com scraper
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.19.3](https://github.com/charmbracelet/bubbletea/releases/tag/v0.19.3), 5 days ago) - A powerful little TUI framework 🏗
-- [linrunner/TLP](https://github.com/linrunner/TLP) ([1.5.0](https://github.com/linrunner/TLP/releases/tag/1.5.0), 5 days ago) - TLP - Optimize Linux Laptop Battery Life
+- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v0.1.2](https://github.com/charmbracelet/wish/releases/tag/v0.1.2), 1 day ago) - Make SSH apps, just like that! 💫
+- [aymanbagabas/fnanendb](https://github.com/aymanbagabas/fnanendb) ([v20220109.015004](https://github.com/aymanbagabas/fnanendb/releases/tag/v20220109.015004), 4 days ago) - Fnanen.com scraper
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.19.3](https://github.com/charmbracelet/bubbletea/releases/tag/v0.19.3), 6 days ago) - A powerful little TUI framework 🏗
+- [linrunner/TLP](https://github.com/linrunner/TLP) ([1.5.0](https://github.com/linrunner/TLP/releases/tag/1.5.0), 6 days ago) - TLP - Optimize Linux Laptop Battery Life
 - [aymanbagabas/kalimadb](https://github.com/aymanbagabas/kalimadb) ([v20220103.175901](https://github.com/aymanbagabas/kalimadb/releases/tag/v20220103.175901), 1 week ago) - 
 
 #### 🔨 My recent Pull Requests
 
-- [fix: allow using custom DB, FS and Stats](https://github.com/charmbracelet/charm/pull/61) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (today)
-- [fix: use PR HEAD ref instead of merge commit](https://github.com/charmbracelet/charm/pull/60) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (6 days ago)
+- [fix: allow using custom DB, FS and Stats](https://github.com/charmbracelet/charm/pull/61) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (1 day ago)
+- [fix: use PR HEAD ref instead of merge commit](https://github.com/charmbracelet/charm/pull/60) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (1 week ago)
 - [Expose client http scheme as an env variable](https://github.com/charmbracelet/charm/pull/58) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (1 week ago)
 - [Add develop and nightly builds](https://github.com/charmbracelet/charm/pull/57) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (1 week ago)
 - [Add develop and nightly builds](https://github.com/charmbracelet/soft-serve/pull/52) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 week ago)
@@ -46,8 +46,8 @@
 
 #### ⭐ Recent Stars
 
-- [muesli/mango](https://github.com/muesli/mango) - mango is a man-page generator for the Go flag, pflag, and cobra packages (today)
-- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) - The SSH directory ✨ (today)
+- [muesli/mango](https://github.com/muesli/mango) - mango is a man-page generator for the Go flag, pflag, and cobra packages (1 day ago)
+- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) - The SSH directory ✨ (1 day ago)
 - [oprypin/nightly.link](https://github.com/oprypin/nightly.link) - Downloads the latest &#34;nightly&#34; build/artifact from a continuous testing workflow (1 week ago)
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (1 month ago)
 - [charmbracelet/skate](https://github.com/charmbracelet/skate) - A personal key value store 🛼 (1 month ago)
