@@ -6,8 +6,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (today)
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (6 days ago)
-- [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (2 weeks ago)
 - [aymanbagabas/kalimadb](https://github.com/aymanbagabas/kalimadb) -  (2 weeks ago)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 month ago)
 - [charmbracelet/skate](https://github.com/charmbracelet/skate) - A personal key value store 🛼 (1 month ago)
@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Publish nighlty builds on push to main only](https://github.com/charmbracelet/wishlist/pull/16) on [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) (today)
+- [Publish nighlty builds on push to main only](https://github.com/charmbracelet/soft-serve/pull/62) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (today)
+- [Publish nighlty builds on push to main only](https://github.com/charmbracelet/charm/pull/65) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (today)
 - [fix: allow using custom DB, FS and Stats](https://github.com/charmbracelet/charm/pull/61) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (1 week ago)
 - [fix: use PR HEAD ref instead of merge commit](https://github.com/charmbracelet/charm/pull/60) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (1 week ago)
-- [Expose client http scheme as an env variable](https://github.com/charmbracelet/charm/pull/58) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (2 weeks ago)
-- [Add develop and nightly builds](https://github.com/charmbracelet/charm/pull/57) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (2 weeks ago)
-- [Add develop and nightly builds](https://github.com/charmbracelet/soft-serve/pull/52) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
