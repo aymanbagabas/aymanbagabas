@@ -6,9 +6,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) - The SSH directory ✨ (today)
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (today)
-- [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (today)
+- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) - The SSH directory ✨ (1 day ago)
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (1 day ago)
+- [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (1 day ago)
 - [aymanbagabas/kalimadb](https://github.com/aymanbagabas/kalimadb) -  (2 weeks ago)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 month ago)
 
@@ -22,19 +22,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [aymanbagabas/fnanendb](https://github.com/aymanbagabas/fnanendb) ([v20220116.015157](https://github.com/aymanbagabas/fnanendb/releases/tag/v20220116.015157), 3 days ago) - Fnanen.com scraper
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.1.3](https://github.com/charmbracelet/soft-serve/releases/tag/v0.1.3), 6 days ago) - A tasty, self-hostable Git server for the command line🍦
+- [aymanbagabas/fnanendb](https://github.com/aymanbagabas/fnanendb) ([v20220116.015157](https://github.com/aymanbagabas/fnanendb/releases/tag/v20220116.015157), 4 days ago) - Fnanen.com scraper
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.1.3](https://github.com/charmbracelet/soft-serve/releases/tag/v0.1.3), 1 week ago) - A tasty, self-hostable Git server for the command line🍦
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v0.1.2](https://github.com/charmbracelet/wish/releases/tag/v0.1.2), 1 week ago) - Make SSH apps, just like that! 💫
 - [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.1.3](https://github.com/charmbracelet/wishlist/releases/tag/v0.1.3), 1 week ago) - The SSH directory ✨
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.19.3](https://github.com/charmbracelet/bubbletea/releases/tag/v0.19.3), 1 week ago) - A powerful little TUI framework 🏗
 
 #### 🔨 My recent Pull Requests
 
-- [Publish nighlty builds on push to main only](https://github.com/charmbracelet/wishlist/pull/16) on [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) (today)
-- [Publish nighlty builds on push to main only](https://github.com/charmbracelet/soft-serve/pull/62) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (today)
-- [Publish nighlty builds on push to main only](https://github.com/charmbracelet/charm/pull/65) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (today)
+- [Publish nighlty builds on push to main only](https://github.com/charmbracelet/wishlist/pull/16) on [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) (1 day ago)
+- [Publish nighlty builds on push to main only](https://github.com/charmbracelet/soft-serve/pull/62) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 day ago)
+- [Publish nighlty builds on push to main only](https://github.com/charmbracelet/charm/pull/65) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (1 day ago)
 - [fix: allow using custom DB, FS and Stats](https://github.com/charmbracelet/charm/pull/61) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (1 week ago)
-- [fix: use PR HEAD ref instead of merge commit](https://github.com/charmbracelet/charm/pull/60) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (1 week ago)
+- [fix: use PR HEAD ref instead of merge commit](https://github.com/charmbracelet/charm/pull/60) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
