@@ -22,11 +22,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [libretro/retroarch-joypad-autoconfig](https://github.com/libretro/retroarch-joypad-autoconfig) ([v1.10.0](https://github.com/libretro/retroarch-joypad-autoconfig/releases/tag/v1.10.0), today) - RetroArch joypad autoconfig files
 - [aymanbagabas/fnanendb](https://github.com/aymanbagabas/fnanendb) ([v20220116.015157](https://github.com/aymanbagabas/fnanendb/releases/tag/v20220116.015157), 4 days ago) - Fnanen.com scraper
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.1.3](https://github.com/charmbracelet/soft-serve/releases/tag/v0.1.3), 1 week ago) - A tasty, self-hostable Git server for the command line🍦
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v0.1.2](https://github.com/charmbracelet/wish/releases/tag/v0.1.2), 1 week ago) - Make SSH apps, just like that! 💫
 - [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.1.3](https://github.com/charmbracelet/wishlist/releases/tag/v0.1.3), 1 week ago) - The SSH directory ✨
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.19.3](https://github.com/charmbracelet/bubbletea/releases/tag/v0.19.3), 1 week ago) - A powerful little TUI framework 🏗
 
 #### 🔨 My recent Pull Requests
 
