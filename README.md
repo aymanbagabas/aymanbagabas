@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: initial admin key can be either a file or the actual key](https://github.com/charmbracelet/soft-serve/pull/67) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (today)
 - [Publish nighlty builds on push to main only](https://github.com/charmbracelet/wishlist/pull/16) on [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) (2 days ago)
 - [Publish nighlty builds on push to main only](https://github.com/charmbracelet/soft-serve/pull/62) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (2 days ago)
 - [Publish nighlty builds on push to main only](https://github.com/charmbracelet/charm/pull/65) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (2 days ago)
 - [fix: allow using custom DB, FS and Stats](https://github.com/charmbracelet/charm/pull/61) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (1 week ago)
-- [fix: use PR HEAD ref instead of merge commit](https://github.com/charmbracelet/charm/pull/60) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
