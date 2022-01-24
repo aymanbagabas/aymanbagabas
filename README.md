@@ -7,10 +7,10 @@
 #### 👷 Check out what I'm currently working on
 
 - [charmbracelet/soft-serve-action](https://github.com/charmbracelet/soft-serve-action) - Soft-Serve Github Action (today)
-- [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files (today)
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (today)
-- [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (5 days ago)
-- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) - The SSH directory ✨ (5 days ago)
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🍡 (today)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (today)
+- [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (today)
+- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) - The SSH directory ✨ (today)
 
 #### 🌱 My latest projects
 
@@ -23,10 +23,10 @@
 #### 🔭 Latest releases I've contributed to
 
 - [aymanbagabas/fnanendb](https://github.com/aymanbagabas/fnanendb) ([v20220123.014238](https://github.com/aymanbagabas/fnanendb/releases/tag/v20220123.014238), 1 day ago) - Fnanen.com scraper
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.10.2](https://github.com/charmbracelet/bubbles/releases/tag/v0.10.2), 4 days ago) - TUI components for Bubble Tea 🍡
 - [libretro/retroarch-joypad-autoconfig](https://github.com/libretro/retroarch-joypad-autoconfig) ([v1.10.0](https://github.com/libretro/retroarch-joypad-autoconfig/releases/tag/v1.10.0), 4 days ago) - RetroArch joypad autoconfig files
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.1.3](https://github.com/charmbracelet/soft-serve/releases/tag/v0.1.3), 1 week ago) - A tasty, self-hostable Git server for the command line🍦
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v0.1.2](https://github.com/charmbracelet/wish/releases/tag/v0.1.2), 1 week ago) - Make SSH apps, just like that! 💫
-- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.1.3](https://github.com/charmbracelet/wishlist/releases/tag/v0.1.3), 1 week ago) - The SSH directory ✨
 
 #### 🔨 My recent Pull Requests
 
