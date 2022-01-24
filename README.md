@@ -6,11 +6,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) - The SSH directory ✨ (5 days ago)
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (5 days ago)
+- [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files (today)
 - [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (5 days ago)
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (5 days ago)
+- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) - The SSH directory ✨ (5 days ago)
 - [aymanbagabas/kalimadb](https://github.com/aymanbagabas/kalimadb) -  (3 weeks ago)
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 month ago)
 
 #### 🌱 My latest projects
 
@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: docker nightly tag name](https://github.com/charmbracelet/meta/pull/4) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (today)
 - [feat: initial admin key can be either a file or the actual key](https://github.com/charmbracelet/soft-serve/pull/67) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (3 days ago)
 - [Publish nighlty builds on push to main only](https://github.com/charmbracelet/wishlist/pull/16) on [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) (5 days ago)
 - [Publish nighlty builds on push to main only](https://github.com/charmbracelet/soft-serve/pull/62) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (5 days ago)
 - [Publish nighlty builds on push to main only](https://github.com/charmbracelet/charm/pull/65) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (5 days ago)
-- [fix: allow using custom DB, FS and Stats](https://github.com/charmbracelet/charm/pull/61) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (1 week ago)
 
 #### 📜 My recent blog posts
 
