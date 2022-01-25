@@ -8,9 +8,9 @@
 
 - [charmbracelet/skate](https://github.com/charmbracelet/skate) - A personal key value store 🛼 (today)
 - [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (today)
+- [charmbracelet/soft-serve-action](https://github.com/charmbracelet/soft-serve-action) - Soft-Serve Github Action (today)
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (1 day ago)
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🍡 (1 day ago)
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: git tui helpers](https://github.com/charmbracelet/soft-serve/pull/78) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (today)
+- [feat: git tui tree](https://github.com/charmbracelet/soft-serve/pull/77) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (today)
+- [feat: git tui refs](https://github.com/charmbracelet/soft-serve/pull/76) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (today)
+- [feat: git tui log](https://github.com/charmbracelet/soft-serve/pull/75) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (today)
 - [feat: new git tui](https://github.com/charmbracelet/soft-serve/pull/74) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (today)
-- [fix: docker nightly tag name](https://github.com/charmbracelet/meta/pull/4) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (1 day ago)
-- [feat: initial admin key can be either a file or the actual key](https://github.com/charmbracelet/soft-serve/pull/67) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (4 days ago)
-- [Publish nighlty builds on push to main only](https://github.com/charmbracelet/wishlist/pull/16) on [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) (6 days ago)
-- [Publish nighlty builds on push to main only](https://github.com/charmbracelet/soft-serve/pull/62) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (6 days ago)
 
 #### 📜 My recent blog posts
 
