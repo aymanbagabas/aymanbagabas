@@ -6,11 +6,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/skate](https://github.com/charmbracelet/skate) - A personal key value store 🛼 (today)
-- [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (today)
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🍡 (today)
-- [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (today)
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (today)
+- [charmbracelet/skate](https://github.com/charmbracelet/skate) - A personal key value store 🛼 (1 day ago)
+- [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (1 day ago)
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🍡 (1 day ago)
+- [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (1 day ago)
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -22,19 +22,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [aymanbagabas/fnanendb](https://github.com/aymanbagabas/fnanendb) ([v20220123.014238](https://github.com/aymanbagabas/fnanendb/releases/tag/v20220123.014238), 1 day ago) - Fnanen.com scraper
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.10.2](https://github.com/charmbracelet/bubbles/releases/tag/v0.10.2), 4 days ago) - TUI components for Bubble Tea 🍡
-- [libretro/retroarch-joypad-autoconfig](https://github.com/libretro/retroarch-joypad-autoconfig) ([v1.10.0](https://github.com/libretro/retroarch-joypad-autoconfig/releases/tag/v1.10.0), 4 days ago) - RetroArch joypad autoconfig files
+- [aymanbagabas/fnanendb](https://github.com/aymanbagabas/fnanendb) ([v20220123.014238](https://github.com/aymanbagabas/fnanendb/releases/tag/v20220123.014238), 2 days ago) - Fnanen.com scraper
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.10.2](https://github.com/charmbracelet/bubbles/releases/tag/v0.10.2), 5 days ago) - TUI components for Bubble Tea 🍡
+- [libretro/retroarch-joypad-autoconfig](https://github.com/libretro/retroarch-joypad-autoconfig) ([v1.10.0](https://github.com/libretro/retroarch-joypad-autoconfig/releases/tag/v1.10.0), 5 days ago) - RetroArch joypad autoconfig files
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.1.3](https://github.com/charmbracelet/soft-serve/releases/tag/v0.1.3), 1 week ago) - A tasty, self-hostable Git server for the command line🍦
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v0.1.2](https://github.com/charmbracelet/wish/releases/tag/v0.1.2), 1 week ago) - Make SSH apps, just like that! 💫
 
 #### 🔨 My recent Pull Requests
 
-- [fix: docker nightly tag name](https://github.com/charmbracelet/meta/pull/4) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (today)
-- [feat: initial admin key can be either a file or the actual key](https://github.com/charmbracelet/soft-serve/pull/67) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (3 days ago)
-- [Publish nighlty builds on push to main only](https://github.com/charmbracelet/wishlist/pull/16) on [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) (5 days ago)
-- [Publish nighlty builds on push to main only](https://github.com/charmbracelet/soft-serve/pull/62) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (5 days ago)
-- [Publish nighlty builds on push to main only](https://github.com/charmbracelet/charm/pull/65) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (5 days ago)
+- [fix: docker nightly tag name](https://github.com/charmbracelet/meta/pull/4) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (1 day ago)
+- [feat: initial admin key can be either a file or the actual key](https://github.com/charmbracelet/soft-serve/pull/67) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (4 days ago)
+- [Publish nighlty builds on push to main only](https://github.com/charmbracelet/wishlist/pull/16) on [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) (6 days ago)
+- [Publish nighlty builds on push to main only](https://github.com/charmbracelet/soft-serve/pull/62) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (6 days ago)
+- [Publish nighlty builds on push to main only](https://github.com/charmbracelet/charm/pull/65) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (6 days ago)
 
 #### 📜 My recent blog posts
 
