@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: new git tui](https://github.com/charmbracelet/soft-serve/pull/74) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (today)
 - [fix: docker nightly tag name](https://github.com/charmbracelet/meta/pull/4) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (1 day ago)
 - [feat: initial admin key can be either a file or the actual key](https://github.com/charmbracelet/soft-serve/pull/67) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (4 days ago)
 - [Publish nighlty builds on push to main only](https://github.com/charmbracelet/wishlist/pull/16) on [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) (6 days ago)
 - [Publish nighlty builds on push to main only](https://github.com/charmbracelet/soft-serve/pull/62) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (6 days ago)
-- [Publish nighlty builds on push to main only](https://github.com/charmbracelet/charm/pull/65) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (6 days ago)
 
 #### 📜 My recent blog posts
 
