@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix(list): DisableQuitKeybinding is ignored after updating the list](https://github.com/charmbracelet/bubbles/pull/108) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (today)
 - [feat: git tui helpers](https://github.com/charmbracelet/soft-serve/pull/78) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 day ago)
 - [feat: git tui tree](https://github.com/charmbracelet/soft-serve/pull/77) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 day ago)
 - [feat: git tui refs](https://github.com/charmbracelet/soft-serve/pull/76) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 day ago)
 - [feat: git tui log](https://github.com/charmbracelet/soft-serve/pull/75) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 day ago)
-- [feat: new git tui](https://github.com/charmbracelet/soft-serve/pull/74) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 day ago)
 
 #### 📜 My recent blog posts
 
