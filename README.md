@@ -22,11 +22,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v0.2.0](https://github.com/charmbracelet/wish/releases/tag/v0.2.0), today) - Make SSH apps, just like that! 💫
 - [aymanbagabas/kalimadb](https://github.com/aymanbagabas/kalimadb) ([v20220126.181013](https://github.com/aymanbagabas/kalimadb/releases/tag/v20220126.181013), 2 days ago) - 
 - [charmbracelet/glamour](https://github.com/charmbracelet/glamour) ([v0.5.0](https://github.com/charmbracelet/glamour/releases/tag/v0.5.0), 4 days ago) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️
 - [aymanbagabas/fnanendb](https://github.com/aymanbagabas/fnanendb) ([v20220123.014238](https://github.com/aymanbagabas/fnanendb/releases/tag/v20220123.014238), 5 days ago) - Fnanen.com scraper
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.10.2](https://github.com/charmbracelet/bubbles/releases/tag/v0.10.2), 1 week ago) - TUI components for Bubble Tea 🍡
-- [libretro/retroarch-joypad-autoconfig](https://github.com/libretro/retroarch-joypad-autoconfig) ([v1.10.0](https://github.com/libretro/retroarch-joypad-autoconfig/releases/tag/v1.10.0), 1 week ago) - RetroArch joypad autoconfig files
 
 #### 🔨 My recent Pull Requests
 
