@@ -6,11 +6,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🍡 (today)
-- [aymanbagabas/kalimadb](https://github.com/aymanbagabas/kalimadb) -  (1 day ago)
-- [charmbracelet/skate](https://github.com/charmbracelet/skate) - A personal key value store 🛼 (2 days ago)
-- [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (2 days ago)
-- [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️ (2 days ago)
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🍡 (1 day ago)
+- [aymanbagabas/kalimadb](https://github.com/aymanbagabas/kalimadb) -  (2 days ago)
+- [charmbracelet/skate](https://github.com/charmbracelet/skate) - A personal key value store 🛼 (3 days ago)
+- [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (3 days ago)
+- [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️ (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -22,19 +22,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [aymanbagabas/kalimadb](https://github.com/aymanbagabas/kalimadb) ([v20220126.181013](https://github.com/aymanbagabas/kalimadb/releases/tag/v20220126.181013), 1 day ago) - 
-- [charmbracelet/glamour](https://github.com/charmbracelet/glamour) ([v0.5.0](https://github.com/charmbracelet/glamour/releases/tag/v0.5.0), 3 days ago) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️
-- [aymanbagabas/fnanendb](https://github.com/aymanbagabas/fnanendb) ([v20220123.014238](https://github.com/aymanbagabas/fnanendb/releases/tag/v20220123.014238), 4 days ago) - Fnanen.com scraper
+- [aymanbagabas/kalimadb](https://github.com/aymanbagabas/kalimadb) ([v20220126.181013](https://github.com/aymanbagabas/kalimadb/releases/tag/v20220126.181013), 2 days ago) - 
+- [charmbracelet/glamour](https://github.com/charmbracelet/glamour) ([v0.5.0](https://github.com/charmbracelet/glamour/releases/tag/v0.5.0), 4 days ago) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️
+- [aymanbagabas/fnanendb](https://github.com/aymanbagabas/fnanendb) ([v20220123.014238](https://github.com/aymanbagabas/fnanendb/releases/tag/v20220123.014238), 5 days ago) - Fnanen.com scraper
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.10.2](https://github.com/charmbracelet/bubbles/releases/tag/v0.10.2), 1 week ago) - TUI components for Bubble Tea 🍡
 - [libretro/retroarch-joypad-autoconfig](https://github.com/libretro/retroarch-joypad-autoconfig) ([v1.10.0](https://github.com/libretro/retroarch-joypad-autoconfig/releases/tag/v1.10.0), 1 week ago) - RetroArch joypad autoconfig files
 
 #### 🔨 My recent Pull Requests
 
-- [fix(list): DisableQuitKeybinding is ignored after updating the list](https://github.com/charmbracelet/bubbles/pull/108) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (1 day ago)
-- [feat: git tui helpers](https://github.com/charmbracelet/soft-serve/pull/78) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (2 days ago)
-- [feat: git tui tree](https://github.com/charmbracelet/soft-serve/pull/77) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (2 days ago)
-- [feat: git tui refs](https://github.com/charmbracelet/soft-serve/pull/76) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (2 days ago)
-- [feat: git tui log](https://github.com/charmbracelet/soft-serve/pull/75) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (2 days ago)
+- [fix(list): DisableQuitKeybinding is ignored after updating the list](https://github.com/charmbracelet/bubbles/pull/108) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (2 days ago)
+- [feat: git tui helpers](https://github.com/charmbracelet/soft-serve/pull/78) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (3 days ago)
+- [feat: git tui tree](https://github.com/charmbracelet/soft-serve/pull/77) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (3 days ago)
+- [feat: git tui refs](https://github.com/charmbracelet/soft-serve/pull/76) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (3 days ago)
+- [feat: git tui log](https://github.com/charmbracelet/soft-serve/pull/75) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (3 days ago)
 
 #### 📜 My recent blog posts
 
@@ -46,8 +46,8 @@
 
 #### ⭐ Recent Stars
 
-- [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (2 days ago)
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (2 days ago)
+- [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (3 days ago)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (3 days ago)
 - [muesli/mango](https://github.com/muesli/mango) - mango is a man-page generator for the Go flag, pflag, and cobra packages (2 weeks ago)
 - [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) - The SSH directory ✨ (2 weeks ago)
 - [oprypin/nightly.link](https://github.com/oprypin/nightly.link) - Downloads the latest &#34;nightly&#34; build/artifact from a continuous testing workflow (3 weeks ago)
