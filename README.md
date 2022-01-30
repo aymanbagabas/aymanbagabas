@@ -22,10 +22,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [aymanbagabas/fnanendb](https://github.com/aymanbagabas/fnanendb) ([v20220130.014351](https://github.com/aymanbagabas/fnanendb/releases/tag/v20220130.014351), today) - Fnanen.com scraper
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v0.2.0](https://github.com/charmbracelet/wish/releases/tag/v0.2.0), 2 days ago) - Make SSH apps, just like that! 💫
 - [aymanbagabas/kalimadb](https://github.com/aymanbagabas/kalimadb) ([v20220126.181013](https://github.com/aymanbagabas/kalimadb/releases/tag/v20220126.181013), 4 days ago) - 
 - [charmbracelet/glamour](https://github.com/charmbracelet/glamour) ([v0.5.0](https://github.com/charmbracelet/glamour/releases/tag/v0.5.0), 6 days ago) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️
-- [aymanbagabas/fnanendb](https://github.com/aymanbagabas/fnanendb) ([v20220123.014238](https://github.com/aymanbagabas/fnanendb/releases/tag/v20220123.014238), 1 week ago) - Fnanen.com scraper
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.10.2](https://github.com/charmbracelet/bubbles/releases/tag/v0.10.2), 1 week ago) - TUI components for Bubble Tea 🍡
 
 #### 🔨 My recent Pull Requests
