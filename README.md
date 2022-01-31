@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: display files middleware](https://github.com/charmbracelet/soft-serve/pull/83) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (today)
 - [feat: add recover middleware](https://github.com/charmbracelet/wish/pull/30) on [charmbracelet/wish](https://github.com/charmbracelet/wish) (3 days ago)
 - [Graceful shutdown, recover from SSH panics, and use error logger](https://github.com/charmbracelet/charm/pull/76) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (3 days ago)
 - [fix(list): DisableQuitKeybinding is ignored after updating the list](https://github.com/charmbracelet/bubbles/pull/108) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (5 days ago)
 - [feat: git tui helpers](https://github.com/charmbracelet/soft-serve/pull/78) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (6 days ago)
-- [feat: git tui tree](https://github.com/charmbracelet/soft-serve/pull/77) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (6 days ago)
 
 #### 📜 My recent blog posts
 
