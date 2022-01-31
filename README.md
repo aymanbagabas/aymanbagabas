@@ -46,7 +46,7 @@
 
 #### ⭐ Recent Stars
 
-- [davidcroda/sshwordle](https://github.com/davidcroda/sshwordle) - Terminal based wordle clone - ssh sshwordle.daveroda.com (today)
+- [davidcroda/sshwordle](https://github.com/davidcroda/sshwordle) - Terminal based wordle clone - WIP (today)
 - [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (6 days ago)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (6 days ago)
 - [muesli/mango](https://github.com/muesli/mango) - mango is a man-page generator for the Go flag, pflag, and cobra packages (2 weeks ago)
