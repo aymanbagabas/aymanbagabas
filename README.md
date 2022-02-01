@@ -31,7 +31,7 @@
 #### 🔨 My recent Pull Requests
 
 - [fix: rename host to bind address](https://github.com/charmbracelet/soft-serve/pull/84) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (today)
-- [Make server listen on all addresses and set CHARM_SERVER_HOST default value](https://github.com/charmbracelet/charm/pull/79) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (today)
+- [Listen on CHARM_SERVER_BIND_ADDRESS and set CHARM_SERVER_HOST default value](https://github.com/charmbracelet/charm/pull/79) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (today)
 - [feat: exit session after handling git commands](https://github.com/charmbracelet/wish/pull/31) on [charmbracelet/wish](https://github.com/charmbracelet/wish) (today)
 - [feat: display files middleware](https://github.com/charmbracelet/soft-serve/pull/83) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 day ago)
 - [feat: add recover middleware](https://github.com/charmbracelet/wish/pull/30) on [charmbracelet/wish](https://github.com/charmbracelet/wish) (4 days ago)
@@ -46,11 +46,11 @@
 
 #### ⭐ Recent Stars
 
+- [achannarasappa/ticker](https://github.com/achannarasappa/ticker) - Terminal stock ticker with live updates and position tracking (today)
 - [davidcroda/sshwordle](https://github.com/davidcroda/sshwordle) - Terminal based wordle clone - WIP (1 day ago)
 - [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (1 week ago)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 week ago)
 - [muesli/mango](https://github.com/muesli/mango) - mango is a man-page generator for the Go flag, pflag, and cobra packages (2 weeks ago)
-- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) - The SSH directory ✨ (2 weeks ago)
 
 #### 📫 How to reach me
 
