@@ -7,10 +7,10 @@
 #### 👷 Check out what I'm currently working on
 
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (1 day ago)
-- [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (4 days ago)
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (1 day ago)
+- [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (1 day ago)
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🍡 (5 days ago)
 - [aymanbagabas/kalimadb](https://github.com/aymanbagabas/kalimadb) -  (6 days ago)
-- [charmbracelet/skate](https://github.com/charmbracelet/skate) - A personal key value store 🛼 (1 week ago)
 
 #### 🌱 My latest projects
 
