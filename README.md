@@ -6,11 +6,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (1 day ago)
 - [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (4 days ago)
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🍡 (5 days ago)
 - [aymanbagabas/kalimadb](https://github.com/aymanbagabas/kalimadb) -  (6 days ago)
 - [charmbracelet/skate](https://github.com/charmbracelet/skate) - A personal key value store 🛼 (1 week ago)
-- [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️ (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: rename host to bind address](https://github.com/charmbracelet/soft-serve/pull/84) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (today)
 - [Make server listen on all addresses and set CHARM_SERVER_HOST default value](https://github.com/charmbracelet/charm/pull/79) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (today)
 - [feat: exit session after handling git commands](https://github.com/charmbracelet/wish/pull/31) on [charmbracelet/wish](https://github.com/charmbracelet/wish) (today)
 - [feat: display files middleware](https://github.com/charmbracelet/soft-serve/pull/83) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 day ago)
 - [feat: add recover middleware](https://github.com/charmbracelet/wish/pull/30) on [charmbracelet/wish](https://github.com/charmbracelet/wish) (4 days ago)
-- [Graceful shutdown, recover from SSH panics, and use error logger](https://github.com/charmbracelet/charm/pull/76) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (4 days ago)
 
 #### 📜 My recent blog posts
 
