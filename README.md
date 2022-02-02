@@ -46,7 +46,7 @@
 
 #### ⭐ Recent Stars
 
-- [muesli/coral](https://github.com/muesli/coral) - Coral is a Cobra fork without any of the Viper dependencies and features (today)
+- [muesli/coral](https://github.com/muesli/coral) - Coral, a friendly Cobra fork with nearly all its features, but only 4 dependencies (today)
 - [achannarasappa/ticker](https://github.com/achannarasappa/ticker) - Terminal stock ticker with live updates and position tracking (1 day ago)
 - [davidcroda/sshwordle](https://github.com/davidcroda/sshwordle) - Terminal based wordle clone - WIP (2 days ago)
 - [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (1 week ago)
