@@ -46,11 +46,11 @@
 
 #### ⭐ Recent Stars
 
+- [muesli/coral](https://github.com/muesli/coral) - Coral is a Cobra fork without any of the Viper dependencies and features (today)
 - [achannarasappa/ticker](https://github.com/achannarasappa/ticker) - Terminal stock ticker with live updates and position tracking (1 day ago)
 - [davidcroda/sshwordle](https://github.com/davidcroda/sshwordle) - Terminal based wordle clone - WIP (2 days ago)
 - [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (1 week ago)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 week ago)
-- [muesli/mango](https://github.com/muesli/mango) - mango is a man-page generator for the Go flag, pflag, and cobra packages (3 weeks ago)
 
 #### 📫 How to reach me
 
