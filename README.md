@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: recover from middleware panics](https://github.com/charmbracelet/soft-serve/pull/85) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (today)
 - [feat: implement LinkQueue interface](https://github.com/charmbracelet/charm/pull/84) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (today)
 - [feat: sync tokens with the database](https://github.com/charmbracelet/charm/pull/81) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (1 day ago)
 - [feat: use database to store link tokens](https://github.com/charmbracelet/charm/pull/80) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (1 day ago)
 - [fix: rename host to bind address](https://github.com/charmbracelet/soft-serve/pull/84) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (2 days ago)
-- [Listen on CHARM_SERVER_BIND_ADDRESS and set CHARM_SERVER_HOST default value](https://github.com/charmbracelet/charm/pull/79) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (2 days ago)
 
 #### 📜 My recent blog posts
 
