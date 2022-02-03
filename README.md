@@ -22,11 +22,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.2.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.2.0), today) - The SSH directory ✨
 - [charmbracelet/keygen](https://github.com/charmbracelet/keygen) ([v0.2.0](https://github.com/charmbracelet/keygen/releases/tag/v0.2.0), 3 days ago) - An SSH key pair generator
 - [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) ([v5.4.0](https://github.com/OpenAPITools/openapi-generator/releases/tag/v5.4.0), 3 days ago) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
 - [aymanbagabas/fnanendb](https://github.com/aymanbagabas/fnanendb) ([v20220130.014351](https://github.com/aymanbagabas/fnanendb/releases/tag/v20220130.014351), 4 days ago) - Fnanen.com scraper
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v0.2.0](https://github.com/charmbracelet/wish/releases/tag/v0.2.0), 6 days ago) - Make SSH apps, just like that! 💫
-- [aymanbagabas/kalimadb](https://github.com/aymanbagabas/kalimadb) ([v20220126.181013](https://github.com/aymanbagabas/kalimadb/releases/tag/v20220126.181013), 1 week ago) - 
 
 #### 🔨 My recent Pull Requests
 
