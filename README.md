@@ -48,7 +48,7 @@
 
 - [muesli/coral](https://github.com/muesli/coral) - Coral, a friendly Cobra fork with nearly all its features, but only 4 dependencies (2 days ago)
 - [achannarasappa/ticker](https://github.com/achannarasappa/ticker) - Terminal stock ticker with live updates and position tracking (3 days ago)
-- [davidcroda/sshwordle](https://github.com/davidcroda/sshwordle) - Terminal based wordle clone - WIP (4 days ago)
+- [davidcroda/sshwordle](https://github.com/davidcroda/sshwordle) - Terminal based wordle clone - ssh sshwordle.daveroda.com (4 days ago)
 - [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (1 week ago)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 week ago)
 
