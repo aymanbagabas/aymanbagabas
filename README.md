@@ -6,9 +6,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (1 day ago)
-- [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (4 days ago)
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (4 days ago)
+- [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (2 days ago)
+- [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (5 days ago)
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (5 days ago)
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🍡 (1 week ago)
 - [aymanbagabas/kalimadb](https://github.com/aymanbagabas/kalimadb) -  (1 week ago)
 
@@ -22,19 +22,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.2.2](https://github.com/charmbracelet/wishlist/releases/tag/v0.2.2), today) - The SSH directory ✨
-- [charmbracelet/keygen](https://github.com/charmbracelet/keygen) ([v0.2.0](https://github.com/charmbracelet/keygen/releases/tag/v0.2.0), 4 days ago) - An SSH key pair generator
-- [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) ([v5.4.0](https://github.com/OpenAPITools/openapi-generator/releases/tag/v5.4.0), 4 days ago) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
-- [aymanbagabas/fnanendb](https://github.com/aymanbagabas/fnanendb) ([v20220130.014351](https://github.com/aymanbagabas/fnanendb/releases/tag/v20220130.014351), 5 days ago) - Fnanen.com scraper
+- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.2.2](https://github.com/charmbracelet/wishlist/releases/tag/v0.2.2), 1 day ago) - The SSH directory ✨
+- [charmbracelet/keygen](https://github.com/charmbracelet/keygen) ([v0.2.0](https://github.com/charmbracelet/keygen/releases/tag/v0.2.0), 5 days ago) - An SSH key pair generator
+- [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) ([v5.4.0](https://github.com/OpenAPITools/openapi-generator/releases/tag/v5.4.0), 5 days ago) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
+- [aymanbagabas/fnanendb](https://github.com/aymanbagabas/fnanendb) ([v20220130.014351](https://github.com/aymanbagabas/fnanendb/releases/tag/v20220130.014351), 6 days ago) - Fnanen.com scraper
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v0.2.0](https://github.com/charmbracelet/wish/releases/tag/v0.2.0), 1 week ago) - Make SSH apps, just like that! 💫
 
 #### 🔨 My recent Pull Requests
 
-- [feat: kill the program and restore terminal state](https://github.com/charmbracelet/bubbletea/pull/219) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
-- [feat: allow passing a custom panic handler](https://github.com/charmbracelet/bubbletea/pull/218) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
-- [feat: recover from middleware panics](https://github.com/charmbracelet/soft-serve/pull/85) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 day ago)
-- [feat: implement LinkQueue interface](https://github.com/charmbracelet/charm/pull/84) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (1 day ago)
-- [feat: sync tokens with the database](https://github.com/charmbracelet/charm/pull/81) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (2 days ago)
+- [feat: kill the program and restore terminal state](https://github.com/charmbracelet/bubbletea/pull/219) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
+- [feat: allow passing a custom panic handler](https://github.com/charmbracelet/bubbletea/pull/218) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 days ago)
+- [feat: recover from middleware panics](https://github.com/charmbracelet/soft-serve/pull/85) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (2 days ago)
+- [feat: implement LinkQueue interface](https://github.com/charmbracelet/charm/pull/84) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (2 days ago)
+- [feat: sync tokens with the database](https://github.com/charmbracelet/charm/pull/81) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (3 days ago)
 
 #### 📜 My recent blog posts
 
@@ -46,9 +46,9 @@
 
 #### ⭐ Recent Stars
 
-- [muesli/coral](https://github.com/muesli/coral) - Coral, a friendly Cobra fork with nearly all its features, but only 4 dependencies (2 days ago)
-- [achannarasappa/ticker](https://github.com/achannarasappa/ticker) - Terminal stock ticker with live updates and position tracking (3 days ago)
-- [davidcroda/sshwordle](https://github.com/davidcroda/sshwordle) - Terminal based wordle clone - ssh sshwordle.daveroda.com (4 days ago)
+- [muesli/coral](https://github.com/muesli/coral) - Coral, a friendly Cobra fork with nearly all its features, but only 4 dependencies (3 days ago)
+- [achannarasappa/ticker](https://github.com/achannarasappa/ticker) - Terminal stock ticker with live updates and position tracking (4 days ago)
+- [davidcroda/sshwordle](https://github.com/davidcroda/sshwordle) - Terminal based wordle clone - ssh sshwordle.daveroda.com (5 days ago)
 - [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (1 week ago)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 week ago)
 
