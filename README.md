@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: store tokens in the database instead of memory](https://github.com/charmbracelet/charm/pull/85) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (today)
 - [feat: kill the program and restore terminal state](https://github.com/charmbracelet/bubbletea/pull/219) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (3 days ago)
 - [feat: allow passing a custom panic handler](https://github.com/charmbracelet/bubbletea/pull/218) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (4 days ago)
 - [feat: recover from middleware panics](https://github.com/charmbracelet/soft-serve/pull/85) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (4 days ago)
 - [feat: implement LinkQueue interface](https://github.com/charmbracelet/charm/pull/84) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (4 days ago)
-- [feat: sync tokens with the database](https://github.com/charmbracelet/charm/pull/81) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (5 days ago)
 
 #### 📜 My recent blog posts
 
