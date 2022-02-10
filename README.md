@@ -6,11 +6,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (1 day ago)
-- [maaslalani/gambit](https://github.com/maaslalani/gambit) - Play chess in your terminal (1 day ago)
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (1 day ago)
-- [charmbracelet/keygen](https://github.com/charmbracelet/keygen) - An SSH key pair generator (1 day ago)
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (5 days ago)
+- [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (2 days ago)
+- [maaslalani/gambit](https://github.com/maaslalani/gambit) - Play chess in your terminal (2 days ago)
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (2 days ago)
+- [charmbracelet/keygen](https://github.com/charmbracelet/keygen) - An SSH key pair generator (2 days ago)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -22,19 +22,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [aymanbagabas/fnanendb](https://github.com/aymanbagabas/fnanendb) ([v20220206.015153](https://github.com/aymanbagabas/fnanendb/releases/tag/v20220206.015153), 3 days ago) - Fnanen.com scraper
-- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.2.2](https://github.com/charmbracelet/wishlist/releases/tag/v0.2.2), 5 days ago) - The SSH directory ✨
+- [aymanbagabas/fnanendb](https://github.com/aymanbagabas/fnanendb) ([v20220206.015153](https://github.com/aymanbagabas/fnanendb/releases/tag/v20220206.015153), 4 days ago) - Fnanen.com scraper
+- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.2.2](https://github.com/charmbracelet/wishlist/releases/tag/v0.2.2), 6 days ago) - The SSH directory ✨
 - [charmbracelet/keygen](https://github.com/charmbracelet/keygen) ([v0.2.0](https://github.com/charmbracelet/keygen/releases/tag/v0.2.0), 1 week ago) - An SSH key pair generator
 - [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) ([v5.4.0](https://github.com/OpenAPITools/openapi-generator/releases/tag/v5.4.0), 1 week ago) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v0.2.0](https://github.com/charmbracelet/wish/releases/tag/v0.2.0), 1 week ago) - Make SSH apps, just like that! 💫
 
 #### 🔨 My recent Pull Requests
 
-- [fix: flipped board order](https://github.com/maaslalani/gambit/pull/2) on [maaslalani/gambit](https://github.com/maaslalani/gambit) (1 day ago)
-- [feat(tea): kill and restore terminal when program exits](https://github.com/charmbracelet/wish/pull/32) on [charmbracelet/wish](https://github.com/charmbracelet/wish) (1 day ago)
-- [feat: store tokens in the database instead of memory](https://github.com/charmbracelet/charm/pull/85) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (2 days ago)
-- [feat: kill the program and restore terminal state](https://github.com/charmbracelet/bubbletea/pull/219) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (5 days ago)
-- [feat: allow passing a custom panic handler](https://github.com/charmbracelet/bubbletea/pull/218) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (6 days ago)
+- [fix: flipped board order](https://github.com/maaslalani/gambit/pull/2) on [maaslalani/gambit](https://github.com/maaslalani/gambit) (2 days ago)
+- [feat(tea): kill and restore terminal when program exits](https://github.com/charmbracelet/wish/pull/32) on [charmbracelet/wish](https://github.com/charmbracelet/wish) (2 days ago)
+- [feat: store tokens in the database instead of memory](https://github.com/charmbracelet/charm/pull/85) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (3 days ago)
+- [feat: kill the program and restore terminal state](https://github.com/charmbracelet/bubbletea/pull/219) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (6 days ago)
+- [feat: allow passing a custom panic handler](https://github.com/charmbracelet/bubbletea/pull/218) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 week ago)
 
 #### 📜 My recent blog posts
 
@@ -46,7 +46,7 @@
 
 #### ⭐ Recent Stars
 
-- [maaslalani/gambit](https://github.com/maaslalani/gambit) - Play chess in your terminal (4 days ago)
+- [maaslalani/gambit](https://github.com/maaslalani/gambit) - Play chess in your terminal (5 days ago)
 - [muesli/coral](https://github.com/muesli/coral) - Coral, a friendly Cobra fork with nearly all its features, but only 4 dependencies (1 week ago)
 - [achannarasappa/ticker](https://github.com/achannarasappa/ticker) - Terminal stock ticker with live updates and position tracking (1 week ago)
 - [davidcroda/sshwordle](https://github.com/davidcroda/sshwordle) - Terminal based wordle clone - ssh sshwordle.daveroda.com (1 week ago)
