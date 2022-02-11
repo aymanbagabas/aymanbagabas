@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Use glamour to render markdown files and fix error when switching refs](https://github.com/charmbracelet/soft-serve/pull/88) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (today)
 - [fix: flipped board order](https://github.com/maaslalani/gambit/pull/2) on [maaslalani/gambit](https://github.com/maaslalani/gambit) (3 days ago)
 - [feat(tea): kill and restore terminal when program exits](https://github.com/charmbracelet/wish/pull/32) on [charmbracelet/wish](https://github.com/charmbracelet/wish) (3 days ago)
 - [feat: store tokens in the database instead of memory](https://github.com/charmbracelet/charm/pull/85) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (4 days ago)
 - [feat: kill the program and restore terminal state](https://github.com/charmbracelet/bubbletea/pull/219) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 week ago)
-- [feat: allow passing a custom panic handler](https://github.com/charmbracelet/bubbletea/pull/218) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 week ago)
 
 #### 📜 My recent blog posts
 
