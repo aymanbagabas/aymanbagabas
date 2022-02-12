@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [WIP: networked play over ssh](https://github.com/maaslalani/gambit/pull/3) on [maaslalani/gambit](https://github.com/maaslalani/gambit) (today)
 - [Use glamour to render markdown files and fix error when switching refs](https://github.com/charmbracelet/soft-serve/pull/88) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 day ago)
 - [fix: flipped board order](https://github.com/maaslalani/gambit/pull/2) on [maaslalani/gambit](https://github.com/maaslalani/gambit) (4 days ago)
 - [feat(tea): kill and restore terminal when program exits](https://github.com/charmbracelet/wish/pull/32) on [charmbracelet/wish](https://github.com/charmbracelet/wish) (4 days ago)
 - [feat: store tokens in the database instead of memory](https://github.com/charmbracelet/charm/pull/85) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (5 days ago)
-- [feat: kill the program and restore terminal state](https://github.com/charmbracelet/bubbletea/pull/219) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 week ago)
 
 #### 📜 My recent blog posts
 
