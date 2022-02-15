@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Add passphrase support](https://github.com/charmbracelet/keygen/pull/4) on [charmbracelet/keygen](https://github.com/charmbracelet/keygen) (today)
 - [Networked play over ssh](https://github.com/maaslalani/gambit/pull/3) on [maaslalani/gambit](https://github.com/maaslalani/gambit) (3 days ago)
 - [Use glamour to render markdown files and fix error when switching refs](https://github.com/charmbracelet/soft-serve/pull/88) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (4 days ago)
 - [fix: flipped board order](https://github.com/maaslalani/gambit/pull/2) on [maaslalani/gambit](https://github.com/maaslalani/gambit) (1 week ago)
 - [feat(tea): kill and restore terminal when program exits](https://github.com/charmbracelet/wish/pull/32) on [charmbracelet/wish](https://github.com/charmbracelet/wish) (1 week ago)
-- [feat: store tokens in the database instead of memory](https://github.com/charmbracelet/charm/pull/85) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (1 week ago)
 
 #### 📜 My recent blog posts
 
