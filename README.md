@@ -22,11 +22,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.20.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.20.0), today) - A powerful little TUI framework 🏗
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.5.0](https://github.com/charmbracelet/lipgloss/releases/tag/v0.5.0), 1 day ago) - Style definitions for nice terminal layouts 👄
 - [aymanbagabas/fnanendb](https://github.com/aymanbagabas/fnanendb) ([v20220206.015153](https://github.com/aymanbagabas/fnanendb/releases/tag/v20220206.015153), 1 week ago) - Fnanen.com scraper
 - [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.2.2](https://github.com/charmbracelet/wishlist/releases/tag/v0.2.2), 1 week ago) - The SSH directory ✨
 - [charmbracelet/keygen](https://github.com/charmbracelet/keygen) ([v0.2.0](https://github.com/charmbracelet/keygen/releases/tag/v0.2.0), 2 weeks ago) - An SSH key pair generator
-- [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) ([v5.4.0](https://github.com/OpenAPITools/openapi-generator/releases/tag/v5.4.0), 2 weeks ago) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
 
 #### 🔨 My recent Pull Requests
 
