@@ -6,10 +6,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/keygen](https://github.com/charmbracelet/keygen) - An SSH key pair generator (today)
-- [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files (1 day ago)
-- [maaslalani/gambit](https://github.com/maaslalani/gambit) - Play chess in your terminal (3 days ago)
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (4 days ago)
+- [charmbracelet/keygen](https://github.com/charmbracelet/keygen) - An SSH key pair generator (1 day ago)
+- [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files (2 days ago)
+- [maaslalani/gambit](https://github.com/maaslalani/gambit) - Play chess in your terminal (4 days ago)
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (5 days ago)
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (1 week ago)
 
 #### 🌱 My latest projects
@@ -22,17 +22,17 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/keygen](https://github.com/charmbracelet/keygen) ([v0.2.1](https://github.com/charmbracelet/keygen/releases/tag/v0.2.1), today) - An SSH key pair generator
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.20.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.20.0), today) - A powerful little TUI framework 🏗
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.5.0](https://github.com/charmbracelet/lipgloss/releases/tag/v0.5.0), 1 day ago) - Style definitions for nice terminal layouts 👄
+- [charmbracelet/keygen](https://github.com/charmbracelet/keygen) ([v0.2.1](https://github.com/charmbracelet/keygen/releases/tag/v0.2.1), 1 day ago) - An SSH key pair generator
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.20.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.20.0), 1 day ago) - A powerful little TUI framework 🏗
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.5.0](https://github.com/charmbracelet/lipgloss/releases/tag/v0.5.0), 2 days ago) - Style definitions for nice terminal layouts 👄
 - [aymanbagabas/fnanendb](https://github.com/aymanbagabas/fnanendb) ([v20220206.015153](https://github.com/aymanbagabas/fnanendb/releases/tag/v20220206.015153), 1 week ago) - Fnanen.com scraper
 - [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.2.2](https://github.com/charmbracelet/wishlist/releases/tag/v0.2.2), 1 week ago) - The SSH directory ✨
 
 #### 🔨 My recent Pull Requests
 
-- [Add passphrase support](https://github.com/charmbracelet/keygen/pull/4) on [charmbracelet/keygen](https://github.com/charmbracelet/keygen) (today)
-- [Networked play over ssh](https://github.com/maaslalani/gambit/pull/3) on [maaslalani/gambit](https://github.com/maaslalani/gambit) (3 days ago)
-- [Use glamour to render markdown files and fix error when switching refs](https://github.com/charmbracelet/soft-serve/pull/88) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (4 days ago)
+- [Add passphrase support](https://github.com/charmbracelet/keygen/pull/4) on [charmbracelet/keygen](https://github.com/charmbracelet/keygen) (1 day ago)
+- [Networked play over ssh](https://github.com/maaslalani/gambit/pull/3) on [maaslalani/gambit](https://github.com/maaslalani/gambit) (4 days ago)
+- [Use glamour to render markdown files and fix error when switching refs](https://github.com/charmbracelet/soft-serve/pull/88) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (5 days ago)
 - [fix: flipped board order](https://github.com/maaslalani/gambit/pull/2) on [maaslalani/gambit](https://github.com/maaslalani/gambit) (1 week ago)
 - [feat(tea): kill and restore terminal when program exits](https://github.com/charmbracelet/wish/pull/32) on [charmbracelet/wish](https://github.com/charmbracelet/wish) (1 week ago)
 
@@ -47,7 +47,7 @@
 #### ⭐ Recent Stars
 
 - [maaslalani/gambit](https://github.com/maaslalani/gambit) - Play chess in your terminal (1 week ago)
-- [muesli/coral](https://github.com/muesli/coral) - Coral, a friendly Cobra fork with nearly all its features, but only 4 dependencies (1 week ago)
+- [muesli/coral](https://github.com/muesli/coral) - Coral, a friendly Cobra fork with nearly all its features, but only 4 dependencies (2 weeks ago)
 - [achannarasappa/ticker](https://github.com/achannarasappa/ticker) - Terminal stock ticker with live updates and position tracking (2 weeks ago)
 - [davidcroda/sshwordle](https://github.com/davidcroda/sshwordle) - Terminal based wordle clone - ssh sshwordle.daveroda.com (2 weeks ago)
 - [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (3 weeks ago)
