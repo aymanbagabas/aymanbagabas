@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Cache git trees and commits](https://github.com/charmbracelet/soft-serve/pull/90) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (today)
 - [fix(tui): cache ref commits and track annotated tags ](https://github.com/charmbracelet/soft-serve/pull/89) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 day ago)
 - [Add passphrase support](https://github.com/charmbracelet/keygen/pull/4) on [charmbracelet/keygen](https://github.com/charmbracelet/keygen) (2 days ago)
 - [Networked play over ssh](https://github.com/maaslalani/gambit/pull/3) on [maaslalani/gambit](https://github.com/maaslalani/gambit) (5 days ago)
 - [Use glamour to render markdown files and fix error when switching refs](https://github.com/charmbracelet/soft-serve/pull/88) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (6 days ago)
-- [fix: flipped board order](https://github.com/maaslalani/gambit/pull/2) on [maaslalani/gambit](https://github.com/maaslalani/gambit) (1 week ago)
 
 #### 📜 My recent blog posts
 
