@@ -6,11 +6,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (today)
-- [charmbracelet/keygen](https://github.com/charmbracelet/keygen) - An SSH key pair generator (2 days ago)
-- [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files (3 days ago)
-- [maaslalani/gambit](https://github.com/maaslalani/gambit) - Play chess in your terminal (5 days ago)
-- [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (1 week ago)
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (1 day ago)
+- [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (2 days ago)
+- [charmbracelet/keygen](https://github.com/charmbracelet/keygen) - An SSH key pair generator (3 days ago)
+- [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files (4 days ago)
+- [maaslalani/gambit](https://github.com/maaslalani/gambit) - Play chess in your terminal (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -22,19 +22,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.2.1](https://github.com/charmbracelet/soft-serve/releases/tag/v0.2.1), 1 day ago) - A tasty, self-hostable Git server for the command line🍦
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.10.3](https://github.com/charmbracelet/bubbles/releases/tag/v0.10.3), 1 day ago) - TUI components for Bubble Tea 🍡
-- [charmbracelet/keygen](https://github.com/charmbracelet/keygen) ([v0.2.1](https://github.com/charmbracelet/keygen/releases/tag/v0.2.1), 2 days ago) - An SSH key pair generator
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.20.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.20.0), 2 days ago) - A powerful little TUI framework 🏗
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.5.0](https://github.com/charmbracelet/lipgloss/releases/tag/v0.5.0), 3 days ago) - Style definitions for nice terminal layouts 👄
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.2.1](https://github.com/charmbracelet/soft-serve/releases/tag/v0.2.1), 2 days ago) - A tasty, self-hostable Git server for the command line🍦
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.10.3](https://github.com/charmbracelet/bubbles/releases/tag/v0.10.3), 2 days ago) - TUI components for Bubble Tea 🍡
+- [charmbracelet/keygen](https://github.com/charmbracelet/keygen) ([v0.2.1](https://github.com/charmbracelet/keygen/releases/tag/v0.2.1), 3 days ago) - An SSH key pair generator
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.20.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.20.0), 3 days ago) - A powerful little TUI framework 🏗
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.5.0](https://github.com/charmbracelet/lipgloss/releases/tag/v0.5.0), 4 days ago) - Style definitions for nice terminal layouts 👄
 
 #### 🔨 My recent Pull Requests
 
-- [Cache git trees and commits](https://github.com/charmbracelet/soft-serve/pull/90) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (today)
-- [fix(tui): cache ref commits and track annotated tags ](https://github.com/charmbracelet/soft-serve/pull/89) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 day ago)
-- [Add passphrase support](https://github.com/charmbracelet/keygen/pull/4) on [charmbracelet/keygen](https://github.com/charmbracelet/keygen) (2 days ago)
-- [Networked play over ssh](https://github.com/maaslalani/gambit/pull/3) on [maaslalani/gambit](https://github.com/maaslalani/gambit) (5 days ago)
-- [Use glamour to render markdown files and fix error when switching refs](https://github.com/charmbracelet/soft-serve/pull/88) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (6 days ago)
+- [Cache git trees and commits](https://github.com/charmbracelet/soft-serve/pull/90) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 day ago)
+- [fix(tui): cache ref commits and track annotated tags ](https://github.com/charmbracelet/soft-serve/pull/89) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (2 days ago)
+- [Add passphrase support](https://github.com/charmbracelet/keygen/pull/4) on [charmbracelet/keygen](https://github.com/charmbracelet/keygen) (3 days ago)
+- [Networked play over ssh](https://github.com/maaslalani/gambit/pull/3) on [maaslalani/gambit](https://github.com/maaslalani/gambit) (6 days ago)
+- [Use glamour to render markdown files and fix error when switching refs](https://github.com/charmbracelet/soft-serve/pull/88) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 week ago)
 
 #### 📜 My recent blog posts
 
