@@ -22,11 +22,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/skate](https://github.com/charmbracelet/skate) ([v0.1.4](https://github.com/charmbracelet/skate/releases/tag/v0.1.4), today) - A personal key value store 🛼
 - [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.10.0](https://github.com/charmbracelet/charm/releases/tag/v0.10.0), today) - The Charm Tool and Library 🌟
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.2.1](https://github.com/charmbracelet/soft-serve/releases/tag/v0.2.1), 2 days ago) - A tasty, self-hostable Git server for the command line🍦
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.10.3](https://github.com/charmbracelet/bubbles/releases/tag/v0.10.3), 2 days ago) - TUI components for Bubble Tea 🍡
 - [charmbracelet/keygen](https://github.com/charmbracelet/keygen) ([v0.2.1](https://github.com/charmbracelet/keygen/releases/tag/v0.2.1), 3 days ago) - An SSH key pair generator
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.20.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.20.0), 3 days ago) - A powerful little TUI framework 🏗
 
 #### 🔨 My recent Pull Requests
 
