@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Add db migrate tool and fix cascade db deletions](https://github.com/charmbracelet/charm/pull/87) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (today)
 - [ci: use meta shared config](https://github.com/charmbracelet/charm/pull/86) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (today)
 - [Cache git trees and commits](https://github.com/charmbracelet/soft-serve/pull/90) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 day ago)
 - [fix(tui): cache ref commits and track annotated tags ](https://github.com/charmbracelet/soft-serve/pull/89) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (2 days ago)
 - [Add passphrase support](https://github.com/charmbracelet/keygen/pull/4) on [charmbracelet/keygen](https://github.com/charmbracelet/keygen) (3 days ago)
-- [Networked play over ssh](https://github.com/maaslalani/gambit/pull/3) on [maaslalani/gambit](https://github.com/maaslalani/gambit) (6 days ago)
 
 #### 📜 My recent blog posts
 
