@@ -6,10 +6,10 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (today)
 - [charmbracelet/skate](https://github.com/charmbracelet/skate) - A personal key value store 🛼 (1 day ago)
-- [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files (1 day ago)
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (1 day ago)
-- [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (2 days ago)
+- [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files (1 day ago)
 - [charmbracelet/keygen](https://github.com/charmbracelet/keygen) - An SSH key pair generator (3 days ago)
 
 #### 🌱 My latest projects
@@ -22,19 +22,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.10.1](https://github.com/charmbracelet/charm/releases/tag/v0.10.1), today) - The Charm Tool and Library 🌟
 - [charmbracelet/skate](https://github.com/charmbracelet/skate) ([v0.1.4](https://github.com/charmbracelet/skate/releases/tag/v0.1.4), today) - A personal key value store 🛼
-- [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.10.0](https://github.com/charmbracelet/charm/releases/tag/v0.10.0), today) - The Charm Tool and Library 🌟
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.2.1](https://github.com/charmbracelet/soft-serve/releases/tag/v0.2.1), 2 days ago) - A tasty, self-hostable Git server for the command line🍦
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.10.3](https://github.com/charmbracelet/bubbles/releases/tag/v0.10.3), 2 days ago) - TUI components for Bubble Tea 🍡
 - [charmbracelet/keygen](https://github.com/charmbracelet/keygen) ([v0.2.1](https://github.com/charmbracelet/keygen/releases/tag/v0.2.1), 3 days ago) - An SSH key pair generator
 
 #### 🔨 My recent Pull Requests
 
+- [Lazy load git tui bubbles](https://github.com/charmbracelet/soft-serve/pull/91) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (today)
 - [Add db migrate tool and fix cascade db deletions](https://github.com/charmbracelet/charm/pull/87) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (today)
 - [ci: use meta shared config](https://github.com/charmbracelet/charm/pull/86) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (today)
 - [Cache git trees and commits](https://github.com/charmbracelet/soft-serve/pull/90) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 day ago)
 - [fix(tui): cache ref commits and track annotated tags ](https://github.com/charmbracelet/soft-serve/pull/89) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (2 days ago)
-- [Add passphrase support](https://github.com/charmbracelet/keygen/pull/4) on [charmbracelet/keygen](https://github.com/charmbracelet/keygen) (3 days ago)
 
 #### 📜 My recent blog posts
 
