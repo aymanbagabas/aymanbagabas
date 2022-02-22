@@ -6,11 +6,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (today)
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (today)
 - [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files (1 day ago)
 - [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (4 days ago)
 - [charmbracelet/skate](https://github.com/charmbracelet/skate) - A personal key value store 🛼 (5 days ago)
-- [charmbracelet/keygen](https://github.com/charmbracelet/keygen) - An SSH key pair generator (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -22,11 +22,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v0.2.1](https://github.com/charmbracelet/wish/releases/tag/v0.2.1), today) - Make SSH apps, just like that! 💫
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.2.2](https://github.com/charmbracelet/soft-serve/releases/tag/v0.2.2), 3 days ago) - A tasty, self-hostable Git server for the command line🍦
 - [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.10.1](https://github.com/charmbracelet/charm/releases/tag/v0.10.1), 4 days ago) - The Charm Tool and Library 🌟
 - [charmbracelet/skate](https://github.com/charmbracelet/skate) ([v0.1.4](https://github.com/charmbracelet/skate/releases/tag/v0.1.4), 4 days ago) - A personal key value store 🛼
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.10.3](https://github.com/charmbracelet/bubbles/releases/tag/v0.10.3), 6 days ago) - TUI components for Bubble Tea 🍡
-- [charmbracelet/keygen](https://github.com/charmbracelet/keygen) ([v0.2.1](https://github.com/charmbracelet/keygen/releases/tag/v0.2.1), 1 week ago) - An SSH key pair generator
 
 #### 🔨 My recent Pull Requests
 
