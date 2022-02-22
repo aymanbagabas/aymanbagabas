@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [TUI: only show branches and tags, cat mw: list directory entries](https://github.com/charmbracelet/soft-serve/pull/92) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (today)
 - [Lazy load git tui bubbles](https://github.com/charmbracelet/soft-serve/pull/91) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (4 days ago)
 - [Add db migrate tool and fix cascade db deletions](https://github.com/charmbracelet/charm/pull/87) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (4 days ago)
 - [ci: use meta shared config](https://github.com/charmbracelet/charm/pull/86) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (4 days ago)
 - [Cache git trees and commits](https://github.com/charmbracelet/soft-serve/pull/90) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (5 days ago)
-- [fix(tui): cache ref commits and track annotated tags ](https://github.com/charmbracelet/soft-serve/pull/89) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (6 days ago)
 
 #### 📜 My recent blog posts
 
