@@ -46,11 +46,11 @@
 
 #### ⭐ Recent Stars
 
+- [oz/tz](https://github.com/oz/tz) - 🌐 A time zone helper (today)
 - [76creates/stickers](https://github.com/76creates/stickers) - Building blocks for charmbracelet/lipgloss 👾 (today)
 - [maaslalani/gambit](https://github.com/maaslalani/gambit) - Play chess in your terminal (2 weeks ago)
 - [muesli/coral](https://github.com/muesli/coral) - Coral, a friendly Cobra fork with nearly all its features, but only 4 dependencies (3 weeks ago)
 - [achannarasappa/ticker](https://github.com/achannarasappa/ticker) - Terminal stock ticker with live updates and position tracking (3 weeks ago)
-- [davidcroda/sshwordle](https://github.com/davidcroda/sshwordle) - Terminal based wordle clone - ssh sshwordle.daveroda.com (3 weeks ago)
 
 #### 📫 How to reach me
 
