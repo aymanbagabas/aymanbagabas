@@ -6,11 +6,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (today)
-- [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (today)
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (today)
-- [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files (1 day ago)
-- [charmbracelet/skate](https://github.com/charmbracelet/skate) - A personal key value store 🛼 (5 days ago)
+- [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (1 day ago)
+- [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (1 day ago)
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (1 day ago)
+- [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files (2 days ago)
+- [charmbracelet/skate](https://github.com/charmbracelet/skate) - A personal key value store 🛼 (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -22,19 +22,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v0.3.0](https://github.com/charmbracelet/wish/releases/tag/v0.3.0), today) - Make SSH apps, just like that! 💫
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.2.2](https://github.com/charmbracelet/soft-serve/releases/tag/v0.2.2), 3 days ago) - A tasty, self-hostable Git server for the command line🍦
-- [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.10.1](https://github.com/charmbracelet/charm/releases/tag/v0.10.1), 4 days ago) - The Charm Tool and Library 🌟
-- [charmbracelet/skate](https://github.com/charmbracelet/skate) ([v0.1.4](https://github.com/charmbracelet/skate/releases/tag/v0.1.4), 4 days ago) - A personal key value store 🛼
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.10.3](https://github.com/charmbracelet/bubbles/releases/tag/v0.10.3), 6 days ago) - TUI components for Bubble Tea 🍡
+- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v0.3.0](https://github.com/charmbracelet/wish/releases/tag/v0.3.0), 1 day ago) - Make SSH apps, just like that! 💫
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.2.2](https://github.com/charmbracelet/soft-serve/releases/tag/v0.2.2), 4 days ago) - A tasty, self-hostable Git server for the command line🍦
+- [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.10.1](https://github.com/charmbracelet/charm/releases/tag/v0.10.1), 5 days ago) - The Charm Tool and Library 🌟
+- [charmbracelet/skate](https://github.com/charmbracelet/skate) ([v0.1.4](https://github.com/charmbracelet/skate/releases/tag/v0.1.4), 5 days ago) - A personal key value store 🛼
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.10.3](https://github.com/charmbracelet/bubbles/releases/tag/v0.10.3), 1 week ago) - TUI components for Bubble Tea 🍡
 
 #### 🔨 My recent Pull Requests
 
-- [feat: add server public url](https://github.com/charmbracelet/charm/pull/89) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (today)
-- [TUI: only show branches and tags, cat mw: list directory entries](https://github.com/charmbracelet/soft-serve/pull/92) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (today)
-- [Lazy load git tui bubbles](https://github.com/charmbracelet/soft-serve/pull/91) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (4 days ago)
-- [Add db migrate tool and fix cascade db deletions](https://github.com/charmbracelet/charm/pull/87) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (4 days ago)
-- [ci: use meta shared config](https://github.com/charmbracelet/charm/pull/86) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (4 days ago)
+- [feat: add server public url](https://github.com/charmbracelet/charm/pull/89) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (1 day ago)
+- [TUI: only show branches and tags, cat mw: list directory entries](https://github.com/charmbracelet/soft-serve/pull/92) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 day ago)
+- [Lazy load git tui bubbles](https://github.com/charmbracelet/soft-serve/pull/91) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (5 days ago)
+- [Add db migrate tool and fix cascade db deletions](https://github.com/charmbracelet/charm/pull/87) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (5 days ago)
+- [ci: use meta shared config](https://github.com/charmbracelet/charm/pull/86) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (5 days ago)
 
 #### 📜 My recent blog posts
 
@@ -47,7 +47,7 @@
 #### ⭐ Recent Stars
 
 - [maaslalani/gambit](https://github.com/maaslalani/gambit) - Play chess in your terminal (2 weeks ago)
-- [muesli/coral](https://github.com/muesli/coral) - Coral, a friendly Cobra fork with nearly all its features, but only 4 dependencies (2 weeks ago)
+- [muesli/coral](https://github.com/muesli/coral) - Coral, a friendly Cobra fork with nearly all its features, but only 4 dependencies (3 weeks ago)
 - [achannarasappa/ticker](https://github.com/achannarasappa/ticker) - Terminal stock ticker with live updates and position tracking (3 weeks ago)
 - [davidcroda/sshwordle](https://github.com/davidcroda/sshwordle) - Terminal based wordle clone - ssh sshwordle.daveroda.com (3 weeks ago)
 - [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (4 weeks ago)
