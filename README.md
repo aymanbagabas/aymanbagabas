@@ -22,10 +22,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.10.2](https://github.com/charmbracelet/charm/releases/tag/v0.10.2), today) - The Charm Tool and Library 🌟
 - [maaslalani/gambit](https://github.com/maaslalani/gambit) ([v0.1.0](https://github.com/maaslalani/gambit/releases/tag/v0.1.0), today) - Play chess in your terminal
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.2.3](https://github.com/charmbracelet/soft-serve/releases/tag/v0.2.3), today) - A tasty, self-hostable Git server for the command line🍦
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v0.3.0](https://github.com/charmbracelet/wish/releases/tag/v0.3.0), 1 day ago) - Make SSH apps, just like that! 💫
-- [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.10.1](https://github.com/charmbracelet/charm/releases/tag/v0.10.1), 5 days ago) - The Charm Tool and Library 🌟
 - [charmbracelet/skate](https://github.com/charmbracelet/skate) ([v0.1.4](https://github.com/charmbracelet/skate/releases/tag/v0.1.4), 5 days ago) - A personal key value store 🛼
 
 #### 🔨 My recent Pull Requests
