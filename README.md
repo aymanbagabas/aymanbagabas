@@ -6,11 +6,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files (today)
-- [maaslalani/gambit](https://github.com/maaslalani/gambit) - Play chess in your terminal (1 day ago)
-- [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (2 days ago)
-- [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (2 days ago)
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (2 days ago)
+- [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files (1 day ago)
+- [maaslalani/gambit](https://github.com/maaslalani/gambit) - Play chess in your terminal (2 days ago)
+- [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (3 days ago)
+- [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (3 days ago)
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -22,19 +22,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.10.2](https://github.com/charmbracelet/charm/releases/tag/v0.10.2), 1 day ago) - The Charm Tool and Library 🌟
-- [maaslalani/gambit](https://github.com/maaslalani/gambit) ([v0.1.0](https://github.com/maaslalani/gambit/releases/tag/v0.1.0), 1 day ago) - Play chess in your terminal
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.2.3](https://github.com/charmbracelet/soft-serve/releases/tag/v0.2.3), 1 day ago) - A tasty, self-hostable Git server for the command line🍦
-- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v0.3.0](https://github.com/charmbracelet/wish/releases/tag/v0.3.0), 2 days ago) - Make SSH apps, just like that! 💫
-- [charmbracelet/skate](https://github.com/charmbracelet/skate) ([v0.1.4](https://github.com/charmbracelet/skate/releases/tag/v0.1.4), 6 days ago) - A personal key value store 🛼
+- [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.10.2](https://github.com/charmbracelet/charm/releases/tag/v0.10.2), 2 days ago) - The Charm Tool and Library 🌟
+- [maaslalani/gambit](https://github.com/maaslalani/gambit) ([v0.1.0](https://github.com/maaslalani/gambit/releases/tag/v0.1.0), 2 days ago) - Play chess in your terminal
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.2.3](https://github.com/charmbracelet/soft-serve/releases/tag/v0.2.3), 2 days ago) - A tasty, self-hostable Git server for the command line🍦
+- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v0.3.0](https://github.com/charmbracelet/wish/releases/tag/v0.3.0), 3 days ago) - Make SSH apps, just like that! 💫
+- [charmbracelet/skate](https://github.com/charmbracelet/skate) ([v0.1.4](https://github.com/charmbracelet/skate/releases/tag/v0.1.4), 1 week ago) - A personal key value store 🛼
 
 #### 🔨 My recent Pull Requests
 
-- [doc: update docker image url](https://github.com/maaslalani/gambit/pull/7) on [maaslalani/gambit](https://github.com/maaslalani/gambit) (1 day ago)
-- [Docker, workflows, and docs](https://github.com/maaslalani/gambit/pull/6) on [maaslalani/gambit](https://github.com/maaslalani/gambit) (1 day ago)
-- [feat: add server public url](https://github.com/charmbracelet/charm/pull/89) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (2 days ago)
-- [TUI: only show branches and tags, cat mw: list directory entries](https://github.com/charmbracelet/soft-serve/pull/92) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (2 days ago)
-- [Lazy load git tui bubbles](https://github.com/charmbracelet/soft-serve/pull/91) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (6 days ago)
+- [doc: update docker image url](https://github.com/maaslalani/gambit/pull/7) on [maaslalani/gambit](https://github.com/maaslalani/gambit) (2 days ago)
+- [Docker, workflows, and docs](https://github.com/maaslalani/gambit/pull/6) on [maaslalani/gambit](https://github.com/maaslalani/gambit) (2 days ago)
+- [feat: add server public url](https://github.com/charmbracelet/charm/pull/89) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (3 days ago)
+- [TUI: only show branches and tags, cat mw: list directory entries](https://github.com/charmbracelet/soft-serve/pull/92) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (3 days ago)
+- [Lazy load git tui bubbles](https://github.com/charmbracelet/soft-serve/pull/91) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 week ago)
 
 #### 📜 My recent blog posts
 
@@ -46,8 +46,8 @@
 
 #### ⭐ Recent Stars
 
-- [oz/tz](https://github.com/oz/tz) - 🌐 A time zone helper (1 day ago)
-- [76creates/stickers](https://github.com/76creates/stickers) - Building blocks for charmbracelet/lipgloss 👾 (1 day ago)
+- [oz/tz](https://github.com/oz/tz) - 🌐 A time zone helper (2 days ago)
+- [76creates/stickers](https://github.com/76creates/stickers) - Building blocks for charmbracelet/lipgloss 👾 (2 days ago)
 - [maaslalani/gambit](https://github.com/maaslalani/gambit) - Play chess in your terminal (2 weeks ago)
 - [muesli/coral](https://github.com/muesli/coral) - Coral, a friendly Cobra fork with nearly all its features, but only 4 dependencies (3 weeks ago)
 - [achannarasappa/ticker](https://github.com/achannarasappa/ticker) - Terminal stock ticker with live updates and position tracking (3 weeks ago)
