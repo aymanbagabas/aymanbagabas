@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: add server host key](https://github.com/charmbracelet/confettysh/pull/6) on [charmbracelet/confettysh](https://github.com/charmbracelet/confettysh) (today)
 - [doc: update docker image url](https://github.com/maaslalani/gambit/pull/7) on [maaslalani/gambit](https://github.com/maaslalani/gambit) (5 days ago)
 - [Docker, workflows, and docs](https://github.com/maaslalani/gambit/pull/6) on [maaslalani/gambit](https://github.com/maaslalani/gambit) (5 days ago)
 - [feat: add server public url](https://github.com/charmbracelet/charm/pull/89) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (6 days ago)
 - [TUI: only show branches and tags, cat mw: list directory entries](https://github.com/charmbracelet/soft-serve/pull/92) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (6 days ago)
-- [Lazy load git tui bubbles](https://github.com/charmbracelet/soft-serve/pull/91) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 week ago)
 
 #### 📜 My recent blog posts
 
