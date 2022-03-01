@@ -6,11 +6,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [charmbracelet/confettysh](https://github.com/charmbracelet/confettysh) - confetti over ssh (today)
 - [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files (5 days ago)
 - [maaslalani/gambit](https://github.com/maaslalani/gambit) - Play chess in your terminal (6 days ago)
 - [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (1 week ago)
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (1 week ago)
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -22,11 +22,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/confettysh](https://github.com/charmbracelet/confettysh) ([v1.0.2](https://github.com/charmbracelet/confettysh/releases/tag/v1.0.2), today) - confetti over ssh
 - [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.10.2](https://github.com/charmbracelet/charm/releases/tag/v0.10.2), 6 days ago) - The Charm Tool and Library 🌟
 - [maaslalani/gambit](https://github.com/maaslalani/gambit) ([v0.1.0](https://github.com/maaslalani/gambit/releases/tag/v0.1.0), 6 days ago) - Play chess in your terminal
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.2.3](https://github.com/charmbracelet/soft-serve/releases/tag/v0.2.3), 6 days ago) - A tasty, self-hostable Git server for the command line🍦
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v0.3.0](https://github.com/charmbracelet/wish/releases/tag/v0.3.0), 1 week ago) - Make SSH apps, just like that! 💫
-- [charmbracelet/skate](https://github.com/charmbracelet/skate) ([v0.1.4](https://github.com/charmbracelet/skate/releases/tag/v0.1.4), 1 week ago) - A personal key value store 🛼
 
 #### 🔨 My recent Pull Requests
 
