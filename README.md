@@ -8,9 +8,9 @@
 
 - [aymanbagabas/nyancatsh](https://github.com/aymanbagabas/nyancatsh) - Nyancat over SSH 🐱 (today)
 - [aymanbagabas/kalimadb](https://github.com/aymanbagabas/kalimadb) -  (today)
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🍡 (today)
 - [charmbracelet/confettysh](https://github.com/charmbracelet/confettysh) - confetti over ssh (1 day ago)
 - [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files (6 days ago)
-- [maaslalani/gambit](https://github.com/maaslalani/gambit) - Play chess in your terminal (1 week ago)
 
 #### 🌱 My latest projects
 
