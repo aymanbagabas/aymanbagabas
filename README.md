@@ -22,19 +22,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [aymanbagabas/kalimadb](https://github.com/aymanbagabas/kalimadb) ([v20220302.215042](https://github.com/aymanbagabas/kalimadb/releases/tag/v20220302.215042), today) - 
 - [aymanbagabas/nyancatsh](https://github.com/aymanbagabas/nyancatsh) ([v1.0.0](https://github.com/aymanbagabas/nyancatsh/releases/tag/v1.0.0), today) - Nyancat over SSH 🐱
 - [charmbracelet/confettysh](https://github.com/charmbracelet/confettysh) ([v1.0.2](https://github.com/charmbracelet/confettysh/releases/tag/v1.0.2), 1 day ago) - confetti over ssh
 - [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.10.2](https://github.com/charmbracelet/charm/releases/tag/v0.10.2), 1 week ago) - The Charm Tool and Library 🌟
 - [maaslalani/gambit](https://github.com/maaslalani/gambit) ([v0.1.0](https://github.com/maaslalani/gambit/releases/tag/v0.1.0), 1 week ago) - Play chess in your terminal
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.2.3](https://github.com/charmbracelet/soft-serve/releases/tag/v0.2.3), 1 week ago) - A tasty, self-hostable Git server for the command line🍦
 
 #### 🔨 My recent Pull Requests
 
+- [Git TUI improvements](https://github.com/charmbracelet/soft-serve/pull/97) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (today)
+- [fix(list): rendering empty list](https://github.com/charmbracelet/bubbles/pull/123) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (today)
 - [fix: add server host key](https://github.com/charmbracelet/confettysh/pull/6) on [charmbracelet/confettysh](https://github.com/charmbracelet/confettysh) (2 days ago)
 - [doc: update docker image url](https://github.com/maaslalani/gambit/pull/7) on [maaslalani/gambit](https://github.com/maaslalani/gambit) (1 week ago)
 - [Docker, workflows, and docs](https://github.com/maaslalani/gambit/pull/6) on [maaslalani/gambit](https://github.com/maaslalani/gambit) (1 week ago)
-- [feat: add server public url](https://github.com/charmbracelet/charm/pull/89) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (1 week ago)
-- [TUI: only show branches and tags, cat mw: list directory entries](https://github.com/charmbracelet/soft-serve/pull/92) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 week ago)
 
 #### 📜 My recent blog posts
 
