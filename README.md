@@ -6,19 +6,19 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [aymanbagabas/nyancatsh](https://github.com/aymanbagabas/nyancatsh) - Nyancat over SSH (today)
 - [charmbracelet/confettysh](https://github.com/charmbracelet/confettysh) - confetti over ssh (1 day ago)
 - [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files (6 days ago)
 - [maaslalani/gambit](https://github.com/maaslalani/gambit) - Play chess in your terminal (1 week ago)
-- [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (1 week ago)
-- [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (1 week ago)
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (1 week ago)
 
 #### 🌱 My latest projects
 
+- [aymanbagabas/nyancatsh](https://github.com/aymanbagabas/nyancatsh) - Nyancat over SSH
 - [aymanbagabas/kalimadb](https://github.com/aymanbagabas/kalimadb) - 
 - [aymanbagabas/kalima](https://github.com/aymanbagabas/kalima) - A PWA that views and searches through FnanenDB songs database.
 - [aymanbagabas/fnanendb](https://github.com/aymanbagabas/fnanendb) - Fnanen.com scraper
 - [aymanbagabas/fss3](https://github.com/aymanbagabas/fss3) - FSS3 is an S3 filesystem abstraction layer for Golang
-- [aymanbagabas/termimg](https://github.com/aymanbagabas/termimg) - WIP - Yet another terminal image renderer
 
 #### 🔭 Latest releases I've contributed to
 
