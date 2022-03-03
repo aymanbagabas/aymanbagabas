@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Custom readme path](https://github.com/charmbracelet/soft-serve/pull/98) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (today)
 - [Git TUI improvements](https://github.com/charmbracelet/soft-serve/pull/97) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 day ago)
 - [fix(list): rendering empty list](https://github.com/charmbracelet/bubbles/pull/123) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (1 day ago)
 - [fix: add server host key](https://github.com/charmbracelet/confettysh/pull/6) on [charmbracelet/confettysh](https://github.com/charmbracelet/confettysh) (3 days ago)
 - [doc: update docker image url](https://github.com/maaslalani/gambit/pull/7) on [maaslalani/gambit](https://github.com/maaslalani/gambit) (1 week ago)
-- [Docker, workflows, and docs](https://github.com/maaslalani/gambit/pull/6) on [maaslalani/gambit](https://github.com/maaslalani/gambit) (1 week ago)
 
 #### 📜 My recent blog posts
 
