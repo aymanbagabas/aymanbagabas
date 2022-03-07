@@ -46,11 +46,11 @@
 
 #### ⭐ Recent Stars
 
+- [samber/lo](https://github.com/samber/lo) - 💥  A Lodash-style Go library based on Go 1.18&#43; Generics (map, filter, contains, find...) (today)
+- [BourgeoisBear/rasterm](https://github.com/BourgeoisBear/rasterm) - encode images to iTerm / Kitty / SIXEL (terminal) inline graphics protocols (today)
 - [dbalatero/VimMode.spoon](https://github.com/dbalatero/VimMode.spoon) - Adds vim keybindings to all OS X inputs (4 days ago)
 - [aymanbagabas/nyancatsh](https://github.com/aymanbagabas/nyancatsh) - Nyancat over SSH 🐱 (5 days ago)
 - [oz/tz](https://github.com/oz/tz) - 🌐 A time zone helper (1 week ago)
-- [76creates/stickers](https://github.com/76creates/stickers) - Building blocks for charmbracelet/lipgloss 👾 (1 week ago)
-- [maaslalani/gambit](https://github.com/maaslalani/gambit) - Play chess in your terminal (1 month ago)
 
 #### 📫 How to reach me
 
