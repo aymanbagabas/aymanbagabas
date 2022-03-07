@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: serve migrate](https://github.com/charmbracelet/charm/pull/92) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (today)
 - [Repo caching](https://github.com/charmbracelet/soft-serve/pull/102) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (3 days ago)
 - [Custom readme path](https://github.com/charmbracelet/soft-serve/pull/98) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (4 days ago)
 - [Git TUI improvements](https://github.com/charmbracelet/soft-serve/pull/97) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (5 days ago)
 - [fix(list): rendering empty list](https://github.com/charmbracelet/bubbles/pull/123) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (5 days ago)
-- [fix: add server host key](https://github.com/charmbracelet/confettysh/pull/6) on [charmbracelet/confettysh](https://github.com/charmbracelet/confettysh) (1 week ago)
 
 #### 📜 My recent blog posts
 
