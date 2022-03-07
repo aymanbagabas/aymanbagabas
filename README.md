@@ -6,11 +6,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (today)
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (4 days ago)
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🍡 (5 days ago)
 - [aymanbagabas/nyancatsh](https://github.com/aymanbagabas/nyancatsh) - Nyancat over SSH 🐱 (5 days ago)
 - [aymanbagabas/kalimadb](https://github.com/aymanbagabas/kalimadb) -  (5 days ago)
-- [charmbracelet/confettysh](https://github.com/charmbracelet/confettysh) - confetti over ssh (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -22,11 +22,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.10.3](https://github.com/charmbracelet/charm/releases/tag/v0.10.3), today) - The Charm Tool and Library 🌟
 - [aymanbagabas/fnanendb](https://github.com/aymanbagabas/fnanendb) ([v20220306.015242](https://github.com/aymanbagabas/fnanendb/releases/tag/v20220306.015242), 1 day ago) - Fnanen.com scraper
 - [libretro/retroarch-joypad-autoconfig](https://github.com/libretro/retroarch-joypad-autoconfig) ([v1.10.1](https://github.com/libretro/retroarch-joypad-autoconfig/releases/tag/v1.10.1), 3 days ago) - RetroArch joypad autoconfig files
 - [aymanbagabas/kalimadb](https://github.com/aymanbagabas/kalimadb) ([v20220302.215042](https://github.com/aymanbagabas/kalimadb/releases/tag/v20220302.215042), 5 days ago) - 
 - [aymanbagabas/nyancatsh](https://github.com/aymanbagabas/nyancatsh) ([v1.0.0](https://github.com/aymanbagabas/nyancatsh/releases/tag/v1.0.0), 5 days ago) - Nyancat over SSH 🐱
-- [charmbracelet/confettysh](https://github.com/charmbracelet/confettysh) ([v1.0.2](https://github.com/charmbracelet/confettysh/releases/tag/v1.0.2), 6 days ago) - confetti over ssh
 
 #### 🔨 My recent Pull Requests
 
