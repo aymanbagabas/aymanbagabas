@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: add prometheus stats server](https://github.com/charmbracelet/charm/pull/98) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (today)
 - [fix(ui): wrap output with terminal width](https://github.com/charmbracelet/charm/pull/97) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (today)
 - [fix: double word wrap and ignoring style margins](https://github.com/charmbracelet/lipgloss/pull/72) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (today)
 - [fix: serve migrate](https://github.com/charmbracelet/charm/pull/92) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (2 days ago)
 - [Repo caching](https://github.com/charmbracelet/soft-serve/pull/102) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (5 days ago)
-- [Custom readme path](https://github.com/charmbracelet/soft-serve/pull/98) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (6 days ago)
 
 #### 📜 My recent blog posts
 
