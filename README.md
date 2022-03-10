@@ -6,8 +6,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (today)
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (6 days ago)
+- [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (1 day ago)
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (1 week ago)
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🍡 (1 week ago)
 - [aymanbagabas/nyancatsh](https://github.com/aymanbagabas/nyancatsh) - Nyancat over SSH 🐱 (1 week ago)
 - [aymanbagabas/kalimadb](https://github.com/aymanbagabas/kalimadb) -  (1 week ago)
@@ -22,19 +22,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.10.3](https://github.com/charmbracelet/charm/releases/tag/v0.10.3), 2 days ago) - The Charm Tool and Library 🌟
-- [aymanbagabas/fnanendb](https://github.com/aymanbagabas/fnanendb) ([v20220306.015242](https://github.com/aymanbagabas/fnanendb/releases/tag/v20220306.015242), 3 days ago) - Fnanen.com scraper
-- [libretro/retroarch-joypad-autoconfig](https://github.com/libretro/retroarch-joypad-autoconfig) ([v1.10.1](https://github.com/libretro/retroarch-joypad-autoconfig/releases/tag/v1.10.1), 5 days ago) - RetroArch joypad autoconfig files
+- [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.10.3](https://github.com/charmbracelet/charm/releases/tag/v0.10.3), 3 days ago) - The Charm Tool and Library 🌟
+- [aymanbagabas/fnanendb](https://github.com/aymanbagabas/fnanendb) ([v20220306.015242](https://github.com/aymanbagabas/fnanendb/releases/tag/v20220306.015242), 4 days ago) - Fnanen.com scraper
+- [libretro/retroarch-joypad-autoconfig](https://github.com/libretro/retroarch-joypad-autoconfig) ([v1.10.1](https://github.com/libretro/retroarch-joypad-autoconfig/releases/tag/v1.10.1), 6 days ago) - RetroArch joypad autoconfig files
 - [aymanbagabas/kalimadb](https://github.com/aymanbagabas/kalimadb) ([v20220302.215042](https://github.com/aymanbagabas/kalimadb/releases/tag/v20220302.215042), 1 week ago) - 
 - [aymanbagabas/nyancatsh](https://github.com/aymanbagabas/nyancatsh) ([v1.0.0](https://github.com/aymanbagabas/nyancatsh/releases/tag/v1.0.0), 1 week ago) - Nyancat over SSH 🐱
 
 #### 🔨 My recent Pull Requests
 
-- [feat: add prometheus stats server](https://github.com/charmbracelet/charm/pull/98) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (today)
-- [fix(ui): wrap output with terminal width](https://github.com/charmbracelet/charm/pull/97) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (today)
-- [fix: double word wrap and ignoring style margins](https://github.com/charmbracelet/lipgloss/pull/72) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (today)
-- [fix: serve migrate](https://github.com/charmbracelet/charm/pull/92) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (2 days ago)
-- [Repo caching](https://github.com/charmbracelet/soft-serve/pull/102) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (5 days ago)
+- [feat: add prometheus stats server](https://github.com/charmbracelet/charm/pull/98) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (1 day ago)
+- [fix(ui): wrap output with terminal width](https://github.com/charmbracelet/charm/pull/97) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (1 day ago)
+- [fix: double word wrap and ignoring style margins](https://github.com/charmbracelet/lipgloss/pull/72) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (1 day ago)
+- [fix: serve migrate](https://github.com/charmbracelet/charm/pull/92) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (3 days ago)
+- [Repo caching](https://github.com/charmbracelet/soft-serve/pull/102) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (6 days ago)
 
 #### 📜 My recent blog posts
 
@@ -46,10 +46,10 @@
 
 #### ⭐ Recent Stars
 
-- [caarlos0/sshmarshal](https://github.com/caarlos0/sshmarshal) - Code copied from x/crypto and golang/go#37132 (1 day ago)
-- [samber/lo](https://github.com/samber/lo) - 💥  A Lodash-style Go library based on Go 1.18&#43; Generics (map, filter, contains, find...) (2 days ago)
-- [BourgeoisBear/rasterm](https://github.com/BourgeoisBear/rasterm) - encode images to iTerm / Kitty / SIXEL (terminal) inline graphics protocols (2 days ago)
-- [dbalatero/VimMode.spoon](https://github.com/dbalatero/VimMode.spoon) - Adds vim keybindings to all OS X inputs (6 days ago)
+- [caarlos0/sshmarshal](https://github.com/caarlos0/sshmarshal) - Code copied from x/crypto and golang/go#37132 (2 days ago)
+- [samber/lo](https://github.com/samber/lo) - 💥  A Lodash-style Go library based on Go 1.18&#43; Generics (map, filter, contains, find...) (3 days ago)
+- [BourgeoisBear/rasterm](https://github.com/BourgeoisBear/rasterm) - encode images to iTerm / Kitty / SIXEL (terminal) inline graphics protocols (3 days ago)
+- [dbalatero/VimMode.spoon](https://github.com/dbalatero/VimMode.spoon) - Adds vim keybindings to all OS X inputs (1 week ago)
 - [aymanbagabas/nyancatsh](https://github.com/aymanbagabas/nyancatsh) - Nyancat over SSH 🐱 (1 week ago)
 
 #### 📫 How to reach me
