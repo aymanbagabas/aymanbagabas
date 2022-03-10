@@ -6,11 +6,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [aymanbagabas/aymanbagabas.github.io](https://github.com/aymanbagabas/aymanbagabas.github.io) - A personal website build using Jekyll (today)
 - [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (1 day ago)
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (1 week ago)
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🍡 (1 week ago)
 - [aymanbagabas/nyancatsh](https://github.com/aymanbagabas/nyancatsh) - Nyancat over SSH 🐱 (1 week ago)
-- [aymanbagabas/kalimadb](https://github.com/aymanbagabas/kalimadb) -  (1 week ago)
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🍡 (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -30,19 +30,19 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: migrate to hydeout theme](https://github.com/aymanbagabas/aymanbagabas.github.io/pull/1) on [aymanbagabas/aymanbagabas.github.io](https://github.com/aymanbagabas/aymanbagabas.github.io) (today)
 - [feat: add prometheus stats server](https://github.com/charmbracelet/charm/pull/98) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (1 day ago)
 - [fix(ui): wrap output with terminal width](https://github.com/charmbracelet/charm/pull/97) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (1 day ago)
 - [fix: double word wrap and ignoring style margins](https://github.com/charmbracelet/lipgloss/pull/72) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (1 day ago)
 - [fix: serve migrate](https://github.com/charmbracelet/charm/pull/92) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (3 days ago)
-- [Repo caching](https://github.com/charmbracelet/soft-serve/pull/102) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (6 days ago)
 
 #### 📜 My recent blog posts
 
-- [Run native C/C&#43;&#43; code in the browser using Emscripten](https://aymanbagabas.com/blog/2020/11/18/run-native-c-c&#43;&#43;-code-in-the-browser-using-emscripten.html) (1 year ago)
-- [Dynamic DNS using DDclient](https://aymanbagabas.com/blog/2019/02/16/dynamic-dns-using-ddclient.html) (3 years ago)
-- [Writing a Chip-8 emulator](https://aymanbagabas.com/blog/2018/09/17/chip-8-emulator.html) (3 years ago)
-- [Arch Linux on Matebook X Pro](https://aymanbagabas.com/blog/2018/07/23/archlinux-on-matebook-x-pro.html) (3 years ago)
-- [Suspend then hibernate in systemd 239](https://aymanbagabas.com/blog/2018/07/18/suspend-then-hibernate.html) (3 years ago)
+- [Run native C/C&#43;&#43; code in the browser using Emscripten](https://aymanbagabas.com/2020/11/18/run-native-c-c&#43;&#43;-code-in-the-browser-using-emscripten.html) (1 year ago)
+- [Dynamic DNS using DDclient](https://aymanbagabas.com/2019/02/16/dynamic-dns-using-ddclient.html) (3 years ago)
+- [Writing a Chip-8 emulator](https://aymanbagabas.com/2018/09/17/chip-8-emulator.html) (3 years ago)
+- [Arch Linux on Matebook X Pro](https://aymanbagabas.com/2018/07/23/archlinux-on-matebook-x-pro.html) (3 years ago)
+- [Suspend then hibernate in systemd 239](https://aymanbagabas.com/2018/07/18/suspend-then-hibernate.html) (3 years ago)
 
 #### ⭐ Recent Stars
 
