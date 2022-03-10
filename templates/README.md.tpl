@@ -25,7 +25,7 @@
 {{- end}}
 
 #### 📜 My recent blog posts
-{{range rss "https://aymanbagabas.com/blog/feed.xml" 5}}
+{{range rss "https://aymanbagabas.com/feed.xml" 5}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
