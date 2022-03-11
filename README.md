@@ -6,11 +6,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [charmbracelet/keygen](https://github.com/charmbracelet/keygen) - An SSH key pair generator (today)
 - [aymanbagabas/aymanbagabas.github.io](https://github.com/aymanbagabas/aymanbagabas.github.io) - A personal website build using Jekyll (today)
 - [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (2 days ago)
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (1 week ago)
 - [aymanbagabas/nyancatsh](https://github.com/aymanbagabas/nyancatsh) - Nyancat over SSH 🐱 (1 week ago)
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🍡 (1 week ago)
 
 #### 🌱 My latest projects
 
