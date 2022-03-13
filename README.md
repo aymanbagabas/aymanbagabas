@@ -22,8 +22,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [aymanbagabas/fnanendb](https://github.com/aymanbagabas/fnanendb) ([v20220313.015324](https://github.com/aymanbagabas/fnanendb/releases/tag/v20220313.015324), today) - Fnanen.com scraper
 - [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.10.3](https://github.com/charmbracelet/charm/releases/tag/v0.10.3), 6 days ago) - The Charm Tool and Library 🌟
-- [aymanbagabas/fnanendb](https://github.com/aymanbagabas/fnanendb) ([v20220306.015242](https://github.com/aymanbagabas/fnanendb/releases/tag/v20220306.015242), 1 week ago) - Fnanen.com scraper
 - [libretro/retroarch-joypad-autoconfig](https://github.com/libretro/retroarch-joypad-autoconfig) ([v1.10.1](https://github.com/libretro/retroarch-joypad-autoconfig/releases/tag/v1.10.1), 1 week ago) - RetroArch joypad autoconfig files
 - [aymanbagabas/kalimadb](https://github.com/aymanbagabas/kalimadb) ([v20220302.215042](https://github.com/aymanbagabas/kalimadb/releases/tag/v20220302.215042), 1 week ago) - 
 - [aymanbagabas/nyancatsh](https://github.com/aymanbagabas/nyancatsh) ([v1.0.0](https://github.com/aymanbagabas/nyancatsh/releases/tag/v1.0.0), 1 week ago) - Nyancat over SSH 🐱
