@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Add notification UserInfo key contants](https://github.com/PrivateFrameworks/MediaRemote/pull/1) on [PrivateFrameworks/MediaRemote](https://github.com/PrivateFrameworks/MediaRemote) (today)
 - [feat: migrate to hydeout theme](https://github.com/aymanbagabas/aymanbagabas.github.io/pull/1) on [aymanbagabas/aymanbagabas.github.io](https://github.com/aymanbagabas/aymanbagabas.github.io) (4 days ago)
 - [feat: add prometheus stats server](https://github.com/charmbracelet/charm/pull/98) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (5 days ago)
 - [fix(ui): wrap output with terminal width](https://github.com/charmbracelet/charm/pull/97) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (5 days ago)
 - [fix: double word wrap and ignoring style margins](https://github.com/charmbracelet/lipgloss/pull/72) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (5 days ago)
-- [fix: serve migrate](https://github.com/charmbracelet/charm/pull/92) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (1 week ago)
 
 #### 📜 My recent blog posts
 
