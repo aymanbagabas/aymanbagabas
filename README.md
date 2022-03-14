@@ -6,9 +6,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (today)
 - [charmbracelet/keygen](https://github.com/charmbracelet/keygen) - An SSH key pair generator (3 days ago)
 - [aymanbagabas/aymanbagabas.github.io](https://github.com/aymanbagabas/aymanbagabas.github.io) - A personal website built using Jekyll (3 days ago)
-- [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (5 days ago)
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (1 week ago)
 - [aymanbagabas/nyancatsh](https://github.com/aymanbagabas/nyancatsh) - Nyancat over SSH 🐱 (1 week ago)
 
@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: kv ignore openDB error](https://github.com/charmbracelet/charm/pull/99) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (today)
 - [Add notification UserInfo key contants](https://github.com/PrivateFrameworks/MediaRemote/pull/1) on [PrivateFrameworks/MediaRemote](https://github.com/PrivateFrameworks/MediaRemote) (today)
 - [feat: migrate to hydeout theme](https://github.com/aymanbagabas/aymanbagabas.github.io/pull/1) on [aymanbagabas/aymanbagabas.github.io](https://github.com/aymanbagabas/aymanbagabas.github.io) (4 days ago)
 - [feat: add prometheus stats server](https://github.com/charmbracelet/charm/pull/98) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (5 days ago)
 - [fix(ui): wrap output with terminal width](https://github.com/charmbracelet/charm/pull/97) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (5 days ago)
-- [fix: double word wrap and ignoring style margins](https://github.com/charmbracelet/lipgloss/pull/72) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (5 days ago)
 
 #### 📜 My recent blog posts
 
