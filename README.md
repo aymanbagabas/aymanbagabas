@@ -6,51 +6,51 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (today)
 - [aymanbagabas/aymanbagabas.github.io](https://github.com/aymanbagabas/aymanbagabas.github.io) - A personal website built using Jekyll (today)
-- [charmbracelet/keygen](https://github.com/charmbracelet/keygen) - An SSH key pair generator (3 days ago)
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (1 week ago)
-- [aymanbagabas/nyancatsh](https://github.com/aymanbagabas/nyancatsh) - Nyancat over SSH 🐱 (1 week ago)
+- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - Nothing like ~ (1 day ago)
+- [gogs/git-module](https://github.com/gogs/git-module) - Package git-module is a Go module for Git access through shell commands (2 days ago)
+- [aymanbagabas/.github](https://github.com/aymanbagabas/.github) -  (3 days ago)
+- [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (4 days ago)
 
 #### 🌱 My latest projects
 
+- [aymanbagabas/.github](https://github.com/aymanbagabas/.github) - 
 - [aymanbagabas/nyancatsh](https://github.com/aymanbagabas/nyancatsh) - Nyancat over SSH 🐱
 - [aymanbagabas/kalimadb](https://github.com/aymanbagabas/kalimadb) - 
 - [aymanbagabas/kalima](https://github.com/aymanbagabas/kalima) - A PWA that views and searches through FnanenDB songs database.
 - [aymanbagabas/fnanendb](https://github.com/aymanbagabas/fnanendb) - Fnanen.com scraper
-- [aymanbagabas/fss3](https://github.com/aymanbagabas/fss3) - FSS3 is an S3 filesystem abstraction layer for Golang
 
 #### 🔭 Latest releases I've contributed to
 
-- [aymanbagabas/fnanendb](https://github.com/aymanbagabas/fnanendb) ([v20220313.015324](https://github.com/aymanbagabas/fnanendb/releases/tag/v20220313.015324), 1 day ago) - Fnanen.com scraper
-- [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.10.3](https://github.com/charmbracelet/charm/releases/tag/v0.10.3), 1 week ago) - The Charm Tool and Library 🌟
-- [libretro/retroarch-joypad-autoconfig](https://github.com/libretro/retroarch-joypad-autoconfig) ([v1.10.1](https://github.com/libretro/retroarch-joypad-autoconfig/releases/tag/v1.10.1), 1 week ago) - RetroArch joypad autoconfig files
-- [aymanbagabas/kalimadb](https://github.com/aymanbagabas/kalimadb) ([v20220302.215042](https://github.com/aymanbagabas/kalimadb/releases/tag/v20220302.215042), 1 week ago) - 
-- [aymanbagabas/nyancatsh](https://github.com/aymanbagabas/nyancatsh) ([v1.0.0](https://github.com/aymanbagabas/nyancatsh/releases/tag/v1.0.0), 1 week ago) - Nyancat over SSH 🐱
+- [gogs/git-module](https://github.com/gogs/git-module) ([v1.5.0](https://github.com/gogs/git-module/releases/tag/v1.5.0), 2 days ago) - Package git-module is a Go module for Git access through shell commands
+- [PrivateFrameworks/MediaRemote](https://github.com/PrivateFrameworks/MediaRemote) ([0.1.0](https://github.com/PrivateFrameworks/MediaRemote/releases/tag/0.1.0), 1 week ago) - Headers and SPM linking for /System/Library/PrivateFrameworks/ProtocolBuffer.framework
+- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.3.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.3.0), 1 week ago) - The SSH directory ✨
+- [charmbracelet/melt](https://github.com/charmbracelet/melt) ([v0.2.0](https://github.com/charmbracelet/melt/releases/tag/v0.2.0), 1 week ago) - 🧊 Backup and restore Ed25519 SSH keys with seed words.
+- [aymanbagabas/fnanendb](https://github.com/aymanbagabas/fnanendb) ([v20220313.015324](https://github.com/aymanbagabas/fnanendb/releases/tag/v20220313.015324), 2 weeks ago) - Fnanen.com scraper
 
 #### 🔨 My recent Pull Requests
 
-- [fix: kv ignore openDB error](https://github.com/charmbracelet/charm/pull/99) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (today)
-- [Add notification UserInfo key contants](https://github.com/PrivateFrameworks/MediaRemote/pull/1) on [PrivateFrameworks/MediaRemote](https://github.com/PrivateFrameworks/MediaRemote) (today)
-- [feat: migrate to hydeout theme](https://github.com/aymanbagabas/aymanbagabas.github.io/pull/1) on [aymanbagabas/aymanbagabas.github.io](https://github.com/aymanbagabas/aymanbagabas.github.io) (4 days ago)
-- [feat: add prometheus stats server](https://github.com/charmbracelet/charm/pull/98) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (5 days ago)
-- [fix(ui): wrap output with terminal width](https://github.com/charmbracelet/charm/pull/97) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (5 days ago)
+- [fix(ui): link yes/no buttons width keep increasing](https://github.com/charmbracelet/charm/pull/103) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (4 days ago)
+- [Speed up client FS, support server user max storage capacity, use authorized_keys, and some fixes](https://github.com/charmbracelet/charm/pull/102) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (4 days ago)
+- [refactor: use gogs/git-module](https://github.com/charmbracelet/soft-serve/pull/105) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (5 days ago)
+- [diff: capture both old and new of index and mode](https://github.com/gogs/git-module/pull/73) on [gogs/git-module](https://github.com/gogs/git-module) (5 days ago)
+- [fix: ui/keygen not generating keys for host](https://github.com/charmbracelet/charm/pull/101) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (1 week ago)
 
 #### 📜 My recent blog posts
 
-- [Walk by the pond](https://aymanbagabas.com/2022/03/10/walk-by-the-pond.html) (4 days ago)
-- [Run native C/C&#43;&#43; code in the browser using Emscripten](https://aymanbagabas.com/2020/11/18/run-native-c-c&#43;&#43;-code-in-the-browser-using-emscripten.html) (1 year ago)
-- [Dynamic DNS using DDclient](https://aymanbagabas.com/2019/02/16/dynamic-dns-using-ddclient.html) (3 years ago)
-- [Writing a Chip-8 emulator](https://aymanbagabas.com/2018/09/17/chip-8-emulator.html) (3 years ago)
-- [Arch Linux on Matebook X Pro](https://aymanbagabas.com/2018/07/23/archlinux-on-matebook-x-pro.html) (3 years ago)
+- [Nyan Cat Over SSH](https://aymanbagabas.com/blog/2022/03/25/nyan-cat-over-ssh.html) (3 days ago)
+- [Walk by the pond](https://aymanbagabas.com/blog/2022/03/10/walk-by-the-pond.html) (2 weeks ago)
+- [Run native C/C&#43;&#43; code in the browser using Emscripten](https://aymanbagabas.com/blog/2020/11/18/run-native-c-c&#43;&#43;-code-in-the-browser-using-emscripten.html) (1 year ago)
+- [Dynamic DNS using DDclient](https://aymanbagabas.com/blog/2019/02/16/dynamic-dns-using-ddclient.html) (3 years ago)
+- [Writing a Chip-8 emulator](https://aymanbagabas.com/blog/2018/09/17/chip-8-emulator.html) (3 years ago)
 
 #### ⭐ Recent Stars
 
-- [charmbracelet/melt](https://github.com/charmbracelet/melt) - 🧊 Backup and restore Ed25519 SSH keys with seed words. (today)
-- [caarlos0/sshmarshal](https://github.com/caarlos0/sshmarshal) - Code copied from x/crypto and golang/go#37132 (6 days ago)
-- [samber/lo](https://github.com/samber/lo) - 💥  A Lodash-style Go library based on Go 1.18&#43; Generics (map, filter, contains, find...) (1 week ago)
-- [BourgeoisBear/rasterm](https://github.com/BourgeoisBear/rasterm) - encode images to iTerm / Kitty / SIXEL (terminal) inline graphics protocols (1 week ago)
-- [dbalatero/VimMode.spoon](https://github.com/dbalatero/VimMode.spoon) - Adds vim keybindings to all OS X inputs (1 week ago)
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🍡 (today)
+- [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️ (today)
+- [getlantern/systray](https://github.com/getlantern/systray) - a cross platfrom Go library to place an icon and menu in the notification area (1 week ago)
+- [fyne-io/systray](https://github.com/fyne-io/systray) - a cross platfrom Go library to place an icon and menu in the notification area (1 week ago)
+- [charmbracelet/melt](https://github.com/charmbracelet/melt) - 🧊 Backup and restore Ed25519 SSH keys with seed words. (2 weeks ago)
 
 #### 📫 How to reach me
 
