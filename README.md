@@ -6,7 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [aymanbagabas/aymanbagabas.github.io](https://github.com/aymanbagabas/aymanbagabas.github.io) - A personal website built using Jekyll (1 day ago)
+- [aymanbagabas/aymanbagabas.github.io](https://github.com/aymanbagabas/aymanbagabas.github.io) - A personal website built using Jekyll (today)
 - [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - Nothing like ~ (2 days ago)
 - [gogs/git-module](https://github.com/gogs/git-module) - Package git-module is a Go module for Git access through shell commands (3 days ago)
 - [aymanbagabas/.github](https://github.com/aymanbagabas/.github) -  (4 days ago)
