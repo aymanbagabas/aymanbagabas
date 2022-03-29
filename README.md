@@ -22,19 +22,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/skate](https://github.com/charmbracelet/skate) ([v0.1.5](https://github.com/charmbracelet/skate/releases/tag/v0.1.5), today) - A personal key value store 🛼
 - [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.11.0](https://github.com/charmbracelet/charm/releases/tag/v0.11.0), today) - The Charm Tool and Library 🌟
 - [gogs/git-module](https://github.com/gogs/git-module) ([v1.5.0](https://github.com/gogs/git-module/releases/tag/v1.5.0), 3 days ago) - Package git-module is a Go module for Git access through shell commands
 - [PrivateFrameworks/MediaRemote](https://github.com/PrivateFrameworks/MediaRemote) ([0.1.0](https://github.com/PrivateFrameworks/MediaRemote/releases/tag/0.1.0), 1 week ago) - Headers and SPM linking for /System/Library/PrivateFrameworks/ProtocolBuffer.framework
 - [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.3.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.3.0), 1 week ago) - The SSH directory ✨
-- [charmbracelet/melt](https://github.com/charmbracelet/melt) ([v0.2.0](https://github.com/charmbracelet/melt/releases/tag/v0.2.0), 1 week ago) - 🧊 Backup and restore Ed25519 SSH keys with seed words.
 
 #### 🔨 My recent Pull Requests
 
+- [[WIP] add tests](https://github.com/charmbracelet/soft-serve/pull/106) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (today)
 - [fix(ui): link yes/no buttons width keep increasing](https://github.com/charmbracelet/charm/pull/103) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (5 days ago)
 - [Speed up client FS, support server user max storage capacity, use authorized_keys, and some fixes](https://github.com/charmbracelet/charm/pull/102) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (5 days ago)
 - [refactor: use gogs/git-module](https://github.com/charmbracelet/soft-serve/pull/105) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (6 days ago)
 - [diff: capture both old and new of index and mode](https://github.com/gogs/git-module/pull/73) on [gogs/git-module](https://github.com/gogs/git-module) (6 days ago)
-- [fix: ui/keygen not generating keys for host](https://github.com/charmbracelet/charm/pull/101) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (1 week ago)
 
 #### 📜 My recent blog posts
 
