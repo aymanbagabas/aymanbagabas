@@ -22,11 +22,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.11.0](https://github.com/charmbracelet/charm/releases/tag/v0.11.0), today) - The Charm Tool and Library 🌟
 - [gogs/git-module](https://github.com/gogs/git-module) ([v1.5.0](https://github.com/gogs/git-module/releases/tag/v1.5.0), 3 days ago) - Package git-module is a Go module for Git access through shell commands
 - [PrivateFrameworks/MediaRemote](https://github.com/PrivateFrameworks/MediaRemote) ([0.1.0](https://github.com/PrivateFrameworks/MediaRemote/releases/tag/0.1.0), 1 week ago) - Headers and SPM linking for /System/Library/PrivateFrameworks/ProtocolBuffer.framework
 - [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.3.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.3.0), 1 week ago) - The SSH directory ✨
 - [charmbracelet/melt](https://github.com/charmbracelet/melt) ([v0.2.0](https://github.com/charmbracelet/melt/releases/tag/v0.2.0), 1 week ago) - 🧊 Backup and restore Ed25519 SSH keys with seed words.
-- [aymanbagabas/fnanendb](https://github.com/aymanbagabas/fnanendb) ([v20220313.015324](https://github.com/aymanbagabas/fnanendb/releases/tag/v20220313.015324), 2 weeks ago) - Fnanen.com scraper
 
 #### 🔨 My recent Pull Requests
 
