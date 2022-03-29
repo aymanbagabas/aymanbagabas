@@ -38,11 +38,11 @@
 
 #### 📜 My recent blog posts
 
+- [Import Notion Pages to Jekyll](https://aymanbagabas.com/blog/2022/03/29/import-notion-pages-to-jekyll.html) (today)
 - [Nyan Cat Over SSH](https://aymanbagabas.com/blog/2022/03/25/nyan-cat-over-ssh.html) (4 days ago)
 - [Walk by the pond](https://aymanbagabas.com/blog/2022/03/10/walk-by-the-pond.html) (2 weeks ago)
 - [Run native C/C&#43;&#43; code in the browser using Emscripten](https://aymanbagabas.com/blog/2020/11/18/run-native-c-c&#43;&#43;-code-in-the-browser-using-emscripten.html) (1 year ago)
 - [Dynamic DNS using DDclient](https://aymanbagabas.com/blog/2019/02/16/dynamic-dns-using-ddclient.html) (3 years ago)
-- [Writing a Chip-8 emulator](https://aymanbagabas.com/blog/2018/09/17/chip-8-emulator.html) (3 years ago)
 
 #### ⭐ Recent Stars
 
