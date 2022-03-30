@@ -7,10 +7,10 @@
 #### 👷 Check out what I'm currently working on
 
 - [aymanbagabas/aymanbagabas.github.io](https://github.com/aymanbagabas/aymanbagabas.github.io) - A personal website built using Jekyll (today)
+- [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files (today)
 - [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - Nothing like ~ (3 days ago)
 - [gogs/git-module](https://github.com/gogs/git-module) - Package git-module is a Go module for Git access through shell commands (4 days ago)
 - [aymanbagabas/.github](https://github.com/aymanbagabas/.github) -  (5 days ago)
-- [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: use meta/build.yml](https://github.com/charmbracelet/soft-serve/pull/107) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (today)
 - [Add command options and pass stdin to command](https://github.com/gogs/git-module/pull/74) on [gogs/git-module](https://github.com/gogs/git-module) (today)
 - [[WIP] add tests](https://github.com/charmbracelet/soft-serve/pull/106) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 day ago)
 - [fix(ui): link yes/no buttons width keep increasing](https://github.com/charmbracelet/charm/pull/103) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (6 days ago)
 - [Speed up client FS, support server user max storage capacity, use authorized_keys, and some fixes](https://github.com/charmbracelet/charm/pull/102) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (6 days ago)
-- [refactor: use gogs/git-module](https://github.com/charmbracelet/soft-serve/pull/105) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 week ago)
 
 #### 📜 My recent blog posts
 
