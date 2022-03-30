@@ -6,7 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [aymanbagabas/aymanbagabas.github.io](https://github.com/aymanbagabas/aymanbagabas.github.io) - A personal website built using Jekyll (1 day ago)
+- [aymanbagabas/aymanbagabas.github.io](https://github.com/aymanbagabas/aymanbagabas.github.io) - A personal website built using Jekyll (today)
 - [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - Nothing like ~ (3 days ago)
 - [gogs/git-module](https://github.com/gogs/git-module) - Package git-module is a Go module for Git access through shell commands (4 days ago)
 - [aymanbagabas/.github](https://github.com/aymanbagabas/.github) -  (5 days ago)
@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Add command options and pass stdin to command](https://github.com/gogs/git-module/pull/74) on [gogs/git-module](https://github.com/gogs/git-module) (today)
 - [[WIP] add tests](https://github.com/charmbracelet/soft-serve/pull/106) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 day ago)
 - [fix(ui): link yes/no buttons width keep increasing](https://github.com/charmbracelet/charm/pull/103) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (6 days ago)
 - [Speed up client FS, support server user max storage capacity, use authorized_keys, and some fixes](https://github.com/charmbracelet/charm/pull/102) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (6 days ago)
 - [refactor: use gogs/git-module](https://github.com/charmbracelet/soft-serve/pull/105) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 week ago)
-- [diff: capture both old and new of index and mode](https://github.com/gogs/git-module/pull/73) on [gogs/git-module](https://github.com/gogs/git-module) (1 week ago)
 
 #### 📜 My recent blog posts
 
