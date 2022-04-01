@@ -8,9 +8,9 @@
 
 - [charmbracelet/skate](https://github.com/charmbracelet/skate) - A personal key value store 🛼 (1 day ago)
 - [aymanbagabas/aymanbagabas.github.io](https://github.com/aymanbagabas/aymanbagabas.github.io) - A personal website built using Jekyll (1 day ago)
+- [gogs/git-module](https://github.com/gogs/git-module) - Package git-module is a Go module for Git access through shell commands (1 day ago)
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (2 days ago)
 - [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files (2 days ago)
-- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - Nothing like ~ (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -22,9 +22,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [gogs/git-module](https://github.com/gogs/git-module) ([v1.6.0](https://github.com/gogs/git-module/releases/tag/v1.6.0), today) - Package git-module is a Go module for Git access through shell commands
 - [charmbracelet/skate](https://github.com/charmbracelet/skate) ([v0.1.5](https://github.com/charmbracelet/skate/releases/tag/v0.1.5), 3 days ago) - A personal key value store 🛼
 - [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.11.0](https://github.com/charmbracelet/charm/releases/tag/v0.11.0), 3 days ago) - The Charm Tool and Library 🌟
-- [gogs/git-module](https://github.com/gogs/git-module) ([v1.5.0](https://github.com/gogs/git-module/releases/tag/v1.5.0), 6 days ago) - Package git-module is a Go module for Git access through shell commands
 - [PrivateFrameworks/MediaRemote](https://github.com/PrivateFrameworks/MediaRemote) ([0.1.0](https://github.com/PrivateFrameworks/MediaRemote/releases/tag/0.1.0), 1 week ago) - Headers and SPM linking for /System/Library/PrivateFrameworks/ProtocolBuffer.framework
 - [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.3.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.3.0), 1 week ago) - The SSH directory ✨
 
