@@ -46,11 +46,11 @@
 
 #### ⭐ Recent Stars
 
+- [charmbracelet/runway](https://github.com/charmbracelet/runway) - Models 📸 (today)
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🍡 (1 week ago)
 - [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️ (1 week ago)
 - [getlantern/systray](https://github.com/getlantern/systray) - a cross platfrom Go library to place an icon and menu in the notification area (2 weeks ago)
 - [fyne-io/systray](https://github.com/fyne-io/systray) - a cross platfrom Go library to place an icon and menu in the notification area (2 weeks ago)
-- [charmbracelet/melt](https://github.com/charmbracelet/melt) - 🧊 Backup and restore Ed25519 SSH keys with seed words. (3 weeks ago)
 
 #### 📫 How to reach me
 
