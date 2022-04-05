@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: add bubbletea program middleware](https://github.com/charmbracelet/wish/pull/39) on [charmbracelet/wish](https://github.com/charmbracelet/wish) (today)
 - [chore: update keygen to v0.3.0](https://github.com/charmbracelet/charm/pull/109) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (today)
 - [chore: update keygen to v0.3.0 and deps](https://github.com/charmbracelet/soft-serve/pull/109) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (today)
 - [Update keygen and add server tests](https://github.com/charmbracelet/wish/pull/38) on [charmbracelet/wish](https://github.com/charmbracelet/wish) (today)
 - [feat: use meta/build.yml](https://github.com/charmbracelet/soft-serve/pull/107) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (6 days ago)
-- [Add command options and pass stdin to command](https://github.com/gogs/git-module/pull/74) on [gogs/git-module](https://github.com/gogs/git-module) (6 days ago)
 
 #### 📜 My recent blog posts
 
