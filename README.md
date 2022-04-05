@@ -22,19 +22,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/keygen](https://github.com/charmbracelet/keygen) ([v0.3.0](https://github.com/charmbracelet/keygen/releases/tag/v0.3.0), today) - An SSH key pair generator
 - [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) ([v6.0.0-beta](https://github.com/OpenAPITools/openapi-generator/releases/tag/v6.0.0-beta), 1 day ago) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
 - [gogs/git-module](https://github.com/gogs/git-module) ([v1.6.0](https://github.com/gogs/git-module/releases/tag/v1.6.0), 4 days ago) - Package git-module is a Go module for Git access through shell commands
 - [charmbracelet/skate](https://github.com/charmbracelet/skate) ([v0.1.5](https://github.com/charmbracelet/skate/releases/tag/v0.1.5), 1 week ago) - A personal key value store 🛼
 - [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.11.0](https://github.com/charmbracelet/charm/releases/tag/v0.11.0), 1 week ago) - The Charm Tool and Library 🌟
-- [PrivateFrameworks/MediaRemote](https://github.com/PrivateFrameworks/MediaRemote) ([0.1.0](https://github.com/PrivateFrameworks/MediaRemote/releases/tag/0.1.0), 2 weeks ago) - Headers and SPM linking for /System/Library/PrivateFrameworks/ProtocolBuffer.framework
 
 #### 🔨 My recent Pull Requests
 
+- [Update keygen and add server tests](https://github.com/charmbracelet/wish/pull/38) on [charmbracelet/wish](https://github.com/charmbracelet/wish) (today)
 - [feat: use meta/build.yml](https://github.com/charmbracelet/soft-serve/pull/107) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (6 days ago)
 - [Add command options and pass stdin to command](https://github.com/gogs/git-module/pull/74) on [gogs/git-module](https://github.com/gogs/git-module) (6 days ago)
 - [[WIP] add tests](https://github.com/charmbracelet/soft-serve/pull/106) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 week ago)
 - [fix(ui): link yes/no buttons width keep increasing](https://github.com/charmbracelet/charm/pull/103) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (1 week ago)
-- [Speed up client FS, support server user max storage capacity, use authorized_keys, and some fixes](https://github.com/charmbracelet/charm/pull/102) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (1 week ago)
 
 #### 📜 My recent blog posts
 
