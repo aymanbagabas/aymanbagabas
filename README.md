@@ -22,11 +22,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v0.3.1](https://github.com/charmbracelet/wish/releases/tag/v0.3.1), today) - Make SSH apps, just like that! 💫
 - [charmbracelet/keygen](https://github.com/charmbracelet/keygen) ([v0.3.0](https://github.com/charmbracelet/keygen/releases/tag/v0.3.0), 1 day ago) - An SSH key pair generator 🗝️
 - [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) ([v6.0.0-beta](https://github.com/OpenAPITools/openapi-generator/releases/tag/v6.0.0-beta), 2 days ago) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
 - [gogs/git-module](https://github.com/gogs/git-module) ([v1.6.0](https://github.com/gogs/git-module/releases/tag/v1.6.0), 5 days ago) - Package git-module is a Go module for Git access through shell commands
 - [charmbracelet/skate](https://github.com/charmbracelet/skate) ([v0.1.5](https://github.com/charmbracelet/skate/releases/tag/v0.1.5), 1 week ago) - A personal key value store 🛼
-- [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.11.0](https://github.com/charmbracelet/charm/releases/tag/v0.11.0), 1 week ago) - The Charm Tool and Library 🌟
 
 #### 🔨 My recent Pull Requests
 
