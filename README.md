@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Soft Serve middleware](https://github.com/charmbracelet/soft-serve/pull/110) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (today)
 - [feat: add bubbletea program middleware](https://github.com/charmbracelet/wish/pull/39) on [charmbracelet/wish](https://github.com/charmbracelet/wish) (1 day ago)
 - [chore: update keygen to v0.3.0](https://github.com/charmbracelet/charm/pull/109) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (1 day ago)
 - [chore: update keygen to v0.3.0 and deps](https://github.com/charmbracelet/soft-serve/pull/109) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 day ago)
 - [Update keygen and add server tests](https://github.com/charmbracelet/wish/pull/38) on [charmbracelet/wish](https://github.com/charmbracelet/wish) (1 day ago)
-- [feat: use meta/build.yml](https://github.com/charmbracelet/soft-serve/pull/107) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 week ago)
 
 #### 📜 My recent blog posts
 
