@@ -22,11 +22,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/skate](https://github.com/charmbracelet/skate) ([v0.2.0](https://github.com/charmbracelet/skate/releases/tag/v0.2.0), today) - A personal key value store 🛼
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.3.0](https://github.com/charmbracelet/soft-serve/releases/tag/v0.3.0), 2 days ago) - A tasty, self-hostable Git server for the command line🍦
 - [charmbracelet/melt](https://github.com/charmbracelet/melt) ([v0.3.0](https://github.com/charmbracelet/melt/releases/tag/v0.3.0), 6 days ago) - 🧊 Backup and restore Ed25519 SSH keys with seed words.
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v0.3.1](https://github.com/charmbracelet/wish/releases/tag/v0.3.1), 1 week ago) - Make SSH apps, just like that! 💫
 - [charmbracelet/keygen](https://github.com/charmbracelet/keygen) ([v0.3.0](https://github.com/charmbracelet/keygen/releases/tag/v0.3.0), 1 week ago) - An SSH key pair generator 🗝️
-- [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) ([v6.0.0-beta](https://github.com/OpenAPITools/openapi-generator/releases/tag/v6.0.0-beta), 1 week ago) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
 
 #### 🔨 My recent Pull Requests
 
