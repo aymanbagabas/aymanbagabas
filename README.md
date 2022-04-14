@@ -22,11 +22,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.4.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.4.0), today) - The SSH directory ✨
 - [charmbracelet/skate](https://github.com/charmbracelet/skate) ([v0.2.0](https://github.com/charmbracelet/skate/releases/tag/v0.2.0), 1 day ago) - A personal key value store 🛼
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.3.0](https://github.com/charmbracelet/soft-serve/releases/tag/v0.3.0), 3 days ago) - A tasty, self-hostable Git server for the command line🍦
 - [charmbracelet/melt](https://github.com/charmbracelet/melt) ([v0.3.0](https://github.com/charmbracelet/melt/releases/tag/v0.3.0), 1 week ago) - 🧊 Backup and restore Ed25519 SSH keys with seed words.
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v0.3.1](https://github.com/charmbracelet/wish/releases/tag/v0.3.1), 1 week ago) - Make SSH apps, just like that! 💫
-- [charmbracelet/keygen](https://github.com/charmbracelet/keygen) ([v0.3.0](https://github.com/charmbracelet/keygen/releases/tag/v0.3.0), 1 week ago) - An SSH key pair generator 🗝️
 
 #### 🔨 My recent Pull Requests
 
