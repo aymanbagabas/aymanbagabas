@@ -46,11 +46,11 @@
 
 #### ⭐ Recent Stars
 
+- [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer (today)
 - [aymanbagabas/go-osc52](https://github.com/aymanbagabas/go-osc52) - Golang terminal ANSI OSC52 wrapper. Copy text to clipboard from anywhere. (4 days ago)
 - [charmbracelet/runway](https://github.com/charmbracelet/runway) - Models 📸 (1 week ago)
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🍡 (3 weeks ago)
 - [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️ (3 weeks ago)
-- [getlantern/systray](https://github.com/getlantern/systray) - a cross platfrom Go library to place an icon and menu in the notification area (1 month ago)
 
 #### 📫 How to reach me
 
