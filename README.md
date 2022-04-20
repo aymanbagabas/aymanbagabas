@@ -6,7 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [aymanbagabas/go-osc52](https://github.com/aymanbagabas/go-osc52) - Golang terminal ANSI OSC52 wrapper. Copy text to clipboard from anywhere. (today)
+- [aymanbagabas/go-osc52](https://github.com/aymanbagabas/go-osc52) - Golang terminal ANSI OSC52 wrapper. Copy text to clipboard from anywhere. (1 day ago)
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (1 week ago)
 - [yanc0/musshis-heart](https://github.com/yanc0/musshis-heart) - You drive the heart of a little creature called: Musshi. (1 week ago)
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (2 weeks ago)
@@ -22,18 +22,18 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [aymanbagabas/go-osc52](https://github.com/aymanbagabas/go-osc52) ([v1.0.2](https://github.com/aymanbagabas/go-osc52/releases/tag/v1.0.2), 4 days ago) - Golang terminal ANSI OSC52 wrapper. Copy text to clipboard from anywhere.
-- [charmbracelet/harmonica](https://github.com/charmbracelet/harmonica) ([v0.2.0](https://github.com/charmbracelet/harmonica/releases/tag/v0.2.0), 4 days ago) - A simple, efficient spring animation library 🎼
-- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.4.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.4.0), 5 days ago) - The SSH directory ✨
-- [charmbracelet/skate](https://github.com/charmbracelet/skate) ([v0.2.0](https://github.com/charmbracelet/skate/releases/tag/v0.2.0), 6 days ago) - A personal key value store 🛼
+- [aymanbagabas/go-osc52](https://github.com/aymanbagabas/go-osc52) ([v1.0.2](https://github.com/aymanbagabas/go-osc52/releases/tag/v1.0.2), 5 days ago) - Golang terminal ANSI OSC52 wrapper. Copy text to clipboard from anywhere.
+- [charmbracelet/harmonica](https://github.com/charmbracelet/harmonica) ([v0.2.0](https://github.com/charmbracelet/harmonica/releases/tag/v0.2.0), 5 days ago) - A simple, efficient spring animation library 🎼
+- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.4.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.4.0), 6 days ago) - The SSH directory ✨
+- [charmbracelet/skate](https://github.com/charmbracelet/skate) ([v0.2.0](https://github.com/charmbracelet/skate/releases/tag/v0.2.0), 1 week ago) - A personal key value store 🛼
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.3.0](https://github.com/charmbracelet/soft-serve/releases/tag/v0.3.0), 1 week ago) - A tasty, self-hostable Git server for the command line🍦
 
 #### 🔨 My recent Pull Requests
 
 - [feat: show spinner when loading commits](https://github.com/charmbracelet/soft-serve/pull/112) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 week ago)
 - [fix: don&#39;t load non-git repos](https://github.com/charmbracelet/soft-serve/pull/111) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 week ago)
-- [fix: concurrent map writes error when multiple users connect](https://github.com/yanc0/musshis-heart/pull/1) on [yanc0/musshis-heart](https://github.com/yanc0/musshis-heart) (1 week ago)
-- [Soft Serve middleware](https://github.com/charmbracelet/soft-serve/pull/110) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 week ago)
+- [fix: concurrent map writes error when multiple users connect](https://github.com/yanc0/musshis-heart/pull/1) on [yanc0/musshis-heart](https://github.com/yanc0/musshis-heart) (2 weeks ago)
+- [Soft Serve middleware](https://github.com/charmbracelet/soft-serve/pull/110) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (2 weeks ago)
 - [feat: add bubbletea program middleware](https://github.com/charmbracelet/wish/pull/39) on [charmbracelet/wish](https://github.com/charmbracelet/wish) (2 weeks ago)
 
 #### 📜 My recent blog posts
@@ -46,8 +46,8 @@
 
 #### ⭐ Recent Stars
 
-- [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer (1 day ago)
-- [aymanbagabas/go-osc52](https://github.com/aymanbagabas/go-osc52) - Golang terminal ANSI OSC52 wrapper. Copy text to clipboard from anywhere. (5 days ago)
+- [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer (2 days ago)
+- [aymanbagabas/go-osc52](https://github.com/aymanbagabas/go-osc52) - Golang terminal ANSI OSC52 wrapper. Copy text to clipboard from anywhere. (6 days ago)
 - [charmbracelet/runway](https://github.com/charmbracelet/runway) - Models 📸 (2 weeks ago)
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🍡 (3 weeks ago)
 - [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️ (3 weeks ago)
