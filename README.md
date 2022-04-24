@@ -6,8 +6,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (1 day ago)
-- [aymanbagabas/go-osc52](https://github.com/aymanbagabas/go-osc52) - Golang terminal ANSI OSC52 wrapper. Copy text to clipboard from anywhere. (4 days ago)
+- [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (2 days ago)
+- [aymanbagabas/go-osc52](https://github.com/aymanbagabas/go-osc52) - Golang terminal ANSI OSC52 wrapper. Copy text to clipboard from anywhere. (5 days ago)
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (1 week ago)
 - [yanc0/musshis-heart](https://github.com/yanc0/musshis-heart) - You drive the heart of a little creature called: Musshi. (2 weeks ago)
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (2 weeks ago)
@@ -39,14 +39,14 @@
 #### 📜 My recent blog posts
 
 - [Import Notion Pages to Jekyll](https://aymanbagabas.com/blog/2022/03/29/import-notion-pages-to-jekyll.html) (3 weeks ago)
-- [Nyan Cat Over SSH](https://aymanbagabas.com/blog/2022/03/25/nyan-cat-over-ssh.html) (4 weeks ago)
+- [Nyan Cat Over SSH](https://aymanbagabas.com/blog/2022/03/25/nyan-cat-over-ssh.html) (1 month ago)
 - [Walk by the pond](https://aymanbagabas.com/blog/2022/03/10/walk-by-the-pond.html) (1 month ago)
 - [Run native C/C&#43;&#43; code in the browser using Emscripten](https://aymanbagabas.com/blog/2020/11/18/run-native-c-c&#43;&#43;-code-in-the-browser-using-emscripten.html) (1 year ago)
 - [Dynamic DNS using DDclient](https://aymanbagabas.com/blog/2019/02/16/dynamic-dns-using-ddclient.html) (3 years ago)
 
 #### ⭐ Recent Stars
 
-- [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer (5 days ago)
+- [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer (6 days ago)
 - [aymanbagabas/go-osc52](https://github.com/aymanbagabas/go-osc52) - Golang terminal ANSI OSC52 wrapper. Copy text to clipboard from anywhere. (1 week ago)
 - [charmbracelet/runway](https://github.com/charmbracelet/runway) - Models 📸 (2 weeks ago)
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🍡 (3 weeks ago)
