@@ -22,11 +22,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.12.0](https://github.com/charmbracelet/charm/releases/tag/v0.12.0), today) - The Charm Tool and Library 🌟
 - [aymanbagabas/go-osc52](https://github.com/aymanbagabas/go-osc52) ([v1.0.3](https://github.com/aymanbagabas/go-osc52/releases/tag/v1.0.3), 3 days ago) - Golang terminal ANSI OSC52 wrapper. Copy text to clipboard from anywhere.
 - [charmbracelet/harmonica](https://github.com/charmbracelet/harmonica) ([v0.2.0](https://github.com/charmbracelet/harmonica/releases/tag/v0.2.0), 2 weeks ago) - A simple, physics-based animation library 🎼
 - [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.4.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.4.0), 2 weeks ago) - The SSH directory ✨
 - [charmbracelet/skate](https://github.com/charmbracelet/skate) ([v0.2.0](https://github.com/charmbracelet/skate/releases/tag/v0.2.0), 2 weeks ago) - A personal key value store 🛼
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.3.0](https://github.com/charmbracelet/soft-serve/releases/tag/v0.3.0), 2 weeks ago) - A tasty, self-hostable Git server for the command line🍦
 
 #### 🔨 My recent Pull Requests
 
