@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Improve FS and speed up file opening](https://github.com/charmbracelet/charm/pull/134) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (today)
 - [Support copying text using OSC52](https://github.com/muesli/termenv/pull/80) on [muesli/termenv](https://github.com/muesli/termenv) (5 days ago)
 - [Add missing viewport keymap help](https://github.com/charmbracelet/bubbles/pull/146) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (6 days ago)
 - [feat: show spinner when loading commits](https://github.com/charmbracelet/soft-serve/pull/112) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (3 weeks ago)
 - [fix: don&#39;t load non-git repos](https://github.com/charmbracelet/soft-serve/pull/111) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (3 weeks ago)
-- [fix: concurrent map writes error when multiple users connect](https://github.com/yanc0/musshis-heart/pull/1) on [yanc0/musshis-heart](https://github.com/yanc0/musshis-heart) (4 weeks ago)
 
 #### 📜 My recent blog posts
 
