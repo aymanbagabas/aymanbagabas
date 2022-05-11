@@ -22,11 +22,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v0.4.0](https://github.com/charmbracelet/wish/releases/tag/v0.4.0), today) - Make SSH apps, just like that! 💫
 - [charmbracelet/promwish](https://github.com/charmbracelet/promwish) ([v0.2.0](https://github.com/charmbracelet/promwish/releases/tag/v0.2.0), 1 day ago) - Prometheus middleware for Wish
 - [charmbracelet/melt](https://github.com/charmbracelet/melt) ([v0.4.0](https://github.com/charmbracelet/melt/releases/tag/v0.4.0), 2 days ago) - 🧊 Backup and restore Ed25519 SSH keys with seed words.
 - [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.12.1](https://github.com/charmbracelet/charm/releases/tag/v0.12.1), 5 days ago) - The Charm Tool and Library 🌟
 - [aymanbagabas/go-osc52](https://github.com/aymanbagabas/go-osc52) ([v1.0.3](https://github.com/aymanbagabas/go-osc52/releases/tag/v1.0.3), 2 weeks ago) - Golang terminal ANSI OSC52 wrapper. Copy text to clipboard from anywhere.
-- [charmbracelet/harmonica](https://github.com/charmbracelet/harmonica) ([v0.2.0](https://github.com/charmbracelet/harmonica/releases/tag/v0.2.0), 3 weeks ago) - A simple, physics-based animation library 🎼
 
 #### 🔨 My recent Pull Requests
 
