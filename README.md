@@ -6,8 +6,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/promwish](https://github.com/charmbracelet/promwish) - Prometheus middleware for Wish (3 days ago)
-- [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (3 days ago)
+- [charmbracelet/promwish](https://github.com/charmbracelet/promwish) - Prometheus middleware for Wish (4 days ago)
+- [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (4 days ago)
 - [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (1 week ago)
 - [aymanbagabas/go-osc52](https://github.com/aymanbagabas/go-osc52) - Golang terminal ANSI OSC52 wrapper. Copy text to clipboard from anywhere. (1 week ago)
 - [aymanbagabas/fss3](https://github.com/aymanbagabas/fss3) - FSS3 is an S3 filesystem abstraction layer for Golang (1 week ago)
@@ -22,10 +22,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/melt](https://github.com/charmbracelet/melt) ([v0.4.1](https://github.com/charmbracelet/melt/releases/tag/v0.4.1), 2 days ago) - 🧊 Backup and restore Ed25519 SSH keys with seed words.
-- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.5.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.5.0), 2 days ago) - The SSH directory ✨
-- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v0.4.0](https://github.com/charmbracelet/wish/releases/tag/v0.4.0), 2 days ago) - Make SSH apps, just like that! 💫
-- [charmbracelet/promwish](https://github.com/charmbracelet/promwish) ([v0.2.0](https://github.com/charmbracelet/promwish/releases/tag/v0.2.0), 3 days ago) - Prometheus middleware for Wish
+- [charmbracelet/melt](https://github.com/charmbracelet/melt) ([v0.4.1](https://github.com/charmbracelet/melt/releases/tag/v0.4.1), 3 days ago) - 🧊 Backup and restore Ed25519 SSH keys with seed words.
+- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.5.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.5.0), 3 days ago) - The SSH directory ✨
+- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v0.4.0](https://github.com/charmbracelet/wish/releases/tag/v0.4.0), 3 days ago) - Make SSH apps, just like that! 💫
+- [charmbracelet/promwish](https://github.com/charmbracelet/promwish) ([v0.2.0](https://github.com/charmbracelet/promwish/releases/tag/v0.2.0), 4 days ago) - Prometheus middleware for Wish
 - [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.12.1](https://github.com/charmbracelet/charm/releases/tag/v0.12.1), 1 week ago) - The Charm Tool and Library 🌟
 
 #### 🔨 My recent Pull Requests
@@ -49,7 +49,7 @@
 - [muesli/sasquatch](https://github.com/muesli/sasquatch) - A simple data encryption library (1 week ago)
 - [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (1 week ago)
 - [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer (3 weeks ago)
-- [aymanbagabas/go-osc52](https://github.com/aymanbagabas/go-osc52) - Golang terminal ANSI OSC52 wrapper. Copy text to clipboard from anywhere. (4 weeks ago)
+- [aymanbagabas/go-osc52](https://github.com/aymanbagabas/go-osc52) - Golang terminal ANSI OSC52 wrapper. Copy text to clipboard from anywhere. (1 month ago)
 - [charmbracelet/runway](https://github.com/charmbracelet/runway) - Models 📸 (1 month ago)
 
 #### 📫 How to reach me
