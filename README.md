@@ -6,11 +6,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/promwish](https://github.com/charmbracelet/promwish) - Prometheus middleware for Wish (6 days ago)
-- [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (6 days ago)
+- [charmbracelet/promwish](https://github.com/charmbracelet/promwish) - Prometheus middleware for Wish (1 week ago)
+- [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (1 week ago)
 - [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (1 week ago)
 - [aymanbagabas/go-osc52](https://github.com/aymanbagabas/go-osc52) - Golang terminal ANSI OSC52 wrapper. Copy text to clipboard from anywhere. (1 week ago)
-- [aymanbagabas/fss3](https://github.com/aymanbagabas/fss3) - FSS3 is an S3 filesystem abstraction layer for Golang (1 week ago)
+- [aymanbagabas/fss3](https://github.com/aymanbagabas/fss3) - FSS3 is an S3 filesystem abstraction layer for Golang (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -22,10 +22,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/melt](https://github.com/charmbracelet/melt) ([v0.4.1](https://github.com/charmbracelet/melt/releases/tag/v0.4.1), 5 days ago) - 🧊 Backup and restore Ed25519 SSH keys with seed words.
-- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.5.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.5.0), 5 days ago) - The SSH directory ✨
-- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v0.4.0](https://github.com/charmbracelet/wish/releases/tag/v0.4.0), 5 days ago) - Make SSH apps, just like that! 💫
-- [charmbracelet/promwish](https://github.com/charmbracelet/promwish) ([v0.2.0](https://github.com/charmbracelet/promwish/releases/tag/v0.2.0), 6 days ago) - Prometheus middleware for Wish
+- [charmbracelet/melt](https://github.com/charmbracelet/melt) ([v0.4.1](https://github.com/charmbracelet/melt/releases/tag/v0.4.1), 6 days ago) - 🧊 Backup and restore Ed25519 SSH keys with seed words.
+- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.5.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.5.0), 6 days ago) - The SSH directory ✨
+- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v0.4.0](https://github.com/charmbracelet/wish/releases/tag/v0.4.0), 6 days ago) - Make SSH apps, just like that! 💫
+- [charmbracelet/promwish](https://github.com/charmbracelet/promwish) ([v0.2.0](https://github.com/charmbracelet/promwish/releases/tag/v0.2.0), 1 week ago) - Prometheus middleware for Wish
 - [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.12.1](https://github.com/charmbracelet/charm/releases/tag/v0.12.1), 1 week ago) - The Charm Tool and Library 🌟
 
 #### 🔨 My recent Pull Requests
