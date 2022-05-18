@@ -32,7 +32,7 @@
 
 - [WIP: New UI](https://github.com/charmbracelet/soft-serve/pull/117) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (2 weeks ago)
 - [Improve FS and speed up file opening](https://github.com/charmbracelet/charm/pull/134) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (2 weeks ago)
-- [Support copying text using OSC52](https://github.com/muesli/termenv/pull/80) on [muesli/termenv](https://github.com/muesli/termenv) (2 weeks ago)
+- [Support copying text (OSC52) &amp; hyperlinks (OSC8)](https://github.com/muesli/termenv/pull/80) on [muesli/termenv](https://github.com/muesli/termenv) (2 weeks ago)
 - [Add missing viewport keymap help](https://github.com/charmbracelet/bubbles/pull/146) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (2 weeks ago)
 - [feat: show spinner when loading commits](https://github.com/charmbracelet/soft-serve/pull/112) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 month ago)
 
