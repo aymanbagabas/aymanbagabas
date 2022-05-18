@@ -46,11 +46,11 @@
 
 #### ⭐ Recent Stars
 
+- [bloznelis/typioca](https://github.com/bloznelis/typioca) - Cosy typing speed tester (today)
 - [muesli/sasquatch](https://github.com/muesli/sasquatch) - A simple data encryption library (2 weeks ago)
 - [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (2 weeks ago)
 - [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer (1 month ago)
 - [aymanbagabas/go-osc52](https://github.com/aymanbagabas/go-osc52) - Golang terminal ANSI OSC52 wrapper. Copy text to clipboard from anywhere. (1 month ago)
-- [charmbracelet/runway](https://github.com/charmbracelet/runway) - Models 📸 (1 month ago)
 
 #### 📫 How to reach me
 
