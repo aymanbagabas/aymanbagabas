@@ -6,7 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [aymanbagabas/kalima](https://github.com/aymanbagabas/kalima) - A PWA that views and searches through FnanenDB songs database. (1 day ago)
+- [aymanbagabas/kalima](https://github.com/aymanbagabas/kalima) - A PWA that views and searches through FnanenDB songs database. (2 days ago)
 - [charmbracelet/promwish](https://github.com/charmbracelet/promwish) - Prometheus middleware for Wish (1 week ago)
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (1 week ago)
 - [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (1 week ago)
@@ -33,7 +33,7 @@
 - [WIP: New UI](https://github.com/charmbracelet/soft-serve/pull/117) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (2 weeks ago)
 - [Improve FS and speed up file opening](https://github.com/charmbracelet/charm/pull/134) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (2 weeks ago)
 - [Support copying text (OSC52) &amp; hyperlinks (OSC8)](https://github.com/muesli/termenv/pull/80) on [muesli/termenv](https://github.com/muesli/termenv) (2 weeks ago)
-- [Add missing viewport keymap help](https://github.com/charmbracelet/bubbles/pull/146) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (2 weeks ago)
+- [Add missing viewport keymap help](https://github.com/charmbracelet/bubbles/pull/146) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (3 weeks ago)
 - [feat: show spinner when loading commits](https://github.com/charmbracelet/soft-serve/pull/112) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 month ago)
 
 #### 📜 My recent blog posts
@@ -46,7 +46,7 @@
 
 #### ⭐ Recent Stars
 
-- [bloznelis/typioca](https://github.com/bloznelis/typioca) - Cosy typing speed tester (today)
+- [bloznelis/typioca](https://github.com/bloznelis/typioca) - Cosy typing speed tester (1 day ago)
 - [muesli/sasquatch](https://github.com/muesli/sasquatch) - A simple data encryption library (2 weeks ago)
 - [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (2 weeks ago)
 - [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer (1 month ago)
