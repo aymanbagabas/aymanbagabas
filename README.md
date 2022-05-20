@@ -6,11 +6,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (today)
-- [aymanbagabas/kalima](https://github.com/aymanbagabas/kalima) - A PWA that views and searches through FnanenDB songs database. (2 days ago)
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (1 day ago)
+- [aymanbagabas/kalima](https://github.com/aymanbagabas/kalima) - A PWA that views and searches through FnanenDB songs database. (3 days ago)
 - [charmbracelet/promwish](https://github.com/charmbracelet/promwish) - Prometheus middleware for Wish (1 week ago)
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (1 week ago)
-- [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (1 week ago)
+- [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -26,14 +26,14 @@
 - [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.5.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.5.0), 1 week ago) - The SSH directory ✨
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v0.4.0](https://github.com/charmbracelet/wish/releases/tag/v0.4.0), 1 week ago) - Make SSH apps, just like that! 💫
 - [charmbracelet/promwish](https://github.com/charmbracelet/promwish) ([v0.2.0](https://github.com/charmbracelet/promwish/releases/tag/v0.2.0), 1 week ago) - Prometheus middleware for Wish
-- [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.12.1](https://github.com/charmbracelet/charm/releases/tag/v0.12.1), 1 week ago) - The Charm Tool and Library 🌟
+- [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.12.1](https://github.com/charmbracelet/charm/releases/tag/v0.12.1), 2 weeks ago) - The Charm Tool and Library 🌟
 
 #### 🔨 My recent Pull Requests
 
-- [Run soft-serve as non-root on port 22](https://github.com/charmbracelet/soft-serve/pull/119) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (today)
+- [Run soft-serve as non-root on port 22](https://github.com/charmbracelet/soft-serve/pull/119) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 day ago)
 - [WIP: New UI](https://github.com/charmbracelet/soft-serve/pull/117) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (2 weeks ago)
 - [Improve FS and speed up file opening](https://github.com/charmbracelet/charm/pull/134) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (2 weeks ago)
-- [Support copying text (OSC52) &amp; hyperlinks (OSC8)](https://github.com/muesli/termenv/pull/80) on [muesli/termenv](https://github.com/muesli/termenv) (2 weeks ago)
+- [Support copying text (OSC52) &amp; hyperlinks (OSC8)](https://github.com/muesli/termenv/pull/80) on [muesli/termenv](https://github.com/muesli/termenv) (3 weeks ago)
 - [Add missing viewport keymap help](https://github.com/charmbracelet/bubbles/pull/146) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (3 weeks ago)
 
 #### 📜 My recent blog posts
@@ -46,7 +46,7 @@
 
 #### ⭐ Recent Stars
 
-- [bloznelis/typioca](https://github.com/bloznelis/typioca) - Cosy typing speed tester (1 day ago)
+- [bloznelis/typioca](https://github.com/bloznelis/typioca) - Cosy typing speed tester (2 days ago)
 - [muesli/sasquatch](https://github.com/muesli/sasquatch) - A simple data encryption library (2 weeks ago)
 - [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (2 weeks ago)
 - [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer (1 month ago)
