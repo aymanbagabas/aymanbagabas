@@ -6,11 +6,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [charmbracelet/skate](https://github.com/charmbracelet/skate) - A personal key value store 🛼 (today)
 - [bloznelis/typioca](https://github.com/bloznelis/typioca) - Cosy typing speed tester (4 days ago)
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (5 days ago)
 - [aymanbagabas/kalima](https://github.com/aymanbagabas/kalima) - A PWA that views and searches through FnanenDB songs database. (1 week ago)
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (2 weeks ago)
-- [charmbracelet/promwish](https://github.com/charmbracelet/promwish) - Prometheus middleware for Wish (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: add print/fatal/error convenience methods](https://github.com/charmbracelet/wish/pull/48) on [charmbracelet/wish](https://github.com/charmbracelet/wish) (today)
 - [chore: upgrade deps](https://github.com/charmbracelet/skate/pull/38) on [charmbracelet/skate](https://github.com/charmbracelet/skate) (today)
 - [fix(progress): set a custom termenv color profile](https://github.com/charmbracelet/bubbles/pull/152) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (4 days ago)
 - [Add typioca ssh server](https://github.com/bloznelis/typioca/pull/27) on [bloznelis/typioca](https://github.com/bloznelis/typioca) (4 days ago)
 - [Run soft-serve as non-root on port 22](https://github.com/charmbracelet/soft-serve/pull/119) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (5 days ago)
-- [New UI](https://github.com/charmbracelet/soft-serve/pull/117) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
