@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [chore: upgrade deps](https://github.com/charmbracelet/skate/pull/38) on [charmbracelet/skate](https://github.com/charmbracelet/skate) (today)
 - [fix(progress): set a custom termenv color profile](https://github.com/charmbracelet/bubbles/pull/152) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (4 days ago)
 - [Add typioca ssh server](https://github.com/bloznelis/typioca/pull/27) on [bloznelis/typioca](https://github.com/bloznelis/typioca) (4 days ago)
 - [Run soft-serve as non-root on port 22](https://github.com/charmbracelet/soft-serve/pull/119) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (5 days ago)
 - [New UI](https://github.com/charmbracelet/soft-serve/pull/117) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (2 weeks ago)
-- [Improve FS and speed up file opening](https://github.com/charmbracelet/charm/pull/134) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
