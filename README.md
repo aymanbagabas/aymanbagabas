@@ -6,9 +6,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/skate](https://github.com/charmbracelet/skate) - A personal key value store 🛼 (today)
-- [bloznelis/typioca](https://github.com/bloznelis/typioca) - Cosy typing speed tester (4 days ago)
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (5 days ago)
+- [charmbracelet/skate](https://github.com/charmbracelet/skate) - A personal key value store 🛼 (1 day ago)
+- [bloznelis/typioca](https://github.com/bloznelis/typioca) - Cosy typing speed tester (5 days ago)
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (6 days ago)
 - [aymanbagabas/kalima](https://github.com/aymanbagabas/kalima) - A PWA that views and searches through FnanenDB songs database. (1 week ago)
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (2 weeks ago)
 
@@ -22,19 +22,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [bloznelis/typioca](https://github.com/bloznelis/typioca) ([1.2.2](https://github.com/bloznelis/typioca/releases/tag/1.2.2), 1 day ago) - Cosy typing speed tester
-- [charmbracelet/melt](https://github.com/charmbracelet/melt) ([v0.4.1](https://github.com/charmbracelet/melt/releases/tag/v0.4.1), 1 week ago) - 🧊 Backup and restore Ed25519 SSH keys with seed words.
-- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.5.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.5.0), 1 week ago) - The SSH directory ✨
-- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v0.4.0](https://github.com/charmbracelet/wish/releases/tag/v0.4.0), 1 week ago) - Make SSH apps, just like that! 💫
+- [bloznelis/typioca](https://github.com/bloznelis/typioca) ([1.2.2](https://github.com/bloznelis/typioca/releases/tag/1.2.2), 2 days ago) - Cosy typing speed tester
+- [charmbracelet/melt](https://github.com/charmbracelet/melt) ([v0.4.1](https://github.com/charmbracelet/melt/releases/tag/v0.4.1), 2 weeks ago) - 🧊 Backup and restore Ed25519 SSH keys with seed words.
+- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.5.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.5.0), 2 weeks ago) - The SSH directory ✨
+- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v0.4.0](https://github.com/charmbracelet/wish/releases/tag/v0.4.0), 2 weeks ago) - Make SSH apps, just like that! 💫
 - [charmbracelet/promwish](https://github.com/charmbracelet/promwish) ([v0.2.0](https://github.com/charmbracelet/promwish/releases/tag/v0.2.0), 2 weeks ago) - Prometheus middleware for Wish
 
 #### 🔨 My recent Pull Requests
 
-- [feat: add print/fatal/error convenience methods](https://github.com/charmbracelet/wish/pull/48) on [charmbracelet/wish](https://github.com/charmbracelet/wish) (today)
-- [chore: upgrade deps](https://github.com/charmbracelet/skate/pull/38) on [charmbracelet/skate](https://github.com/charmbracelet/skate) (today)
-- [fix(progress): set a custom termenv color profile](https://github.com/charmbracelet/bubbles/pull/152) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (4 days ago)
-- [Add typioca ssh server](https://github.com/bloznelis/typioca/pull/27) on [bloznelis/typioca](https://github.com/bloznelis/typioca) (4 days ago)
-- [Run soft-serve as non-root on port 22](https://github.com/charmbracelet/soft-serve/pull/119) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (5 days ago)
+- [feat: add print/fatal/error convenience methods](https://github.com/charmbracelet/wish/pull/48) on [charmbracelet/wish](https://github.com/charmbracelet/wish) (1 day ago)
+- [chore: upgrade deps](https://github.com/charmbracelet/skate/pull/38) on [charmbracelet/skate](https://github.com/charmbracelet/skate) (1 day ago)
+- [fix(progress): set a custom termenv color profile](https://github.com/charmbracelet/bubbles/pull/152) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (5 days ago)
+- [Add typioca ssh server](https://github.com/bloznelis/typioca/pull/27) on [bloznelis/typioca](https://github.com/bloznelis/typioca) (5 days ago)
+- [Run soft-serve as non-root on port 22](https://github.com/charmbracelet/soft-serve/pull/119) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (6 days ago)
 
 #### 📜 My recent blog posts
 
@@ -46,9 +46,9 @@
 
 #### ⭐ Recent Stars
 
-- [muesli/beehive](https://github.com/muesli/beehive) - A flexible event/agent &amp; automation system with lots of bees 🐝 (4 days ago)
-- [bloznelis/typioca](https://github.com/bloznelis/typioca) - Cosy typing speed tester (6 days ago)
-- [muesli/sasquatch](https://github.com/muesli/sasquatch) - A simple data encryption library (2 weeks ago)
+- [muesli/beehive](https://github.com/muesli/beehive) - A flexible event/agent &amp; automation system with lots of bees 🐝 (5 days ago)
+- [bloznelis/typioca](https://github.com/bloznelis/typioca) - Cosy typing speed tester (1 week ago)
+- [muesli/sasquatch](https://github.com/muesli/sasquatch) - A simple data encryption library (3 weeks ago)
 - [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (3 weeks ago)
 - [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer (1 month ago)
 
