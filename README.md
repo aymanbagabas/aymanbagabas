@@ -46,11 +46,11 @@
 
 #### ⭐ Recent Stars
 
+- [gogs/git-module](https://github.com/gogs/git-module) - Package git-module is a Go module for Git access through shell commands (today)
 - [muesli/beehive](https://github.com/muesli/beehive) - A flexible event/agent &amp; automation system with lots of bees 🐝 (6 days ago)
 - [bloznelis/typioca](https://github.com/bloznelis/typioca) - Cosy typing speed tester (1 week ago)
 - [muesli/sasquatch](https://github.com/muesli/sasquatch) - A simple data encryption library (3 weeks ago)
 - [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (3 weeks ago)
-- [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer (1 month ago)
 
 #### 📫 How to reach me
 
