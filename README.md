@@ -6,8 +6,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (today)
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (5 days ago)
+- [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (1 day ago)
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (6 days ago)
 - [charmbracelet/skate](https://github.com/charmbracelet/skate) - A personal key value store 🛼 (1 week ago)
 - [bloznelis/typioca](https://github.com/bloznelis/typioca) - Cosy typing speed tester (1 week ago)
 - [aymanbagabas/kalima](https://github.com/aymanbagabas/kalima) - A PWA that views and searches through FnanenDB songs database. (2 weeks ago)
@@ -22,11 +22,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [bloznelis/typioca](https://github.com/bloznelis/typioca) ([1.2.3](https://github.com/bloznelis/typioca/releases/tag/1.2.3), today) - Cosy typing speed tester
-- [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) ([v6.0.0](https://github.com/OpenAPITools/openapi-generator/releases/tag/v6.0.0), 5 days ago) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
-- [charmbracelet/melt](https://github.com/charmbracelet/melt) ([v0.4.1](https://github.com/charmbracelet/melt/releases/tag/v0.4.1), 2 weeks ago) - 🧊 Backup and restore Ed25519 SSH keys with seed words.
-- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.5.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.5.0), 2 weeks ago) - The SSH directory ✨
-- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v0.4.0](https://github.com/charmbracelet/wish/releases/tag/v0.4.0), 2 weeks ago) - Make SSH apps, just like that! 💫
+- [bloznelis/typioca](https://github.com/bloznelis/typioca) ([1.2.3](https://github.com/bloznelis/typioca/releases/tag/1.2.3), 1 day ago) - Cosy typing speed tester
+- [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) ([v6.0.0](https://github.com/OpenAPITools/openapi-generator/releases/tag/v6.0.0), 6 days ago) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
+- [charmbracelet/melt](https://github.com/charmbracelet/melt) ([v0.4.1](https://github.com/charmbracelet/melt/releases/tag/v0.4.1), 3 weeks ago) - 🧊 Backup and restore Ed25519 SSH keys with seed words.
+- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.5.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.5.0), 3 weeks ago) - The SSH directory ✨
+- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v0.4.0](https://github.com/charmbracelet/wish/releases/tag/v0.4.0), 3 weeks ago) - Make SSH apps, just like that! 💫
 
 #### 🔨 My recent Pull Requests
 
@@ -46,11 +46,11 @@
 
 #### ⭐ Recent Stars
 
-- [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (4 days ago)
-- [gogs/git-module](https://github.com/gogs/git-module) - Package git-module is a Go module for Git access through shell commands (5 days ago)
+- [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (5 days ago)
+- [gogs/git-module](https://github.com/gogs/git-module) - Package git-module is a Go module for Git access through shell commands (6 days ago)
 - [muesli/beehive](https://github.com/muesli/beehive) - A flexible event/agent &amp; automation system with lots of bees 🐝 (1 week ago)
-- [bloznelis/typioca](https://github.com/bloznelis/typioca) - Cosy typing speed tester (1 week ago)
-- [muesli/sasquatch](https://github.com/muesli/sasquatch) - A simple data encryption library (3 weeks ago)
+- [bloznelis/typioca](https://github.com/bloznelis/typioca) - Cosy typing speed tester (2 weeks ago)
+- [muesli/sasquatch](https://github.com/muesli/sasquatch) - A simple data encryption library (4 weeks ago)
 
 #### 📫 How to reach me
 
