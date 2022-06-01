@@ -22,19 +22,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.3.1](https://github.com/charmbracelet/soft-serve/releases/tag/v0.3.1), today) - A tasty, self-hostable Git server for the command line🍦
 - [bloznelis/typioca](https://github.com/bloznelis/typioca) ([1.2.3](https://github.com/bloznelis/typioca/releases/tag/1.2.3), 1 day ago) - Cosy typing speed tester
 - [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) ([v6.0.0](https://github.com/OpenAPITools/openapi-generator/releases/tag/v6.0.0), 6 days ago) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
 - [charmbracelet/melt](https://github.com/charmbracelet/melt) ([v0.4.1](https://github.com/charmbracelet/melt/releases/tag/v0.4.1), 3 weeks ago) - 🧊 Backup and restore Ed25519 SSH keys with seed words.
 - [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.5.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.5.0), 3 weeks ago) - The SSH directory ✨
-- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v0.4.0](https://github.com/charmbracelet/wish/releases/tag/v0.4.0), 3 weeks ago) - Make SSH apps, just like that! 💫
 
 #### 🔨 My recent Pull Requests
 
+- [Support copying text (OSC52) &amp; hyperlinks (OSC8)](https://github.com/muesli/termenv/pull/82) on [muesli/termenv](https://github.com/muesli/termenv) (today)
 - [feat: add print/fatal/error convenience methods](https://github.com/charmbracelet/wish/pull/48) on [charmbracelet/wish](https://github.com/charmbracelet/wish) (1 week ago)
 - [chore: upgrade deps](https://github.com/charmbracelet/skate/pull/38) on [charmbracelet/skate](https://github.com/charmbracelet/skate) (1 week ago)
 - [fix(progress): set a custom termenv color profile](https://github.com/charmbracelet/bubbles/pull/152) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (1 week ago)
 - [Add typioca ssh server](https://github.com/bloznelis/typioca/pull/27) on [bloznelis/typioca](https://github.com/bloznelis/typioca) (1 week ago)
-- [Run soft-serve as non-root on port 22](https://github.com/charmbracelet/soft-serve/pull/119) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 week ago)
 
 #### 📜 My recent blog posts
 
