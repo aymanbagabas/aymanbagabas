@@ -6,11 +6,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [aymanbagabas/aymanbagabas.github.io](https://github.com/aymanbagabas/aymanbagabas.github.io) - A personal website built using Jekyll (today)
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (1 day ago)
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (6 days ago)
 - [charmbracelet/skate](https://github.com/charmbracelet/skate) - A personal key value store 🛼 (1 week ago)
 - [bloznelis/typioca](https://github.com/bloznelis/typioca) - Cosy typing speed tester (1 week ago)
-- [aymanbagabas/kalima](https://github.com/aymanbagabas/kalima) - A PWA that views and searches through FnanenDB songs database. (2 weeks ago)
 
 #### 🌱 My latest projects
 
