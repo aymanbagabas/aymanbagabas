@@ -38,11 +38,11 @@
 
 #### 📜 My recent blog posts
 
+- [no title](https://aymanbagabas.com/blog/2022/06/02/blue-mountain-summit-loop.html) (today)
+- [Blue Mountain](https://aymanbagabas.com/blog/2022/06/02/blue-mountain.html) (today)
 - [Import Notion Pages to Jekyll](https://aymanbagabas.com/blog/2022/03/29/import-notion-pages-to-jekyll.html) (2 months ago)
 - [Nyan Cat Over SSH](https://aymanbagabas.com/blog/2022/03/25/nyan-cat-over-ssh.html) (2 months ago)
 - [Walk by the pond](https://aymanbagabas.com/blog/2022/03/10/walk-by-the-pond.html) (2 months ago)
-- [Run native C/C&#43;&#43; code in the browser using Emscripten](https://aymanbagabas.com/blog/2020/11/18/run-native-c-c&#43;&#43;-code-in-the-browser-using-emscripten.html) (2 years ago)
-- [Dynamic DNS using DDclient](https://aymanbagabas.com/blog/2019/02/16/dynamic-dns-using-ddclient.html) (3 years ago)
 
 #### ⭐ Recent Stars
 
