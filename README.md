@@ -6,10 +6,10 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (today)
+- [aymanbagabas/aymanbagabas.github.io](https://github.com/aymanbagabas/aymanbagabas.github.io) - A personal website built using Jekyll (today)
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🍡 (2 days ago)
-- [aymanbagabas/aymanbagabas.github.io](https://github.com/aymanbagabas/aymanbagabas.github.io) - A personal website built using Jekyll (2 days ago)
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (3 days ago)
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (1 week ago)
 - [charmbracelet/skate](https://github.com/charmbracelet/skate) - A personal key value store 🛼 (1 week ago)
 
 #### 🌱 My latest projects
@@ -39,10 +39,10 @@
 #### 📜 My recent blog posts
 
 - [no title](https://aymanbagabas.com/blog/2022/06/02/blue-mountain-summit-loop.html) (1 day ago)
-- [Blue Mountain](https://aymanbagabas.com/blog/2022/06/02/blue-mountain.html) (1 day ago)
 - [Import Notion Pages to Jekyll](https://aymanbagabas.com/blog/2022/03/29/import-notion-pages-to-jekyll.html) (2 months ago)
 - [Nyan Cat Over SSH](https://aymanbagabas.com/blog/2022/03/25/nyan-cat-over-ssh.html) (2 months ago)
 - [Walk by the pond](https://aymanbagabas.com/blog/2022/03/10/walk-by-the-pond.html) (2 months ago)
+- [Run native C/C&#43;&#43; code in the browser using Emscripten](https://aymanbagabas.com/blog/2020/11/18/run-native-c-c&#43;&#43;-code-in-the-browser-using-emscripten.html) (2 years ago)
 
 #### ⭐ Recent Stars
 
