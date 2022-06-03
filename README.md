@@ -38,7 +38,7 @@
 
 #### 📜 My recent blog posts
 
-- [no title](https://aymanbagabas.com/blog/2022/06/02/blue-mountain-summit-loop.html) (1 day ago)
+- [Blue Mountain](https://aymanbagabas.com/blog/2022/06/02/blue-mountain.html) (1 day ago)
 - [Import Notion Pages to Jekyll](https://aymanbagabas.com/blog/2022/03/29/import-notion-pages-to-jekyll.html) (2 months ago)
 - [Nyan Cat Over SSH](https://aymanbagabas.com/blog/2022/03/25/nyan-cat-over-ssh.html) (2 months ago)
 - [Walk by the pond](https://aymanbagabas.com/blog/2022/03/10/walk-by-the-pond.html) (2 months ago)
