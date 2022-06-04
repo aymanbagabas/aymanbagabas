@@ -22,7 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [bloznelis/typioca](https://github.com/bloznelis/typioca) ([1.3.0](https://github.com/bloznelis/typioca/releases/tag/1.3.0), 1 day ago) - Cosy typing speed tester
+- [bloznelis/typioca](https://github.com/bloznelis/typioca) ([1.4.0](https://github.com/bloznelis/typioca/releases/tag/1.4.0), today) - Cosy typing speed tester
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.11.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.11.0), 2 days ago) - TUI components for Bubble Tea 🍡
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.21.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.21.0), 2 days ago) - A powerful little TUI framework 🏗
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.3.1](https://github.com/charmbracelet/soft-serve/releases/tag/v0.3.1), 3 days ago) - A tasty, self-hostable Git server for the command line🍦
