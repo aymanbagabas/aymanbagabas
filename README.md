@@ -26,7 +26,7 @@
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.11.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.11.0), 5 days ago) - TUI components for Bubble Tea 🍡
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.21.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.21.0), 5 days ago) - A powerful little TUI framework 🏗
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.3.1](https://github.com/charmbracelet/soft-serve/releases/tag/v0.3.1), 6 days ago) - A tasty, self-hostable Git server for the command line🍦
-- [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) ([v6.0.0](https://github.com/OpenAPITools/openapi-generator/releases/tag/v6.0.0), 1 week ago) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
+- [charmbracelet/melt](https://github.com/charmbracelet/melt) ([v0.4.1](https://github.com/charmbracelet/melt/releases/tag/v0.4.1), 3 weeks ago) - 🧊 Backup and restore Ed25519 SSH keys with seed words.
 
 #### 🔨 My recent Pull Requests
 
