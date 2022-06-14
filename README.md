@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: cache tree objects](https://github.com/gogs/git-module/pull/81) on [gogs/git-module](https://github.com/gogs/git-module) (today)
 - [Support copying text (OSC52) &amp; hyperlinks (OSC8)](https://github.com/muesli/termenv/pull/82) on [muesli/termenv](https://github.com/muesli/termenv) (1 week ago)
 - [feat: add print/fatal/error convenience methods](https://github.com/charmbracelet/wish/pull/48) on [charmbracelet/wish](https://github.com/charmbracelet/wish) (3 weeks ago)
 - [chore: upgrade deps](https://github.com/charmbracelet/skate/pull/38) on [charmbracelet/skate](https://github.com/charmbracelet/skate) (3 weeks ago)
 - [fix(progress): set a custom termenv color profile](https://github.com/charmbracelet/bubbles/pull/152) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (3 weeks ago)
-- [Add typioca ssh server](https://github.com/bloznelis/typioca/pull/27) on [bloznelis/typioca](https://github.com/bloznelis/typioca) (3 weeks ago)
 
 #### 📜 My recent blog posts
 
