@@ -6,11 +6,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [aymanbagabas/aymanbagabas.github.io](https://github.com/aymanbagabas/aymanbagabas.github.io) - A personal website built using Jekyll (1 week ago)
+- [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (1 day ago)
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (1 week ago)
+- [aymanbagabas/aymanbagabas.github.io](https://github.com/aymanbagabas/aymanbagabas.github.io) - A personal website built using Jekyll (1 week ago)
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🍡 (1 week ago)
-- [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (1 week ago)
-- [charmbracelet/skate](https://github.com/charmbracelet/skate) - A personal key value store 🛼 (2 weeks ago)
+- [charmbracelet/skate](https://github.com/charmbracelet/skate) - A personal key value store 🛼 (3 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -22,7 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [bloznelis/typioca](https://github.com/bloznelis/typioca) ([1.4.1](https://github.com/bloznelis/typioca/releases/tag/1.4.1), 4 days ago) - Cosy typing speed tester
+- [bloznelis/typioca](https://github.com/bloznelis/typioca) ([1.4.1](https://github.com/bloznelis/typioca/releases/tag/1.4.1), 5 days ago) - Cosy typing speed tester
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.21.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.21.0), 1 week ago) - A powerful little TUI framework 🏗
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.3.1](https://github.com/charmbracelet/soft-serve/releases/tag/v0.3.1), 1 week ago) - A tasty, self-hostable Git server for the command line🍦
 - [charmbracelet/melt](https://github.com/charmbracelet/melt) ([v0.4.1](https://github.com/charmbracelet/melt/releases/tag/v0.4.1), 1 month ago) - 🧊 Backup and restore Ed25519 SSH keys with seed words.
@@ -31,8 +31,8 @@
 #### 🔨 My recent Pull Requests
 
 - [Support copying text (OSC52) &amp; hyperlinks (OSC8)](https://github.com/muesli/termenv/pull/82) on [muesli/termenv](https://github.com/muesli/termenv) (1 week ago)
-- [feat: add print/fatal/error convenience methods](https://github.com/charmbracelet/wish/pull/48) on [charmbracelet/wish](https://github.com/charmbracelet/wish) (2 weeks ago)
-- [chore: upgrade deps](https://github.com/charmbracelet/skate/pull/38) on [charmbracelet/skate](https://github.com/charmbracelet/skate) (2 weeks ago)
+- [feat: add print/fatal/error convenience methods](https://github.com/charmbracelet/wish/pull/48) on [charmbracelet/wish](https://github.com/charmbracelet/wish) (3 weeks ago)
+- [chore: upgrade deps](https://github.com/charmbracelet/skate/pull/38) on [charmbracelet/skate](https://github.com/charmbracelet/skate) (3 weeks ago)
 - [fix(progress): set a custom termenv color profile](https://github.com/charmbracelet/bubbles/pull/152) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (3 weeks ago)
 - [Add typioca ssh server](https://github.com/bloznelis/typioca/pull/27) on [bloznelis/typioca](https://github.com/bloznelis/typioca) (3 weeks ago)
 
