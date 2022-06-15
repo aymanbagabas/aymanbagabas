@@ -6,8 +6,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (today)
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (1 day ago)
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (1 week ago)
 - [aymanbagabas/aymanbagabas.github.io](https://github.com/aymanbagabas/aymanbagabas.github.io) - A personal website built using Jekyll (1 week ago)
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🍡 (2 weeks ago)
 - [charmbracelet/skate](https://github.com/charmbracelet/skate) - A personal key value store 🛼 (3 weeks ago)
@@ -22,19 +22,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v0.5.0](https://github.com/charmbracelet/wish/releases/tag/v0.5.0), today) - Make SSH apps, just like that! 💫
 - [bloznelis/typioca](https://github.com/bloznelis/typioca) ([1.4.1](https://github.com/bloznelis/typioca/releases/tag/1.4.1), 6 days ago) - Cosy typing speed tester
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.21.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.21.0), 1 week ago) - A powerful little TUI framework 🏗
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.3.1](https://github.com/charmbracelet/soft-serve/releases/tag/v0.3.1), 2 weeks ago) - A tasty, self-hostable Git server for the command line🍦
 - [charmbracelet/melt](https://github.com/charmbracelet/melt) ([v0.4.1](https://github.com/charmbracelet/melt/releases/tag/v0.4.1), 1 month ago) - 🧊 Backup and restore Ed25519 SSH keys with seed words.
-- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.5.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.5.0), 1 month ago) - The SSH directory ✨
 
 #### 🔨 My recent Pull Requests
 
+- [fix: update ssh example to use tty instead of pty](https://github.com/muesli/termenv/pull/83) on [muesli/termenv](https://github.com/muesli/termenv) (today)
 - [fix: respect private repos](https://github.com/charmbracelet/soft-serve/pull/123) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (today)
 - [fix: use the git binary to run upload/receive commands](https://github.com/charmbracelet/wish/pull/55) on [charmbracelet/wish](https://github.com/charmbracelet/wish) (1 day ago)
 - [feat: cache tree objects](https://github.com/gogs/git-module/pull/81) on [gogs/git-module](https://github.com/gogs/git-module) (1 day ago)
 - [Support copying text (OSC52) &amp; hyperlinks (OSC8)](https://github.com/muesli/termenv/pull/82) on [muesli/termenv](https://github.com/muesli/termenv) (2 weeks ago)
-- [feat: add print/fatal/error convenience methods](https://github.com/charmbracelet/wish/pull/48) on [charmbracelet/wish](https://github.com/charmbracelet/wish) (3 weeks ago)
 
 #### 📜 My recent blog posts
 
