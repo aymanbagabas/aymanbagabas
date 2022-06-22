@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: generate man pages](https://github.com/charmbracelet/charm/pull/152) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (today)
+- [chore: update scripts to match other projects](https://github.com/charmbracelet/wishlist/pull/87) on [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) (today)
+- [feat: generate man pages and completions](https://github.com/charmbracelet/soft-serve/pull/127) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (today)
+- [feat: generate manpages](https://github.com/charmbracelet/skate/pull/40) on [charmbracelet/skate](https://github.com/charmbracelet/skate) (today)
 - [feat: add fury.io integrations](https://github.com/charmbracelet/meta/pull/33) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (today)
-- [feat: use spf13/cobra](https://github.com/charmbracelet/soft-serve/pull/126) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (today)
-- [fix: update ssh example to use tty instead of pty](https://github.com/muesli/termenv/pull/83) on [muesli/termenv](https://github.com/muesli/termenv) (1 week ago)
-- [fix: respect private repos](https://github.com/charmbracelet/soft-serve/pull/123) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 week ago)
-- [fix: use the git binary to run upload/receive commands](https://github.com/charmbracelet/wish/pull/55) on [charmbracelet/wish](https://github.com/charmbracelet/wish) (1 week ago)
 
 #### 📜 My recent blog posts
 
