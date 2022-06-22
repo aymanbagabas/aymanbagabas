@@ -6,9 +6,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [gogs/git-module](https://github.com/gogs/git-module) - Package git-module is a Go module for Git access through shell commands (today)
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (today)
-- [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️ (6 days ago)
+- [gogs/git-module](https://github.com/gogs/git-module) - Package git-module is a Go module for Git access through shell commands (1 day ago)
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (1 day ago)
+- [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️ (1 week ago)
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (1 week ago)
 - [aymanbagabas/aymanbagabas.github.io](https://github.com/aymanbagabas/aymanbagabas.github.io) - A personal website built using Jekyll (2 weeks ago)
 
@@ -22,19 +22,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [gogs/git-module](https://github.com/gogs/git-module) ([v1.6.1](https://github.com/gogs/git-module/releases/tag/v1.6.1), today) - Package git-module is a Go module for Git access through shell commands
-- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.6.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.6.0), 4 days ago) - The SSH directory ✨
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.3.2](https://github.com/charmbracelet/soft-serve/releases/tag/v0.3.2), 6 days ago) - A tasty, self-hostable Git server for the command line🍦
-- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v0.5.0](https://github.com/charmbracelet/wish/releases/tag/v0.5.0), 6 days ago) - Make SSH apps, just like that! 💫
+- [gogs/git-module](https://github.com/gogs/git-module) ([v1.6.1](https://github.com/gogs/git-module/releases/tag/v1.6.1), 1 day ago) - Package git-module is a Go module for Git access through shell commands
+- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.6.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.6.0), 5 days ago) - The SSH directory ✨
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.3.2](https://github.com/charmbracelet/soft-serve/releases/tag/v0.3.2), 1 week ago) - A tasty, self-hostable Git server for the command line🍦
+- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v0.5.0](https://github.com/charmbracelet/wish/releases/tag/v0.5.0), 1 week ago) - Make SSH apps, just like that! 💫
 - [bloznelis/typioca](https://github.com/bloznelis/typioca) ([1.4.1](https://github.com/bloznelis/typioca/releases/tag/1.4.1), 1 week ago) - Cosy typing speed tester
 
 #### 🔨 My recent Pull Requests
 
-- [fix: update ssh example to use tty instead of pty](https://github.com/muesli/termenv/pull/83) on [muesli/termenv](https://github.com/muesli/termenv) (6 days ago)
-- [fix: respect private repos](https://github.com/charmbracelet/soft-serve/pull/123) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (6 days ago)
+- [fix: update ssh example to use tty instead of pty](https://github.com/muesli/termenv/pull/83) on [muesli/termenv](https://github.com/muesli/termenv) (1 week ago)
+- [fix: respect private repos](https://github.com/charmbracelet/soft-serve/pull/123) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 week ago)
 - [fix: use the git binary to run upload/receive commands](https://github.com/charmbracelet/wish/pull/55) on [charmbracelet/wish](https://github.com/charmbracelet/wish) (1 week ago)
 - [feat: cache tree objects](https://github.com/gogs/git-module/pull/81) on [gogs/git-module](https://github.com/gogs/git-module) (1 week ago)
-- [Support copying text (OSC52) &amp; hyperlinks (OSC8)](https://github.com/muesli/termenv/pull/82) on [muesli/termenv](https://github.com/muesli/termenv) (2 weeks ago)
+- [Support copying text (OSC52) &amp; hyperlinks (OSC8)](https://github.com/muesli/termenv/pull/82) on [muesli/termenv](https://github.com/muesli/termenv) (3 weeks ago)
 
 #### 📜 My recent blog posts
 
