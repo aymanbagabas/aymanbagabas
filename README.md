@@ -6,9 +6,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (3 days ago)
-- [gogs/git-module](https://github.com/gogs/git-module) - Package git-module is a Go module for Git access through shell commands (4 days ago)
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (4 days ago)
+- [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (4 days ago)
+- [gogs/git-module](https://github.com/gogs/git-module) - Package git-module is a Go module for Git access through shell commands (5 days ago)
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (5 days ago)
 - [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️ (1 week ago)
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (1 week ago)
 
@@ -22,7 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [gogs/git-module](https://github.com/gogs/git-module) ([v1.7.0](https://github.com/gogs/git-module/releases/tag/v1.7.0), today) - Package git-module is a Go module for Git access through shell commands
+- [gogs/git-module](https://github.com/gogs/git-module) ([v1.7.0](https://github.com/gogs/git-module/releases/tag/v1.7.0), 1 day ago) - Package git-module is a Go module for Git access through shell commands
 - [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.6.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.6.0), 1 week ago) - The SSH directory ✨
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.3.2](https://github.com/charmbracelet/soft-serve/releases/tag/v0.3.2), 1 week ago) - A tasty, self-hostable Git server for the command line🍦
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v0.5.0](https://github.com/charmbracelet/wish/releases/tag/v0.5.0), 1 week ago) - Make SSH apps, just like that! 💫
@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
-- [feat: generate man pages](https://github.com/charmbracelet/charm/pull/152) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (3 days ago)
-- [chore: update scripts to match other projects](https://github.com/charmbracelet/wishlist/pull/87) on [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) (3 days ago)
-- [feat: generate man pages and completions](https://github.com/charmbracelet/soft-serve/pull/127) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (3 days ago)
-- [feat: generate manpages](https://github.com/charmbracelet/skate/pull/40) on [charmbracelet/skate](https://github.com/charmbracelet/skate) (3 days ago)
-- [feat: add fury.io integrations](https://github.com/charmbracelet/meta/pull/33) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (3 days ago)
+- [feat: generate man pages](https://github.com/charmbracelet/charm/pull/152) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (4 days ago)
+- [chore: update scripts to match other projects](https://github.com/charmbracelet/wishlist/pull/87) on [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) (4 days ago)
+- [feat: generate man pages and completions](https://github.com/charmbracelet/soft-serve/pull/127) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (4 days ago)
+- [feat: generate manpages](https://github.com/charmbracelet/skate/pull/40) on [charmbracelet/skate](https://github.com/charmbracelet/skate) (4 days ago)
+- [feat: add fury.io integrations](https://github.com/charmbracelet/meta/pull/33) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (4 days ago)
 
 #### 📜 My recent blog posts
 
@@ -46,7 +46,7 @@
 
 #### ⭐ Recent Stars
 
-- [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (4 weeks ago)
+- [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (1 month ago)
 - [gogs/git-module](https://github.com/gogs/git-module) - Package git-module is a Go module for Git access through shell commands (1 month ago)
 - [muesli/beehive](https://github.com/muesli/beehive) - A flexible event/agent &amp; automation system with lots of bees 🐝 (1 month ago)
 - [bloznelis/typioca](https://github.com/bloznelis/typioca) - Cosy typing speed tester (1 month ago)
