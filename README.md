@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: generate manpages and shell completion](https://github.com/charmbracelet/meta/pull/34) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (today)
 - [feat: generate man pages](https://github.com/charmbracelet/charm/pull/152) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (5 days ago)
 - [chore: update scripts to match other projects](https://github.com/charmbracelet/wishlist/pull/87) on [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) (5 days ago)
 - [feat: generate man pages and completions](https://github.com/charmbracelet/soft-serve/pull/127) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (5 days ago)
 - [feat: generate manpages](https://github.com/charmbracelet/skate/pull/40) on [charmbracelet/skate](https://github.com/charmbracelet/skate) (5 days ago)
-- [feat: add fury.io integrations](https://github.com/charmbracelet/meta/pull/33) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (5 days ago)
 
 #### 📜 My recent blog posts
 
