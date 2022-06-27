@@ -22,11 +22,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.22.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.22.0), today) - A powerful little TUI framework 🏗
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.12.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.12.0), today) - TUI components for Bubble Tea 🍡
 - [gogs/git-module](https://github.com/gogs/git-module) ([v1.7.0](https://github.com/gogs/git-module/releases/tag/v1.7.0), 2 days ago) - Package git-module is a Go module for Git access through shell commands
 - [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.6.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.6.0), 1 week ago) - The SSH directory ✨
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.3.2](https://github.com/charmbracelet/soft-serve/releases/tag/v0.3.2), 1 week ago) - A tasty, self-hostable Git server for the command line🍦
-- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v0.5.0](https://github.com/charmbracelet/wish/releases/tag/v0.5.0), 1 week ago) - Make SSH apps, just like that! 💫
-- [bloznelis/typioca](https://github.com/bloznelis/typioca) ([1.4.1](https://github.com/bloznelis/typioca/releases/tag/1.4.1), 2 weeks ago) - Cosy typing speed tester
 
 #### 🔨 My recent Pull Requests
 
