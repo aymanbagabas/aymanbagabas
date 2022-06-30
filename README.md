@@ -22,7 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [bloznelis/typioca](https://github.com/bloznelis/typioca) ([1.7.3](https://github.com/bloznelis/typioca/releases/tag/1.7.3), today) - Cosy typing speed tester
+- [bloznelis/typioca](https://github.com/bloznelis/typioca) ([2.0.0](https://github.com/bloznelis/typioca/releases/tag/2.0.0), today) - Cozy typing speed tester
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.22.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.22.0), 3 days ago) - A powerful little TUI framework 🏗
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.12.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.12.0), 3 days ago) - TUI components for Bubble Tea 🍡
 - [gogs/git-module](https://github.com/gogs/git-module) ([v1.7.0](https://github.com/gogs/git-module/releases/tag/v1.7.0), 5 days ago) - Package git-module is a Go module for Git access through shell commands
@@ -49,7 +49,7 @@
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (1 month ago)
 - [gogs/git-module](https://github.com/gogs/git-module) - Package git-module is a Go module for Git access through shell commands (1 month ago)
 - [muesli/beehive](https://github.com/muesli/beehive) - A flexible event/agent &amp; automation system with lots of bees 🐝 (1 month ago)
-- [bloznelis/typioca](https://github.com/bloznelis/typioca) - Cosy typing speed tester (1 month ago)
+- [bloznelis/typioca](https://github.com/bloznelis/typioca) - Cozy typing speed tester (1 month ago)
 - [muesli/sasquatch](https://github.com/muesli/sasquatch) - A simple data encryption library (1 month ago)
 
 #### 📫 How to reach me
