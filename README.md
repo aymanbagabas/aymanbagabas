@@ -22,7 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [bloznelis/typioca](https://github.com/bloznelis/typioca) ([1.7.0](https://github.com/bloznelis/typioca/releases/tag/1.7.0), 1 day ago) - Cosy typing speed tester
+- [bloznelis/typioca](https://github.com/bloznelis/typioca) ([1.7.3](https://github.com/bloznelis/typioca/releases/tag/1.7.3), today) - Cosy typing speed tester
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.22.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.22.0), 3 days ago) - A powerful little TUI framework 🏗
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.12.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.12.0), 3 days ago) - TUI components for Bubble Tea 🍡
 - [gogs/git-module](https://github.com/gogs/git-module) ([v1.7.0](https://github.com/gogs/git-module/releases/tag/v1.7.0), 5 days ago) - Package git-module is a Go module for Git access through shell commands
