@@ -2,8 +2,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=aymanbagabas&label=PROFILE+VIEWS)
 
-[![Ayman's GitHub stats](https://github-readme-stats.vercel.app/api?username=aymanbagabas&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
 #### 👷 Check out what I'm currently working on
 
 - [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (1 week ago)
