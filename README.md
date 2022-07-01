@@ -22,17 +22,17 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [bloznelis/typioca](https://github.com/bloznelis/typioca) ([2.0.0](https://github.com/bloznelis/typioca/releases/tag/2.0.0), today) - Cozy typing speed tester
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.22.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.22.0), 3 days ago) - A powerful little TUI framework 🏗
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.12.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.12.0), 3 days ago) - TUI components for Bubble Tea 🍡
-- [gogs/git-module](https://github.com/gogs/git-module) ([v1.7.0](https://github.com/gogs/git-module/releases/tag/v1.7.0), 5 days ago) - Package git-module is a Go module for Git access through shell commands
-- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.6.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.6.0), 1 week ago) - The SSH directory ✨
+- [bloznelis/typioca](https://github.com/bloznelis/typioca) ([2.0.0](https://github.com/bloznelis/typioca/releases/tag/2.0.0), 1 day ago) - Cozy typing speed tester
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.22.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.22.0), 4 days ago) - A powerful little TUI framework 🏗
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.12.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.12.0), 4 days ago) - TUI components for Bubble Tea 🍡
+- [gogs/git-module](https://github.com/gogs/git-module) ([v1.7.0](https://github.com/gogs/git-module/releases/tag/v1.7.0), 6 days ago) - Package git-module is a Go module for Git access through shell commands
+- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.6.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.6.0), 2 weeks ago) - The SSH directory ✨
 
 #### 🔨 My recent Pull Requests
 
-- [UI colors](https://github.com/charmbracelet/soft-serve/pull/129) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 day ago)
-- [feat: lipgloss renderer](https://github.com/charmbracelet/lipgloss/pull/91) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (1 day ago)
-- [feat: generate manpages and shell completion](https://github.com/charmbracelet/meta/pull/34) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (3 days ago)
+- [UI colors](https://github.com/charmbracelet/soft-serve/pull/129) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (2 days ago)
+- [feat: lipgloss renderer](https://github.com/charmbracelet/lipgloss/pull/91) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (2 days ago)
+- [feat: generate manpages and shell completion](https://github.com/charmbracelet/meta/pull/34) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (4 days ago)
 - [feat: generate man pages](https://github.com/charmbracelet/charm/pull/152) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (1 week ago)
 - [chore: update scripts to match other projects](https://github.com/charmbracelet/wishlist/pull/87) on [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) (1 week ago)
 
