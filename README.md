@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [chore: use goreleaser config to generate manpages &amp; completions](https://github.com/charmbracelet/melt/pull/25) on [charmbracelet/melt](https://github.com/charmbracelet/melt) (today)
 - [UI colors](https://github.com/charmbracelet/soft-serve/pull/129) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (6 days ago)
 - [feat: lipgloss renderer](https://github.com/charmbracelet/lipgloss/pull/91) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (6 days ago)
 - [feat: generate manpages and shell completion](https://github.com/charmbracelet/meta/pull/34) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (1 week ago)
 - [feat: generate man pages](https://github.com/charmbracelet/charm/pull/152) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (1 week ago)
-- [chore: update scripts to match other projects](https://github.com/charmbracelet/wishlist/pull/87) on [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) (1 week ago)
 
 #### 📜 My recent blog posts
 
