@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: register chroma style once](https://github.com/charmbracelet/glamour/pull/156) on [charmbracelet/glamour](https://github.com/charmbracelet/glamour) (today)
 - [fix: skip fury.io publish when env token doesn&#39;t exist](https://github.com/charmbracelet/meta/pull/36) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (today)
 - [chore: use goreleaser config to generate manpages &amp; completions](https://github.com/charmbracelet/melt/pull/25) on [charmbracelet/melt](https://github.com/charmbracelet/melt) (today)
 - [UI colors](https://github.com/charmbracelet/soft-serve/pull/129) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (6 days ago)
 - [feat: lipgloss renderer](https://github.com/charmbracelet/lipgloss/pull/91) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (6 days ago)
-- [feat: generate manpages and shell completion](https://github.com/charmbracelet/meta/pull/34) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (1 week ago)
 
 #### 📜 My recent blog posts
 
