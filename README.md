@@ -20,9 +20,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.13.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.13.0), today) - TUI components for Bubble Tea 🍡
 - [bloznelis/typioca](https://github.com/bloznelis/typioca) ([2.0.0](https://github.com/bloznelis/typioca/releases/tag/2.0.0), 5 days ago) - Cozy typing speed tester
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.22.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.22.0), 1 week ago) - A powerful little TUI framework 🏗
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.12.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.12.0), 1 week ago) - TUI components for Bubble Tea 🍡
 - [gogs/git-module](https://github.com/gogs/git-module) ([v1.7.0](https://github.com/gogs/git-module/releases/tag/v1.7.0), 1 week ago) - Package git-module is a Go module for Git access through shell commands
 - [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.6.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.6.0), 2 weeks ago) - The SSH directory ✨
 
