@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/melt](https://github.com/charmbracelet/melt) - 🧊 Backup and restore Ed25519 SSH keys with seed words. (today)
-- [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (today)
-- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) - The SSH directory ✨ (today)
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (today)
-- [charmbracelet/skate](https://github.com/charmbracelet/skate) - A personal key value store 🛼 (1 week ago)
+- [charmbracelet/melt](https://github.com/charmbracelet/melt) - 🧊 Backup and restore Ed25519 SSH keys with seed words. (1 day ago)
+- [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (1 day ago)
+- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) - The SSH directory ✨ (1 day ago)
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (1 day ago)
+- [charmbracelet/skate](https://github.com/charmbracelet/skate) - A personal key value store 🛼 (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.13.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.13.0), today) - TUI components for Bubble Tea 🍡
-- [bloznelis/typioca](https://github.com/bloznelis/typioca) ([2.0.0](https://github.com/bloznelis/typioca/releases/tag/2.0.0), 5 days ago) - Cozy typing speed tester
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.13.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.13.0), 1 day ago) - TUI components for Bubble Tea 🍡
+- [bloznelis/typioca](https://github.com/bloznelis/typioca) ([2.0.0](https://github.com/bloznelis/typioca/releases/tag/2.0.0), 6 days ago) - Cozy typing speed tester
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.22.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.22.0), 1 week ago) - A powerful little TUI framework 🏗
 - [gogs/git-module](https://github.com/gogs/git-module) ([v1.7.0](https://github.com/gogs/git-module/releases/tag/v1.7.0), 1 week ago) - Package git-module is a Go module for Git access through shell commands
 - [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.6.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.6.0), 2 weeks ago) - The SSH directory ✨
 
 #### 🔨 My recent Pull Requests
 
-- [fix: register chroma style once](https://github.com/charmbracelet/glamour/pull/156) on [charmbracelet/glamour](https://github.com/charmbracelet/glamour) (today)
-- [fix: skip fury.io publish when env token doesn&#39;t exist](https://github.com/charmbracelet/meta/pull/36) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (today)
-- [chore: use goreleaser config to generate manpages &amp; completions](https://github.com/charmbracelet/melt/pull/25) on [charmbracelet/melt](https://github.com/charmbracelet/melt) (today)
-- [UI colors](https://github.com/charmbracelet/soft-serve/pull/129) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (6 days ago)
-- [feat: lipgloss renderer](https://github.com/charmbracelet/lipgloss/pull/91) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (6 days ago)
+- [fix: register chroma style once](https://github.com/charmbracelet/glamour/pull/156) on [charmbracelet/glamour](https://github.com/charmbracelet/glamour) (1 day ago)
+- [fix: skip fury.io publish when env token doesn&#39;t exist](https://github.com/charmbracelet/meta/pull/36) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (1 day ago)
+- [chore: use goreleaser config to generate manpages &amp; completions](https://github.com/charmbracelet/melt/pull/25) on [charmbracelet/melt](https://github.com/charmbracelet/melt) (1 day ago)
+- [UI colors](https://github.com/charmbracelet/soft-serve/pull/129) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 week ago)
+- [feat: lipgloss renderer](https://github.com/charmbracelet/lipgloss/pull/91) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (1 week ago)
 
 #### 📜 My recent blog posts
 
