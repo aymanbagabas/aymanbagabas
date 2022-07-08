@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/skate](https://github.com/charmbracelet/skate) - A personal key value store 🛼 (today)
+- [charmbracelet/keygen](https://github.com/charmbracelet/keygen) - An SSH key pair generator 🗝️ (today)
 - [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (today)
 - [charmbracelet/melt](https://github.com/charmbracelet/melt) - 🧊 Backup and restore Ed25519 SSH keys with seed words. (today)
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (today)
-- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) - The SSH directory ✨ (today)
+- [charmbracelet/skate](https://github.com/charmbracelet/skate) - A personal key value store 🛼 (today)
+- [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (today)
 
 #### 🌱 My latest projects
 
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat(ci): add workflows and goreleaser](https://github.com/charmbracelet/keygen/pull/5) on [charmbracelet/keygen](https://github.com/charmbracelet/keygen) (today)
 - [docs: add apt/yum repos to readme](https://github.com/charmbracelet/glow/pull/357) on [charmbracelet/glow](https://github.com/charmbracelet/glow) (today)
 - [docs: add apt/yum repos to readme](https://github.com/charmbracelet/melt/pull/26) on [charmbracelet/melt](https://github.com/charmbracelet/melt) (today)
 - [docs: add apt/yum repos to readme](https://github.com/charmbracelet/charm/pull/154) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (today)
 - [docs: add apt/yum repos to readme](https://github.com/charmbracelet/wishlist/pull/101) on [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) (today)
-- [docs: add apt/yum repos to readme](https://github.com/charmbracelet/skate/pull/41) on [charmbracelet/skate](https://github.com/charmbracelet/skate) (today)
 
 #### 📜 My recent blog posts
 
