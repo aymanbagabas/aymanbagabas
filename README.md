@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
-- [fix: register chroma style once](https://github.com/charmbracelet/glamour/pull/156) on [charmbracelet/glamour](https://github.com/charmbracelet/glamour) (3 days ago)
-- [fix: skip fury.io publish when env token doesn&#39;t exist](https://github.com/charmbracelet/meta/pull/36) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (3 days ago)
-- [chore: use goreleaser config to generate manpages &amp; completions](https://github.com/charmbracelet/melt/pull/25) on [charmbracelet/melt](https://github.com/charmbracelet/melt) (3 days ago)
-- [UI colors](https://github.com/charmbracelet/soft-serve/pull/129) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 week ago)
-- [feat: lipgloss renderer](https://github.com/charmbracelet/lipgloss/pull/91) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (1 week ago)
+- [docs: add apt/yum repos to readme](https://github.com/charmbracelet/glow/pull/357) on [charmbracelet/glow](https://github.com/charmbracelet/glow) (today)
+- [docs: add apt/yum repos to readme](https://github.com/charmbracelet/melt/pull/26) on [charmbracelet/melt](https://github.com/charmbracelet/melt) (today)
+- [docs: add apt/yum repos to readme](https://github.com/charmbracelet/charm/pull/154) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (today)
+- [docs: add apt/yum repos to readme](https://github.com/charmbracelet/wishlist/pull/101) on [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) (today)
+- [docs: add apt/yum repos to readme](https://github.com/charmbracelet/skate/pull/41) on [charmbracelet/skate](https://github.com/charmbracelet/skate) (today)
 
 #### 📜 My recent blog posts
 
