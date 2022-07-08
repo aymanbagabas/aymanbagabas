@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [libdns/route53](https://github.com/libdns/route53) - AWS Route53 provider implementation for libdns (today)
-- [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (2 days ago)
-- [charmbracelet/melt](https://github.com/charmbracelet/melt) - 🧊 Backup and restore Ed25519 SSH keys with seed words. (2 days ago)
-- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) - The SSH directory ✨ (2 days ago)
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (2 days ago)
+- [libdns/route53](https://github.com/libdns/route53) - AWS Route53 provider implementation for libdns (1 day ago)
+- [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (3 days ago)
+- [charmbracelet/melt](https://github.com/charmbracelet/melt) - 🧊 Backup and restore Ed25519 SSH keys with seed words. (3 days ago)
+- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) - The SSH directory ✨ (3 days ago)
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -20,17 +20,17 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [libdns/route53](https://github.com/libdns/route53) ([v1.2.0](https://github.com/libdns/route53/releases/tag/v1.2.0), today) - AWS Route53 provider implementation for libdns
-- [bloznelis/typioca](https://github.com/bloznelis/typioca) ([2.0.1](https://github.com/bloznelis/typioca/releases/tag/2.0.1), today) - Cozy typing speed tester
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.13.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.13.0), 2 days ago) - TUI components for Bubble Tea 🍡
+- [libdns/route53](https://github.com/libdns/route53) ([v1.2.0](https://github.com/libdns/route53/releases/tag/v1.2.0), 1 day ago) - AWS Route53 provider implementation for libdns
+- [bloznelis/typioca](https://github.com/bloznelis/typioca) ([2.0.1](https://github.com/bloznelis/typioca/releases/tag/2.0.1), 1 day ago) - Cozy typing speed tester
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.13.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.13.0), 3 days ago) - TUI components for Bubble Tea 🍡
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.22.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.22.0), 1 week ago) - A powerful little TUI framework 🏗
 - [gogs/git-module](https://github.com/gogs/git-module) ([v1.7.0](https://github.com/gogs/git-module/releases/tag/v1.7.0), 1 week ago) - Package git-module is a Go module for Git access through shell commands
 
 #### 🔨 My recent Pull Requests
 
-- [fix: register chroma style once](https://github.com/charmbracelet/glamour/pull/156) on [charmbracelet/glamour](https://github.com/charmbracelet/glamour) (2 days ago)
-- [fix: skip fury.io publish when env token doesn&#39;t exist](https://github.com/charmbracelet/meta/pull/36) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (2 days ago)
-- [chore: use goreleaser config to generate manpages &amp; completions](https://github.com/charmbracelet/melt/pull/25) on [charmbracelet/melt](https://github.com/charmbracelet/melt) (2 days ago)
+- [fix: register chroma style once](https://github.com/charmbracelet/glamour/pull/156) on [charmbracelet/glamour](https://github.com/charmbracelet/glamour) (3 days ago)
+- [fix: skip fury.io publish when env token doesn&#39;t exist](https://github.com/charmbracelet/meta/pull/36) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (3 days ago)
+- [chore: use goreleaser config to generate manpages &amp; completions](https://github.com/charmbracelet/melt/pull/25) on [charmbracelet/melt](https://github.com/charmbracelet/melt) (3 days ago)
 - [UI colors](https://github.com/charmbracelet/soft-serve/pull/129) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 week ago)
 - [feat: lipgloss renderer](https://github.com/charmbracelet/lipgloss/pull/91) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (1 week ago)
 
@@ -39,7 +39,7 @@
 - [Blue Mountain](https://aymanbagabas.com/blog/2022/06/02/blue-mountain.html) (1 month ago)
 - [Import Notion Pages to Jekyll](https://aymanbagabas.com/blog/2022/03/29/import-notion-pages-to-jekyll.html) (3 months ago)
 - [Nyan Cat Over SSH](https://aymanbagabas.com/blog/2022/03/25/nyan-cat-over-ssh.html) (3 months ago)
-- [Walk by the pond](https://aymanbagabas.com/blog/2022/03/10/walk-by-the-pond.html) (3 months ago)
+- [Walk by the pond](https://aymanbagabas.com/blog/2022/03/10/walk-by-the-pond.html) (4 months ago)
 - [Run native C/C&#43;&#43; code in the browser using Emscripten](https://aymanbagabas.com/blog/2020/11/18/run-native-c-c&#43;&#43;-code-in-the-browser-using-emscripten.html) (2 years ago)
 
 #### ⭐ Recent Stars
