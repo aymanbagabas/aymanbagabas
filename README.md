@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [libdns/route53](https://github.com/libdns/route53) ([v1.2.0](https://github.com/libdns/route53/releases/tag/v1.2.0), 1 day ago) - AWS Route53 provider implementation for libdns
+- [libdns/route53](https://github.com/libdns/route53) ([v1.2.1](https://github.com/libdns/route53/releases/tag/v1.2.1), today) - AWS Route53 provider implementation for libdns
 - [bloznelis/typioca](https://github.com/bloznelis/typioca) ([2.0.1](https://github.com/bloznelis/typioca/releases/tag/2.0.1), 1 day ago) - Cozy typing speed tester
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.13.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.13.0), 3 days ago) - TUI components for Bubble Tea 🍡
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.22.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.22.0), 1 week ago) - A powerful little TUI framework 🏗
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: upgrade libdns/route53](https://github.com/caddy-dns/route53/pull/22) on [caddy-dns/route53](https://github.com/caddy-dns/route53) (today)
 - [feat(ci): add workflows and goreleaser](https://github.com/charmbracelet/keygen/pull/5) on [charmbracelet/keygen](https://github.com/charmbracelet/keygen) (today)
 - [docs: add apt/yum repos to readme](https://github.com/charmbracelet/glow/pull/357) on [charmbracelet/glow](https://github.com/charmbracelet/glow) (today)
 - [docs: add apt/yum repos to readme](https://github.com/charmbracelet/melt/pull/26) on [charmbracelet/melt](https://github.com/charmbracelet/melt) (today)
 - [docs: add apt/yum repos to readme](https://github.com/charmbracelet/charm/pull/154) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (today)
-- [docs: add apt/yum repos to readme](https://github.com/charmbracelet/wishlist/pull/101) on [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) (today)
 
 #### 📜 My recent blog posts
 
