@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [bloznelis/typioca](https://github.com/bloznelis/typioca) ([2.0.2](https://github.com/bloznelis/typioca/releases/tag/2.0.2), today) - Cozy typing speed tester
 - [caddy-dns/route53](https://github.com/caddy-dns/route53) ([v1.2.0](https://github.com/caddy-dns/route53/releases/tag/v1.2.0), today) - Caddy module: dns.providers.route53
 - [libdns/route53](https://github.com/libdns/route53) ([v1.2.1](https://github.com/libdns/route53/releases/tag/v1.2.1), 3 days ago) - AWS Route53 provider implementation for libdns
-- [bloznelis/typioca](https://github.com/bloznelis/typioca) ([2.0.1](https://github.com/bloznelis/typioca/releases/tag/2.0.1), 4 days ago) - Cozy typing speed tester
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.13.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.13.0), 6 days ago) - TUI components for Bubble Tea 🍡
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.22.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.22.0), 2 weeks ago) - A powerful little TUI framework 🏗
 
 #### 🔨 My recent Pull Requests
 
+- [fix: concurrent styles map access](https://github.com/alecthomas/chroma/pull/650) on [alecthomas/chroma](https://github.com/alecthomas/chroma) (today)
 - [fix: upgrade libdns/route53](https://github.com/caddy-dns/route53/pull/22) on [caddy-dns/route53](https://github.com/caddy-dns/route53) (3 days ago)
 - [feat(ci): add workflows and goreleaser](https://github.com/charmbracelet/keygen/pull/5) on [charmbracelet/keygen](https://github.com/charmbracelet/keygen) (3 days ago)
 - [docs: add apt/yum repos to readme](https://github.com/charmbracelet/glow/pull/357) on [charmbracelet/glow](https://github.com/charmbracelet/glow) (3 days ago)
 - [docs: add apt/yum repos to readme](https://github.com/charmbracelet/melt/pull/26) on [charmbracelet/melt](https://github.com/charmbracelet/melt) (3 days ago)
-- [docs: add apt/yum repos to readme](https://github.com/charmbracelet/charm/pull/154) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (3 days ago)
 
 #### 📜 My recent blog posts
 
