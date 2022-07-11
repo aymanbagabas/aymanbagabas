@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: running set with no args](https://github.com/charmbracelet/skate/pull/43) on [charmbracelet/skate](https://github.com/charmbracelet/skate) (today)
 - [fix: concurrent styles map access](https://github.com/alecthomas/chroma/pull/650) on [alecthomas/chroma](https://github.com/alecthomas/chroma) (today)
 - [fix: upgrade libdns/route53](https://github.com/caddy-dns/route53/pull/22) on [caddy-dns/route53](https://github.com/caddy-dns/route53) (3 days ago)
 - [feat(ci): add workflows and goreleaser](https://github.com/charmbracelet/keygen/pull/5) on [charmbracelet/keygen](https://github.com/charmbracelet/keygen) (3 days ago)
 - [docs: add apt/yum repos to readme](https://github.com/charmbracelet/glow/pull/357) on [charmbracelet/glow](https://github.com/charmbracelet/glow) (3 days ago)
-- [docs: add apt/yum repos to readme](https://github.com/charmbracelet/melt/pull/26) on [charmbracelet/melt](https://github.com/charmbracelet/melt) (3 days ago)
 
 #### 📜 My recent blog posts
 
