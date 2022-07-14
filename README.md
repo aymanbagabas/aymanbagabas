@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat(server): support custom link timeout duration](https://github.com/charmbracelet/charm/pull/156) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (today)
+- [feat(goreleaser): add nfpm deb/rpm package signing](https://github.com/charmbracelet/meta/pull/38) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (today)
 - [fix: prioritize cmd argument config path](https://github.com/charmbracelet/wishlist/pull/103) on [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) (1 day ago)
 - [fix: running set with no args](https://github.com/charmbracelet/skate/pull/43) on [charmbracelet/skate](https://github.com/charmbracelet/skate) (3 days ago)
 - [fix: concurrent styles map access](https://github.com/alecthomas/chroma/pull/650) on [alecthomas/chroma](https://github.com/alecthomas/chroma) (3 days ago)
-- [fix: upgrade libdns/route53](https://github.com/caddy-dns/route53/pull/22) on [caddy-dns/route53](https://github.com/caddy-dns/route53) (6 days ago)
-- [feat(ci): add workflows and goreleaser](https://github.com/charmbracelet/keygen/pull/5) on [charmbracelet/keygen](https://github.com/charmbracelet/keygen) (6 days ago)
 
 #### 📜 My recent blog posts
 
