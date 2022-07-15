@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/skate](https://github.com/charmbracelet/skate) - A personal key value store 🛼 (3 days ago)
-- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) - The SSH directory ✨ (6 days ago)
-- [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (6 days ago)
-- [caddy-dns/route53](https://github.com/caddy-dns/route53) - Caddy module: dns.providers.route53 (6 days ago)
-- [charmbracelet/melt](https://github.com/charmbracelet/melt) - 🧊 Backup and restore Ed25519 SSH keys with seed words. (6 days ago)
+- [charmbracelet/skate](https://github.com/charmbracelet/skate) - A personal key value store 🛼 (4 days ago)
+- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) - The SSH directory ✨ (1 week ago)
+- [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (1 week ago)
+- [caddy-dns/route53](https://github.com/caddy-dns/route53) - Caddy module: dns.providers.route53 (1 week ago)
+- [charmbracelet/melt](https://github.com/charmbracelet/melt) - 🧊 Backup and restore Ed25519 SSH keys with seed words. (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.7.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.7.0), 1 day ago) - The SSH directory ✨
-- [bloznelis/typioca](https://github.com/bloznelis/typioca) ([2.0.2](https://github.com/bloznelis/typioca/releases/tag/2.0.2), 3 days ago) - Cozy typing speed tester
-- [caddy-dns/route53](https://github.com/caddy-dns/route53) ([v1.2.0](https://github.com/caddy-dns/route53/releases/tag/v1.2.0), 3 days ago) - Caddy module: dns.providers.route53
-- [libdns/route53](https://github.com/libdns/route53) ([v1.2.1](https://github.com/libdns/route53/releases/tag/v1.2.1), 6 days ago) - AWS Route53 provider implementation for libdns
+- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.7.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.7.0), 2 days ago) - The SSH directory ✨
+- [bloznelis/typioca](https://github.com/bloznelis/typioca) ([2.0.2](https://github.com/bloznelis/typioca/releases/tag/2.0.2), 4 days ago) - Cozy typing speed tester
+- [caddy-dns/route53](https://github.com/caddy-dns/route53) ([v1.2.0](https://github.com/caddy-dns/route53/releases/tag/v1.2.0), 4 days ago) - Caddy module: dns.providers.route53
+- [libdns/route53](https://github.com/libdns/route53) ([v1.2.1](https://github.com/libdns/route53/releases/tag/v1.2.1), 1 week ago) - AWS Route53 provider implementation for libdns
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.13.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.13.0), 1 week ago) - TUI components for Bubble Tea 🍡
 
 #### 🔨 My recent Pull Requests
 
-- [feat(server): support custom link timeout duration](https://github.com/charmbracelet/charm/pull/156) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (today)
-- [feat(goreleaser): add nfpm deb/rpm package signing](https://github.com/charmbracelet/meta/pull/38) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (today)
-- [fix: prioritize cmd argument config path](https://github.com/charmbracelet/wishlist/pull/103) on [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) (1 day ago)
-- [fix: running set with no args](https://github.com/charmbracelet/skate/pull/43) on [charmbracelet/skate](https://github.com/charmbracelet/skate) (3 days ago)
-- [fix: concurrent styles map access](https://github.com/alecthomas/chroma/pull/650) on [alecthomas/chroma](https://github.com/alecthomas/chroma) (3 days ago)
+- [feat(server): support custom link timeout duration](https://github.com/charmbracelet/charm/pull/156) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (1 day ago)
+- [feat(goreleaser): add nfpm deb/rpm package signing](https://github.com/charmbracelet/meta/pull/38) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (1 day ago)
+- [fix: prioritize cmd argument config path](https://github.com/charmbracelet/wishlist/pull/103) on [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) (2 days ago)
+- [fix: running set with no args](https://github.com/charmbracelet/skate/pull/43) on [charmbracelet/skate](https://github.com/charmbracelet/skate) (4 days ago)
+- [fix: concurrent styles map access](https://github.com/alecthomas/chroma/pull/650) on [alecthomas/chroma](https://github.com/alecthomas/chroma) (4 days ago)
 
 #### 📜 My recent blog posts
 
