@@ -4,8 +4,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (1 day ago)
 - [charmbracelet/skate](https://github.com/charmbracelet/skate) - A personal key value store 🛼 (4 days ago)
-- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) - The SSH directory ✨ (1 week ago)
 - [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (1 week ago)
 - [caddy-dns/route53](https://github.com/caddy-dns/route53) - Caddy module: dns.providers.route53 (1 week ago)
 - [charmbracelet/melt](https://github.com/charmbracelet/melt) - 🧊 Backup and restore Ed25519 SSH keys with seed words. (1 week ago)
