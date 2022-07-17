@@ -44,11 +44,11 @@
 
 #### ⭐ Recent Stars
 
+- [lrstanley/bubblezone](https://github.com/lrstanley/bubblezone) - helper utility for BubbleTea, allowing easy mouse event tracking (today)
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (1 month ago)
 - [gogs/git-module](https://github.com/gogs/git-module) - Package git-module is a Go module for Git access through shell commands (1 month ago)
 - [muesli/beehive](https://github.com/muesli/beehive) - A flexible event/agent &amp; automation system with lots of bees 🐝 (1 month ago)
 - [bloznelis/typioca](https://github.com/bloznelis/typioca) - Cozy typing speed tester (2 months ago)
-- [muesli/sasquatch](https://github.com/muesli/sasquatch) - A simple data encryption library (2 months ago)
 
 #### 📫 How to reach me
 
