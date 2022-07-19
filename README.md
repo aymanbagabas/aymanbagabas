@@ -5,10 +5,10 @@
 #### 👷 Check out what I'm currently working on
 
 - [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (today)
+- [charmbracelet/confettysh](https://github.com/charmbracelet/confettysh) - confetti over ssh (today)
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (today)
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (1 day ago)
 - [charmbracelet/skate](https://github.com/charmbracelet/skate) - A personal key value store 🛼 (1 week ago)
-- [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (1 week ago)
-- [caddy-dns/route53](https://github.com/caddy-dns/route53) - Caddy module: dns.providers.route53 (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix static creds init &amp; support skipping waiting for record propagation](https://github.com/libdns/route53/pull/15) on [libdns/route53](https://github.com/libdns/route53) (today)
+- [fix: workaround goreleaser dirty git state](https://github.com/charmbracelet/meta/pull/39) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (today)
 - [More middlewares](https://github.com/charmbracelet/wish/pull/60) on [charmbracelet/wish](https://github.com/charmbracelet/wish) (1 day ago)
 - [feat(server): support custom link timeout duration](https://github.com/charmbracelet/charm/pull/156) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (5 days ago)
 - [feat(goreleaser): add nfpm deb/rpm package signing](https://github.com/charmbracelet/meta/pull/38) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (5 days ago)
-- [fix: prioritize cmd argument config path](https://github.com/charmbracelet/wishlist/pull/103) on [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) (6 days ago)
-- [fix: running set with no args](https://github.com/charmbracelet/skate/pull/43) on [charmbracelet/skate](https://github.com/charmbracelet/skate) (1 week ago)
 
 #### 📜 My recent blog posts
 
