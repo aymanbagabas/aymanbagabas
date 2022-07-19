@@ -5,10 +5,10 @@
 #### 👷 Check out what I'm currently working on
 
 - [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (today)
+- [libdns/route53](https://github.com/libdns/route53) - AWS Route53 provider implementation for libdns (today)
 - [charmbracelet/confettysh](https://github.com/charmbracelet/confettysh) - confetti over ssh (today)
+- [caddy-dns/route53](https://github.com/caddy-dns/route53) - Caddy module: dns.providers.route53 (today)
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (today)
-- [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (1 day ago)
-- [charmbracelet/skate](https://github.com/charmbracelet/skate) - A personal key value store 🛼 (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -20,10 +20,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [caddy-dns/route53](https://github.com/caddy-dns/route53) ([v1.2.1](https://github.com/caddy-dns/route53/releases/tag/v1.2.1), today) - Caddy module: dns.providers.route53
+- [libdns/route53](https://github.com/libdns/route53) ([v1.2.2](https://github.com/libdns/route53/releases/tag/v1.2.2), today) - AWS Route53 provider implementation for libdns
 - [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.7.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.7.0), 6 days ago) - The SSH directory ✨
 - [bloznelis/typioca](https://github.com/bloznelis/typioca) ([2.0.2](https://github.com/bloznelis/typioca/releases/tag/2.0.2), 1 week ago) - Cozy typing speed tester
-- [caddy-dns/route53](https://github.com/caddy-dns/route53) ([v1.2.0](https://github.com/caddy-dns/route53/releases/tag/v1.2.0), 1 week ago) - Caddy module: dns.providers.route53
-- [libdns/route53](https://github.com/libdns/route53) ([v1.2.1](https://github.com/libdns/route53/releases/tag/v1.2.1), 1 week ago) - AWS Route53 provider implementation for libdns
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.13.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.13.0), 2 weeks ago) - TUI components for Bubble Tea 🍡
 
 #### 🔨 My recent Pull Requests
