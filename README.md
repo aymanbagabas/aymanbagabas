@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (1 day ago)
-- [libdns/route53](https://github.com/libdns/route53) - AWS Route53 provider implementation for libdns (1 day ago)
-- [charmbracelet/confettysh](https://github.com/charmbracelet/confettysh) - confetti over ssh (1 day ago)
-- [caddy-dns/route53](https://github.com/caddy-dns/route53) - Caddy module: dns.providers.route53 (1 day ago)
+- [aymanbagabas/kalima](https://github.com/aymanbagabas/kalima) - A PWA that views and searches through FnanenDB songs database. (today)
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (1 day ago)
+- [charmbracelet/confettysh](https://github.com/charmbracelet/confettysh) - confetti over ssh (1 day ago)
+- [libdns/route53](https://github.com/libdns/route53) - AWS Route53 provider implementation for libdns (1 day ago)
+- [caddy-dns/route53](https://github.com/caddy-dns/route53) - Caddy module: dns.providers.route53 (1 day ago)
 
 #### 🌱 My latest projects
 
