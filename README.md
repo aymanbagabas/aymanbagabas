@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/skate](https://github.com/charmbracelet/skate) - A personal key value store 🛼 (today)
-- [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (today)
-- [charmbracelet/confettysh](https://github.com/charmbracelet/confettysh) - confetti over ssh (today)
-- [charmbracelet/melt](https://github.com/charmbracelet/melt) - 🧊 Backup and restore Ed25519 SSH keys with seed words. (today)
-- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) - The SSH directory ✨ (today)
+- [charmbracelet/skate](https://github.com/charmbracelet/skate) - A personal key value store 🛼 (1 day ago)
+- [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (1 day ago)
+- [charmbracelet/confettysh](https://github.com/charmbracelet/confettysh) - confetti over ssh (1 day ago)
+- [charmbracelet/melt](https://github.com/charmbracelet/melt) - 🧊 Backup and restore Ed25519 SSH keys with seed words. (1 day ago)
+- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) - The SSH directory ✨ (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -20,16 +20,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/confettysh](https://github.com/charmbracelet/confettysh) ([v1.0.3](https://github.com/charmbracelet/confettysh/releases/tag/v1.0.3), today) - confetti over ssh
-- [caddy-dns/route53](https://github.com/caddy-dns/route53) ([v1.2.1](https://github.com/caddy-dns/route53/releases/tag/v1.2.1), 6 days ago) - Caddy module: dns.providers.route53
-- [libdns/route53](https://github.com/libdns/route53) ([v1.2.2](https://github.com/libdns/route53/releases/tag/v1.2.2), 6 days ago) - AWS Route53 provider implementation for libdns
+- [charmbracelet/confettysh](https://github.com/charmbracelet/confettysh) ([v1.0.3](https://github.com/charmbracelet/confettysh/releases/tag/v1.0.3), 1 day ago) - confetti over ssh
+- [caddy-dns/route53](https://github.com/caddy-dns/route53) ([v1.2.1](https://github.com/caddy-dns/route53/releases/tag/v1.2.1), 1 week ago) - Caddy module: dns.providers.route53
+- [libdns/route53](https://github.com/libdns/route53) ([v1.2.2](https://github.com/libdns/route53/releases/tag/v1.2.2), 1 week ago) - AWS Route53 provider implementation for libdns
 - [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.7.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.7.0), 1 week ago) - The SSH directory ✨
 - [bloznelis/typioca](https://github.com/bloznelis/typioca) ([2.0.2](https://github.com/bloznelis/typioca/releases/tag/2.0.2), 2 weeks ago) - Cozy typing speed tester
 
 #### 🔨 My recent Pull Requests
 
-- [Fix static creds init &amp; support skipping waiting for record propagation](https://github.com/libdns/route53/pull/15) on [libdns/route53](https://github.com/libdns/route53) (6 days ago)
-- [fix: workaround goreleaser dirty git state](https://github.com/charmbracelet/meta/pull/39) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (6 days ago)
+- [Fix static creds init &amp; support skipping waiting for record propagation](https://github.com/libdns/route53/pull/15) on [libdns/route53](https://github.com/libdns/route53) (1 week ago)
+- [fix: workaround goreleaser dirty git state](https://github.com/charmbracelet/meta/pull/39) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (1 week ago)
 - [More middlewares](https://github.com/charmbracelet/wish/pull/60) on [charmbracelet/wish](https://github.com/charmbracelet/wish) (1 week ago)
 - [feat(server): support custom link timeout duration](https://github.com/charmbracelet/charm/pull/156) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (1 week ago)
 - [feat(goreleaser): add nfpm deb/rpm package signing](https://github.com/charmbracelet/meta/pull/38) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (1 week ago)
@@ -44,9 +44,9 @@
 
 #### ⭐ Recent Stars
 
-- [zzl/go-winrtapi](https://github.com/zzl/go-winrtapi) -  (today)
+- [zzl/go-winrtapi](https://github.com/zzl/go-winrtapi) -  (1 day ago)
 - [lrstanley/bubblezone](https://github.com/lrstanley/bubblezone) - helper utility for BubbleTea, allowing easy mouse event tracking (1 week ago)
-- [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (1 month ago)
+- [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (2 months ago)
 - [gogs/git-module](https://github.com/gogs/git-module) - Package git-module is a Go module for Git access through shell commands (2 months ago)
 - [muesli/beehive](https://github.com/muesli/beehive) - A flexible event/agent &amp; automation system with lots of bees 🐝 (2 months ago)
 
