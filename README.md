@@ -4,10 +4,10 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (today)
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (today)
 - [charmbracelet/skate](https://github.com/charmbracelet/skate) - A personal key value store 🛼 (2 days ago)
-- [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (2 days ago)
 - [charmbracelet/confettysh](https://github.com/charmbracelet/confettysh) - confetti over ssh (2 days ago)
-- [charmbracelet/melt](https://github.com/charmbracelet/melt) - 🧊 Backup and restore Ed25519 SSH keys with seed words. (2 days ago)
 - [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) - The SSH directory ✨ (2 days ago)
 
 #### 🌱 My latest projects
