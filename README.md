@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.1.0](https://github.com/charmbracelet/gum/releases/tag/v0.1.0), today) - A tool for glamorous shell scripts 🎀
 - [charmbracelet/confettysh](https://github.com/charmbracelet/confettysh) ([v1.0.3](https://github.com/charmbracelet/confettysh/releases/tag/v1.0.3), 3 days ago) - confetti over ssh
 - [caddy-dns/route53](https://github.com/caddy-dns/route53) ([v1.2.1](https://github.com/caddy-dns/route53/releases/tag/v1.2.1), 1 week ago) - Caddy module: dns.providers.route53
 - [libdns/route53](https://github.com/libdns/route53) ([v1.2.2](https://github.com/libdns/route53/releases/tag/v1.2.2), 1 week ago) - AWS Route53 provider implementation for libdns
 - [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.7.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.7.0), 2 weeks ago) - The SSH directory ✨
-- [bloznelis/typioca](https://github.com/bloznelis/typioca) ([2.0.2](https://github.com/bloznelis/typioca/releases/tag/2.0.2), 2 weeks ago) - Cozy typing speed tester
 
 #### 🔨 My recent Pull Requests
 
+- [docs: update installation methods](https://github.com/charmbracelet/gum/pull/9) on [charmbracelet/gum](https://github.com/charmbracelet/gum) (3 days ago)
+- [Fish shell completion script](https://github.com/charmbracelet/gum/pull/8) on [charmbracelet/gum](https://github.com/charmbracelet/gum) (3 days ago)
 - [Fix static creds init &amp; support skipping waiting for record propagation](https://github.com/libdns/route53/pull/15) on [libdns/route53](https://github.com/libdns/route53) (1 week ago)
 - [fix: workaround goreleaser dirty git state](https://github.com/charmbracelet/meta/pull/39) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (1 week ago)
 - [More middlewares](https://github.com/charmbracelet/wish/pull/60) on [charmbracelet/wish](https://github.com/charmbracelet/wish) (1 week ago)
-- [feat(server): support custom link timeout duration](https://github.com/charmbracelet/charm/pull/156) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (2 weeks ago)
-- [feat(goreleaser): add nfpm deb/rpm package signing](https://github.com/charmbracelet/meta/pull/38) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
