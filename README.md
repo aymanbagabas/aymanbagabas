@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: add version flag](https://github.com/charmbracelet/gum/pull/15) on [charmbracelet/gum](https://github.com/charmbracelet/gum) (today)
 - [docs: update installation methods](https://github.com/charmbracelet/gum/pull/9) on [charmbracelet/gum](https://github.com/charmbracelet/gum) (3 days ago)
 - [Fish shell completion script](https://github.com/charmbracelet/gum/pull/8) on [charmbracelet/gum](https://github.com/charmbracelet/gum) (3 days ago)
 - [Fix static creds init &amp; support skipping waiting for record propagation](https://github.com/libdns/route53/pull/15) on [libdns/route53](https://github.com/libdns/route53) (1 week ago)
 - [fix: workaround goreleaser dirty git state](https://github.com/charmbracelet/meta/pull/39) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (1 week ago)
-- [More middlewares](https://github.com/charmbracelet/wish/pull/60) on [charmbracelet/wish](https://github.com/charmbracelet/wish) (1 week ago)
 
 #### 📜 My recent blog posts
 
