@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.1.0](https://github.com/charmbracelet/gum/releases/tag/v0.1.0), 3 days ago) - A tool for glamorous shell scripts 🎀
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.2.0](https://github.com/charmbracelet/gum/releases/tag/v0.2.0), today) - A tool for glamorous shell scripts 🎀
 - [charmbracelet/confettysh](https://github.com/charmbracelet/confettysh) ([v1.0.3](https://github.com/charmbracelet/confettysh/releases/tag/v1.0.3), 6 days ago) - confetti over ssh
 - [caddy-dns/route53](https://github.com/caddy-dns/route53) ([v1.2.1](https://github.com/caddy-dns/route53/releases/tag/v1.2.1), 1 week ago) - Caddy module: dns.providers.route53
 - [libdns/route53](https://github.com/libdns/route53) ([v1.2.2](https://github.com/libdns/route53/releases/tag/v1.2.2), 1 week ago) - AWS Route53 provider implementation for libdns
