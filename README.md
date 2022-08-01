@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: man pages binary description](https://github.com/charmbracelet/gum/pull/65) on [charmbracelet/gum](https://github.com/charmbracelet/gum) (today)
 - [Add basic mouse support](https://github.com/charmbracelet/soft-serve/pull/132) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (4 days ago)
 - [feat: add version flag](https://github.com/charmbracelet/gum/pull/15) on [charmbracelet/gum](https://github.com/charmbracelet/gum) (4 days ago)
 - [docs: update installation methods](https://github.com/charmbracelet/gum/pull/9) on [charmbracelet/gum](https://github.com/charmbracelet/gum) (1 week ago)
 - [Fish shell completion script](https://github.com/charmbracelet/gum/pull/8) on [charmbracelet/gum](https://github.com/charmbracelet/gum) (1 week ago)
-- [Fix static creds init &amp; support skipping waiting for record propagation](https://github.com/libdns/route53/pull/15) on [libdns/route53](https://github.com/libdns/route53) (1 week ago)
 
 #### 📜 My recent blog posts
 
