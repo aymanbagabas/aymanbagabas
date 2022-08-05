@@ -20,11 +20,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [bloznelis/typioca](https://github.com/bloznelis/typioca) ([2.0.3](https://github.com/bloznelis/typioca/releases/tag/2.0.3), today) - Cozy typing speed tester
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.4.0](https://github.com/charmbracelet/gum/releases/tag/v0.4.0), 1 day ago) - A tool for glamorous shell scripts 🎀
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.3.3](https://github.com/charmbracelet/soft-serve/releases/tag/v0.3.3), 2 days ago) - A tasty, self-hostable Git server for the command line🍦
 - [charmbracelet/confettysh](https://github.com/charmbracelet/confettysh) ([v1.0.3](https://github.com/charmbracelet/confettysh/releases/tag/v1.0.3), 1 week ago) - confetti over ssh
 - [caddy-dns/route53](https://github.com/caddy-dns/route53) ([v1.2.1](https://github.com/caddy-dns/route53/releases/tag/v1.2.1), 2 weeks ago) - Caddy module: dns.providers.route53
-- [libdns/route53](https://github.com/libdns/route53) ([v1.2.2](https://github.com/libdns/route53/releases/tag/v1.2.2), 2 weeks ago) - AWS Route53 provider implementation for libdns
 
 #### 🔨 My recent Pull Requests
 
