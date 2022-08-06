@@ -4,8 +4,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (1 day ago)
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (2 days ago)
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (2 days ago)
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (3 days ago)
 - [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (1 week ago)
 - [charmbracelet/skate](https://github.com/charmbracelet/skate) - A personal key value store 🛼 (1 week ago)
 - [charmbracelet/confettysh](https://github.com/charmbracelet/confettysh) - confetti over ssh (1 week ago)
@@ -20,16 +20,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [bloznelis/typioca](https://github.com/bloznelis/typioca) ([2.0.3](https://github.com/bloznelis/typioca/releases/tag/2.0.3), today) - Cozy typing speed tester
-- [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.4.0](https://github.com/charmbracelet/gum/releases/tag/v0.4.0), 1 day ago) - A tool for glamorous shell scripts 🎀
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.3.3](https://github.com/charmbracelet/soft-serve/releases/tag/v0.3.3), 2 days ago) - A tasty, self-hostable Git server for the command line🍦
+- [bloznelis/typioca](https://github.com/bloznelis/typioca) ([2.0.3](https://github.com/bloznelis/typioca/releases/tag/2.0.3), 1 day ago) - Cozy typing speed tester
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.4.0](https://github.com/charmbracelet/gum/releases/tag/v0.4.0), 2 days ago) - A tool for glamorous shell scripts 🎀
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.3.3](https://github.com/charmbracelet/soft-serve/releases/tag/v0.3.3), 3 days ago) - A tasty, self-hostable Git server for the command line🍦
 - [charmbracelet/confettysh](https://github.com/charmbracelet/confettysh) ([v1.0.3](https://github.com/charmbracelet/confettysh/releases/tag/v1.0.3), 1 week ago) - confetti over ssh
 - [caddy-dns/route53](https://github.com/caddy-dns/route53) ([v1.2.1](https://github.com/caddy-dns/route53/releases/tag/v1.2.1), 2 weeks ago) - Caddy module: dns.providers.route53
 
 #### 🔨 My recent Pull Requests
 
-- [Add flag environment variables to the generated man panges](https://github.com/alecthomas/mango-kong/pull/1) on [alecthomas/mango-kong](https://github.com/alecthomas/mango-kong) (1 day ago)
-- [fix: man pages binary description](https://github.com/charmbracelet/gum/pull/65) on [charmbracelet/gum](https://github.com/charmbracelet/gum) (4 days ago)
+- [Add flag environment variables to the generated man panges](https://github.com/alecthomas/mango-kong/pull/1) on [alecthomas/mango-kong](https://github.com/alecthomas/mango-kong) (2 days ago)
+- [fix: man pages binary description](https://github.com/charmbracelet/gum/pull/65) on [charmbracelet/gum](https://github.com/charmbracelet/gum) (5 days ago)
 - [Add basic mouse support](https://github.com/charmbracelet/soft-serve/pull/132) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 week ago)
 - [feat: add version flag](https://github.com/charmbracelet/gum/pull/15) on [charmbracelet/gum](https://github.com/charmbracelet/gum) (1 week ago)
 - [docs: update installation methods](https://github.com/charmbracelet/gum/pull/9) on [charmbracelet/gum](https://github.com/charmbracelet/gum) (1 week ago)
