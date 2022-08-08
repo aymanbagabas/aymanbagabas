@@ -8,7 +8,7 @@
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (5 days ago)
 - [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (1 week ago)
 - [charmbracelet/skate](https://github.com/charmbracelet/skate) - A personal key value store 🛼 (2 weeks ago)
-- [charmbracelet/confettysh](https://github.com/charmbracelet/confettysh) - confetti over ssh (2 weeks ago)
+- [charmbracelet/melt](https://github.com/charmbracelet/melt) - 🧊 Backup and restore Ed25519 SSH keys with seed words. (2 weeks ago)
 
 #### 🌱 My latest projects
 
