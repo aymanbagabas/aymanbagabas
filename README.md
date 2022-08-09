@@ -20,11 +20,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.12.2](https://github.com/charmbracelet/charm/releases/tag/v0.12.2), today) - The Charm Tool and Library 🌟
+- [charmbracelet/skate](https://github.com/charmbracelet/skate) ([v0.2.1](https://github.com/charmbracelet/skate/releases/tag/v0.2.1), today) - A personal key value store 🛼
+- [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.12.3](https://github.com/charmbracelet/charm/releases/tag/v0.12.3), today) - The Charm Tool and Library 🌟
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.4.0](https://github.com/charmbracelet/soft-serve/releases/tag/v0.4.0), 1 day ago) - A tasty, self-hostable Git server for the command line🍦
 - [bloznelis/typioca](https://github.com/bloznelis/typioca) ([2.0.3](https://github.com/bloznelis/typioca/releases/tag/2.0.3), 4 days ago) - Cozy typing speed tester
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.4.0](https://github.com/charmbracelet/gum/releases/tag/v0.4.0), 5 days ago) - A tool for glamorous shell scripts 🎀
-- [charmbracelet/confettysh](https://github.com/charmbracelet/confettysh) ([v1.0.3](https://github.com/charmbracelet/confettysh/releases/tag/v1.0.3), 2 weeks ago) - confetti over ssh
 
 #### 🔨 My recent Pull Requests
 
