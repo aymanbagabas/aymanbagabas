@@ -4,10 +4,10 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [charmbracelet/.github](https://github.com/charmbracelet/.github) -  (today)
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (1 day ago)
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (5 days ago)
 - [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (1 week ago)
-- [charmbracelet/skate](https://github.com/charmbracelet/skate) - A personal key value store 🛼 (2 weeks ago)
 - [charmbracelet/melt](https://github.com/charmbracelet/melt) - 🧊 Backup and restore Ed25519 SSH keys with seed words. (2 weeks ago)
 
 #### 🌱 My latest projects
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: add readme template](https://github.com/charmbracelet/.github/pull/1) on [charmbracelet/.github](https://github.com/charmbracelet/.github) (today)
 - [Add flag environment variables to the generated man panges](https://github.com/alecthomas/mango-kong/pull/1) on [alecthomas/mango-kong](https://github.com/alecthomas/mango-kong) (5 days ago)
 - [fix: man pages binary description](https://github.com/charmbracelet/gum/pull/65) on [charmbracelet/gum](https://github.com/charmbracelet/gum) (1 week ago)
 - [Add basic mouse support](https://github.com/charmbracelet/soft-serve/pull/132) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 week ago)
 - [feat: add version flag](https://github.com/charmbracelet/gum/pull/15) on [charmbracelet/gum](https://github.com/charmbracelet/gum) (1 week ago)
-- [docs: update installation methods](https://github.com/charmbracelet/gum/pull/9) on [charmbracelet/gum](https://github.com/charmbracelet/gum) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
