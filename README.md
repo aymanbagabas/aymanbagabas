@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix(server): ssh server closed err](https://github.com/charmbracelet/charm/pull/170) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (today)
 - [feat(ci): add dependabot](https://github.com/charmbracelet/wish/pull/61) on [charmbracelet/wish](https://github.com/charmbracelet/wish) (today)
 - [fix(goreleaser): brew binary name](https://github.com/charmbracelet/meta/pull/41) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (today)
 - [chore: bump dependencies](https://github.com/charmbracelet/charm/pull/161) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (1 day ago)
 - [feat: add readme template](https://github.com/charmbracelet/.github/pull/1) on [charmbracelet/.github](https://github.com/charmbracelet/.github) (1 day ago)
-- [Add flag environment variables to the generated man panges](https://github.com/alecthomas/mango-kong/pull/1) on [alecthomas/mango-kong](https://github.com/alecthomas/mango-kong) (6 days ago)
 
 #### 📜 My recent blog posts
 
