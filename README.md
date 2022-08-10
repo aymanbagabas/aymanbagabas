@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/skate](https://github.com/charmbracelet/skate) - A personal key value store 🛼 (1 day ago)
+- [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (today)
+- [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺 (today)
 - [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (1 day ago)
-- [charmbracelet/.github](https://github.com/charmbracelet/.github) -  (1 day ago)
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (1 day ago)
-- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (6 days ago)
+- [charmbracelet/.github](https://github.com/charmbracelet/.github) -  (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix(goreleaser): brew binary name](https://github.com/charmbracelet/meta/pull/41) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (today)
 - [chore: bump dependencies](https://github.com/charmbracelet/charm/pull/161) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (1 day ago)
 - [feat: add readme template](https://github.com/charmbracelet/.github/pull/1) on [charmbracelet/.github](https://github.com/charmbracelet/.github) (1 day ago)
 - [Add flag environment variables to the generated man panges](https://github.com/alecthomas/mango-kong/pull/1) on [alecthomas/mango-kong](https://github.com/alecthomas/mango-kong) (6 days ago)
 - [fix: man pages binary description](https://github.com/charmbracelet/gum/pull/65) on [charmbracelet/gum](https://github.com/charmbracelet/gum) (1 week ago)
-- [Add basic mouse support](https://github.com/charmbracelet/soft-serve/pull/132) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 week ago)
 
 #### 📜 My recent blog posts
 
