@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (3 days ago)
-- [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (3 days ago)
-- [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺 (3 days ago)
-- [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (4 days ago)
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (4 days ago)
+- [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (4 days ago)
+- [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (4 days ago)
+- [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺 (4 days ago)
+- [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (5 days ago)
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/skate](https://github.com/charmbracelet/skate) ([v0.2.1](https://github.com/charmbracelet/skate/releases/tag/v0.2.1), 4 days ago) - A personal key value store 🛼
-- [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.12.3](https://github.com/charmbracelet/charm/releases/tag/v0.12.3), 4 days ago) - The Charm Tool and Library 🌟
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.4.0](https://github.com/charmbracelet/soft-serve/releases/tag/v0.4.0), 5 days ago) - A tasty, self-hostable Git server for the command line🍦
+- [charmbracelet/skate](https://github.com/charmbracelet/skate) ([v0.2.1](https://github.com/charmbracelet/skate/releases/tag/v0.2.1), 5 days ago) - A personal key value store 🛼
+- [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.12.3](https://github.com/charmbracelet/charm/releases/tag/v0.12.3), 5 days ago) - The Charm Tool and Library 🌟
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.4.0](https://github.com/charmbracelet/soft-serve/releases/tag/v0.4.0), 6 days ago) - A tasty, self-hostable Git server for the command line🍦
 - [bloznelis/typioca](https://github.com/bloznelis/typioca) ([2.0.3](https://github.com/bloznelis/typioca/releases/tag/2.0.3), 1 week ago) - Cozy typing speed tester
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.4.0](https://github.com/charmbracelet/gum/releases/tag/v0.4.0), 1 week ago) - A tool for glamorous shell scripts 🎀
 
 #### 🔨 My recent Pull Requests
 
-- [fix(server): ssh server closed err](https://github.com/charmbracelet/charm/pull/170) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (3 days ago)
-- [feat(ci): add dependabot](https://github.com/charmbracelet/wish/pull/61) on [charmbracelet/wish](https://github.com/charmbracelet/wish) (3 days ago)
-- [fix(goreleaser): brew binary name](https://github.com/charmbracelet/meta/pull/41) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (3 days ago)
-- [chore: bump dependencies](https://github.com/charmbracelet/charm/pull/161) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (4 days ago)
-- [feat: add readme template](https://github.com/charmbracelet/.github/pull/1) on [charmbracelet/.github](https://github.com/charmbracelet/.github) (4 days ago)
+- [fix(server): ssh server closed err](https://github.com/charmbracelet/charm/pull/170) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (4 days ago)
+- [feat(ci): add dependabot](https://github.com/charmbracelet/wish/pull/61) on [charmbracelet/wish](https://github.com/charmbracelet/wish) (4 days ago)
+- [fix(goreleaser): brew binary name](https://github.com/charmbracelet/meta/pull/41) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (4 days ago)
+- [chore: bump dependencies](https://github.com/charmbracelet/charm/pull/161) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (5 days ago)
+- [feat: add readme template](https://github.com/charmbracelet/.github/pull/1) on [charmbracelet/.github](https://github.com/charmbracelet/.github) (5 days ago)
 
 #### 📜 My recent blog posts
 
@@ -46,7 +46,7 @@
 
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (2 weeks ago)
 - [zzl/go-winrtapi](https://github.com/zzl/go-winrtapi) -  (2 weeks ago)
-- [lrstanley/bubblezone](https://github.com/lrstanley/bubblezone) - helper utility for BubbleTea, allowing easy mouse event tracking (3 weeks ago)
+- [lrstanley/bubblezone](https://github.com/lrstanley/bubblezone) - helper utility for BubbleTea, allowing easy mouse event tracking (4 weeks ago)
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (2 months ago)
 - [gogs/git-module](https://github.com/gogs/git-module) - Package git-module is a Go module for Git access through shell commands (2 months ago)
 
