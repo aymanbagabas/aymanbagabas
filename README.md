@@ -20,8 +20,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.12.4](https://github.com/charmbracelet/charm/releases/tag/v0.12.4), today) - The Charm Tool and Library 🌟
 - [charmbracelet/skate](https://github.com/charmbracelet/skate) ([v0.2.1](https://github.com/charmbracelet/skate/releases/tag/v0.2.1), 6 days ago) - A personal key value store 🛼
-- [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.12.3](https://github.com/charmbracelet/charm/releases/tag/v0.12.3), 6 days ago) - The Charm Tool and Library 🌟
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.4.0](https://github.com/charmbracelet/soft-serve/releases/tag/v0.4.0), 1 week ago) - A tasty, self-hostable Git server for the command line🍦
 - [bloznelis/typioca](https://github.com/bloznelis/typioca) ([2.0.3](https://github.com/bloznelis/typioca/releases/tag/2.0.3), 1 week ago) - Cozy typing speed tester
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.4.0](https://github.com/charmbracelet/gum/releases/tag/v0.4.0), 1 week ago) - A tool for glamorous shell scripts 🎀
