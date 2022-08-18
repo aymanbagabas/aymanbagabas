@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/charm-web-test](https://github.com/charmbracelet/charm-web-test) -  (today)
-- [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺 (1 week ago)
-- [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (1 week ago)
 - [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (1 week ago)
+- [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (1 week ago)
+- [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺 (1 week ago)
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (1 week ago)
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/charm-web-test](https://github.com/charmbracelet/charm-web-test) ([v3.2.0](https://github.com/charmbracelet/charm-web-test/releases/tag/v3.2.0), today) - 
 - [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.12.4](https://github.com/charmbracelet/charm/releases/tag/v0.12.4), 3 days ago) - The Charm Tool and Library 🌟
 - [charmbracelet/skate](https://github.com/charmbracelet/skate) ([v0.2.1](https://github.com/charmbracelet/skate/releases/tag/v0.2.1), 1 week ago) - A personal key value store 🛼
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.4.0](https://github.com/charmbracelet/soft-serve/releases/tag/v0.4.0), 1 week ago) - A tasty, self-hostable Git server for the command line🍦
 - [bloznelis/typioca](https://github.com/bloznelis/typioca) ([2.0.3](https://github.com/bloznelis/typioca/releases/tag/2.0.3), 1 week ago) - Cozy typing speed tester
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.4.0](https://github.com/charmbracelet/gum/releases/tag/v0.4.0), 2 weeks ago) - A tool for glamorous shell scripts 🎀
 
 #### 🔨 My recent Pull Requests
 
+- [fix: lint](https://github.com/charmbracelet/lipgloss/pull/101) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (today)
 - [fix(server): ssh server closed err](https://github.com/charmbracelet/charm/pull/170) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (1 week ago)
 - [feat(ci): add dependabot](https://github.com/charmbracelet/wish/pull/61) on [charmbracelet/wish](https://github.com/charmbracelet/wish) (1 week ago)
 - [fix(goreleaser): brew binary name](https://github.com/charmbracelet/meta/pull/41) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (1 week ago)
 - [chore: bump dependencies](https://github.com/charmbracelet/charm/pull/161) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (1 week ago)
-- [feat: add readme template](https://github.com/charmbracelet/.github/pull/1) on [charmbracelet/.github](https://github.com/charmbracelet/.github) (1 week ago)
 
 #### 📜 My recent blog posts
 
