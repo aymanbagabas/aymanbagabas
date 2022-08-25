@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Add random repositories function](https://github.com/muesli/markscribe/pull/48) on [muesli/markscribe](https://github.com/muesli/markscribe) (today)
 - [Add gh-stars](https://github.com/kodepandai/awesome-gh-cli-extensions/pull/9) on [kodepandai/awesome-gh-cli-extensions](https://github.com/kodepandai/awesome-gh-cli-extensions) (2 days ago)
 - [fix: lint](https://github.com/charmbracelet/lipgloss/pull/101) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (1 week ago)
 - [fix(server): ssh server closed err](https://github.com/charmbracelet/charm/pull/170) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (2 weeks ago)
 - [feat(ci): add dependabot](https://github.com/charmbracelet/wish/pull/61) on [charmbracelet/wish](https://github.com/charmbracelet/wish) (2 weeks ago)
-- [fix(goreleaser): brew binary name](https://github.com/charmbracelet/meta/pull/41) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
