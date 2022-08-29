@@ -4,8 +4,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (today)
 - [aymanbagabas/aymanbagabas.github.io](https://github.com/aymanbagabas/aymanbagabas.github.io) - A personal website built using Jekyll (3 days ago)
-- [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (5 days ago)
 - [kodepandai/awesome-gh-cli-extensions](https://github.com/kodepandai/awesome-gh-cli-extensions) - Awesome list of github cli extensions. (6 days ago)
 - [aymanbagabas/gh-stars](https://github.com/aymanbagabas/gh-stars) - GitHub stargazers in your terminal 🌟 (6 days ago)
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (6 days ago)
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix(goreleaser): add docker images &#34;v&#34; prefix](https://github.com/charmbracelet/meta/pull/44) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (today)
 - [MusixMatch url sanitize](https://github.com/rhnvrm/lyric-api-go/pull/5) on [rhnvrm/lyric-api-go](https://github.com/rhnvrm/lyric-api-go) (3 days ago)
 - [Add random repositories function](https://github.com/muesli/markscribe/pull/48) on [muesli/markscribe](https://github.com/muesli/markscribe) (4 days ago)
 - [Add gh-stars](https://github.com/kodepandai/awesome-gh-cli-extensions/pull/9) on [kodepandai/awesome-gh-cli-extensions](https://github.com/kodepandai/awesome-gh-cli-extensions) (6 days ago)
 - [fix: lint](https://github.com/charmbracelet/lipgloss/pull/101) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (1 week ago)
-- [fix(server): ssh server closed err](https://github.com/charmbracelet/charm/pull/170) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
