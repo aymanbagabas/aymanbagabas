@@ -20,8 +20,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.6.0](https://github.com/charmbracelet/gum/releases/tag/v0.6.0), today) - A tool for glamorous shell scripts 🎀
 - [rhnvrm/lyric-api-go](https://github.com/rhnvrm/lyric-api-go) ([v0.1.4](https://github.com/rhnvrm/lyric-api-go/releases/tag/v0.1.4), 6 days ago) - :musical_score: API to search for lyrics from various providers.
-- [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.5.0](https://github.com/charmbracelet/gum/releases/tag/v0.5.0), 1 week ago) - A tool for glamorous shell scripts 🎀
 - [aymanbagabas/gh-stars](https://github.com/aymanbagabas/gh-stars) ([v1.0.0](https://github.com/aymanbagabas/gh-stars/releases/tag/v1.0.0), 1 week ago) - GitHub stargazers in your terminal 🌟
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.22.1](https://github.com/charmbracelet/bubbletea/releases/tag/v0.22.1), 2 weeks ago) - A powerful little TUI framework 🏗
 - [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.12.4](https://github.com/charmbracelet/charm/releases/tag/v0.12.4), 3 weeks ago) - The Charm Tool and Library 🌟
