@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix TXT records](https://github.com/libdns/route53/pull/18) on [libdns/route53](https://github.com/libdns/route53) (today)
 - [fix(goreleaser): nfpm zsh completion path](https://github.com/charmbracelet/meta/pull/45) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (5 days ago)
 - [fix(goreleaser): add docker images &#34;v&#34; prefix](https://github.com/charmbracelet/meta/pull/44) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (1 week ago)
 - [fix: MusixMatch url sanitize](https://github.com/rhnvrm/lyric-api-go/pull/5) on [rhnvrm/lyric-api-go](https://github.com/rhnvrm/lyric-api-go) (1 week ago)
 - [Add random repositories function](https://github.com/muesli/markscribe/pull/48) on [muesli/markscribe](https://github.com/muesli/markscribe) (1 week ago)
-- [Add gh-stars](https://github.com/kodepandai/awesome-gh-cli-extensions/pull/9) on [kodepandai/awesome-gh-cli-extensions](https://github.com/kodepandai/awesome-gh-cli-extensions) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
