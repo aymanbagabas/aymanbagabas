@@ -5,8 +5,8 @@
 #### 👷 Check out what I'm currently working on
 
 - [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (1 week ago)
-- [rhnvrm/lyric-api-go](https://github.com/rhnvrm/lyric-api-go) - :musical_score: API to search for lyrics from various providers. (1 week ago)
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (1 week ago)
+- [rhnvrm/lyric-api-go](https://github.com/rhnvrm/lyric-api-go) - :musical_score: API to search for lyrics from various providers. (1 week ago)
 - [aymanbagabas/aymanbagabas.github.io](https://github.com/aymanbagabas/aymanbagabas.github.io) - A personal website built using Jekyll (2 weeks ago)
 - [aymanbagabas/gh-stars](https://github.com/aymanbagabas/gh-stars) - GitHub stargazers in your terminal 🌟 (2 weeks ago)
 
