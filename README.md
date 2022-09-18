@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [bloznelis/typioca](https://github.com/bloznelis/typioca) ([2.0.4](https://github.com/bloznelis/typioca/releases/tag/2.0.4), 4 days ago) - Cozy typing speed tester
+- [bloznelis/typioca](https://github.com/bloznelis/typioca) ([2.0.4](https://github.com/bloznelis/typioca/releases/tag/2.0.4), 5 days ago) - Cozy typing speed tester
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.6.0](https://github.com/charmbracelet/lipgloss/releases/tag/v0.6.0), 1 week ago) - Style definitions for nice terminal layouts 👄
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.14.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.14.0), 1 week ago) - TUI components for Bubble Tea 🫧
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.6.0](https://github.com/charmbracelet/gum/releases/tag/v0.6.0), 1 week ago) - A tool for glamorous shell scripts 🎀
