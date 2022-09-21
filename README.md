@@ -28,7 +28,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Fix TXT records](https://github.com/libdns/route53/pull/18) on [libdns/route53](https://github.com/libdns/route53) (1 week ago)
+- [Fix TXT records](https://github.com/libdns/route53/pull/18) on [libdns/route53](https://github.com/libdns/route53) (2 weeks ago)
 - [fix(goreleaser): nfpm zsh completion path](https://github.com/charmbracelet/meta/pull/45) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (2 weeks ago)
 - [fix(goreleaser): add docker images &#34;v&#34; prefix](https://github.com/charmbracelet/meta/pull/44) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (3 weeks ago)
 - [fix: MusixMatch url sanitize](https://github.com/rhnvrm/lyric-api-go/pull/5) on [rhnvrm/lyric-api-go](https://github.com/rhnvrm/lyric-api-go) (3 weeks ago)
@@ -38,7 +38,7 @@
 
 - [Blue Mountain](https://aymanbagabas.com/blog/2022/06/02/blue-mountain.html) (3 months ago)
 - [Import Notion Pages to Jekyll](https://aymanbagabas.com/blog/2022/03/29/import-notion-pages-to-jekyll.html) (5 months ago)
-- [Nyan Cat Over SSH](https://aymanbagabas.com/blog/2022/03/25/nyan-cat-over-ssh.html) (5 months ago)
+- [Nyan Cat Over SSH](https://aymanbagabas.com/blog/2022/03/25/nyan-cat-over-ssh.html) (6 months ago)
 - [Walk by the pond](https://aymanbagabas.com/blog/2022/03/10/walk-by-the-pond.html) (6 months ago)
 - [Run native C/C&#43;&#43; code in the browser using Emscripten](https://aymanbagabas.com/blog/2020/11/18/run-native-c-c&#43;&#43;-code-in-the-browser-using-emscripten.html) (2 years ago)
 
