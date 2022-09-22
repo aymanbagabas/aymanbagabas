@@ -8,7 +8,7 @@
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (3 weeks ago)
 - [rhnvrm/lyric-api-go](https://github.com/rhnvrm/lyric-api-go) - :musical_score: API to search for lyrics from various providers. (3 weeks ago)
 - [aymanbagabas/aymanbagabas.github.io](https://github.com/aymanbagabas/aymanbagabas.github.io) - A personal website built using Jekyll (3 weeks ago)
-- [kodepandai/awesome-gh-cli-extensions](https://github.com/kodepandai/awesome-gh-cli-extensions) - Awesome list of github cli extensions. (4 weeks ago)
+- [kodepandai/awesome-gh-cli-extensions](https://github.com/kodepandai/awesome-gh-cli-extensions) - Awesome list of github cli extensions. (1 month ago)
 
 #### 🌱 My latest projects
 
@@ -32,7 +32,7 @@
 - [fix(goreleaser): nfpm zsh completion path](https://github.com/charmbracelet/meta/pull/45) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (2 weeks ago)
 - [fix(goreleaser): add docker images &#34;v&#34; prefix](https://github.com/charmbracelet/meta/pull/44) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (3 weeks ago)
 - [fix: MusixMatch url sanitize](https://github.com/rhnvrm/lyric-api-go/pull/5) on [rhnvrm/lyric-api-go](https://github.com/rhnvrm/lyric-api-go) (3 weeks ago)
-- [Add random repositories function](https://github.com/muesli/markscribe/pull/48) on [muesli/markscribe](https://github.com/muesli/markscribe) (3 weeks ago)
+- [Add random repositories function](https://github.com/muesli/markscribe/pull/48) on [muesli/markscribe](https://github.com/muesli/markscribe) (4 weeks ago)
 
 #### 📜 My recent blog posts
 
@@ -44,7 +44,7 @@
 
 #### ⭐ Recent Stars
 
-- [aymanbagabas/gh-stars](https://github.com/aymanbagabas/gh-stars) - GitHub stargazers in your terminal 🌟 (4 weeks ago)
+- [aymanbagabas/gh-stars](https://github.com/aymanbagabas/gh-stars) - GitHub stargazers in your terminal 🌟 (1 month ago)
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (1 month ago)
 - [zzl/go-winrtapi](https://github.com/zzl/go-winrtapi) -  (1 month ago)
 - [lrstanley/bubblezone](https://github.com/lrstanley/bubblezone) - helper utility for BubbleTea, allowing easy mouse event tracking (2 months ago)
