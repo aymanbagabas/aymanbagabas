@@ -20,11 +20,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [muesli/termenv](https://github.com/muesli/termenv) ([v0.13.0](https://github.com/muesli/termenv/releases/tag/v0.13.0), today) - Advanced ANSI style &amp; color support for your terminal applications
 - [bloznelis/typioca](https://github.com/bloznelis/typioca) ([2.0.4](https://github.com/bloznelis/typioca/releases/tag/2.0.4), 1 week ago) - Cozy typing speed tester
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.6.0](https://github.com/charmbracelet/lipgloss/releases/tag/v0.6.0), 2 weeks ago) - Style definitions for nice terminal layouts 👄
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.14.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.14.0), 2 weeks ago) - TUI components for Bubble Tea 🫧
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.6.0](https://github.com/charmbracelet/gum/releases/tag/v0.6.0), 2 weeks ago) - A tool for glamorous shell scripts 🎀
-- [rhnvrm/lyric-api-go](https://github.com/rhnvrm/lyric-api-go) ([v0.1.4](https://github.com/rhnvrm/lyric-api-go/releases/tag/v0.1.4), 3 weeks ago) - :musical_score: API to search for lyrics from various providers.
 
 #### 🔨 My recent Pull Requests
 
