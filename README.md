@@ -7,7 +7,7 @@
 - [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (3 weeks ago)
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (3 weeks ago)
 - [rhnvrm/lyric-api-go](https://github.com/rhnvrm/lyric-api-go) - :musical_score: API to search for lyrics from various providers. (3 weeks ago)
-- [aymanbagabas/aymanbagabas.github.io](https://github.com/aymanbagabas/aymanbagabas.github.io) - A personal website built using Jekyll (4 weeks ago)
+- [aymanbagabas/aymanbagabas.github.io](https://github.com/aymanbagabas/aymanbagabas.github.io) - A personal website built using Jekyll (1 month ago)
 - [kodepandai/awesome-gh-cli-extensions](https://github.com/kodepandai/awesome-gh-cli-extensions) - Awesome list of github cli extensions. (1 month ago)
 
 #### 🌱 My latest projects
@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [muesli/termenv](https://github.com/muesli/termenv) ([v0.13.0](https://github.com/muesli/termenv/releases/tag/v0.13.0), 1 day ago) - Advanced ANSI style &amp; color support for your terminal applications
+- [muesli/termenv](https://github.com/muesli/termenv) ([v0.13.0](https://github.com/muesli/termenv/releases/tag/v0.13.0), 2 days ago) - Advanced ANSI style &amp; color support for your terminal applications
 - [bloznelis/typioca](https://github.com/bloznelis/typioca) ([2.0.4](https://github.com/bloznelis/typioca/releases/tag/2.0.4), 1 week ago) - Cozy typing speed tester
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.6.0](https://github.com/charmbracelet/lipgloss/releases/tag/v0.6.0), 2 weeks ago) - Style definitions for nice terminal layouts 👄
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.14.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.14.0), 2 weeks ago) - TUI components for Bubble Tea 🫧
@@ -31,13 +31,13 @@
 - [Fix TXT records](https://github.com/libdns/route53/pull/18) on [libdns/route53](https://github.com/libdns/route53) (2 weeks ago)
 - [fix(goreleaser): nfpm zsh completion path](https://github.com/charmbracelet/meta/pull/45) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (3 weeks ago)
 - [fix(goreleaser): add docker images &#34;v&#34; prefix](https://github.com/charmbracelet/meta/pull/44) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (3 weeks ago)
-- [fix: MusixMatch url sanitize](https://github.com/rhnvrm/lyric-api-go/pull/5) on [rhnvrm/lyric-api-go](https://github.com/rhnvrm/lyric-api-go) (4 weeks ago)
+- [fix: MusixMatch url sanitize](https://github.com/rhnvrm/lyric-api-go/pull/5) on [rhnvrm/lyric-api-go](https://github.com/rhnvrm/lyric-api-go) (1 month ago)
 - [Add random repositories function](https://github.com/muesli/markscribe/pull/48) on [muesli/markscribe](https://github.com/muesli/markscribe) (1 month ago)
 
 #### 📜 My recent blog posts
 
 - [Blue Mountain](https://aymanbagabas.com/blog/2022/06/02/blue-mountain.html) (3 months ago)
-- [Import Notion Pages to Jekyll](https://aymanbagabas.com/blog/2022/03/29/import-notion-pages-to-jekyll.html) (5 months ago)
+- [Import Notion Pages to Jekyll](https://aymanbagabas.com/blog/2022/03/29/import-notion-pages-to-jekyll.html) (6 months ago)
 - [Nyan Cat Over SSH](https://aymanbagabas.com/blog/2022/03/25/nyan-cat-over-ssh.html) (6 months ago)
 - [Walk by the pond](https://aymanbagabas.com/blog/2022/03/10/walk-by-the-pond.html) (6 months ago)
 - [Run native C/C&#43;&#43; code in the browser using Emscripten](https://aymanbagabas.com/blog/2020/11/18/run-native-c-c&#43;&#43;-code-in-the-browser-using-emscripten.html) (2 years ago)
