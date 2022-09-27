@@ -5,8 +5,8 @@
 #### 👷 Check out what I'm currently working on
 
 - [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (3 weeks ago)
-- [rhnvrm/lyric-api-go](https://github.com/rhnvrm/lyric-api-go) - :musical_score: API to search for lyrics from various providers. (3 weeks ago)
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (3 weeks ago)
+- [rhnvrm/lyric-api-go](https://github.com/rhnvrm/lyric-api-go) - :musical_score: API to search for lyrics from various providers. (4 weeks ago)
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (4 weeks ago)
 - [aymanbagabas/aymanbagabas.github.io](https://github.com/aymanbagabas/aymanbagabas.github.io) - A personal website built using Jekyll (1 month ago)
 - [kodepandai/awesome-gh-cli-extensions](https://github.com/kodepandai/awesome-gh-cli-extensions) - Awesome list of github cli extensions. (1 month ago)
 
@@ -20,10 +20,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [muesli/termenv](https://github.com/muesli/termenv) ([v0.13.0](https://github.com/muesli/termenv/releases/tag/v0.13.0), 3 days ago) - Advanced ANSI style &amp; color support for your terminal applications
-- [bloznelis/typioca](https://github.com/bloznelis/typioca) ([2.0.4](https://github.com/bloznelis/typioca/releases/tag/2.0.4), 1 week ago) - Cozy typing speed tester
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.6.0](https://github.com/charmbracelet/lipgloss/releases/tag/v0.6.0), 2 weeks ago) - Style definitions for nice terminal layouts 👄
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.14.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.14.0), 2 weeks ago) - TUI components for Bubble Tea 🫧
+- [muesli/termenv](https://github.com/muesli/termenv) ([v0.13.0](https://github.com/muesli/termenv/releases/tag/v0.13.0), 4 days ago) - Advanced ANSI style &amp; color support for your terminal applications
+- [bloznelis/typioca](https://github.com/bloznelis/typioca) ([2.0.4](https://github.com/bloznelis/typioca/releases/tag/2.0.4), 2 weeks ago) - Cozy typing speed tester
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.6.0](https://github.com/charmbracelet/lipgloss/releases/tag/v0.6.0), 3 weeks ago) - Style definitions for nice terminal layouts 👄
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.14.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.14.0), 3 weeks ago) - TUI components for Bubble Tea 🫧
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.6.0](https://github.com/charmbracelet/gum/releases/tag/v0.6.0), 3 weeks ago) - A tool for glamorous shell scripts 🎀
 
 #### 🔨 My recent Pull Requests
