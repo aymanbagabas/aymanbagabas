@@ -4,9 +4,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (1 day ago)
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (3 days ago)
-- [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (4 weeks ago)
+- [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (2 days ago)
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (4 days ago)
+- [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (1 month ago)
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (1 month ago)
 - [rhnvrm/lyric-api-go](https://github.com/rhnvrm/lyric-api-go) - :musical_score: API to search for lyrics from various providers. (1 month ago)
 
@@ -28,9 +28,9 @@
 
 #### 🔨 My recent Pull Requests
 
-- [feat(logging): custom logger](https://github.com/charmbracelet/wish/pull/72) on [charmbracelet/wish](https://github.com/charmbracelet/wish) (1 day ago)
+- [feat(logging): custom logger](https://github.com/charmbracelet/wish/pull/72) on [charmbracelet/wish](https://github.com/charmbracelet/wish) (2 days ago)
 - [Fix TXT records](https://github.com/libdns/route53/pull/18) on [libdns/route53](https://github.com/libdns/route53) (3 weeks ago)
-- [fix(goreleaser): nfpm zsh completion path](https://github.com/charmbracelet/meta/pull/45) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (4 weeks ago)
+- [fix(goreleaser): nfpm zsh completion path](https://github.com/charmbracelet/meta/pull/45) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (1 month ago)
 - [fix(goreleaser): add docker images &#34;v&#34; prefix](https://github.com/charmbracelet/meta/pull/44) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (1 month ago)
 - [fix: MusixMatch url sanitize](https://github.com/rhnvrm/lyric-api-go/pull/5) on [rhnvrm/lyric-api-go](https://github.com/rhnvrm/lyric-api-go) (1 month ago)
 
