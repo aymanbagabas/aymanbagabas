@@ -20,11 +20,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.7.0](https://github.com/charmbracelet/gum/releases/tag/v0.7.0), today) - A tool for glamorous shell scripts 🎀
 - [bloznelis/typioca](https://github.com/bloznelis/typioca) ([2.0.5](https://github.com/bloznelis/typioca/releases/tag/2.0.5), today) - Cozy typing speed tester
 - [muesli/termenv](https://github.com/muesli/termenv) ([v0.13.0](https://github.com/muesli/termenv/releases/tag/v0.13.0), 1 week ago) - Advanced ANSI style &amp; color support for your terminal applications
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.6.0](https://github.com/charmbracelet/lipgloss/releases/tag/v0.6.0), 3 weeks ago) - Style definitions for nice terminal layouts 👄
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.14.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.14.0), 3 weeks ago) - TUI components for Bubble Tea 🫧
-- [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.6.0](https://github.com/charmbracelet/gum/releases/tag/v0.6.0), 4 weeks ago) - A tool for glamorous shell scripts 🎀
 
 #### 🔨 My recent Pull Requests
 
