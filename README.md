@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [libdns/route53](https://github.com/libdns/route53) - AWS Route53 provider implementation for libdns (today)
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (4 days ago)
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (6 days ago)
 - [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (1 month ago)
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (1 month ago)
-- [rhnvrm/lyric-api-go](https://github.com/rhnvrm/lyric-api-go) - :musical_score: API to search for lyrics from various providers. (1 month ago)
 
 #### 🌱 My latest projects
 
@@ -20,11 +20,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [libdns/route53](https://github.com/libdns/route53) ([v1.3.0](https://github.com/libdns/route53/releases/tag/v1.3.0), today) - AWS Route53 provider implementation for libdns
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.7.0](https://github.com/charmbracelet/gum/releases/tag/v0.7.0), 1 day ago) - A tool for glamorous shell scripts 🎀
 - [bloznelis/typioca](https://github.com/bloznelis/typioca) ([2.0.5](https://github.com/bloznelis/typioca/releases/tag/2.0.5), 1 day ago) - Cozy typing speed tester
 - [muesli/termenv](https://github.com/muesli/termenv) ([v0.13.0](https://github.com/muesli/termenv/releases/tag/v0.13.0), 1 week ago) - Advanced ANSI style &amp; color support for your terminal applications
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.6.0](https://github.com/charmbracelet/lipgloss/releases/tag/v0.6.0), 4 weeks ago) - Style definitions for nice terminal layouts 👄
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.14.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.14.0), 4 weeks ago) - TUI components for Bubble Tea 🫧
 
 #### 🔨 My recent Pull Requests
 
