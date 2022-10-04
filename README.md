@@ -4,8 +4,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (3 days ago)
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (5 days ago)
+- [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (4 days ago)
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (6 days ago)
 - [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (1 month ago)
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (1 month ago)
 - [rhnvrm/lyric-api-go](https://github.com/rhnvrm/lyric-api-go) - :musical_score: API to search for lyrics from various providers. (1 month ago)
@@ -20,16 +20,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.7.0](https://github.com/charmbracelet/gum/releases/tag/v0.7.0), today) - A tool for glamorous shell scripts 🎀
-- [bloznelis/typioca](https://github.com/bloznelis/typioca) ([2.0.5](https://github.com/bloznelis/typioca/releases/tag/2.0.5), today) - Cozy typing speed tester
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.7.0](https://github.com/charmbracelet/gum/releases/tag/v0.7.0), 1 day ago) - A tool for glamorous shell scripts 🎀
+- [bloznelis/typioca](https://github.com/bloznelis/typioca) ([2.0.5](https://github.com/bloznelis/typioca/releases/tag/2.0.5), 1 day ago) - Cozy typing speed tester
 - [muesli/termenv](https://github.com/muesli/termenv) ([v0.13.0](https://github.com/muesli/termenv/releases/tag/v0.13.0), 1 week ago) - Advanced ANSI style &amp; color support for your terminal applications
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.6.0](https://github.com/charmbracelet/lipgloss/releases/tag/v0.6.0), 3 weeks ago) - Style definitions for nice terminal layouts 👄
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.14.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.14.0), 3 weeks ago) - TUI components for Bubble Tea 🫧
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.6.0](https://github.com/charmbracelet/lipgloss/releases/tag/v0.6.0), 4 weeks ago) - Style definitions for nice terminal layouts 👄
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.14.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.14.0), 4 weeks ago) - TUI components for Bubble Tea 🫧
 
 #### 🔨 My recent Pull Requests
 
-- [feat(file): support symlinks](https://github.com/charmbracelet/gum/pull/169) on [charmbracelet/gum](https://github.com/charmbracelet/gum) (today)
-- [feat(logging): custom logger](https://github.com/charmbracelet/wish/pull/72) on [charmbracelet/wish](https://github.com/charmbracelet/wish) (3 days ago)
+- [feat(file): support symlinks](https://github.com/charmbracelet/gum/pull/169) on [charmbracelet/gum](https://github.com/charmbracelet/gum) (1 day ago)
+- [feat(logging): custom logger](https://github.com/charmbracelet/wish/pull/72) on [charmbracelet/wish](https://github.com/charmbracelet/wish) (4 days ago)
 - [Fix TXT records](https://github.com/libdns/route53/pull/18) on [libdns/route53](https://github.com/libdns/route53) (3 weeks ago)
 - [fix(goreleaser): nfpm zsh completion path](https://github.com/charmbracelet/meta/pull/45) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (1 month ago)
 - [fix(goreleaser): add docker images &#34;v&#34; prefix](https://github.com/charmbracelet/meta/pull/44) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (1 month ago)
