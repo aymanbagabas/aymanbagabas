@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat(ci): use config files from meta repo](https://github.com/charmbracelet/glow/pull/389) on [charmbracelet/glow](https://github.com/charmbracelet/glow) (today)
 - [feat: lipgloss renderer](https://github.com/charmbracelet/lipgloss/pull/140) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (1 day ago)
 - [chore: bump libdns/route53](https://github.com/caddy-dns/route53/pull/25) on [caddy-dns/route53](https://github.com/caddy-dns/route53) (2 days ago)
 - [feat(file): support symlinks](https://github.com/charmbracelet/gum/pull/169) on [charmbracelet/gum](https://github.com/charmbracelet/gum) (3 days ago)
 - [feat(logging): custom logger](https://github.com/charmbracelet/wish/pull/72) on [charmbracelet/wish](https://github.com/charmbracelet/wish) (6 days ago)
-- [Fix TXT records](https://github.com/libdns/route53/pull/18) on [libdns/route53](https://github.com/libdns/route53) (4 weeks ago)
 
 #### 📜 My recent blog posts
 
