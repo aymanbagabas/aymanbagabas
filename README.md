@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/skate](https://github.com/charmbracelet/skate) - A personal key value store 🛼 (today)
-- [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (today)
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (today)
-- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) - The SSH directory ✨ (today)
-- [charmbracelet/melt](https://github.com/charmbracelet/melt) - 🧊 Backup and restore Ed25519 SSH keys with seed words. (today)
+- [charmbracelet/skate](https://github.com/charmbracelet/skate) - A personal key value store 🛼 (1 day ago)
+- [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (1 day ago)
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (1 day ago)
+- [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (1 day ago)
+- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) - The SSH directory ✨ (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [caddy-dns/route53](https://github.com/caddy-dns/route53) ([v1.3.0](https://github.com/caddy-dns/route53/releases/tag/v1.3.0), 2 days ago) - Caddy module: dns.providers.route53
-- [libdns/route53](https://github.com/libdns/route53) ([v1.3.0](https://github.com/libdns/route53/releases/tag/v1.3.0), 2 days ago) - AWS Route53 provider implementation for libdns
-- [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.7.0](https://github.com/charmbracelet/gum/releases/tag/v0.7.0), 3 days ago) - A tool for glamorous shell scripts 🎀
-- [bloznelis/typioca](https://github.com/bloznelis/typioca) ([2.0.5](https://github.com/bloznelis/typioca/releases/tag/2.0.5), 3 days ago) - Cozy typing speed tester
-- [muesli/termenv](https://github.com/muesli/termenv) ([v0.13.0](https://github.com/muesli/termenv/releases/tag/v0.13.0), 1 week ago) - Advanced ANSI style &amp; color support for your terminal applications
+- [caddy-dns/route53](https://github.com/caddy-dns/route53) ([v1.3.0](https://github.com/caddy-dns/route53/releases/tag/v1.3.0), 3 days ago) - Caddy module: dns.providers.route53
+- [libdns/route53](https://github.com/libdns/route53) ([v1.3.0](https://github.com/libdns/route53/releases/tag/v1.3.0), 3 days ago) - AWS Route53 provider implementation for libdns
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.7.0](https://github.com/charmbracelet/gum/releases/tag/v0.7.0), 4 days ago) - A tool for glamorous shell scripts 🎀
+- [bloznelis/typioca](https://github.com/bloznelis/typioca) ([2.0.5](https://github.com/bloznelis/typioca/releases/tag/2.0.5), 4 days ago) - Cozy typing speed tester
+- [muesli/termenv](https://github.com/muesli/termenv) ([v0.13.0](https://github.com/muesli/termenv/releases/tag/v0.13.0), 2 weeks ago) - Advanced ANSI style &amp; color support for your terminal applications
 
 #### 🔨 My recent Pull Requests
 
-- [feat: add glow goreleaser config](https://github.com/charmbracelet/meta/pull/50) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (today)
-- [feat(ci): use config files from meta repo](https://github.com/charmbracelet/glow/pull/389) on [charmbracelet/glow](https://github.com/charmbracelet/glow) (today)
-- [feat: lipgloss renderer](https://github.com/charmbracelet/lipgloss/pull/140) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (1 day ago)
-- [chore: bump libdns/route53](https://github.com/caddy-dns/route53/pull/25) on [caddy-dns/route53](https://github.com/caddy-dns/route53) (2 days ago)
-- [feat(file): support symlinks](https://github.com/charmbracelet/gum/pull/169) on [charmbracelet/gum](https://github.com/charmbracelet/gum) (3 days ago)
+- [feat: add glow goreleaser config](https://github.com/charmbracelet/meta/pull/50) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (1 day ago)
+- [feat(ci): use config files from meta repo](https://github.com/charmbracelet/glow/pull/389) on [charmbracelet/glow](https://github.com/charmbracelet/glow) (1 day ago)
+- [feat: lipgloss renderer](https://github.com/charmbracelet/lipgloss/pull/140) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (2 days ago)
+- [chore: bump libdns/route53](https://github.com/caddy-dns/route53/pull/25) on [caddy-dns/route53](https://github.com/caddy-dns/route53) (3 days ago)
+- [feat(file): support symlinks](https://github.com/charmbracelet/gum/pull/169) on [charmbracelet/gum](https://github.com/charmbracelet/gum) (4 days ago)
 
 #### 📜 My recent blog posts
 
