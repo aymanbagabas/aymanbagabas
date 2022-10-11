@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat(books): add Readarr support](https://github.com/toddrob99/searcharr/pull/58) on [toddrob99/searcharr](https://github.com/toddrob99/searcharr) (today)
 - [feat: add glow goreleaser config](https://github.com/charmbracelet/meta/pull/50) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (5 days ago)
 - [feat(ci): use config files from meta repo](https://github.com/charmbracelet/glow/pull/389) on [charmbracelet/glow](https://github.com/charmbracelet/glow) (5 days ago)
 - [feat: lipgloss renderer](https://github.com/charmbracelet/lipgloss/pull/140) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (6 days ago)
 - [chore: bump libdns/route53](https://github.com/caddy-dns/route53/pull/25) on [caddy-dns/route53](https://github.com/caddy-dns/route53) (1 week ago)
-- [feat(file): support symlinks](https://github.com/charmbracelet/gum/pull/169) on [charmbracelet/gum](https://github.com/charmbracelet/gum) (1 week ago)
 
 #### 📜 My recent blog posts
 
