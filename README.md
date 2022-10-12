@@ -4,19 +4,19 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [aymanbagabas/go-osc52](https://github.com/aymanbagabas/go-osc52) - Golang terminal ANSI OSC52 wrapper. Copy text to clipboard from anywhere. (today)
+- [aymanbagabas/shcopy](https://github.com/aymanbagabas/shcopy) -  (today)
 - [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺 (1 day ago)
 - [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (1 day ago)
-- [charmbracelet/skate](https://github.com/charmbracelet/skate) - A personal key value store 🛼 (6 days ago)
-- [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (6 days ago)
-- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) - The SSH directory ✨ (6 days ago)
+- [charmbracelet/melt](https://github.com/charmbracelet/melt) - 🧊 Backup and restore Ed25519 SSH keys with seed words. (6 days ago)
 
 #### 🌱 My latest projects
 
+- [aymanbagabas/shcopy](https://github.com/aymanbagabas/shcopy) - 
 - [aymanbagabas/homebrew-tap](https://github.com/aymanbagabas/homebrew-tap) - aymanbagabas/tap
 - [aymanbagabas/gh-stars](https://github.com/aymanbagabas/gh-stars) - GitHub stargazers in your terminal 🌟
 - [aymanbagabas/go-osc52](https://github.com/aymanbagabas/go-osc52) - Golang terminal ANSI OSC52 wrapper. Copy text to clipboard from anywhere.
 - [aymanbagabas/.github](https://github.com/aymanbagabas/.github) - 
-- [aymanbagabas/nyancatsh](https://github.com/aymanbagabas/nyancatsh) - Nyancat over SSH 🐱
 
 #### 🔭 Latest releases I've contributed to
 
