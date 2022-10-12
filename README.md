@@ -20,11 +20,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [aymanbagabas/go-osc52](https://github.com/aymanbagabas/go-osc52) ([v1.1.0](https://github.com/aymanbagabas/go-osc52/releases/tag/v1.1.0), today) - Golang terminal ANSI OSC52 wrapper. Copy text to clipboard from anywhere.
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.8.0](https://github.com/charmbracelet/gum/releases/tag/v0.8.0), 1 day ago) - A tool for glamorous shell scripts 🎀
 - [caddy-dns/route53](https://github.com/caddy-dns/route53) ([v1.3.0](https://github.com/caddy-dns/route53/releases/tag/v1.3.0), 1 week ago) - Caddy module: dns.providers.route53
 - [libdns/route53](https://github.com/libdns/route53) ([v1.3.0](https://github.com/libdns/route53/releases/tag/v1.3.0), 1 week ago) - AWS Route53 provider implementation for libdns
 - [bloznelis/typioca](https://github.com/bloznelis/typioca) ([2.0.5](https://github.com/bloznelis/typioca/releases/tag/2.0.5), 1 week ago) - Cozy typing speed tester
-- [muesli/termenv](https://github.com/muesli/termenv) ([v0.13.0](https://github.com/muesli/termenv/releases/tag/v0.13.0), 2 weeks ago) - Advanced ANSI style &amp; color support for your terminal applications
 
 #### 🔨 My recent Pull Requests
 
