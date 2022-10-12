@@ -12,11 +12,11 @@
 
 #### 🌱 My latest projects
 
+- [aymanbagabas/homebrew-tap](https://github.com/aymanbagabas/homebrew-tap) - aymanbagabas/tap
 - [aymanbagabas/gh-stars](https://github.com/aymanbagabas/gh-stars) - GitHub stargazers in your terminal 🌟
 - [aymanbagabas/go-osc52](https://github.com/aymanbagabas/go-osc52) - Golang terminal ANSI OSC52 wrapper. Copy text to clipboard from anywhere.
 - [aymanbagabas/.github](https://github.com/aymanbagabas/.github) - 
 - [aymanbagabas/nyancatsh](https://github.com/aymanbagabas/nyancatsh) - Nyancat over SSH 🐱
-- [aymanbagabas/kalimadb](https://github.com/aymanbagabas/kalimadb) - 
 
 #### 🔭 Latest releases I've contributed to
 
