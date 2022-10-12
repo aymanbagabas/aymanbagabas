@@ -4,15 +4,15 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [aymanbagabas/shcopy](https://github.com/aymanbagabas/shcopy) - Copy text to your clipboard from anywhere! (today)
 - [aymanbagabas/go-osc52](https://github.com/aymanbagabas/go-osc52) - Golang terminal ANSI OSC52 wrapper. Copy text to clipboard from anywhere. (today)
-- [aymanbagabas/shcopy](https://github.com/aymanbagabas/shcopy) -  (today)
 - [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺 (1 day ago)
 - [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (1 day ago)
-- [charmbracelet/melt](https://github.com/charmbracelet/melt) - 🧊 Backup and restore Ed25519 SSH keys with seed words. (6 days ago)
+- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) - The SSH directory ✨ (6 days ago)
 
 #### 🌱 My latest projects
 
-- [aymanbagabas/shcopy](https://github.com/aymanbagabas/shcopy) - 
+- [aymanbagabas/shcopy](https://github.com/aymanbagabas/shcopy) - Copy text to your clipboard from anywhere!
 - [aymanbagabas/homebrew-tap](https://github.com/aymanbagabas/homebrew-tap) - aymanbagabas/tap
 - [aymanbagabas/gh-stars](https://github.com/aymanbagabas/gh-stars) - GitHub stargazers in your terminal 🌟
 - [aymanbagabas/go-osc52](https://github.com/aymanbagabas/go-osc52) - Golang terminal ANSI OSC52 wrapper. Copy text to clipboard from anywhere.
@@ -20,11 +20,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [aymanbagabas/go-osc52](https://github.com/aymanbagabas/go-osc52) ([v1.1.0](https://github.com/aymanbagabas/go-osc52/releases/tag/v1.1.0), today) - Golang terminal ANSI OSC52 wrapper. Copy text to clipboard from anywhere.
+- [aymanbagabas/shcopy](https://github.com/aymanbagabas/shcopy) ([v0.1.0](https://github.com/aymanbagabas/shcopy/releases/tag/v0.1.0), today) - Copy text to your clipboard from anywhere!
+- [aymanbagabas/go-osc52](https://github.com/aymanbagabas/go-osc52) ([v1.2.0](https://github.com/aymanbagabas/go-osc52/releases/tag/v1.2.0), today) - Golang terminal ANSI OSC52 wrapper. Copy text to clipboard from anywhere.
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.8.0](https://github.com/charmbracelet/gum/releases/tag/v0.8.0), 1 day ago) - A tool for glamorous shell scripts 🎀
 - [caddy-dns/route53](https://github.com/caddy-dns/route53) ([v1.3.0](https://github.com/caddy-dns/route53/releases/tag/v1.3.0), 1 week ago) - Caddy module: dns.providers.route53
 - [libdns/route53](https://github.com/libdns/route53) ([v1.3.0](https://github.com/libdns/route53/releases/tag/v1.3.0), 1 week ago) - AWS Route53 provider implementation for libdns
-- [bloznelis/typioca](https://github.com/bloznelis/typioca) ([2.0.5](https://github.com/bloznelis/typioca/releases/tag/2.0.5), 1 week ago) - Cozy typing speed tester
 
 #### 🔨 My recent Pull Requests
 
