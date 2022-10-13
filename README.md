@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [aymanbagabas/go-osc52](https://github.com/aymanbagabas/go-osc52) - Golang terminal ANSI OSC52 wrapper. Copy text to clipboard from anywhere. (today)
-- [aymanbagabas/shcopy](https://github.com/aymanbagabas/shcopy) - Copy text to your clipboard from anywhere! (today)
-- [aymanbagabas/homebrew-tap](https://github.com/aymanbagabas/homebrew-tap) - aymanbagabas/tap (today)
-- [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (1 day ago)
-- [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺 (1 day ago)
+- [aymanbagabas/go-osc52](https://github.com/aymanbagabas/go-osc52) - Golang terminal ANSI OSC52 wrapper. Copy text to clipboard from anywhere. (1 day ago)
+- [aymanbagabas/shcopy](https://github.com/aymanbagabas/shcopy) - Copy text to your clipboard from anywhere! (1 day ago)
+- [aymanbagabas/homebrew-tap](https://github.com/aymanbagabas/homebrew-tap) - aymanbagabas/tap (1 day ago)
+- [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺 (2 days ago)
+- [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -20,17 +20,17 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [aymanbagabas/shcopy](https://github.com/aymanbagabas/shcopy) ([v0.1.0](https://github.com/aymanbagabas/shcopy/releases/tag/v0.1.0), today) - Copy text to your clipboard from anywhere!
-- [aymanbagabas/go-osc52](https://github.com/aymanbagabas/go-osc52) ([v1.2.0](https://github.com/aymanbagabas/go-osc52/releases/tag/v1.2.0), today) - Golang terminal ANSI OSC52 wrapper. Copy text to clipboard from anywhere.
-- [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.8.0](https://github.com/charmbracelet/gum/releases/tag/v0.8.0), 1 day ago) - A tool for glamorous shell scripts 🎀
+- [aymanbagabas/shcopy](https://github.com/aymanbagabas/shcopy) ([v0.1.0](https://github.com/aymanbagabas/shcopy/releases/tag/v0.1.0), 1 day ago) - Copy text to your clipboard from anywhere!
+- [aymanbagabas/go-osc52](https://github.com/aymanbagabas/go-osc52) ([v1.2.0](https://github.com/aymanbagabas/go-osc52/releases/tag/v1.2.0), 1 day ago) - Golang terminal ANSI OSC52 wrapper. Copy text to clipboard from anywhere.
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.8.0](https://github.com/charmbracelet/gum/releases/tag/v0.8.0), 2 days ago) - A tool for glamorous shell scripts 🎀
 - [caddy-dns/route53](https://github.com/caddy-dns/route53) ([v1.3.0](https://github.com/caddy-dns/route53/releases/tag/v1.3.0), 1 week ago) - Caddy module: dns.providers.route53
 - [libdns/route53](https://github.com/libdns/route53) ([v1.3.0](https://github.com/libdns/route53/releases/tag/v1.3.0), 1 week ago) - AWS Route53 provider implementation for libdns
 
 #### 🔨 My recent Pull Requests
 
-- [feat(books): add Readarr support](https://github.com/toddrob99/searcharr/pull/58) on [toddrob99/searcharr](https://github.com/toddrob99/searcharr) (1 day ago)
-- [feat: add glow goreleaser config](https://github.com/charmbracelet/meta/pull/50) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (6 days ago)
-- [feat(ci): use config files from meta repo](https://github.com/charmbracelet/glow/pull/389) on [charmbracelet/glow](https://github.com/charmbracelet/glow) (6 days ago)
+- [feat(books): add Readarr support](https://github.com/toddrob99/searcharr/pull/58) on [toddrob99/searcharr](https://github.com/toddrob99/searcharr) (2 days ago)
+- [feat: add glow goreleaser config](https://github.com/charmbracelet/meta/pull/50) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (1 week ago)
+- [feat(ci): use config files from meta repo](https://github.com/charmbracelet/glow/pull/389) on [charmbracelet/glow](https://github.com/charmbracelet/glow) (1 week ago)
 - [feat: lipgloss renderer](https://github.com/charmbracelet/lipgloss/pull/140) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (1 week ago)
 - [chore: bump libdns/route53](https://github.com/caddy-dns/route53/pull/25) on [caddy-dns/route53](https://github.com/caddy-dns/route53) (1 week ago)
 
@@ -44,7 +44,7 @@
 
 #### ⭐ Recent Stars
 
-- [saltosystems/winrt-go](https://github.com/saltosystems/winrt-go) -  (4 days ago)
+- [saltosystems/winrt-go](https://github.com/saltosystems/winrt-go) -  (5 days ago)
 - [aymanbagabas/gh-stars](https://github.com/aymanbagabas/gh-stars) - GitHub stargazers in your terminal 🌟 (1 month ago)
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (2 months ago)
 - [zzl/go-winrtapi](https://github.com/zzl/go-winrtapi) -  (2 months ago)
