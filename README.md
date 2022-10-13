@@ -4,15 +4,15 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [aymanbagabas/go-osc52](https://github.com/aymanbagabas/go-osc52) - Golang terminal ANSI OSC52 wrapper. Copy text to clipboard from anywhere. (1 day ago)
-- [aymanbagabas/shcopy](https://github.com/aymanbagabas/shcopy) - Copy text to your clipboard from anywhere! (1 day ago)
+- [aymanbagabas/shcopy](https://github.com/aymanbagabas/shcopy) - Copy text to your system clipboard locally and remotely using ANSI OSC52 sequence (1 day ago)
 - [aymanbagabas/homebrew-tap](https://github.com/aymanbagabas/homebrew-tap) - aymanbagabas/tap (1 day ago)
+- [aymanbagabas/go-osc52](https://github.com/aymanbagabas/go-osc52) - Golang terminal ANSI OSC52 wrapper. Copy text to clipboard from anywhere. (1 day ago)
 - [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺 (2 days ago)
 - [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (2 days ago)
 
 #### 🌱 My latest projects
 
-- [aymanbagabas/shcopy](https://github.com/aymanbagabas/shcopy) - Copy text to your clipboard from anywhere!
+- [aymanbagabas/shcopy](https://github.com/aymanbagabas/shcopy) - Copy text to your system clipboard locally and remotely using ANSI OSC52 sequence
 - [aymanbagabas/homebrew-tap](https://github.com/aymanbagabas/homebrew-tap) - aymanbagabas/tap
 - [aymanbagabas/gh-stars](https://github.com/aymanbagabas/gh-stars) - GitHub stargazers in your terminal 🌟
 - [aymanbagabas/go-osc52](https://github.com/aymanbagabas/go-osc52) - Golang terminal ANSI OSC52 wrapper. Copy text to clipboard from anywhere.
@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [aymanbagabas/shcopy](https://github.com/aymanbagabas/shcopy) ([v0.1.0](https://github.com/aymanbagabas/shcopy/releases/tag/v0.1.0), 1 day ago) - Copy text to your clipboard from anywhere!
+- [aymanbagabas/shcopy](https://github.com/aymanbagabas/shcopy) ([v0.1.0](https://github.com/aymanbagabas/shcopy/releases/tag/v0.1.0), 1 day ago) - Copy text to your system clipboard locally and remotely using ANSI OSC52 sequence
 - [aymanbagabas/go-osc52](https://github.com/aymanbagabas/go-osc52) ([v1.2.0](https://github.com/aymanbagabas/go-osc52/releases/tag/v1.2.0), 1 day ago) - Golang terminal ANSI OSC52 wrapper. Copy text to clipboard from anywhere.
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.8.0](https://github.com/charmbracelet/gum/releases/tag/v0.8.0), 2 days ago) - A tool for glamorous shell scripts 🎀
 - [caddy-dns/route53](https://github.com/caddy-dns/route53) ([v1.3.0](https://github.com/caddy-dns/route53/releases/tag/v1.3.0), 1 week ago) - Caddy module: dns.providers.route53
@@ -44,11 +44,11 @@
 
 #### ⭐ Recent Stars
 
+- [aymanbagabas/shcopy](https://github.com/aymanbagabas/shcopy) - Copy text to your system clipboard locally and remotely using ANSI OSC52 sequence (today)
 - [saltosystems/winrt-go](https://github.com/saltosystems/winrt-go) -  (5 days ago)
 - [aymanbagabas/gh-stars](https://github.com/aymanbagabas/gh-stars) - GitHub stargazers in your terminal 🌟 (1 month ago)
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (2 months ago)
 - [zzl/go-winrtapi](https://github.com/zzl/go-winrtapi) -  (2 months ago)
-- [lrstanley/bubblezone](https://github.com/lrstanley/bubblezone) - helper utility for BubbleTea, allowing easy mouse event tracking (2 months ago)
 
 #### 📫 How to reach me
 
