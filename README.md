@@ -4,23 +4,23 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [aymanbagabas/go-osc52](https://github.com/aymanbagabas/go-osc52) - Golang terminal ANSI OSC52 wrapper. Copy text to clipboard from anywhere. (today)
+- [caddy-dns/route53](https://github.com/caddy-dns/route53) - Caddy module: dns.providers.route53 (today)
+- [aymanbagabas/scoop-bucket](https://github.com/aymanbagabas/scoop-bucket) - Scoop Bucket (today)
 - [aymanbagabas/shcopy](https://github.com/aymanbagabas/shcopy) - Copy text to your system clipboard locally and remotely using ANSI OSC52 sequence (today)
-- [aymanbagabas/homebrew-tap](https://github.com/aymanbagabas/homebrew-tap) - aymanbagabas/tap (1 day ago)
-- [aymanbagabas/go-osc52](https://github.com/aymanbagabas/go-osc52) - Golang terminal ANSI OSC52 wrapper. Copy text to clipboard from anywhere. (1 day ago)
-- [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺 (2 days ago)
-- [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (2 days ago)
+- [aymanbagabas/homebrew-tap](https://github.com/aymanbagabas/homebrew-tap) - aymanbagabas/tap (today)
 
 #### 🌱 My latest projects
 
+- [aymanbagabas/scoop-bucket](https://github.com/aymanbagabas/scoop-bucket) - Scoop Bucket
 - [aymanbagabas/shcopy](https://github.com/aymanbagabas/shcopy) - Copy text to your system clipboard locally and remotely using ANSI OSC52 sequence
 - [aymanbagabas/homebrew-tap](https://github.com/aymanbagabas/homebrew-tap) - aymanbagabas/tap
 - [aymanbagabas/gh-stars](https://github.com/aymanbagabas/gh-stars) - GitHub stargazers in your terminal 🌟
 - [aymanbagabas/go-osc52](https://github.com/aymanbagabas/go-osc52) - Golang terminal ANSI OSC52 wrapper. Copy text to clipboard from anywhere.
-- [aymanbagabas/.github](https://github.com/aymanbagabas/.github) - 
 
 #### 🔭 Latest releases I've contributed to
 
-- [aymanbagabas/shcopy](https://github.com/aymanbagabas/shcopy) ([v0.1.0](https://github.com/aymanbagabas/shcopy/releases/tag/v0.1.0), 1 day ago) - Copy text to your system clipboard locally and remotely using ANSI OSC52 sequence
+- [aymanbagabas/shcopy](https://github.com/aymanbagabas/shcopy) ([v0.1.1](https://github.com/aymanbagabas/shcopy/releases/tag/v0.1.1), today) - Copy text to your system clipboard locally and remotely using ANSI OSC52 sequence
 - [aymanbagabas/go-osc52](https://github.com/aymanbagabas/go-osc52) ([v1.2.0](https://github.com/aymanbagabas/go-osc52/releases/tag/v1.2.0), 1 day ago) - Golang terminal ANSI OSC52 wrapper. Copy text to clipboard from anywhere.
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.8.0](https://github.com/charmbracelet/gum/releases/tag/v0.8.0), 2 days ago) - A tool for glamorous shell scripts 🎀
 - [caddy-dns/route53](https://github.com/caddy-dns/route53) ([v1.3.0](https://github.com/caddy-dns/route53/releases/tag/v1.3.0), 1 week ago) - Caddy module: dns.providers.route53
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Create LICENSE](https://github.com/caddy-dns/route53/pull/27) on [caddy-dns/route53](https://github.com/caddy-dns/route53) (today)
 - [feat(books): add Readarr support](https://github.com/toddrob99/searcharr/pull/58) on [toddrob99/searcharr](https://github.com/toddrob99/searcharr) (2 days ago)
 - [feat: add glow goreleaser config](https://github.com/charmbracelet/meta/pull/50) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (1 week ago)
 - [feat(ci): use config files from meta repo](https://github.com/charmbracelet/glow/pull/389) on [charmbracelet/glow](https://github.com/charmbracelet/glow) (1 week ago)
 - [feat: lipgloss renderer](https://github.com/charmbracelet/lipgloss/pull/140) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (1 week ago)
-- [chore: bump libdns/route53](https://github.com/caddy-dns/route53/pull/25) on [caddy-dns/route53](https://github.com/caddy-dns/route53) (1 week ago)
 
 #### 📜 My recent blog posts
 
