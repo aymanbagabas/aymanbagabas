@@ -44,11 +44,11 @@
 
 #### ⭐ Recent Stars
 
+- [bensadeh/tailspin](https://github.com/bensadeh/tailspin) - 🌀 A log file highlighter and a drop-in replacement for `tail -f` (today)
 - [aymanbagabas/shcopy](https://github.com/aymanbagabas/shcopy) - Copy text to your system clipboard locally and remotely using ANSI OSC52 sequence (1 day ago)
 - [saltosystems/winrt-go](https://github.com/saltosystems/winrt-go) -  (6 days ago)
 - [aymanbagabas/gh-stars](https://github.com/aymanbagabas/gh-stars) - GitHub stargazers in your terminal 🌟 (1 month ago)
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (2 months ago)
-- [zzl/go-winrtapi](https://github.com/zzl/go-winrtapi) -  (2 months ago)
 
 #### 📫 How to reach me
 
