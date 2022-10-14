@@ -20,8 +20,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [aymanbagabas/go-osc52](https://github.com/aymanbagabas/go-osc52) ([v1.2.1](https://github.com/aymanbagabas/go-osc52/releases/tag/v1.2.1), today) - Golang terminal ANSI OSC52 wrapper. Copy text to clipboard from anywhere.
 - [aymanbagabas/shcopy](https://github.com/aymanbagabas/shcopy) ([v0.1.1](https://github.com/aymanbagabas/shcopy/releases/tag/v0.1.1), 1 day ago) - Copy text to your system clipboard locally and remotely using ANSI OSC52 sequence
-- [aymanbagabas/go-osc52](https://github.com/aymanbagabas/go-osc52) ([v1.2.0](https://github.com/aymanbagabas/go-osc52/releases/tag/v1.2.0), 2 days ago) - Golang terminal ANSI OSC52 wrapper. Copy text to clipboard from anywhere.
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.8.0](https://github.com/charmbracelet/gum/releases/tag/v0.8.0), 3 days ago) - A tool for glamorous shell scripts 🎀
 - [caddy-dns/route53](https://github.com/caddy-dns/route53) ([v1.3.0](https://github.com/caddy-dns/route53/releases/tag/v1.3.0), 1 week ago) - Caddy module: dns.providers.route53
 - [libdns/route53](https://github.com/libdns/route53) ([v1.3.0](https://github.com/libdns/route53/releases/tag/v1.3.0), 1 week ago) - AWS Route53 provider implementation for libdns
