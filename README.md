@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix(ansi): register chroma styles](https://github.com/charmbracelet/glamour/pull/189) on [charmbracelet/glamour](https://github.com/charmbracelet/glamour) (today)
 - [fix: misleading authorized users comment](https://github.com/charmbracelet/soft-serve/pull/166) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 day ago)
 - [Create LICENSE](https://github.com/caddy-dns/route53/pull/27) on [caddy-dns/route53](https://github.com/caddy-dns/route53) (1 day ago)
 - [feat(books): add Readarr support](https://github.com/toddrob99/searcharr/pull/58) on [toddrob99/searcharr](https://github.com/toddrob99/searcharr) (3 days ago)
 - [feat: add glow goreleaser config](https://github.com/charmbracelet/meta/pull/50) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (1 week ago)
-- [feat(ci): use config files from meta repo](https://github.com/charmbracelet/glow/pull/389) on [charmbracelet/glow](https://github.com/charmbracelet/glow) (1 week ago)
 
 #### 📜 My recent blog posts
 
