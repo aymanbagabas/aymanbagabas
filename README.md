@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (3 days ago)
-- [aymanbagabas/go-osc52](https://github.com/aymanbagabas/go-osc52) - Golang terminal ANSI OSC52 wrapper. Copy text to clipboard from anywhere. (4 days ago)
-- [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️ (4 days ago)
-- [aymanbagabas/scoop-bucket](https://github.com/aymanbagabas/scoop-bucket) - Scoop Bucket (4 days ago)
-- [aymanbagabas/shcopy](https://github.com/aymanbagabas/shcopy) - 📋 Copy text to your system clipboard locally and remotely using ANSI OSC52 sequence (4 days ago)
+- [charmbracelet/melt](https://github.com/charmbracelet/melt) - 🧊 Backup and restore Ed25519 SSH keys with seed words. (today)
+- [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (today)
+- [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (today)
+- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) - The SSH directory ✨ (today)
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (today)
 
 #### 🌱 My latest projects
 
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [docs: apt-key deprecation](https://github.com/charmbracelet/gum/pull/210) on [charmbracelet/gum](https://github.com/charmbracelet/gum) (today)
 - [feat(chroma): export charm themes](https://github.com/charmbracelet/glamour/pull/195) on [charmbracelet/glamour](https://github.com/charmbracelet/glamour) (today)
 - [fix(readarr): forcibly search book](https://github.com/toddrob99/searcharr/pull/60) on [toddrob99/searcharr](https://github.com/toddrob99/searcharr) (3 days ago)
 - [fix(ansi): register chroma styles](https://github.com/charmbracelet/glamour/pull/189) on [charmbracelet/glamour](https://github.com/charmbracelet/glamour) (3 days ago)
 - [fix: misleading authorized users comment](https://github.com/charmbracelet/soft-serve/pull/166) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (4 days ago)
-- [Create LICENSE](https://github.com/caddy-dns/route53/pull/27) on [caddy-dns/route53](https://github.com/caddy-dns/route53) (4 days ago)
 
 #### 📜 My recent blog posts
 
