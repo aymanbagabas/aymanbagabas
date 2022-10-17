@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat(chroma): export charm themes](https://github.com/charmbracelet/glamour/pull/195) on [charmbracelet/glamour](https://github.com/charmbracelet/glamour) (today)
 - [fix(readarr): forcibly search book](https://github.com/toddrob99/searcharr/pull/60) on [toddrob99/searcharr](https://github.com/toddrob99/searcharr) (3 days ago)
 - [fix(ansi): register chroma styles](https://github.com/charmbracelet/glamour/pull/189) on [charmbracelet/glamour](https://github.com/charmbracelet/glamour) (3 days ago)
 - [fix: misleading authorized users comment](https://github.com/charmbracelet/soft-serve/pull/166) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (4 days ago)
 - [Create LICENSE](https://github.com/caddy-dns/route53/pull/27) on [caddy-dns/route53](https://github.com/caddy-dns/route53) (4 days ago)
-- [feat(books): add Readarr support](https://github.com/toddrob99/searcharr/pull/58) on [toddrob99/searcharr](https://github.com/toddrob99/searcharr) (6 days ago)
 
 #### 📜 My recent blog posts
 
