@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/melt](https://github.com/charmbracelet/melt) - 🧊 Backup and restore Ed25519 SSH keys with seed words. (today)
-- [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (today)
-- [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (today)
-- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) - The SSH directory ✨ (today)
-- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (today)
+- [charmbracelet/melt](https://github.com/charmbracelet/melt) - 🧊 Backup and restore Ed25519 SSH keys with seed words. (1 day ago)
+- [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (1 day ago)
+- [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (1 day ago)
+- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) - The SSH directory ✨ (1 day ago)
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [aymanbagabas/go-osc52](https://github.com/aymanbagabas/go-osc52) ([v1.2.1](https://github.com/aymanbagabas/go-osc52/releases/tag/v1.2.1), 3 days ago) - Golang terminal ANSI OSC52 wrapper. Copy text to clipboard from anywhere.
-- [aymanbagabas/shcopy](https://github.com/aymanbagabas/shcopy) ([v0.1.1](https://github.com/aymanbagabas/shcopy/releases/tag/v0.1.1), 4 days ago) - 📋 Copy text to your system clipboard locally and remotely using ANSI OSC52 sequence
-- [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.8.0](https://github.com/charmbracelet/gum/releases/tag/v0.8.0), 6 days ago) - A tool for glamorous shell scripts 🎀
-- [caddy-dns/route53](https://github.com/caddy-dns/route53) ([v1.3.0](https://github.com/caddy-dns/route53/releases/tag/v1.3.0), 1 week ago) - Caddy module: dns.providers.route53
-- [libdns/route53](https://github.com/libdns/route53) ([v1.3.0](https://github.com/libdns/route53/releases/tag/v1.3.0), 1 week ago) - AWS Route53 provider implementation for libdns
+- [aymanbagabas/go-osc52](https://github.com/aymanbagabas/go-osc52) ([v1.2.1](https://github.com/aymanbagabas/go-osc52/releases/tag/v1.2.1), 4 days ago) - Golang terminal ANSI OSC52 wrapper. Copy text to clipboard from anywhere.
+- [aymanbagabas/shcopy](https://github.com/aymanbagabas/shcopy) ([v0.1.1](https://github.com/aymanbagabas/shcopy/releases/tag/v0.1.1), 5 days ago) - 📋 Copy text to your system clipboard locally and remotely using ANSI OSC52 sequence
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.8.0](https://github.com/charmbracelet/gum/releases/tag/v0.8.0), 1 week ago) - A tool for glamorous shell scripts 🎀
+- [caddy-dns/route53](https://github.com/caddy-dns/route53) ([v1.3.0](https://github.com/caddy-dns/route53/releases/tag/v1.3.0), 2 weeks ago) - Caddy module: dns.providers.route53
+- [libdns/route53](https://github.com/libdns/route53) ([v1.3.0](https://github.com/libdns/route53/releases/tag/v1.3.0), 2 weeks ago) - AWS Route53 provider implementation for libdns
 
 #### 🔨 My recent Pull Requests
 
-- [fix: replace newlines with crlf newlines](https://github.com/charmbracelet/wish/pull/75) on [charmbracelet/wish](https://github.com/charmbracelet/wish) (today)
-- [docs: apt-key deprecation](https://github.com/charmbracelet/gum/pull/210) on [charmbracelet/gum](https://github.com/charmbracelet/gum) (today)
-- [feat(chroma): export charm themes](https://github.com/charmbracelet/glamour/pull/195) on [charmbracelet/glamour](https://github.com/charmbracelet/glamour) (today)
-- [fix(readarr): forcibly search book](https://github.com/toddrob99/searcharr/pull/60) on [toddrob99/searcharr](https://github.com/toddrob99/searcharr) (3 days ago)
-- [fix(ansi): register chroma styles](https://github.com/charmbracelet/glamour/pull/189) on [charmbracelet/glamour](https://github.com/charmbracelet/glamour) (3 days ago)
+- [fix: replace newlines with crlf newlines](https://github.com/charmbracelet/wish/pull/75) on [charmbracelet/wish](https://github.com/charmbracelet/wish) (1 day ago)
+- [docs: apt-key deprecation](https://github.com/charmbracelet/gum/pull/210) on [charmbracelet/gum](https://github.com/charmbracelet/gum) (1 day ago)
+- [feat(chroma): export charm themes](https://github.com/charmbracelet/glamour/pull/195) on [charmbracelet/glamour](https://github.com/charmbracelet/glamour) (1 day ago)
+- [fix(readarr): forcibly search book](https://github.com/toddrob99/searcharr/pull/60) on [toddrob99/searcharr](https://github.com/toddrob99/searcharr) (4 days ago)
+- [fix(ansi): register chroma styles](https://github.com/charmbracelet/glamour/pull/189) on [charmbracelet/glamour](https://github.com/charmbracelet/glamour) (4 days ago)
 
 #### 📜 My recent blog posts
 
@@ -44,8 +44,8 @@
 
 #### ⭐ Recent Stars
 
-- [bensadeh/tailspin](https://github.com/bensadeh/tailspin) - 🌀 A log file highlighter and a drop-in replacement for `tail -f` (3 days ago)
-- [aymanbagabas/shcopy](https://github.com/aymanbagabas/shcopy) - 📋 Copy text to your system clipboard locally and remotely using ANSI OSC52 sequence (4 days ago)
+- [bensadeh/tailspin](https://github.com/bensadeh/tailspin) - 🌀 A log file highlighter and a drop-in replacement for `tail -f` (4 days ago)
+- [aymanbagabas/shcopy](https://github.com/aymanbagabas/shcopy) - 📋 Copy text to your system clipboard locally and remotely using ANSI OSC52 sequence (5 days ago)
 - [saltosystems/winrt-go](https://github.com/saltosystems/winrt-go) -  (1 week ago)
 - [aymanbagabas/gh-stars](https://github.com/aymanbagabas/gh-stars) - GitHub stargazers in your terminal 🌟 (1 month ago)
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (2 months ago)
