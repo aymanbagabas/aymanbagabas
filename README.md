@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (today)
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (today)
-- [charmbracelet/melt](https://github.com/charmbracelet/melt) - 🧊 Backup and restore Ed25519 SSH keys with seed words. (1 day ago)
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (1 day ago)
 - [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (1 day ago)
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (1 day ago)
-- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) - The SSH directory ✨ (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat(config): support json config](https://github.com/charmbracelet/soft-serve/pull/171) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (today)
+- [feat(server): use keyboard-interactive auth instead of password](https://github.com/charmbracelet/soft-serve/pull/170) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (today)
 - [fix: replace newlines with crlf newlines](https://github.com/charmbracelet/wish/pull/75) on [charmbracelet/wish](https://github.com/charmbracelet/wish) (1 day ago)
 - [docs: apt-key deprecation](https://github.com/charmbracelet/gum/pull/210) on [charmbracelet/gum](https://github.com/charmbracelet/gum) (1 day ago)
 - [feat(chroma): export charm themes](https://github.com/charmbracelet/glamour/pull/195) on [charmbracelet/glamour](https://github.com/charmbracelet/glamour) (1 day ago)
-- [fix(readarr): forcibly search book](https://github.com/toddrob99/searcharr/pull/60) on [toddrob99/searcharr](https://github.com/toddrob99/searcharr) (4 days ago)
-- [fix(ansi): register chroma styles](https://github.com/charmbracelet/glamour/pull/189) on [charmbracelet/glamour](https://github.com/charmbracelet/glamour) (4 days ago)
 
 #### 📜 My recent blog posts
 
