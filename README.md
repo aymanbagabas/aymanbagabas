@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Add support to ANSI OSC52](https://github.com/xtermjs/xterm.js/pull/4220) on [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) (today)
 - [feat(config): support json config](https://github.com/charmbracelet/soft-serve/pull/171) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 day ago)
 - [feat(server): use keyboard-interactive auth instead of password](https://github.com/charmbracelet/soft-serve/pull/170) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 day ago)
 - [fix: replace newlines with crlf newlines](https://github.com/charmbracelet/wish/pull/75) on [charmbracelet/wish](https://github.com/charmbracelet/wish) (2 days ago)
 - [docs: apt-key deprecation](https://github.com/charmbracelet/gum/pull/210) on [charmbracelet/gum](https://github.com/charmbracelet/gum) (2 days ago)
-- [feat(chroma): export charm themes](https://github.com/charmbracelet/glamour/pull/195) on [charmbracelet/glamour](https://github.com/charmbracelet/glamour) (2 days ago)
 
 #### 📜 My recent blog posts
 
