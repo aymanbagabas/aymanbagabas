@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (3 days ago)
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (3 days ago)
-- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (4 days ago)
-- [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (4 days ago)
-- [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (4 days ago)
+- [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (4 days ago)
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (4 days ago)
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (5 days ago)
+- [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (5 days ago)
+- [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Fix normalize session lf newlines to crlf on stderr](https://github.com/gliderlabs/ssh/pull/186) on [gliderlabs/ssh](https://github.com/gliderlabs/ssh) (today)
-- [Add support to ANSI OSC52](https://github.com/xtermjs/xterm.js/pull/4220) on [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) (2 days ago)
-- [feat(config): support json config](https://github.com/charmbracelet/soft-serve/pull/171) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (3 days ago)
-- [feat(server): use keyboard-interactive auth instead of password](https://github.com/charmbracelet/soft-serve/pull/170) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (3 days ago)
-- [fix: replace newlines with crlf newlines](https://github.com/charmbracelet/wish/pull/75) on [charmbracelet/wish](https://github.com/charmbracelet/wish) (4 days ago)
+- [Fix normalize session lf newlines to crlf on stderr](https://github.com/gliderlabs/ssh/pull/186) on [gliderlabs/ssh](https://github.com/gliderlabs/ssh) (1 day ago)
+- [Add support to ANSI OSC52](https://github.com/xtermjs/xterm.js/pull/4220) on [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) (3 days ago)
+- [feat(config): support json config](https://github.com/charmbracelet/soft-serve/pull/171) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (4 days ago)
+- [feat(server): use keyboard-interactive auth instead of password](https://github.com/charmbracelet/soft-serve/pull/170) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (4 days ago)
+- [fix: replace newlines with crlf newlines](https://github.com/charmbracelet/wish/pull/75) on [charmbracelet/wish](https://github.com/charmbracelet/wish) (5 days ago)
 
 #### 📜 My recent blog posts
 
@@ -46,8 +46,8 @@
 
 - [bensadeh/tailspin](https://github.com/bensadeh/tailspin) - 🌀 A log file highlighter and a drop-in replacement for `tail -f` (1 week ago)
 - [aymanbagabas/shcopy](https://github.com/aymanbagabas/shcopy) - 📋 Copy text to your system clipboard locally and remotely using ANSI OSC52 sequence (1 week ago)
-- [saltosystems/winrt-go](https://github.com/saltosystems/winrt-go) -  (1 week ago)
-- [aymanbagabas/gh-stars](https://github.com/aymanbagabas/gh-stars) - GitHub stargazers in your terminal 🌟 (1 month ago)
+- [saltosystems/winrt-go](https://github.com/saltosystems/winrt-go) -  (2 weeks ago)
+- [aymanbagabas/gh-stars](https://github.com/aymanbagabas/gh-stars) - GitHub stargazers in your terminal 🌟 (2 months ago)
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (2 months ago)
 
 #### 📫 How to reach me
