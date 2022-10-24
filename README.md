@@ -20,11 +20,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.8.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.8.0), today) - The SSH directory ✨
+- [charmbracelet/promwish](https://github.com/charmbracelet/promwish) ([v0.3.0](https://github.com/charmbracelet/promwish/releases/tag/v0.3.0), today) - Prometheus middleware for Wish
+- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v0.6.0](https://github.com/charmbracelet/wish/releases/tag/v0.6.0), today) - Make SSH apps, just like that! 💫
 - [aymanbagabas/go-osc52](https://github.com/aymanbagabas/go-osc52) ([v1.2.1](https://github.com/aymanbagabas/go-osc52/releases/tag/v1.2.1), 1 week ago) - Golang terminal ANSI OSC52 wrapper. Copy text to clipboard from anywhere.
 - [aymanbagabas/shcopy](https://github.com/aymanbagabas/shcopy) ([v0.1.1](https://github.com/aymanbagabas/shcopy/releases/tag/v0.1.1), 1 week ago) - 📋 Copy text to your system clipboard locally and remotely using ANSI OSC52 sequence
-- [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.8.0](https://github.com/charmbracelet/gum/releases/tag/v0.8.0), 1 week ago) - A tool for glamorous shell scripts 🎀
-- [caddy-dns/route53](https://github.com/caddy-dns/route53) ([v1.3.0](https://github.com/caddy-dns/route53/releases/tag/v1.3.0), 2 weeks ago) - Caddy module: dns.providers.route53
-- [libdns/route53](https://github.com/libdns/route53) ([v1.3.0](https://github.com/libdns/route53/releases/tag/v1.3.0), 2 weeks ago) - AWS Route53 provider implementation for libdns
 
 #### 🔨 My recent Pull Requests
 
