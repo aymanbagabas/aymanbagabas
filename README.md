@@ -4,8 +4,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (today)
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (6 days ago)
+- [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (1 day ago)
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (1 week ago)
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (1 week ago)
 - [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (1 week ago)
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (1 week ago)
@@ -20,24 +20,24 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.8.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.8.0), today) - The SSH directory ✨
-- [charmbracelet/promwish](https://github.com/charmbracelet/promwish) ([v0.3.0](https://github.com/charmbracelet/promwish/releases/tag/v0.3.0), today) - Prometheus middleware for Wish
-- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v0.6.0](https://github.com/charmbracelet/wish/releases/tag/v0.6.0), today) - Make SSH apps, just like that! 💫
+- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.8.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.8.0), 1 day ago) - The SSH directory ✨
+- [charmbracelet/promwish](https://github.com/charmbracelet/promwish) ([v0.3.0](https://github.com/charmbracelet/promwish/releases/tag/v0.3.0), 1 day ago) - Prometheus middleware for Wish
+- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v0.6.0](https://github.com/charmbracelet/wish/releases/tag/v0.6.0), 1 day ago) - Make SSH apps, just like that! 💫
 - [aymanbagabas/go-osc52](https://github.com/aymanbagabas/go-osc52) ([v1.2.1](https://github.com/aymanbagabas/go-osc52/releases/tag/v1.2.1), 1 week ago) - Golang terminal ANSI OSC52 wrapper. Copy text to clipboard from anywhere.
 - [aymanbagabas/shcopy](https://github.com/aymanbagabas/shcopy) ([v0.1.1](https://github.com/aymanbagabas/shcopy/releases/tag/v0.1.1), 1 week ago) - 📋 Copy text to your system clipboard locally and remotely using ANSI OSC52 sequence
 
 #### 🔨 My recent Pull Requests
 
-- [Fix normalize session lf newlines to crlf on stderr](https://github.com/gliderlabs/ssh/pull/186) on [gliderlabs/ssh](https://github.com/gliderlabs/ssh) (3 days ago)
-- [Add support to ANSI OSC52](https://github.com/xtermjs/xterm.js/pull/4220) on [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) (5 days ago)
-- [feat(config): support json config](https://github.com/charmbracelet/soft-serve/pull/171) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (6 days ago)
-- [feat(server): use keyboard-interactive auth instead of password](https://github.com/charmbracelet/soft-serve/pull/170) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (6 days ago)
+- [Fix normalize session lf newlines to crlf on stderr](https://github.com/gliderlabs/ssh/pull/186) on [gliderlabs/ssh](https://github.com/gliderlabs/ssh) (4 days ago)
+- [Add support to ANSI OSC52](https://github.com/xtermjs/xterm.js/pull/4220) on [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) (6 days ago)
+- [feat(config): support json config](https://github.com/charmbracelet/soft-serve/pull/171) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 week ago)
+- [feat(server): use keyboard-interactive auth instead of password](https://github.com/charmbracelet/soft-serve/pull/170) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 week ago)
 - [fix: replace newlines with crlf newlines](https://github.com/charmbracelet/wish/pull/75) on [charmbracelet/wish](https://github.com/charmbracelet/wish) (1 week ago)
 
 #### 📜 My recent blog posts
 
 - [Blue Mountain](https://aymanbagabas.com/blog/2022/06/02/blue-mountain.html) (4 months ago)
-- [Import Notion Pages to Jekyll](https://aymanbagabas.com/blog/2022/03/29/import-notion-pages-to-jekyll.html) (6 months ago)
+- [Import Notion Pages to Jekyll](https://aymanbagabas.com/blog/2022/03/29/import-notion-pages-to-jekyll.html) (7 months ago)
 - [Nyan Cat Over SSH](https://aymanbagabas.com/blog/2022/03/25/nyan-cat-over-ssh.html) (7 months ago)
 - [Walk by the pond](https://aymanbagabas.com/blog/2022/03/10/walk-by-the-pond.html) (7 months ago)
 - [Run native C/C&#43;&#43; code in the browser using Emscripten](https://aymanbagabas.com/blog/2020/11/18/run-native-c-c&#43;&#43;-code-in-the-browser-using-emscripten.html) (2 years ago)
