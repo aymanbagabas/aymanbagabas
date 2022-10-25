@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (1 day ago)
+- [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (today)
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (1 week ago)
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (1 week ago)
 - [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (1 week ago)
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix(output): check for nil tty writer](https://github.com/muesli/termenv/pull/97) on [muesli/termenv](https://github.com/muesli/termenv) (today)
 - [Fix normalize session lf newlines to crlf on stderr](https://github.com/gliderlabs/ssh/pull/186) on [gliderlabs/ssh](https://github.com/gliderlabs/ssh) (4 days ago)
 - [Add support to ANSI OSC52](https://github.com/xtermjs/xterm.js/pull/4220) on [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) (6 days ago)
 - [feat(config): support json config](https://github.com/charmbracelet/soft-serve/pull/171) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 week ago)
 - [feat(server): use keyboard-interactive auth instead of password](https://github.com/charmbracelet/soft-serve/pull/170) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 week ago)
-- [fix: replace newlines with crlf newlines](https://github.com/charmbracelet/wish/pull/75) on [charmbracelet/wish](https://github.com/charmbracelet/wish) (1 week ago)
 
 #### 📜 My recent blog posts
 
