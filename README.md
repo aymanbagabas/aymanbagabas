@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Harden the Docker image](https://github.com/charmbracelet/vhs/pull/49) on [charmbracelet/vhs](https://github.com/charmbracelet/vhs) (today)
 - [fix: check for error before reading parent](https://github.com/gogs/git-module/pull/84) on [gogs/git-module](https://github.com/gogs/git-module) (today)
 - [feat: add scoop pipeline](https://github.com/charmbracelet/meta/pull/59) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (today)
 - [chore: update tape](https://github.com/charmbracelet/vhs-action/pull/4) on [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) (2 days ago)
 - [fix(output): check for nil tty writer](https://github.com/muesli/termenv/pull/97) on [muesli/termenv](https://github.com/muesli/termenv) (2 days ago)
-- [feat: build with goreleaser](https://github.com/charmbracelet/vhs/pull/25) on [charmbracelet/vhs](https://github.com/charmbracelet/vhs) (3 days ago)
 
 #### 📜 My recent blog posts
 
