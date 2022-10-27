@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) - VHS Github Action (today)
+- [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (today)
+- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼 (today)
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (1 day ago)
-- [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (2 days ago)
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (1 week ago)
-- [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (1 week ago)
-- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) - The SSH directory ✨ (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) ([v1.0.0](https://github.com/charmbracelet/vhs-action/releases/tag/v1.0.0), today) - VHS Github Action
+- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) ([v0.1.0](https://github.com/charmbracelet/vhs/releases/tag/v0.1.0), today) - Your CLI home video recorder 📼
 - [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.8.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.8.0), 3 days ago) - The SSH directory ✨
 - [charmbracelet/promwish](https://github.com/charmbracelet/promwish) ([v0.3.0](https://github.com/charmbracelet/promwish/releases/tag/v0.3.0), 3 days ago) - Prometheus middleware for Wish
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v0.6.0](https://github.com/charmbracelet/wish/releases/tag/v0.6.0), 3 days ago) - Make SSH apps, just like that! 💫
-- [aymanbagabas/go-osc52](https://github.com/aymanbagabas/go-osc52) ([v1.2.1](https://github.com/aymanbagabas/go-osc52/releases/tag/v1.2.1), 1 week ago) - Golang terminal ANSI OSC52 wrapper. Copy text to clipboard from anywhere.
-- [aymanbagabas/shcopy](https://github.com/aymanbagabas/shcopy) ([v0.1.1](https://github.com/aymanbagabas/shcopy/releases/tag/v0.1.1), 2 weeks ago) - 📋 Copy text to your system clipboard locally and remotely using ANSI OSC52 sequence
 
 #### 🔨 My recent Pull Requests
 
+- [chore: update tape](https://github.com/charmbracelet/vhs-action/pull/4) on [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) (2 days ago)
 - [fix(output): check for nil tty writer](https://github.com/muesli/termenv/pull/97) on [muesli/termenv](https://github.com/muesli/termenv) (2 days ago)
+- [feat: build with goreleaser](https://github.com/charmbracelet/vhs/pull/25) on [charmbracelet/vhs](https://github.com/charmbracelet/vhs) (3 days ago)
+- [Refactor VHS main](https://github.com/charmbracelet/vhs/pull/24) on [charmbracelet/vhs](https://github.com/charmbracelet/vhs) (3 days ago)
 - [Fix normalize session lf newlines to crlf on stderr](https://github.com/gliderlabs/ssh/pull/186) on [gliderlabs/ssh](https://github.com/gliderlabs/ssh) (6 days ago)
-- [Add support to ANSI OSC52](https://github.com/xtermjs/xterm.js/pull/4220) on [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) (1 week ago)
-- [feat(config): support json config](https://github.com/charmbracelet/soft-serve/pull/171) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 week ago)
-- [feat(server): use keyboard-interactive auth instead of password](https://github.com/charmbracelet/soft-serve/pull/170) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 week ago)
 
 #### 📜 My recent blog posts
 
@@ -44,11 +44,11 @@
 
 #### ⭐ Recent Stars
 
+- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼 (today)
+- [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) - VHS Github Action (today)
 - [bensadeh/tailspin](https://github.com/bensadeh/tailspin) - 🌀 A log file highlighter and a drop-in replacement for `tail -f` (1 week ago)
 - [aymanbagabas/shcopy](https://github.com/aymanbagabas/shcopy) - 📋 Copy text to your system clipboard locally and remotely using ANSI OSC52 sequence (2 weeks ago)
 - [saltosystems/winrt-go](https://github.com/saltosystems/winrt-go) -  (2 weeks ago)
-- [aymanbagabas/gh-stars](https://github.com/aymanbagabas/gh-stars) - GitHub stargazers in your terminal 🌟 (2 months ago)
-- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (3 months ago)
 
 #### 📫 How to reach me
 
