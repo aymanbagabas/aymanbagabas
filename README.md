@@ -20,8 +20,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) ([v0.1.1](https://github.com/charmbracelet/vhs/releases/tag/v0.1.1), today) - Your CLI home video recorder 📼
 - [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) ([v1.0.0](https://github.com/charmbracelet/vhs-action/releases/tag/v1.0.0), 1 day ago) - VHS Github Action
-- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) ([v0.1.0](https://github.com/charmbracelet/vhs/releases/tag/v0.1.0), 1 day ago) - Your CLI home video recorder 📼
 - [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.8.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.8.0), 4 days ago) - The SSH directory ✨
 - [charmbracelet/promwish](https://github.com/charmbracelet/promwish) ([v0.3.0](https://github.com/charmbracelet/promwish/releases/tag/v0.3.0), 4 days ago) - Prometheus middleware for Wish
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v0.6.0](https://github.com/charmbracelet/wish/releases/tag/v0.6.0), 4 days ago) - Make SSH apps, just like that! 💫
