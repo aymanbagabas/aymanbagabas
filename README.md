@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat(ci): comment gifs on tape files changes](https://github.com/charmbracelet/vhs/pull/77) on [charmbracelet/vhs](https://github.com/charmbracelet/vhs) (today)
 - [docs: add server settings](https://github.com/charmbracelet/vhs/pull/74) on [charmbracelet/vhs](https://github.com/charmbracelet/vhs) (today)
 - [Harden the Docker image](https://github.com/charmbracelet/vhs/pull/49) on [charmbracelet/vhs](https://github.com/charmbracelet/vhs) (1 day ago)
 - [fix: check for error before reading parent](https://github.com/gogs/git-module/pull/84) on [gogs/git-module](https://github.com/gogs/git-module) (1 day ago)
 - [feat: add scoop pipeline](https://github.com/charmbracelet/meta/pull/59) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (1 day ago)
-- [chore: update tape](https://github.com/charmbracelet/vhs-action/pull/4) on [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) (3 days ago)
 
 #### 📜 My recent blog posts
 
