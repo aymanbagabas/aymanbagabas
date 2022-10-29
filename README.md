@@ -4,10 +4,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) - VHS Github Action (today)
-- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼 (today)
-- [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (1 day ago)
-- [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (2 days ago)
+- [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) - VHS Github Action (1 day ago)
+- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼 (1 day ago)
+- [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (2 days ago)
+- [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (3 days ago)
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (1 week ago)
 
 #### 🌱 My latest projects
@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) ([v0.1.1](https://github.com/charmbracelet/vhs/releases/tag/v0.1.1), today) - Your CLI home video recorder 📼
-- [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) ([v1.0.0](https://github.com/charmbracelet/vhs-action/releases/tag/v1.0.0), 1 day ago) - VHS Github Action
-- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.8.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.8.0), 4 days ago) - The SSH directory ✨
-- [charmbracelet/promwish](https://github.com/charmbracelet/promwish) ([v0.3.0](https://github.com/charmbracelet/promwish/releases/tag/v0.3.0), 4 days ago) - Prometheus middleware for Wish
-- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v0.6.0](https://github.com/charmbracelet/wish/releases/tag/v0.6.0), 4 days ago) - Make SSH apps, just like that! 💫
+- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) ([v0.1.1](https://github.com/charmbracelet/vhs/releases/tag/v0.1.1), 1 day ago) - Your CLI home video recorder 📼
+- [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) ([v1.0.0](https://github.com/charmbracelet/vhs-action/releases/tag/v1.0.0), 2 days ago) - VHS Github Action
+- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.8.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.8.0), 5 days ago) - The SSH directory ✨
+- [charmbracelet/promwish](https://github.com/charmbracelet/promwish) ([v0.3.0](https://github.com/charmbracelet/promwish/releases/tag/v0.3.0), 5 days ago) - Prometheus middleware for Wish
+- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v0.6.0](https://github.com/charmbracelet/wish/releases/tag/v0.6.0), 5 days ago) - Make SSH apps, just like that! 💫
 
 #### 🔨 My recent Pull Requests
 
-- [feat(ci): comment gifs on tape files changes](https://github.com/charmbracelet/vhs/pull/77) on [charmbracelet/vhs](https://github.com/charmbracelet/vhs) (today)
-- [docs: add server settings](https://github.com/charmbracelet/vhs/pull/74) on [charmbracelet/vhs](https://github.com/charmbracelet/vhs) (today)
-- [Harden the Docker image](https://github.com/charmbracelet/vhs/pull/49) on [charmbracelet/vhs](https://github.com/charmbracelet/vhs) (1 day ago)
-- [fix: check for error before reading parent](https://github.com/gogs/git-module/pull/84) on [gogs/git-module](https://github.com/gogs/git-module) (1 day ago)
-- [feat: add scoop pipeline](https://github.com/charmbracelet/meta/pull/59) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (1 day ago)
+- [feat(ci): comment gifs on tape files changes](https://github.com/charmbracelet/vhs/pull/77) on [charmbracelet/vhs](https://github.com/charmbracelet/vhs) (1 day ago)
+- [docs: add server settings](https://github.com/charmbracelet/vhs/pull/74) on [charmbracelet/vhs](https://github.com/charmbracelet/vhs) (1 day ago)
+- [Harden the Docker image](https://github.com/charmbracelet/vhs/pull/49) on [charmbracelet/vhs](https://github.com/charmbracelet/vhs) (2 days ago)
+- [fix: check for error before reading parent](https://github.com/gogs/git-module/pull/84) on [gogs/git-module](https://github.com/gogs/git-module) (2 days ago)
+- [feat: add scoop pipeline](https://github.com/charmbracelet/meta/pull/59) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (2 days ago)
 
 #### 📜 My recent blog posts
 
@@ -44,11 +44,11 @@
 
 #### ⭐ Recent Stars
 
-- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼 (1 day ago)
-- [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) - VHS Github Action (1 day ago)
+- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼 (2 days ago)
+- [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) - VHS Github Action (2 days ago)
 - [bensadeh/tailspin](https://github.com/bensadeh/tailspin) - 🌀 A log file highlighter and a drop-in replacement for `tail -f` (2 weeks ago)
 - [aymanbagabas/shcopy](https://github.com/aymanbagabas/shcopy) - 📋 Copy text to your system clipboard locally and remotely using ANSI OSC52 sequence (2 weeks ago)
-- [saltosystems/winrt-go](https://github.com/saltosystems/winrt-go) -  (2 weeks ago)
+- [saltosystems/winrt-go](https://github.com/saltosystems/winrt-go) -  (3 weeks ago)
 
 #### 📫 How to reach me
 
