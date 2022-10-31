@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [gogs/git-module](https://github.com/gogs/git-module) - Package git-module is a Go module for Git access through shell commands (1 day ago)
 - [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (2 days ago)
 - [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) - VHS Github Action (3 days ago)
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼 (3 days ago)
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (5 days ago)
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -20,11 +20,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [gogs/git-module](https://github.com/gogs/git-module) ([v1.7.1](https://github.com/gogs/git-module/releases/tag/v1.7.1), today) - Package git-module is a Go module for Git access through shell commands
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) ([v0.1.1](https://github.com/charmbracelet/vhs/releases/tag/v0.1.1), 3 days ago) - Your CLI home video recorder 📼
 - [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) ([v1.0.0](https://github.com/charmbracelet/vhs-action/releases/tag/v1.0.0), 4 days ago) - VHS Github Action
 - [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.8.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.8.0), 1 week ago) - The SSH directory ✨
 - [charmbracelet/promwish](https://github.com/charmbracelet/promwish) ([v0.3.0](https://github.com/charmbracelet/promwish/releases/tag/v0.3.0), 1 week ago) - Prometheus middleware for Wish
-- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v0.6.0](https://github.com/charmbracelet/wish/releases/tag/v0.6.0), 1 week ago) - Make SSH apps, just like that! 💫
 
 #### 🔨 My recent Pull Requests
 
