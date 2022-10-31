@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) ([v1.0.1](https://github.com/charmbracelet/vhs-action/releases/tag/v1.0.1), today) - VHS Github Action
+- [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) ([v1.1.0](https://github.com/charmbracelet/vhs-action/releases/tag/v1.1.0), today) - VHS Github Action
 - [gogs/git-module](https://github.com/gogs/git-module) ([v1.7.1](https://github.com/gogs/git-module/releases/tag/v1.7.1), today) - Package git-module is a Go module for Git access through shell commands
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) ([v0.1.1](https://github.com/charmbracelet/vhs/releases/tag/v0.1.1), 3 days ago) - Your CLI home video recorder 📼
 - [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.8.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.8.0), 1 week ago) - The SSH directory ✨
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: install-extra-fonts](https://github.com/charmbracelet/vhs-action/pull/13) on [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) (today)
 - [fix: check vhs file exists and readable before proceeding](https://github.com/charmbracelet/vhs-action/pull/12) on [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) (today)
 - [docs: keep examples tape names consistent](https://github.com/charmbracelet/vhs/pull/119) on [charmbracelet/vhs](https://github.com/charmbracelet/vhs) (today)
 - [feat(ci): comment gifs on tape files changes](https://github.com/charmbracelet/vhs/pull/77) on [charmbracelet/vhs](https://github.com/charmbracelet/vhs) (3 days ago)
 - [docs: add server settings](https://github.com/charmbracelet/vhs/pull/74) on [charmbracelet/vhs](https://github.com/charmbracelet/vhs) (3 days ago)
-- [Harden the Docker image](https://github.com/charmbracelet/vhs/pull/49) on [charmbracelet/vhs](https://github.com/charmbracelet/vhs) (4 days ago)
 
 #### 📜 My recent blog posts
 
