@@ -4,10 +4,10 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) - VHS Github Action (today)
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼 (today)
 - [gogs/git-module](https://github.com/gogs/git-module) - Package git-module is a Go module for Git access through shell commands (1 day ago)
 - [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (2 days ago)
-- [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) - VHS Github Action (3 days ago)
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (5 days ago)
 
 #### 🌱 My latest projects
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: check vhs file exists and readable before proceeding](https://github.com/charmbracelet/vhs-action/pull/12) on [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) (today)
 - [docs: keep examples tape names consistent](https://github.com/charmbracelet/vhs/pull/119) on [charmbracelet/vhs](https://github.com/charmbracelet/vhs) (today)
 - [feat(ci): comment gifs on tape files changes](https://github.com/charmbracelet/vhs/pull/77) on [charmbracelet/vhs](https://github.com/charmbracelet/vhs) (3 days ago)
 - [docs: add server settings](https://github.com/charmbracelet/vhs/pull/74) on [charmbracelet/vhs](https://github.com/charmbracelet/vhs) (3 days ago)
 - [Harden the Docker image](https://github.com/charmbracelet/vhs/pull/49) on [charmbracelet/vhs](https://github.com/charmbracelet/vhs) (4 days ago)
-- [fix: check for error before reading parent](https://github.com/gogs/git-module/pull/84) on [gogs/git-module](https://github.com/gogs/git-module) (4 days ago)
 
 #### 📜 My recent blog posts
 
