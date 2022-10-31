@@ -44,11 +44,11 @@
 
 #### ⭐ Recent Stars
 
+- [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service (today)
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼 (4 days ago)
 - [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) - VHS Github Action (4 days ago)
 - [bensadeh/tailspin](https://github.com/bensadeh/tailspin) - 🌀 A log file highlighter and a drop-in replacement for `tail -f` (2 weeks ago)
 - [aymanbagabas/shcopy](https://github.com/aymanbagabas/shcopy) - 📋 Copy text to your system clipboard locally and remotely using ANSI OSC52 sequence (2 weeks ago)
-- [saltosystems/winrt-go](https://github.com/saltosystems/winrt-go) -  (3 weeks ago)
 
 #### 📫 How to reach me
 
