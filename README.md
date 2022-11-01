@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) - VHS Github Action (today)
-- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼 (today)
-- [gogs/git-module](https://github.com/gogs/git-module) - Package git-module is a Go module for Git access through shell commands (1 day ago)
-- [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (2 days ago)
-- [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (5 days ago)
+- [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) - VHS Github Action (1 day ago)
+- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼 (1 day ago)
+- [gogs/git-module](https://github.com/gogs/git-module) - Package git-module is a Go module for Git access through shell commands (2 days ago)
+- [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (3 days ago)
+- [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) ([v1.1.0](https://github.com/charmbracelet/vhs-action/releases/tag/v1.1.0), today) - VHS Github Action
-- [gogs/git-module](https://github.com/gogs/git-module) ([v1.7.1](https://github.com/gogs/git-module/releases/tag/v1.7.1), today) - Package git-module is a Go module for Git access through shell commands
-- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) ([v0.1.1](https://github.com/charmbracelet/vhs/releases/tag/v0.1.1), 3 days ago) - Your CLI home video recorder 📼
+- [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) ([v1.1.0](https://github.com/charmbracelet/vhs-action/releases/tag/v1.1.0), 1 day ago) - VHS Github Action
+- [gogs/git-module](https://github.com/gogs/git-module) ([v1.7.1](https://github.com/gogs/git-module/releases/tag/v1.7.1), 1 day ago) - Package git-module is a Go module for Git access through shell commands
+- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) ([v0.1.1](https://github.com/charmbracelet/vhs/releases/tag/v0.1.1), 4 days ago) - Your CLI home video recorder 📼
 - [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.8.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.8.0), 1 week ago) - The SSH directory ✨
 - [charmbracelet/promwish](https://github.com/charmbracelet/promwish) ([v0.3.0](https://github.com/charmbracelet/promwish/releases/tag/v0.3.0), 1 week ago) - Prometheus middleware for Wish
 
 #### 🔨 My recent Pull Requests
 
-- [feat: install-extra-fonts](https://github.com/charmbracelet/vhs-action/pull/13) on [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) (today)
-- [fix: check vhs file exists and readable before proceeding](https://github.com/charmbracelet/vhs-action/pull/12) on [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) (today)
-- [docs: keep examples tape names consistent](https://github.com/charmbracelet/vhs/pull/119) on [charmbracelet/vhs](https://github.com/charmbracelet/vhs) (today)
-- [feat(ci): comment gifs on tape files changes](https://github.com/charmbracelet/vhs/pull/77) on [charmbracelet/vhs](https://github.com/charmbracelet/vhs) (3 days ago)
-- [docs: add server settings](https://github.com/charmbracelet/vhs/pull/74) on [charmbracelet/vhs](https://github.com/charmbracelet/vhs) (3 days ago)
+- [feat: install-extra-fonts](https://github.com/charmbracelet/vhs-action/pull/13) on [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) (1 day ago)
+- [fix: check vhs file exists and readable before proceeding](https://github.com/charmbracelet/vhs-action/pull/12) on [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) (1 day ago)
+- [docs: keep examples tape names consistent](https://github.com/charmbracelet/vhs/pull/119) on [charmbracelet/vhs](https://github.com/charmbracelet/vhs) (1 day ago)
+- [feat(ci): comment gifs on tape files changes](https://github.com/charmbracelet/vhs/pull/77) on [charmbracelet/vhs](https://github.com/charmbracelet/vhs) (4 days ago)
+- [docs: add server settings](https://github.com/charmbracelet/vhs/pull/74) on [charmbracelet/vhs](https://github.com/charmbracelet/vhs) (4 days ago)
 
 #### 📜 My recent blog posts
 
@@ -44,9 +44,9 @@
 
 #### ⭐ Recent Stars
 
-- [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service (today)
-- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼 (4 days ago)
-- [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) - VHS Github Action (4 days ago)
+- [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service (1 day ago)
+- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼 (5 days ago)
+- [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) - VHS Github Action (5 days ago)
 - [bensadeh/tailspin](https://github.com/bensadeh/tailspin) - 🌀 A log file highlighter and a drop-in replacement for `tail -f` (2 weeks ago)
 - [aymanbagabas/shcopy](https://github.com/aymanbagabas/shcopy) - 📋 Copy text to your system clipboard locally and remotely using ANSI OSC52 sequence (2 weeks ago)
 
