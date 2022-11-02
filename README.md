@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: check the latest golang version](https://github.com/charmbracelet/meta/pull/61) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (today)
 - [feat: install extra fonts](https://github.com/charmbracelet/vhs-action/pull/13) on [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) (2 days ago)
 - [fix: check vhs file exists and readable before proceeding](https://github.com/charmbracelet/vhs-action/pull/12) on [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) (2 days ago)
 - [docs: keep examples tape names consistent](https://github.com/charmbracelet/vhs/pull/119) on [charmbracelet/vhs](https://github.com/charmbracelet/vhs) (2 days ago)
 - [feat(ci): comment gifs on tape files changes](https://github.com/charmbracelet/vhs/pull/77) on [charmbracelet/vhs](https://github.com/charmbracelet/vhs) (5 days ago)
-- [docs: add server settings](https://github.com/charmbracelet/vhs/pull/74) on [charmbracelet/vhs](https://github.com/charmbracelet/vhs) (5 days ago)
 
 #### 📜 My recent blog posts
 
