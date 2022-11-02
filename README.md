@@ -44,11 +44,11 @@
 
 #### ⭐ Recent Stars
 
+- [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need. (today)
 - [danielcmessias/sawsy](https://github.com/danielcmessias/sawsy) - An AWS Console for your Terminal (1 day ago)
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service (2 days ago)
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼 (6 days ago)
 - [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) - Keep your GIFs up to date with VHS &#43; GitHub actions 📽️ (6 days ago)
-- [bensadeh/tailspin](https://github.com/bensadeh/tailspin) - 🌀 A log file highlighter and a drop-in replacement for `tail -f` (2 weeks ago)
 
 #### 📫 How to reach me
 
