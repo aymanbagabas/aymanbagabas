@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼 (1 day ago)
+- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼 (today)
 - [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (1 day ago)
 - [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) - Keep your GIFs up to date with VHS &#43; GitHub actions 📽️ (3 days ago)
 - [gogs/git-module](https://github.com/gogs/git-module) - Package git-module is a Go module for Git access through shell commands (5 days ago)
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix(pwsh): add powershell shell](https://github.com/charmbracelet/vhs/pull/142) on [charmbracelet/vhs](https://github.com/charmbracelet/vhs) (today)
 - [fix(examples): output file name](https://github.com/charmbracelet/vhs/pull/140) on [charmbracelet/vhs](https://github.com/charmbracelet/vhs) (1 day ago)
 - [feat: publish gifs](https://github.com/charmbracelet/vhs/pull/139) on [charmbracelet/vhs](https://github.com/charmbracelet/vhs) (1 day ago)
 - [fix: check the latest golang version](https://github.com/charmbracelet/meta/pull/61) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (2 days ago)
 - [feat: install extra fonts](https://github.com/charmbracelet/vhs-action/pull/13) on [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) (4 days ago)
-- [fix: check vhs file exists and readable before proceeding](https://github.com/charmbracelet/vhs-action/pull/12) on [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) (4 days ago)
 
 #### 📜 My recent blog posts
 
