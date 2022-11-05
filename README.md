@@ -4,10 +4,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼 (today)
-- [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (1 day ago)
-- [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) - Keep your GIFs up to date with VHS &#43; GitHub actions 📽️ (3 days ago)
-- [gogs/git-module](https://github.com/gogs/git-module) - Package git-module is a Go module for Git access through shell commands (5 days ago)
+- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼 (1 day ago)
+- [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (2 days ago)
+- [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) - Keep your GIFs up to date with VHS &#43; GitHub actions 📽️ (4 days ago)
+- [gogs/git-module](https://github.com/gogs/git-module) - Package git-module is a Go module for Git access through shell commands (6 days ago)
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (1 week ago)
 
 #### 🌱 My latest projects
@@ -20,33 +20,33 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.4.1](https://github.com/charmbracelet/soft-serve/releases/tag/v0.4.1), today) - A tasty, self-hostable Git server for the command line🍦
-- [charmbracelet/melt](https://github.com/charmbracelet/melt) ([v0.5.0](https://github.com/charmbracelet/melt/releases/tag/v0.5.0), 2 days ago) - 🧊 Backup and restore Ed25519 SSH keys with seed words.
-- [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) ([v1.1.0](https://github.com/charmbracelet/vhs-action/releases/tag/v1.1.0), 4 days ago) - Keep your GIFs up to date with VHS &#43; GitHub actions 📽️
-- [gogs/git-module](https://github.com/gogs/git-module) ([v1.7.1](https://github.com/gogs/git-module/releases/tag/v1.7.1), 4 days ago) - Package git-module is a Go module for Git access through shell commands
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.4.1](https://github.com/charmbracelet/soft-serve/releases/tag/v0.4.1), 1 day ago) - A tasty, self-hostable Git server for the command line🍦
+- [charmbracelet/melt](https://github.com/charmbracelet/melt) ([v0.5.0](https://github.com/charmbracelet/melt/releases/tag/v0.5.0), 3 days ago) - 🧊 Backup and restore Ed25519 SSH keys with seed words.
+- [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) ([v1.1.0](https://github.com/charmbracelet/vhs-action/releases/tag/v1.1.0), 5 days ago) - Keep your GIFs up to date with VHS &#43; GitHub actions 📽️
+- [gogs/git-module](https://github.com/gogs/git-module) ([v1.7.1](https://github.com/gogs/git-module/releases/tag/v1.7.1), 5 days ago) - Package git-module is a Go module for Git access through shell commands
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) ([v0.1.1](https://github.com/charmbracelet/vhs/releases/tag/v0.1.1), 1 week ago) - Your CLI home video recorder 📼
 
 #### 🔨 My recent Pull Requests
 
-- [fix(pwsh): add powershell shell](https://github.com/charmbracelet/vhs/pull/142) on [charmbracelet/vhs](https://github.com/charmbracelet/vhs) (today)
-- [fix(examples): output file name](https://github.com/charmbracelet/vhs/pull/140) on [charmbracelet/vhs](https://github.com/charmbracelet/vhs) (1 day ago)
-- [feat: publish gifs](https://github.com/charmbracelet/vhs/pull/139) on [charmbracelet/vhs](https://github.com/charmbracelet/vhs) (1 day ago)
-- [fix: check the latest golang version](https://github.com/charmbracelet/meta/pull/61) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (2 days ago)
-- [feat: install extra fonts](https://github.com/charmbracelet/vhs-action/pull/13) on [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) (4 days ago)
+- [fix(pwsh): add powershell shell](https://github.com/charmbracelet/vhs/pull/142) on [charmbracelet/vhs](https://github.com/charmbracelet/vhs) (1 day ago)
+- [fix(examples): output file name](https://github.com/charmbracelet/vhs/pull/140) on [charmbracelet/vhs](https://github.com/charmbracelet/vhs) (2 days ago)
+- [feat: publish gifs](https://github.com/charmbracelet/vhs/pull/139) on [charmbracelet/vhs](https://github.com/charmbracelet/vhs) (2 days ago)
+- [fix: check the latest golang version](https://github.com/charmbracelet/meta/pull/61) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (3 days ago)
+- [feat: install extra fonts](https://github.com/charmbracelet/vhs-action/pull/13) on [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) (5 days ago)
 
 #### 📜 My recent blog posts
 
 - [Blue Mountain](https://aymanbagabas.com/blog/2022/06/02/blue-mountain.html) (5 months ago)
 - [Import Notion Pages to Jekyll](https://aymanbagabas.com/blog/2022/03/29/import-notion-pages-to-jekyll.html) (7 months ago)
 - [Nyan Cat Over SSH](https://aymanbagabas.com/blog/2022/03/25/nyan-cat-over-ssh.html) (7 months ago)
-- [Walk by the pond](https://aymanbagabas.com/blog/2022/03/10/walk-by-the-pond.html) (7 months ago)
+- [Walk by the pond](https://aymanbagabas.com/blog/2022/03/10/walk-by-the-pond.html) (8 months ago)
 - [Run native C/C&#43;&#43; code in the browser using Emscripten](https://aymanbagabas.com/blog/2020/11/18/run-native-c-c&#43;&#43;-code-in-the-browser-using-emscripten.html) (2 years ago)
 
 #### ⭐ Recent Stars
 
-- [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need. (2 days ago)
-- [danielcmessias/sawsy](https://github.com/danielcmessias/sawsy) - An AWS Console for your Terminal (3 days ago)
-- [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service (4 days ago)
+- [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need. (3 days ago)
+- [danielcmessias/sawsy](https://github.com/danielcmessias/sawsy) - An AWS Console for your Terminal (4 days ago)
+- [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service (5 days ago)
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼 (1 week ago)
 - [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) - Keep your GIFs up to date with VHS &#43; GitHub actions 📽️ (1 week ago)
 
