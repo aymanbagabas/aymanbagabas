@@ -4,9 +4,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼 (2 days ago)
-- [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (3 days ago)
-- [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) - Keep your GIFs up to date with VHS &#43; GitHub actions 📽️ (5 days ago)
+- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼 (3 days ago)
+- [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (4 days ago)
+- [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) - Keep your GIFs up to date with VHS &#43; GitHub actions 📽️ (6 days ago)
 - [gogs/git-module](https://github.com/gogs/git-module) - Package git-module is a Go module for Git access through shell commands (1 week ago)
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (1 week ago)
 
@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.4.1](https://github.com/charmbracelet/soft-serve/releases/tag/v0.4.1), 2 days ago) - A tasty, self-hostable Git server for the command line🍦
-- [charmbracelet/melt](https://github.com/charmbracelet/melt) ([v0.5.0](https://github.com/charmbracelet/melt/releases/tag/v0.5.0), 4 days ago) - 🧊 Backup and restore Ed25519 SSH keys with seed words.
-- [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) ([v1.1.0](https://github.com/charmbracelet/vhs-action/releases/tag/v1.1.0), 6 days ago) - Keep your GIFs up to date with VHS &#43; GitHub actions 📽️
-- [gogs/git-module](https://github.com/gogs/git-module) ([v1.7.1](https://github.com/gogs/git-module/releases/tag/v1.7.1), 6 days ago) - Package git-module is a Go module for Git access through shell commands
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.4.1](https://github.com/charmbracelet/soft-serve/releases/tag/v0.4.1), 3 days ago) - A tasty, self-hostable Git server for the command line🍦
+- [charmbracelet/melt](https://github.com/charmbracelet/melt) ([v0.5.0](https://github.com/charmbracelet/melt/releases/tag/v0.5.0), 5 days ago) - 🧊 Backup and restore Ed25519 SSH keys with seed words.
+- [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) ([v1.1.0](https://github.com/charmbracelet/vhs-action/releases/tag/v1.1.0), 1 week ago) - Keep your GIFs up to date with VHS &#43; GitHub actions 📽️
+- [gogs/git-module](https://github.com/gogs/git-module) ([v1.7.1](https://github.com/gogs/git-module/releases/tag/v1.7.1), 1 week ago) - Package git-module is a Go module for Git access through shell commands
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) ([v0.1.1](https://github.com/charmbracelet/vhs/releases/tag/v0.1.1), 1 week ago) - Your CLI home video recorder 📼
 
 #### 🔨 My recent Pull Requests
 
-- [fix(pwsh): add powershell shell](https://github.com/charmbracelet/vhs/pull/142) on [charmbracelet/vhs](https://github.com/charmbracelet/vhs) (2 days ago)
-- [fix(examples): output file name](https://github.com/charmbracelet/vhs/pull/140) on [charmbracelet/vhs](https://github.com/charmbracelet/vhs) (3 days ago)
-- [feat: publish gifs](https://github.com/charmbracelet/vhs/pull/139) on [charmbracelet/vhs](https://github.com/charmbracelet/vhs) (3 days ago)
-- [fix: check the latest golang version](https://github.com/charmbracelet/meta/pull/61) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (4 days ago)
-- [feat: install extra fonts](https://github.com/charmbracelet/vhs-action/pull/13) on [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) (6 days ago)
+- [fix(pwsh): add powershell shell](https://github.com/charmbracelet/vhs/pull/142) on [charmbracelet/vhs](https://github.com/charmbracelet/vhs) (3 days ago)
+- [fix(examples): output file name](https://github.com/charmbracelet/vhs/pull/140) on [charmbracelet/vhs](https://github.com/charmbracelet/vhs) (4 days ago)
+- [feat: publish gifs](https://github.com/charmbracelet/vhs/pull/139) on [charmbracelet/vhs](https://github.com/charmbracelet/vhs) (4 days ago)
+- [fix: check the latest golang version](https://github.com/charmbracelet/meta/pull/61) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (5 days ago)
+- [feat: install extra fonts](https://github.com/charmbracelet/vhs-action/pull/13) on [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) (1 week ago)
 
 #### 📜 My recent blog posts
 
@@ -44,9 +44,9 @@
 
 #### ⭐ Recent Stars
 
-- [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need. (4 days ago)
-- [danielcmessias/sawsy](https://github.com/danielcmessias/sawsy) - An AWS Console for your Terminal (5 days ago)
-- [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service (6 days ago)
+- [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need. (5 days ago)
+- [danielcmessias/sawsy](https://github.com/danielcmessias/sawsy) - An AWS Console for your Terminal (6 days ago)
+- [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service (1 week ago)
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼 (1 week ago)
 - [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) - Keep your GIFs up to date with VHS &#43; GitHub actions 📽️ (1 week ago)
 
