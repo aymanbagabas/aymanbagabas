@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: powershell prompt](https://github.com/charmbracelet/vhs/pull/152) on [charmbracelet/vhs](https://github.com/charmbracelet/vhs) (today)
 - [fix(pwsh): add powershell shell](https://github.com/charmbracelet/vhs/pull/142) on [charmbracelet/vhs](https://github.com/charmbracelet/vhs) (3 days ago)
 - [fix(examples): output file name](https://github.com/charmbracelet/vhs/pull/140) on [charmbracelet/vhs](https://github.com/charmbracelet/vhs) (4 days ago)
 - [feat: publish gifs](https://github.com/charmbracelet/vhs/pull/139) on [charmbracelet/vhs](https://github.com/charmbracelet/vhs) (4 days ago)
 - [fix: check the latest golang version](https://github.com/charmbracelet/meta/pull/61) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (5 days ago)
-- [feat: install extra fonts](https://github.com/charmbracelet/vhs-action/pull/13) on [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) (1 week ago)
 
 #### 📜 My recent blog posts
 
