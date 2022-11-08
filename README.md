@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: hide tabs while filtering](https://github.com/charmbracelet/soft-serve/pull/183) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (today)
 - [fix: powershell prompt](https://github.com/charmbracelet/vhs/pull/152) on [charmbracelet/vhs](https://github.com/charmbracelet/vhs) (1 day ago)
 - [fix(pwsh): add powershell shell](https://github.com/charmbracelet/vhs/pull/142) on [charmbracelet/vhs](https://github.com/charmbracelet/vhs) (4 days ago)
 - [fix(examples): output file name](https://github.com/charmbracelet/vhs/pull/140) on [charmbracelet/vhs](https://github.com/charmbracelet/vhs) (5 days ago)
 - [feat: publish gifs](https://github.com/charmbracelet/vhs/pull/139) on [charmbracelet/vhs](https://github.com/charmbracelet/vhs) (5 days ago)
-- [fix: check the latest golang version](https://github.com/charmbracelet/meta/pull/61) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (6 days ago)
 
 #### 📜 My recent blog posts
 
