@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [UI Improvements](https://github.com/charmbracelet/soft-serve/pull/185) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (today)
 - [fix(git): allow user repos](https://github.com/charmbracelet/wish/pull/84) on [charmbracelet/wish](https://github.com/charmbracelet/wish) (today)
 - [Per repository configs](https://github.com/charmbracelet/soft-serve/pull/184) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 day ago)
 - [fix: hide tabs while filtering](https://github.com/charmbracelet/soft-serve/pull/183) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 day ago)
 - [fix: powershell prompt](https://github.com/charmbracelet/vhs/pull/152) on [charmbracelet/vhs](https://github.com/charmbracelet/vhs) (2 days ago)
-- [fix(pwsh): add powershell shell](https://github.com/charmbracelet/vhs/pull/142) on [charmbracelet/vhs](https://github.com/charmbracelet/vhs) (5 days ago)
 
 #### 📜 My recent blog posts
 
