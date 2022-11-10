@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Extended Coordinates mouse support](https://github.com/charmbracelet/bubbletea/pull/594) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [feat(mouse): add extended mouse sequences](https://github.com/muesli/termenv/pull/104) on [muesli/termenv](https://github.com/muesli/termenv) (today)
 - [UI Improvements](https://github.com/charmbracelet/soft-serve/pull/185) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 day ago)
 - [fix(git): allow user repos](https://github.com/charmbracelet/wish/pull/84) on [charmbracelet/wish](https://github.com/charmbracelet/wish) (1 day ago)
 - [Per repository configs](https://github.com/charmbracelet/soft-serve/pull/184) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (2 days ago)
-- [fix: hide tabs while filtering](https://github.com/charmbracelet/soft-serve/pull/183) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (2 days ago)
 
 #### 📜 My recent blog posts
 
