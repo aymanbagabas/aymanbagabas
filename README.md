@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat(grep): search a repository](https://github.com/gogs/git-module/pull/86) on [gogs/git-module](https://github.com/gogs/git-module) (today)
 - [Extended Coordinates mouse parse support](https://github.com/charmbracelet/bubbletea/pull/594) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (5 days ago)
 - [feat(mouse): add extended mouse sequences](https://github.com/muesli/termenv/pull/104) on [muesli/termenv](https://github.com/muesli/termenv) (5 days ago)
 - [UI Improvements](https://github.com/charmbracelet/soft-serve/pull/185) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (6 days ago)
 - [fix(git): allow user repos](https://github.com/charmbracelet/wish/pull/84) on [charmbracelet/wish](https://github.com/charmbracelet/wish) (6 days ago)
-- [Per repository configs](https://github.com/charmbracelet/soft-serve/pull/184) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 week ago)
 
 #### 📜 My recent blog posts
 
