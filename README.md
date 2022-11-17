@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix(session): unauthorized access to private repos](https://github.com/charmbracelet/soft-serve/pull/190) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (today)
 - [Normalize Git repositories](https://github.com/charmbracelet/soft-serve/pull/188) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 day ago)
 - [feat(grep): search a repository](https://github.com/gogs/git-module/pull/86) on [gogs/git-module](https://github.com/gogs/git-module) (2 days ago)
 - [Extended Coordinates mouse parse support](https://github.com/charmbracelet/bubbletea/pull/594) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 week ago)
 - [feat(mouse): add extended mouse sequences](https://github.com/muesli/termenv/pull/104) on [muesli/termenv](https://github.com/muesli/termenv) (1 week ago)
-- [UI Improvements](https://github.com/charmbracelet/soft-serve/pull/185) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 week ago)
 
 #### 📜 My recent blog posts
 
