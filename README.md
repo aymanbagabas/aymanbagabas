@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: add set-window-title command](https://github.com/charmbracelet/bubbletea/pull/611) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [feat(ci): add code coverage](https://github.com/charmbracelet/soft-serve/pull/191) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (4 days ago)
 - [fix(session): unauthorized access to private repos](https://github.com/charmbracelet/soft-serve/pull/190) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (4 days ago)
 - [Normalize Git repositories](https://github.com/charmbracelet/soft-serve/pull/188) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (5 days ago)
 - [feat(grep): search a repository](https://github.com/gogs/git-module/pull/86) on [gogs/git-module](https://github.com/gogs/git-module) (6 days ago)
-- [Extended Coordinates mouse parse support](https://github.com/charmbracelet/bubbletea/pull/594) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 week ago)
 
 #### 📜 My recent blog posts
 
@@ -44,11 +44,11 @@
 
 #### ⭐ Recent Stars
 
+- [maaslalani/nap](https://github.com/maaslalani/nap) - Code snippets in your terminal 🛌 (today)
 - [caarlos0/env](https://github.com/caarlos0/env) - A simple and zero-dependencies library to parse environment variables into structs. (6 days ago)
 - [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need. (2 weeks ago)
 - [danielcmessias/sawsy](https://github.com/danielcmessias/sawsy) - An AWS Console for your Terminal (2 weeks ago)
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service (3 weeks ago)
-- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼 (3 weeks ago)
 
 #### 📫 How to reach me
 
