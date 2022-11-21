@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat(server): git daemon](https://github.com/charmbracelet/soft-serve/pull/196) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (today)
 - [feat: add set-window-title command](https://github.com/charmbracelet/bubbletea/pull/611) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [feat(ci): add code coverage](https://github.com/charmbracelet/soft-serve/pull/191) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (4 days ago)
 - [fix(session): unauthorized access to private repos](https://github.com/charmbracelet/soft-serve/pull/190) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (4 days ago)
 - [Normalize Git repositories](https://github.com/charmbracelet/soft-serve/pull/188) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (5 days ago)
-- [feat(grep): search a repository](https://github.com/gogs/git-module/pull/86) on [gogs/git-module](https://github.com/gogs/git-module) (6 days ago)
 
 #### 📜 My recent blog posts
 
