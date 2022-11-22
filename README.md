@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (4 days ago)
-- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼 (4 days ago)
-- [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (4 days ago)
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (4 days ago)
-- [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (6 days ago)
+- [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (5 days ago)
+- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼 (5 days ago)
+- [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (5 days ago)
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (5 days ago)
+- [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.4.4](https://github.com/charmbracelet/soft-serve/releases/tag/v0.4.4), 4 days ago) - A tasty, self-hostable Git server for the command line🍦
-- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v0.7.0](https://github.com/charmbracelet/wish/releases/tag/v0.7.0), 5 days ago) - Make SSH apps, just like that! 💫
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.23.1](https://github.com/charmbracelet/bubbletea/releases/tag/v0.23.1), 6 days ago) - A powerful little TUI framework 🏗
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.4.4](https://github.com/charmbracelet/soft-serve/releases/tag/v0.4.4), 5 days ago) - A tasty, self-hostable Git server for the command line🍦
+- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v0.7.0](https://github.com/charmbracelet/wish/releases/tag/v0.7.0), 6 days ago) - Make SSH apps, just like that! 💫
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.23.1](https://github.com/charmbracelet/bubbletea/releases/tag/v0.23.1), 1 week ago) - A powerful little TUI framework 🏗
 - [charmbracelet/glamour](https://github.com/charmbracelet/glamour) ([v0.6.0](https://github.com/charmbracelet/glamour/releases/tag/v0.6.0), 1 week ago) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️
 - [charmbracelet/melt](https://github.com/charmbracelet/melt) ([v0.5.0](https://github.com/charmbracelet/melt/releases/tag/v0.5.0), 2 weeks ago) - 🧊 Backup and restore Ed25519 SSH keys with seed words.
 
 #### 🔨 My recent Pull Requests
 
-- [feat(server): git daemon](https://github.com/charmbracelet/soft-serve/pull/196) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (today)
-- [feat: add set-window-title command](https://github.com/charmbracelet/bubbletea/pull/611) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
-- [feat(ci): add code coverage](https://github.com/charmbracelet/soft-serve/pull/191) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (4 days ago)
-- [fix(session): unauthorized access to private repos](https://github.com/charmbracelet/soft-serve/pull/190) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (4 days ago)
-- [Normalize Git repositories](https://github.com/charmbracelet/soft-serve/pull/188) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (5 days ago)
+- [feat(server): git daemon](https://github.com/charmbracelet/soft-serve/pull/196) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 day ago)
+- [feat: add set-window-title command](https://github.com/charmbracelet/bubbletea/pull/611) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
+- [feat(ci): add code coverage](https://github.com/charmbracelet/soft-serve/pull/191) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (5 days ago)
+- [fix(session): unauthorized access to private repos](https://github.com/charmbracelet/soft-serve/pull/190) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (5 days ago)
+- [Normalize Git repositories](https://github.com/charmbracelet/soft-serve/pull/188) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (6 days ago)
 
 #### 📜 My recent blog posts
 
@@ -44,10 +44,10 @@
 
 #### ⭐ Recent Stars
 
-- [maaslalani/nap](https://github.com/maaslalani/nap) - Code snippets in your terminal 🛌 (today)
-- [caarlos0/env](https://github.com/caarlos0/env) - A simple and zero-dependencies library to parse environment variables into structs. (6 days ago)
+- [maaslalani/nap](https://github.com/maaslalani/nap) - Code snippets in your terminal 🛌 (1 day ago)
+- [caarlos0/env](https://github.com/caarlos0/env) - A simple and zero-dependencies library to parse environment variables into structs. (1 week ago)
 - [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need. (2 weeks ago)
-- [danielcmessias/sawsy](https://github.com/danielcmessias/sawsy) - An AWS Console for your Terminal (2 weeks ago)
+- [danielcmessias/sawsy](https://github.com/danielcmessias/sawsy) - An AWS Console for your Terminal (3 weeks ago)
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service (3 weeks ago)
 
 #### 📫 How to reach me
