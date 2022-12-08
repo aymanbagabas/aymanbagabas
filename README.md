@@ -6,9 +6,9 @@
 
 - [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) - Keep your GIFs up to date with VHS &#43; GitHub actions 📽️ (1 week ago)
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (2 weeks ago)
-- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼 (2 weeks ago)
-- [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (2 weeks ago)
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (2 weeks ago)
+- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼 (3 weeks ago)
+- [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (3 weeks ago)
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (3 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -22,7 +22,7 @@
 
 - [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) ([v1.2.0](https://github.com/charmbracelet/vhs-action/releases/tag/v1.2.0), 1 week ago) - Keep your GIFs up to date with VHS &#43; GitHub actions 📽️
 - [bloznelis/typioca](https://github.com/bloznelis/typioca) ([2.0.6](https://github.com/bloznelis/typioca/releases/tag/2.0.6), 2 weeks ago) - Cozy typing speed tester
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.4.4](https://github.com/charmbracelet/soft-serve/releases/tag/v0.4.4), 2 weeks ago) - A tasty, self-hostable Git server for the command line🍦
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.4.4](https://github.com/charmbracelet/soft-serve/releases/tag/v0.4.4), 3 weeks ago) - A tasty, self-hostable Git server for the command line🍦
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v0.7.0](https://github.com/charmbracelet/wish/releases/tag/v0.7.0), 3 weeks ago) - Make SSH apps, just like that! 💫
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.23.1](https://github.com/charmbracelet/bubbletea/releases/tag/v0.23.1), 3 weeks ago) - A powerful little TUI framework 🏗
 
@@ -30,8 +30,8 @@
 
 - [feat(server): git daemon](https://github.com/charmbracelet/soft-serve/pull/196) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (2 weeks ago)
 - [feat: add set-window-title command](https://github.com/charmbracelet/bubbletea/pull/611) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 weeks ago)
-- [feat(ci): add code coverage](https://github.com/charmbracelet/soft-serve/pull/191) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (2 weeks ago)
-- [fix(session): unauthorized access to private repos](https://github.com/charmbracelet/soft-serve/pull/190) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (2 weeks ago)
+- [feat(ci): add code coverage](https://github.com/charmbracelet/soft-serve/pull/191) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (3 weeks ago)
+- [fix(session): unauthorized access to private repos](https://github.com/charmbracelet/soft-serve/pull/190) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (3 weeks ago)
 - [Normalize Git repositories](https://github.com/charmbracelet/soft-serve/pull/188) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (3 weeks ago)
 
 #### 📜 My recent blog posts
