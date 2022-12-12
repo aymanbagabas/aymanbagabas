@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/soft-serve-action](https://github.com/charmbracelet/soft-serve-action) - Synchronize GitHub repositories to your Soft Serve instance 🍦 (3 days ago)
+- [charmbracelet/soft-serve-action](https://github.com/charmbracelet/soft-serve-action) - Synchronize GitHub repositories to your Soft Serve instance 🍦 (4 days ago)
 - [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) - Keep your GIFs up to date with VHS &#43; GitHub actions 📽️ (1 week ago)
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (2 weeks ago)
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼 (3 weeks ago)
@@ -28,9 +28,9 @@
 
 #### 🔨 My recent Pull Requests
 
-- [fix: pure SSH list lock command name](https://github.com/git-lfs/git-lfs/pull/5219) on [git-lfs/git-lfs](https://github.com/git-lfs/git-lfs) (2 days ago)
-- [feat(server): git daemon](https://github.com/charmbracelet/soft-serve/pull/196) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (2 weeks ago)
-- [feat: add set-window-title command](https://github.com/charmbracelet/bubbletea/pull/611) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 weeks ago)
+- [fix: pure SSH list lock command name](https://github.com/git-lfs/git-lfs/pull/5219) on [git-lfs/git-lfs](https://github.com/git-lfs/git-lfs) (3 days ago)
+- [feat(server): git daemon](https://github.com/charmbracelet/soft-serve/pull/196) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (3 weeks ago)
+- [feat: add set-window-title command](https://github.com/charmbracelet/bubbletea/pull/611) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (3 weeks ago)
 - [feat(ci): add code coverage](https://github.com/charmbracelet/soft-serve/pull/191) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (3 weeks ago)
 - [fix(session): unauthorized access to private repos](https://github.com/charmbracelet/soft-serve/pull/190) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (3 weeks ago)
 
@@ -44,8 +44,8 @@
 
 #### ⭐ Recent Stars
 
-- [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven. (today)
-- [maaslalani/nap](https://github.com/maaslalani/nap) - Code snippets in your terminal (2 weeks ago)
+- [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven. (1 day ago)
+- [maaslalani/nap](https://github.com/maaslalani/nap) - Code snippets in your terminal (3 weeks ago)
 - [caarlos0/env](https://github.com/caarlos0/env) - A simple and zero-dependencies library to parse environment variables into structs. (3 weeks ago)
 - [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need. (1 month ago)
 - [danielcmessias/sawsy](https://github.com/danielcmessias/sawsy) - An AWS Console for your Terminal (1 month ago)
