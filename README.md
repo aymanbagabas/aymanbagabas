@@ -44,11 +44,11 @@
 
 #### ⭐ Recent Stars
 
+- [cloudentity/oauth2c](https://github.com/cloudentity/oauth2c) - User-friendly CLI for OAuth2 (today)
 - [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven. (1 day ago)
 - [maaslalani/nap](https://github.com/maaslalani/nap) - Code snippets in your terminal (3 weeks ago)
 - [caarlos0/env](https://github.com/caarlos0/env) - A simple and zero-dependencies library to parse environment variables into structs. (3 weeks ago)
 - [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need. (1 month ago)
-- [danielcmessias/sawsy](https://github.com/danielcmessias/sawsy) - An AWS Console for your Terminal (1 month ago)
 
 #### 📫 How to reach me
 
