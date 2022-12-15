@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix(ssh): use /tmp to place control dir on darwin](https://github.com/git-lfs/git-lfs/pull/5223) on [git-lfs/git-lfs](https://github.com/git-lfs/git-lfs) (today)
 - [fix: pure SSH list lock command name](https://github.com/git-lfs/git-lfs/pull/5219) on [git-lfs/git-lfs](https://github.com/git-lfs/git-lfs) (6 days ago)
 - [feat(server): git daemon](https://github.com/charmbracelet/soft-serve/pull/196) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (3 weeks ago)
 - [feat: add set-window-title command](https://github.com/charmbracelet/bubbletea/pull/611) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (3 weeks ago)
 - [feat(ci): add code coverage](https://github.com/charmbracelet/soft-serve/pull/191) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (4 weeks ago)
-- [fix(session): unauthorized access to private repos](https://github.com/charmbracelet/soft-serve/pull/190) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (4 weeks ago)
 
 #### 📜 My recent blog posts
 
