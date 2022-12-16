@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [git-lfs/git-lfs](https://github.com/git-lfs/git-lfs) - Git extension for versioning large files (6 days ago)
+- [git-lfs/git-lfs](https://github.com/git-lfs/git-lfs) - Git extension for versioning large files (1 week ago)
 - [charmbracelet/soft-serve-action](https://github.com/charmbracelet/soft-serve-action) - Synchronize GitHub repositories to your Soft Serve instance 🍦 (1 week ago)
 - [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) - Keep your GIFs up to date with VHS &#43; GitHub actions 📽️ (2 weeks ago)
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (3 weeks ago)
@@ -24,12 +24,12 @@
 - [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) ([v1.2.0](https://github.com/charmbracelet/vhs-action/releases/tag/v1.2.0), 2 weeks ago) - Keep your GIFs up to date with VHS &#43; GitHub actions 📽️
 - [bloznelis/typioca](https://github.com/bloznelis/typioca) ([2.0.6](https://github.com/bloznelis/typioca/releases/tag/2.0.6), 3 weeks ago) - Cozy typing speed tester
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.4.4](https://github.com/charmbracelet/soft-serve/releases/tag/v0.4.4), 4 weeks ago) - A tasty, self-hostable Git server for the command line🍦
-- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v0.7.0](https://github.com/charmbracelet/wish/releases/tag/v0.7.0), 4 weeks ago) - Make SSH apps, just like that! 💫
+- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v0.7.0](https://github.com/charmbracelet/wish/releases/tag/v0.7.0), 1 month ago) - Make SSH apps, just like that! 💫
 
 #### 🔨 My recent Pull Requests
 
-- [fix(ssh): use /tmp to place control dir on darwin](https://github.com/git-lfs/git-lfs/pull/5223) on [git-lfs/git-lfs](https://github.com/git-lfs/git-lfs) (today)
-- [fix: pure SSH list lock command name](https://github.com/git-lfs/git-lfs/pull/5219) on [git-lfs/git-lfs](https://github.com/git-lfs/git-lfs) (6 days ago)
+- [fix(ssh): use /tmp to place control dir on darwin](https://github.com/git-lfs/git-lfs/pull/5223) on [git-lfs/git-lfs](https://github.com/git-lfs/git-lfs) (1 day ago)
+- [fix: pure SSH list lock command name](https://github.com/git-lfs/git-lfs/pull/5219) on [git-lfs/git-lfs](https://github.com/git-lfs/git-lfs) (1 week ago)
 - [feat(server): git daemon](https://github.com/charmbracelet/soft-serve/pull/196) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (3 weeks ago)
 - [feat: add set-window-title command](https://github.com/charmbracelet/bubbletea/pull/611) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (3 weeks ago)
 - [feat(ci): add code coverage](https://github.com/charmbracelet/soft-serve/pull/191) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (4 weeks ago)
@@ -44,8 +44,8 @@
 
 #### ⭐ Recent Stars
 
-- [cloudentity/oauth2c](https://github.com/cloudentity/oauth2c) -  (3 days ago)
-- [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven. (4 days ago)
+- [cloudentity/oauth2c](https://github.com/cloudentity/oauth2c) -  (4 days ago)
+- [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven. (5 days ago)
 - [maaslalani/nap](https://github.com/maaslalani/nap) - Code snippets in your terminal (3 weeks ago)
 - [caarlos0/env](https://github.com/caarlos0/env) - A simple and zero-dependencies library to parse environment variables into structs. (1 month ago)
 - [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need. (1 month ago)
