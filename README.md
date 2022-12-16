@@ -44,7 +44,7 @@
 
 #### ⭐ Recent Stars
 
-- [cloudentity/oauth2c](https://github.com/cloudentity/oauth2c) -  (4 days ago)
+- [cloudentity/oauth2c](https://github.com/cloudentity/oauth2c) - User-friendly CLI for OAuth (4 days ago)
 - [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven. (5 days ago)
 - [maaslalani/nap](https://github.com/maaslalani/nap) - Code snippets in your terminal (3 weeks ago)
 - [caarlos0/env](https://github.com/caarlos0/env) - A simple and zero-dependencies library to parse environment variables into structs. (1 month ago)
