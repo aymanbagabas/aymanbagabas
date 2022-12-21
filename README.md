@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/git-lfs-transfer](https://github.com/charmbracelet/git-lfs-transfer) - Server-side implementation of the Git LFS pure-SSH protocol (1 day ago)
+- [charmbracelet/git-lfs-transfer](https://github.com/charmbracelet/git-lfs-transfer) - Server-side implementation of the Git LFS pure-SSH protocol (2 days ago)
 - [git-lfs/git-lfs](https://github.com/git-lfs/git-lfs) - Git extension for versioning large files (1 week ago)
 - [charmbracelet/soft-serve-action](https://github.com/charmbracelet/soft-serve-action) - Synchronize GitHub repositories to your Soft Serve instance 🍦 (1 week ago)
 - [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) - Keep your GIFs up to date with VHS &#43; GitHub actions 📽️ (3 weeks ago)
@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/promwish](https://github.com/charmbracelet/promwish) ([v0.4.0](https://github.com/charmbracelet/promwish/releases/tag/v0.4.0), today) - Prometheus middleware for Wish
-- [toddrob99/searcharr](https://github.com/toddrob99/searcharr) ([v3.0](https://github.com/toddrob99/searcharr/releases/tag/v3.0), 1 day ago) - Sonarr &amp; Radarr &amp; Readarr Telegram Bot
-- [git-lfs/git-lfs](https://github.com/git-lfs/git-lfs) ([v3.3.0](https://github.com/git-lfs/git-lfs/releases/tag/v3.3.0), 2 weeks ago) - Git extension for versioning large files
+- [charmbracelet/promwish](https://github.com/charmbracelet/promwish) ([v0.4.0](https://github.com/charmbracelet/promwish/releases/tag/v0.4.0), 1 day ago) - Prometheus middleware for Wish
+- [toddrob99/searcharr](https://github.com/toddrob99/searcharr) ([v3.0](https://github.com/toddrob99/searcharr/releases/tag/v3.0), 2 days ago) - Sonarr &amp; Radarr &amp; Readarr Telegram Bot
+- [git-lfs/git-lfs](https://github.com/git-lfs/git-lfs) ([v3.3.0](https://github.com/git-lfs/git-lfs/releases/tag/v3.3.0), 3 weeks ago) - Git extension for versioning large files
 - [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) ([v1.2.0](https://github.com/charmbracelet/vhs-action/releases/tag/v1.2.0), 3 weeks ago) - Keep your GIFs up to date with VHS &#43; GitHub actions 📽️
-- [bloznelis/typioca](https://github.com/bloznelis/typioca) ([2.0.6](https://github.com/bloznelis/typioca/releases/tag/2.0.6), 3 weeks ago) - Cozy typing speed tester
+- [bloznelis/typioca](https://github.com/bloznelis/typioca) ([2.0.6](https://github.com/bloznelis/typioca/releases/tag/2.0.6), 4 weeks ago) - Cozy typing speed tester
 
 #### 🔨 My recent Pull Requests
 
-- [fix(tq): stop adding transfers to queue after abort](https://github.com/git-lfs/git-lfs/pull/5230) on [git-lfs/git-lfs](https://github.com/git-lfs/git-lfs) (1 day ago)
-- [fix(ssh): use /tmp to place control dir on darwin](https://github.com/git-lfs/git-lfs/pull/5223) on [git-lfs/git-lfs](https://github.com/git-lfs/git-lfs) (5 days ago)
+- [fix(tq): stop adding transfers to queue after abort](https://github.com/git-lfs/git-lfs/pull/5230) on [git-lfs/git-lfs](https://github.com/git-lfs/git-lfs) (2 days ago)
+- [fix(ssh): use /tmp to place control dir on darwin](https://github.com/git-lfs/git-lfs/pull/5223) on [git-lfs/git-lfs](https://github.com/git-lfs/git-lfs) (6 days ago)
 - [fix: pure SSH list lock command name](https://github.com/git-lfs/git-lfs/pull/5219) on [git-lfs/git-lfs](https://github.com/git-lfs/git-lfs) (1 week ago)
-- [feat(server): git daemon](https://github.com/charmbracelet/soft-serve/pull/196) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (4 weeks ago)
-- [feat: add set-window-title command](https://github.com/charmbracelet/bubbletea/pull/611) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (4 weeks ago)
+- [feat(server): git daemon](https://github.com/charmbracelet/soft-serve/pull/196) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 month ago)
+- [feat: add set-window-title command](https://github.com/charmbracelet/bubbletea/pull/611) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 month ago)
 
 #### 📜 My recent blog posts
 
@@ -46,7 +46,7 @@
 
 - [cloudentity/oauth2c](https://github.com/cloudentity/oauth2c) - User-friendly OAuth CLI (1 week ago)
 - [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven. (1 week ago)
-- [maaslalani/nap](https://github.com/maaslalani/nap) - Code snippets in your terminal (4 weeks ago)
+- [maaslalani/nap](https://github.com/maaslalani/nap) - Code snippets in your terminal (1 month ago)
 - [caarlos0/env](https://github.com/caarlos0/env) - A simple and zero-dependencies library to parse environment variables into structs. (1 month ago)
 - [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need. (1 month ago)
 
