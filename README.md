@@ -20,11 +20,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/promwish](https://github.com/charmbracelet/promwish) ([v0.4.0](https://github.com/charmbracelet/promwish/releases/tag/v0.4.0), 2 days ago) - Prometheus middleware for Wish
+- [charmbracelet/promwish](https://github.com/charmbracelet/promwish) ([v0.5.0](https://github.com/charmbracelet/promwish/releases/tag/v0.5.0), today) - Prometheus middleware for Wish
+- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v1.0.0](https://github.com/charmbracelet/wish/releases/tag/v1.0.0), today) - Make SSH apps, just like that! 💫
 - [toddrob99/searcharr](https://github.com/toddrob99/searcharr) ([v3.0](https://github.com/toddrob99/searcharr/releases/tag/v3.0), 3 days ago) - Sonarr &amp; Radarr &amp; Readarr Telegram Bot
 - [git-lfs/git-lfs](https://github.com/git-lfs/git-lfs) ([v3.3.0](https://github.com/git-lfs/git-lfs/releases/tag/v3.3.0), 3 weeks ago) - Git extension for versioning large files
 - [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) ([v1.2.0](https://github.com/charmbracelet/vhs-action/releases/tag/v1.2.0), 3 weeks ago) - Keep your GIFs up to date with VHS &#43; GitHub actions 📽️
-- [bloznelis/typioca](https://github.com/bloznelis/typioca) ([2.0.6](https://github.com/bloznelis/typioca/releases/tag/2.0.6), 4 weeks ago) - Cozy typing speed tester
 
 #### 🔨 My recent Pull Requests
 
