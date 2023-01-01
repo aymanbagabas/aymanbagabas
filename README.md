@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [editor-bootstrap/vim-bootstrap](https://github.com/editor-bootstrap/vim-bootstrap) - Vim Bootstrap is a generator that provides a simple method of generating a configuration for vim / neovim. (3 days ago)
+- [editor-bootstrap/vim-bootstrap](https://github.com/editor-bootstrap/vim-bootstrap) - Vim Bootstrap is a generator that provides a simple method of generating a configuration for vim / neovim. (4 days ago)
 - [charmbracelet/git-lfs-transfer](https://github.com/charmbracelet/git-lfs-transfer) - Server-side implementation of the Git LFS pure-SSH protocol (1 week ago)
 - [git-lfs/git-lfs](https://github.com/git-lfs/git-lfs) - Git extension for versioning large files (1 week ago)
 - [charmbracelet/soft-serve-action](https://github.com/charmbracelet/soft-serve-action) - Synchronize GitHub repositories to your Soft Serve instance 🍦 (3 weeks ago)
@@ -28,7 +28,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Add new theme onedark](https://github.com/editor-bootstrap/vim-bootstrap/pull/425) on [editor-bootstrap/vim-bootstrap](https://github.com/editor-bootstrap/vim-bootstrap) (4 days ago)
+- [Add new theme onedark](https://github.com/editor-bootstrap/vim-bootstrap/pull/425) on [editor-bootstrap/vim-bootstrap](https://github.com/editor-bootstrap/vim-bootstrap) (5 days ago)
 - [fix(tq): stop adding transfers to queue after abort](https://github.com/git-lfs/git-lfs/pull/5230) on [git-lfs/git-lfs](https://github.com/git-lfs/git-lfs) (1 week ago)
 - [fix(ssh): use /tmp to place control dir on darwin](https://github.com/git-lfs/git-lfs/pull/5223) on [git-lfs/git-lfs](https://github.com/git-lfs/git-lfs) (2 weeks ago)
 - [fix: pure SSH list lock command name](https://github.com/git-lfs/git-lfs/pull/5219) on [git-lfs/git-lfs](https://github.com/git-lfs/git-lfs) (3 weeks ago)
@@ -46,7 +46,7 @@
 
 - [charmbracelet/git-lfs-transfer](https://github.com/charmbracelet/git-lfs-transfer) - Server-side implementation of the Git LFS pure-SSH protocol (1 week ago)
 - [cloudentity/oauth2c](https://github.com/cloudentity/oauth2c) - User-friendly OAuth CLI (2 weeks ago)
-- [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven. (2 weeks ago)
+- [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven. (3 weeks ago)
 - [maaslalani/nap](https://github.com/maaslalani/nap) - Code snippets in your terminal (1 month ago)
 - [caarlos0/env](https://github.com/caarlos0/env) - A simple and zero-dependencies library to parse environment variables into structs. (1 month ago)
 
