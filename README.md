@@ -44,7 +44,7 @@
 
 #### ⭐ Recent Stars
 
-- [folke/LazyVim](https://github.com/folke/LazyVim) - Starter template for lazy Neovim users (2 days ago)
+- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) - Starter template for lazy Neovim users (2 days ago)
 - [FiloSottile/passage](https://github.com/FiloSottile/passage) - A fork of password-store (https://www.passwordstore.org) that uses age (https://age-encryption.org) as backend. (2 days ago)
 - [guyfedwards/nom](https://github.com/guyfedwards/nom) - RSS reader for the terminal (3 days ago)
 - [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) - A launch point for your personal nvim configuration (4 days ago)
