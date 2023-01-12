@@ -20,11 +20,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.9.0](https://github.com/charmbracelet/gum/releases/tag/v0.9.0), today) - A tool for glamorous shell scripts 🎀
 - [charmbracelet/promwish](https://github.com/charmbracelet/promwish) ([v0.5.0](https://github.com/charmbracelet/promwish/releases/tag/v0.5.0), 3 weeks ago) - Prometheus middleware for Wish
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v1.0.0](https://github.com/charmbracelet/wish/releases/tag/v1.0.0), 3 weeks ago) - Make SSH apps, just like that! 💫
 - [toddrob99/searcharr](https://github.com/toddrob99/searcharr) ([v3.0](https://github.com/toddrob99/searcharr/releases/tag/v3.0), 3 weeks ago) - Sonarr &amp; Radarr &amp; Readarr Telegram Bot
 - [git-lfs/git-lfs](https://github.com/git-lfs/git-lfs) ([v3.3.0](https://github.com/git-lfs/git-lfs/releases/tag/v3.3.0), 1 month ago) - Git extension for versioning large files
-- [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) ([v1.2.0](https://github.com/charmbracelet/vhs-action/releases/tag/v1.2.0), 1 month ago) - Keep your GIFs up to date with VHS &#43; GitHub actions 📽️
 
 #### 🔨 My recent Pull Requests
 
