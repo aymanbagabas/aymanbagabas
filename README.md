@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.9.0](https://github.com/charmbracelet/gum/releases/tag/v0.9.0), today) - A tool for glamorous shell scripts 🎀
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.9.0](https://github.com/charmbracelet/gum/releases/tag/v0.9.0), 1 day ago) - A tool for glamorous shell scripts 🎀
 - [charmbracelet/promwish](https://github.com/charmbracelet/promwish) ([v0.5.0](https://github.com/charmbracelet/promwish/releases/tag/v0.5.0), 3 weeks ago) - Prometheus middleware for Wish
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v1.0.0](https://github.com/charmbracelet/wish/releases/tag/v1.0.0), 3 weeks ago) - Make SSH apps, just like that! 💫
 - [toddrob99/searcharr](https://github.com/toddrob99/searcharr) ([v3.0](https://github.com/toddrob99/searcharr/releases/tag/v3.0), 3 weeks ago) - Sonarr &amp; Radarr &amp; Readarr Telegram Bot
@@ -28,8 +28,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [fix(ssh): unable to pass a custom HostKeyCallback func](https://github.com/go-git/go-git/pull/655) on [go-git/go-git](https://github.com/go-git/go-git) (3 days ago)
-- [RFC: Report extra mouse buttons, issue 10689](https://github.com/gnachman/iTerm2/pull/481) on [gnachman/iTerm2](https://github.com/gnachman/iTerm2) (5 days ago)
+- [fix(ssh): unable to pass a custom HostKeyCallback func](https://github.com/go-git/go-git/pull/655) on [go-git/go-git](https://github.com/go-git/go-git) (4 days ago)
+- [RFC: Report extra mouse buttons, issue 10689](https://github.com/gnachman/iTerm2/pull/481) on [gnachman/iTerm2](https://github.com/gnachman/iTerm2) (6 days ago)
 - [Add new theme onedark](https://github.com/editor-bootstrap/vim-bootstrap/pull/425) on [editor-bootstrap/vim-bootstrap](https://github.com/editor-bootstrap/vim-bootstrap) (2 weeks ago)
 - [fix(tq): stop adding transfers to queue after abort](https://github.com/git-lfs/git-lfs/pull/5230) on [git-lfs/git-lfs](https://github.com/git-lfs/git-lfs) (3 weeks ago)
 - [fix(ssh): use /tmp to place control dir on darwin](https://github.com/git-lfs/git-lfs/pull/5223) on [git-lfs/git-lfs](https://github.com/git-lfs/git-lfs) (4 weeks ago)
