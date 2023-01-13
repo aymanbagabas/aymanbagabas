@@ -20,10 +20,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [toddrob99/searcharr](https://github.com/toddrob99/searcharr) ([v3.2](https://github.com/toddrob99/searcharr/releases/tag/v3.2), today) - Sonarr &amp; Radarr &amp; Readarr Telegram Bot
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.9.0](https://github.com/charmbracelet/gum/releases/tag/v0.9.0), 1 day ago) - A tool for glamorous shell scripts 🎀
 - [charmbracelet/promwish](https://github.com/charmbracelet/promwish) ([v0.5.0](https://github.com/charmbracelet/promwish/releases/tag/v0.5.0), 3 weeks ago) - Prometheus middleware for Wish
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v1.0.0](https://github.com/charmbracelet/wish/releases/tag/v1.0.0), 3 weeks ago) - Make SSH apps, just like that! 💫
-- [toddrob99/searcharr](https://github.com/toddrob99/searcharr) ([v3.0](https://github.com/toddrob99/searcharr/releases/tag/v3.0), 3 weeks ago) - Sonarr &amp; Radarr &amp; Readarr Telegram Bot
 - [git-lfs/git-lfs](https://github.com/git-lfs/git-lfs) ([v3.3.0](https://github.com/git-lfs/git-lfs/releases/tag/v3.3.0), 1 month ago) - Git extension for versioning large files
 
 #### 🔨 My recent Pull Requests
