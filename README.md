@@ -4,9 +4,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [editor-bootstrap/vim-bootstrap](https://github.com/editor-bootstrap/vim-bootstrap) - Vim Bootstrap is a generator that provides a simple method of generating a configuration for vim / neovim. (2 weeks ago)
-- [git-lfs/git-lfs](https://github.com/git-lfs/git-lfs) - Git extension for versioning large files (4 weeks ago)
-- [charmbracelet/git-lfs-transfer](https://github.com/charmbracelet/git-lfs-transfer) - Server-side implementation of the Git LFS pure-SSH protocol (4 weeks ago)
+- [editor-bootstrap/vim-bootstrap](https://github.com/editor-bootstrap/vim-bootstrap) - Vim Bootstrap is a generator that provides a simple method of generating a configuration for vim / neovim. (3 weeks ago)
+- [git-lfs/git-lfs](https://github.com/git-lfs/git-lfs) - Git extension for versioning large files (1 month ago)
+- [charmbracelet/git-lfs-transfer](https://github.com/charmbracelet/git-lfs-transfer) - Server-side implementation of the Git LFS pure-SSH protocol (1 month ago)
 - [charmbracelet/soft-serve-action](https://github.com/charmbracelet/soft-serve-action) - Synchronize GitHub repositories to your Soft Serve instance 🍦 (1 month ago)
 - [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) - Keep your GIFs up to date with VHS &#43; GitHub actions 📽️ (1 month ago)
 
@@ -20,8 +20,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [toddrob99/searcharr](https://github.com/toddrob99/searcharr) ([v3.2](https://github.com/toddrob99/searcharr/releases/tag/v3.2), 4 days ago) - Sonarr &amp; Radarr &amp; Readarr Telegram Bot
-- [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.9.0](https://github.com/charmbracelet/gum/releases/tag/v0.9.0), 5 days ago) - A tool for glamorous shell scripts 🎀
+- [toddrob99/searcharr](https://github.com/toddrob99/searcharr) ([v3.2](https://github.com/toddrob99/searcharr/releases/tag/v3.2), 5 days ago) - Sonarr &amp; Radarr &amp; Readarr Telegram Bot
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.9.0](https://github.com/charmbracelet/gum/releases/tag/v0.9.0), 6 days ago) - A tool for glamorous shell scripts 🎀
 - [charmbracelet/promwish](https://github.com/charmbracelet/promwish) ([v0.5.0](https://github.com/charmbracelet/promwish/releases/tag/v0.5.0), 3 weeks ago) - Prometheus middleware for Wish
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v1.0.0](https://github.com/charmbracelet/wish/releases/tag/v1.0.0), 3 weeks ago) - Make SSH apps, just like that! 💫
 - [git-lfs/git-lfs](https://github.com/git-lfs/git-lfs) ([v3.3.0](https://github.com/git-lfs/git-lfs/releases/tag/v3.3.0), 1 month ago) - Git extension for versioning large files
@@ -31,7 +31,7 @@
 - [fix(ssh): unable to pass a custom HostKeyCallback func](https://github.com/go-git/go-git/pull/655) on [go-git/go-git](https://github.com/go-git/go-git) (1 week ago)
 - [RFC: Report extra mouse buttons, issue 10689](https://github.com/gnachman/iTerm2/pull/481) on [gnachman/iTerm2](https://github.com/gnachman/iTerm2) (1 week ago)
 - [Add new theme onedark](https://github.com/editor-bootstrap/vim-bootstrap/pull/425) on [editor-bootstrap/vim-bootstrap](https://github.com/editor-bootstrap/vim-bootstrap) (3 weeks ago)
-- [fix(tq): stop adding transfers to queue after abort](https://github.com/git-lfs/git-lfs/pull/5230) on [git-lfs/git-lfs](https://github.com/git-lfs/git-lfs) (4 weeks ago)
+- [fix(tq): stop adding transfers to queue after abort](https://github.com/git-lfs/git-lfs/pull/5230) on [git-lfs/git-lfs](https://github.com/git-lfs/git-lfs) (1 month ago)
 - [fix(ssh): use /tmp to place control dir on darwin](https://github.com/git-lfs/git-lfs/pull/5223) on [git-lfs/git-lfs](https://github.com/git-lfs/git-lfs) (1 month ago)
 
 #### 📜 My recent blog posts
@@ -46,9 +46,9 @@
 
 - [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) - Neovim config for the lazy (1 week ago)
 - [FiloSottile/passage](https://github.com/FiloSottile/passage) - A fork of password-store (https://www.passwordstore.org) that uses age (https://age-encryption.org) as backend. (1 week ago)
-- [guyfedwards/nom](https://github.com/guyfedwards/nom) - RSS reader for the terminal (1 week ago)
+- [guyfedwards/nom](https://github.com/guyfedwards/nom) - RSS reader for the terminal (2 weeks ago)
 - [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) - A launch point for your personal nvim configuration (2 weeks ago)
-- [charmbracelet/git-lfs-transfer](https://github.com/charmbracelet/git-lfs-transfer) - Server-side implementation of the Git LFS pure-SSH protocol (3 weeks ago)
+- [charmbracelet/git-lfs-transfer](https://github.com/charmbracelet/git-lfs-transfer) - Server-side implementation of the Git LFS pure-SSH protocol (4 weeks ago)
 
 #### 📫 How to reach me
 
