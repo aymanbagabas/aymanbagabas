@@ -20,10 +20,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [toddrob99/searcharr](https://github.com/toddrob99/searcharr) ([v3.2](https://github.com/toddrob99/searcharr/releases/tag/v3.2), 5 days ago) - Sonarr &amp; Radarr &amp; Readarr Telegram Bot
-- [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.9.0](https://github.com/charmbracelet/gum/releases/tag/v0.9.0), 6 days ago) - A tool for glamorous shell scripts 🎀
-- [charmbracelet/promwish](https://github.com/charmbracelet/promwish) ([v0.5.0](https://github.com/charmbracelet/promwish/releases/tag/v0.5.0), 3 weeks ago) - Prometheus middleware for Wish
-- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v1.0.0](https://github.com/charmbracelet/wish/releases/tag/v1.0.0), 3 weeks ago) - Make SSH apps, just like that! 💫
+- [toddrob99/searcharr](https://github.com/toddrob99/searcharr) ([v3.2](https://github.com/toddrob99/searcharr/releases/tag/v3.2), 6 days ago) - Sonarr &amp; Radarr &amp; Readarr Telegram Bot
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.9.0](https://github.com/charmbracelet/gum/releases/tag/v0.9.0), 1 week ago) - A tool for glamorous shell scripts 🎀
+- [charmbracelet/promwish](https://github.com/charmbracelet/promwish) ([v0.5.0](https://github.com/charmbracelet/promwish/releases/tag/v0.5.0), 4 weeks ago) - Prometheus middleware for Wish
+- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v1.0.0](https://github.com/charmbracelet/wish/releases/tag/v1.0.0), 4 weeks ago) - Make SSH apps, just like that! 💫
 - [git-lfs/git-lfs](https://github.com/git-lfs/git-lfs) ([v3.3.0](https://github.com/git-lfs/git-lfs/releases/tag/v3.3.0), 1 month ago) - Git extension for versioning large files
 
 #### 🔨 My recent Pull Requests
@@ -38,14 +38,14 @@
 
 - [Blue Mountain](https://aymanbagabas.com/blog/2022/06/02/blue-mountain.html) (7 months ago)
 - [Import Notion Pages to Jekyll](https://aymanbagabas.com/blog/2022/03/29/import-notion-pages-to-jekyll.html) (9 months ago)
-- [Nyan Cat Over SSH](https://aymanbagabas.com/blog/2022/03/25/nyan-cat-over-ssh.html) (9 months ago)
+- [Nyan Cat Over SSH](https://aymanbagabas.com/blog/2022/03/25/nyan-cat-over-ssh.html) (10 months ago)
 - [Walk by the pond](https://aymanbagabas.com/blog/2022/03/10/walk-by-the-pond.html) (10 months ago)
 - [Run native C/C&#43;&#43; code in the browser using Emscripten](https://aymanbagabas.com/blog/2020/11/18/run-native-c-c&#43;&#43;-code-in-the-browser-using-emscripten.html) (2 years ago)
 
 #### ⭐ Recent Stars
 
-- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) - Neovim config for the lazy (1 week ago)
-- [FiloSottile/passage](https://github.com/FiloSottile/passage) - A fork of password-store (https://www.passwordstore.org) that uses age (https://age-encryption.org) as backend. (1 week ago)
+- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) - Neovim config for the lazy (2 weeks ago)
+- [FiloSottile/passage](https://github.com/FiloSottile/passage) - A fork of password-store (https://www.passwordstore.org) that uses age (https://age-encryption.org) as backend. (2 weeks ago)
 - [guyfedwards/nom](https://github.com/guyfedwards/nom) - RSS reader for the terminal (2 weeks ago)
 - [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) - A launch point for your personal nvim configuration (2 weeks ago)
 - [charmbracelet/git-lfs-transfer](https://github.com/charmbracelet/git-lfs-transfer) - Server-side implementation of the Git LFS pure-SSH protocol (4 weeks ago)
