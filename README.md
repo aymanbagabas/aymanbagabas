@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [toddrob99/searcharr](https://github.com/toddrob99/searcharr) ([v3.2](https://github.com/toddrob99/searcharr/releases/tag/v3.2), 6 days ago) - Sonarr &amp; Radarr &amp; Readarr Telegram Bot
+- [toddrob99/searcharr](https://github.com/toddrob99/searcharr) ([v3.2](https://github.com/toddrob99/searcharr/releases/tag/v3.2), 1 week ago) - Sonarr &amp; Radarr &amp; Readarr Telegram Bot
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.9.0](https://github.com/charmbracelet/gum/releases/tag/v0.9.0), 1 week ago) - A tool for glamorous shell scripts 🎀
 - [charmbracelet/promwish](https://github.com/charmbracelet/promwish) ([v0.5.0](https://github.com/charmbracelet/promwish/releases/tag/v0.5.0), 4 weeks ago) - Prometheus middleware for Wish
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v1.0.0](https://github.com/charmbracelet/wish/releases/tag/v1.0.0), 4 weeks ago) - Make SSH apps, just like that! 💫
@@ -48,7 +48,7 @@
 - [FiloSottile/passage](https://github.com/FiloSottile/passage) - A fork of password-store (https://www.passwordstore.org) that uses age (https://age-encryption.org) as backend. (2 weeks ago)
 - [guyfedwards/nom](https://github.com/guyfedwards/nom) - RSS reader for the terminal (2 weeks ago)
 - [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) - A launch point for your personal nvim configuration (2 weeks ago)
-- [charmbracelet/git-lfs-transfer](https://github.com/charmbracelet/git-lfs-transfer) - Server-side implementation of the Git LFS pure-SSH protocol (4 weeks ago)
+- [charmbracelet/git-lfs-transfer](https://github.com/charmbracelet/git-lfs-transfer) - Server-side implementation of the Git LFS pure-SSH protocol (1 month ago)
 
 #### 📫 How to reach me
 
