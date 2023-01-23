@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.15.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.15.0), 2 days ago) - TUI components for Bubble Tea 🫧
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.15.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.15.0), 3 days ago) - TUI components for Bubble Tea 🫧
 - [toddrob99/searcharr](https://github.com/toddrob99/searcharr) ([v3.2](https://github.com/toddrob99/searcharr/releases/tag/v3.2), 1 week ago) - Sonarr &amp; Radarr &amp; Readarr Telegram Bot
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.9.0](https://github.com/charmbracelet/gum/releases/tag/v0.9.0), 1 week ago) - A tool for glamorous shell scripts 🎀
 - [charmbracelet/promwish](https://github.com/charmbracelet/promwish) ([v0.5.0](https://github.com/charmbracelet/promwish/releases/tag/v0.5.0), 1 month ago) - Prometheus middleware for Wish
@@ -28,7 +28,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [fix(ssh): unable to pass a custom HostKeyCallback func](https://github.com/go-git/go-git/pull/655) on [go-git/go-git](https://github.com/go-git/go-git) (1 week ago)
+- [fix(ssh): unable to pass a custom HostKeyCallback func](https://github.com/go-git/go-git/pull/655) on [go-git/go-git](https://github.com/go-git/go-git) (2 weeks ago)
 - [RFC: Report extra mouse buttons, issue 10689](https://github.com/gnachman/iTerm2/pull/481) on [gnachman/iTerm2](https://github.com/gnachman/iTerm2) (2 weeks ago)
 - [Add new theme onedark](https://github.com/editor-bootstrap/vim-bootstrap/pull/425) on [editor-bootstrap/vim-bootstrap](https://github.com/editor-bootstrap/vim-bootstrap) (3 weeks ago)
 - [fix(tq): stop adding transfers to queue after abort](https://github.com/git-lfs/git-lfs/pull/5230) on [git-lfs/git-lfs](https://github.com/git-lfs/git-lfs) (1 month ago)
@@ -37,7 +37,7 @@
 #### 📜 My recent blog posts
 
 - [Blue Mountain](https://aymanbagabas.com/blog/2022/06/02/blue-mountain.html) (7 months ago)
-- [Import Notion Pages to Jekyll](https://aymanbagabas.com/blog/2022/03/29/import-notion-pages-to-jekyll.html) (9 months ago)
+- [Import Notion Pages to Jekyll](https://aymanbagabas.com/blog/2022/03/29/import-notion-pages-to-jekyll.html) (10 months ago)
 - [Nyan Cat Over SSH](https://aymanbagabas.com/blog/2022/03/25/nyan-cat-over-ssh.html) (10 months ago)
 - [Walk by the pond](https://aymanbagabas.com/blog/2022/03/10/walk-by-the-pond.html) (10 months ago)
 - [Run native C/C&#43;&#43; code in the browser using Emscripten](https://aymanbagabas.com/blog/2020/11/18/run-native-c-c&#43;&#43;-code-in-the-browser-using-emscripten.html) (2 years ago)
