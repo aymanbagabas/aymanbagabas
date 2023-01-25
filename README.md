@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [editor-bootstrap/vim-bootstrap](https://github.com/editor-bootstrap/vim-bootstrap) - Vim Bootstrap is a generator that provides a simple method of generating a configuration for vim / neovim. (3 weeks ago)
+- [editor-bootstrap/vim-bootstrap](https://github.com/editor-bootstrap/vim-bootstrap) - Vim Bootstrap is a generator that provides a simple method of generating a configuration for vim / neovim. (4 weeks ago)
 - [git-lfs/git-lfs](https://github.com/git-lfs/git-lfs) - Git extension for versioning large files (1 month ago)
 - [charmbracelet/git-lfs-transfer](https://github.com/charmbracelet/git-lfs-transfer) - Server-side implementation of the Git LFS pure-SSH protocol (1 month ago)
 - [charmbracelet/soft-serve-action](https://github.com/charmbracelet/soft-serve-action) - Synchronize GitHub repositories to your Soft Serve instance 🍦 (1 month ago)
@@ -20,15 +20,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.9.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.9.0), today) - The SSH directory ✨
-- [charmbracelet/glow](https://github.com/charmbracelet/glow) ([v1.5.0](https://github.com/charmbracelet/glow/releases/tag/v1.5.0), 1 day ago) - Render markdown on the CLI, with pizzazz! 💅🏻
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.15.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.15.0), 4 days ago) - TUI components for Bubble Tea 🫧
+- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.9.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.9.0), 1 day ago) - The SSH directory ✨
+- [charmbracelet/glow](https://github.com/charmbracelet/glow) ([v1.5.0](https://github.com/charmbracelet/glow/releases/tag/v1.5.0), 2 days ago) - Render markdown on the CLI, with pizzazz! 💅🏻
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.15.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.15.0), 5 days ago) - TUI components for Bubble Tea 🫧
 - [toddrob99/searcharr](https://github.com/toddrob99/searcharr) ([v3.2](https://github.com/toddrob99/searcharr/releases/tag/v3.2), 1 week ago) - Sonarr &amp; Radarr &amp; Readarr Telegram Bot
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.9.0](https://github.com/charmbracelet/gum/releases/tag/v0.9.0), 1 week ago) - A tool for glamorous shell scripts 🎀
 
 #### 🔨 My recent Pull Requests
 
-- [feat: add govulncheck, ruleguard, and semgrep](https://github.com/charmbracelet/meta/pull/71) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (today)
+- [feat: add govulncheck, ruleguard, and semgrep](https://github.com/charmbracelet/meta/pull/71) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (1 day ago)
 - [fix(ssh): unable to pass a custom HostKeyCallback func](https://github.com/go-git/go-git/pull/655) on [go-git/go-git](https://github.com/go-git/go-git) (2 weeks ago)
 - [RFC: Report extra mouse buttons, issue 10689](https://github.com/gnachman/iTerm2/pull/481) on [gnachman/iTerm2](https://github.com/gnachman/iTerm2) (2 weeks ago)
 - [Add new theme onedark](https://github.com/editor-bootstrap/vim-bootstrap/pull/425) on [editor-bootstrap/vim-bootstrap](https://github.com/editor-bootstrap/vim-bootstrap) (4 weeks ago)
@@ -46,7 +46,7 @@
 
 - [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) - Neovim config for the lazy (2 weeks ago)
 - [FiloSottile/passage](https://github.com/FiloSottile/passage) - A fork of password-store (https://www.passwordstore.org) that uses age (https://age-encryption.org) as backend. (2 weeks ago)
-- [guyfedwards/nom](https://github.com/guyfedwards/nom) - RSS reader for the terminal (2 weeks ago)
+- [guyfedwards/nom](https://github.com/guyfedwards/nom) - RSS reader for the terminal (3 weeks ago)
 - [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) - A launch point for your personal nvim configuration (3 weeks ago)
 - [charmbracelet/git-lfs-transfer](https://github.com/charmbracelet/git-lfs-transfer) - Server-side implementation of the Git LFS pure-SSH protocol (1 month ago)
 
