@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix(go): remove go.mod exclude directives](https://github.com/charmbracelet/soft-serve/pull/214) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (today)
 - [feat: add govulncheck, ruleguard, and semgrep](https://github.com/charmbracelet/meta/pull/71) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (6 days ago)
 - [fix(ssh): unable to pass a custom HostKeyCallback func](https://github.com/go-git/go-git/pull/655) on [go-git/go-git](https://github.com/go-git/go-git) (3 weeks ago)
 - [RFC: Report extra mouse buttons, issue 10689](https://github.com/gnachman/iTerm2/pull/481) on [gnachman/iTerm2](https://github.com/gnachman/iTerm2) (3 weeks ago)
 - [Add new theme onedark](https://github.com/editor-bootstrap/vim-bootstrap/pull/425) on [editor-bootstrap/vim-bootstrap](https://github.com/editor-bootstrap/vim-bootstrap) (1 month ago)
-- [fix(tq): stop adding transfers to queue after abort](https://github.com/git-lfs/git-lfs/pull/5230) on [git-lfs/git-lfs](https://github.com/git-lfs/git-lfs) (1 month ago)
 
 #### 📜 My recent blog posts
 
