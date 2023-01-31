@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [chore(test): add mouse, copy, and hyperlink tests](https://github.com/muesli/termenv/pull/112) on [muesli/termenv](https://github.com/muesli/termenv) (today)
+- [Add GoReleaser and build for other OSs](https://github.com/muesli/termenv/pull/111) on [muesli/termenv](https://github.com/muesli/termenv) (today)
 - [Copy to primary clipboard](https://github.com/muesli/termenv/pull/110) on [muesli/termenv](https://github.com/muesli/termenv) (today)
 - [Skip TTY checks](https://github.com/muesli/termenv/pull/109) on [muesli/termenv](https://github.com/muesli/termenv) (today)
 - [fix(go): remove go.mod exclude directives](https://github.com/charmbracelet/soft-serve/pull/214) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 day ago)
-- [feat: add govulncheck, ruleguard, and semgrep](https://github.com/charmbracelet/meta/pull/71) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (1 week ago)
-- [fix(ssh): unable to pass a custom HostKeyCallback func](https://github.com/go-git/go-git/pull/655) on [go-git/go-git](https://github.com/go-git/go-git) (3 weeks ago)
 
 #### 📜 My recent blog posts
 
