@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (today)
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (1 day ago)
 - [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (5 days ago)
 - [gnachman/iTerm2](https://github.com/gnachman/iTerm2) - iTerm2 is a terminal emulator for Mac OS X that does amazing things. (3 weeks ago)
 - [editor-bootstrap/vim-bootstrap](https://github.com/editor-bootstrap/vim-bootstrap) - Vim Bootstrap is a generator that provides a simple method of generating a configuration for vim / neovim. (1 month ago)
-- [charmbracelet/git-lfs-transfer](https://github.com/charmbracelet/git-lfs-transfer) - Server-side implementation of the Git LFS pure-SSH protocol (1 month ago)
 
 #### 🌱 My latest projects
 
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Copy to primary clipboard](https://github.com/muesli/termenv/pull/110) on [muesli/termenv](https://github.com/muesli/termenv) (today)
 - [Skip TTY checks](https://github.com/muesli/termenv/pull/109) on [muesli/termenv](https://github.com/muesli/termenv) (today)
 - [fix(go): remove go.mod exclude directives](https://github.com/charmbracelet/soft-serve/pull/214) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 day ago)
 - [feat: add govulncheck, ruleguard, and semgrep](https://github.com/charmbracelet/meta/pull/71) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (1 week ago)
 - [fix(ssh): unable to pass a custom HostKeyCallback func](https://github.com/go-git/go-git/pull/655) on [go-git/go-git](https://github.com/go-git/go-git) (3 weeks ago)
-- [RFC: Report extra mouse buttons, issue 10689](https://github.com/gnachman/iTerm2/pull/481) on [gnachman/iTerm2](https://github.com/gnachman/iTerm2) (3 weeks ago)
 
 #### 📜 My recent blog posts
 
