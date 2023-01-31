@@ -20,11 +20,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [bloznelis/typioca](https://github.com/bloznelis/typioca) ([2.0.8](https://github.com/bloznelis/typioca/releases/tag/2.0.8), today) - Cozy typing speed tester
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.4.5](https://github.com/charmbracelet/soft-serve/releases/tag/v0.4.5), 1 day ago) - A tasty, self-hostable Git server for the command line🍦
 - [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.9.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.9.0), 1 week ago) - The SSH directory ✨
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) ([v1.5.0](https://github.com/charmbracelet/glow/releases/tag/v1.5.0), 1 week ago) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.15.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.15.0), 1 week ago) - TUI components for Bubble Tea 🫧
-- [toddrob99/searcharr](https://github.com/toddrob99/searcharr) ([v3.2](https://github.com/toddrob99/searcharr/releases/tag/v3.2), 2 weeks ago) - Sonarr &amp; Radarr &amp; Readarr Telegram Bot
 
 #### 🔨 My recent Pull Requests
 
