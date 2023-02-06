@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Underline Styles &amp; Colors](https://github.com/muesli/termenv/pull/114) on [muesli/termenv](https://github.com/muesli/termenv) (today)
+- [ref(color): simplify the color interface](https://github.com/muesli/termenv/pull/113) on [muesli/termenv](https://github.com/muesli/termenv) (today)
 - [Report mouse button 10 &amp; 11](https://github.com/gnachman/iTerm2/pull/484) on [gnachman/iTerm2](https://github.com/gnachman/iTerm2) (2 days ago)
 - [chore(test): add mouse, copy, and hyperlink tests](https://github.com/muesli/termenv/pull/112) on [muesli/termenv](https://github.com/muesli/termenv) (6 days ago)
 - [Add GoReleaser and build for other OSs](https://github.com/muesli/termenv/pull/111) on [muesli/termenv](https://github.com/muesli/termenv) (6 days ago)
-- [Copy to primary clipboard](https://github.com/muesli/termenv/pull/110) on [muesli/termenv](https://github.com/muesli/termenv) (6 days ago)
-- [Skip TTY checks](https://github.com/muesli/termenv/pull/109) on [muesli/termenv](https://github.com/muesli/termenv) (6 days ago)
 
 #### 📜 My recent blog posts
 
