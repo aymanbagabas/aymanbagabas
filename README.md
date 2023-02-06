@@ -4,10 +4,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (3 days ago)
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (6 days ago)
+- [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (4 days ago)
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (1 week ago)
 - [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (1 week ago)
-- [gnachman/iTerm2](https://github.com/gnachman/iTerm2) - iTerm2 is a terminal emulator for Mac OS X that does amazing things. (4 weeks ago)
+- [gnachman/iTerm2](https://github.com/gnachman/iTerm2) - iTerm2 is a terminal emulator for Mac OS X that does amazing things. (1 month ago)
 - [editor-bootstrap/vim-bootstrap](https://github.com/editor-bootstrap/vim-bootstrap) - Vim Bootstrap is a generator that provides a simple method of generating a configuration for vim / neovim. (1 month ago)
 
 #### 🌱 My latest projects
@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [toddrob99/searcharr](https://github.com/toddrob99/searcharr) ([v3.2.1](https://github.com/toddrob99/searcharr/releases/tag/v3.2.1), 2 days ago) - Sonarr &amp; Radarr &amp; Readarr Telegram Bot
-- [bloznelis/typioca](https://github.com/bloznelis/typioca) ([2.0.8](https://github.com/bloznelis/typioca/releases/tag/2.0.8), 5 days ago) - Cozy typing speed tester
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.4.5](https://github.com/charmbracelet/soft-serve/releases/tag/v0.4.5), 6 days ago) - A tasty, self-hostable Git server for the command line🍦
+- [toddrob99/searcharr](https://github.com/toddrob99/searcharr) ([v3.2.1](https://github.com/toddrob99/searcharr/releases/tag/v3.2.1), 3 days ago) - Sonarr &amp; Radarr &amp; Readarr Telegram Bot
+- [bloznelis/typioca](https://github.com/bloznelis/typioca) ([2.0.8](https://github.com/bloznelis/typioca/releases/tag/2.0.8), 6 days ago) - Cozy typing speed tester
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.4.5](https://github.com/charmbracelet/soft-serve/releases/tag/v0.4.5), 1 week ago) - A tasty, self-hostable Git server for the command line🍦
 - [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.9.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.9.0), 1 week ago) - The SSH directory ✨
-- [charmbracelet/glow](https://github.com/charmbracelet/glow) ([v1.5.0](https://github.com/charmbracelet/glow/releases/tag/v1.5.0), 1 week ago) - Render markdown on the CLI, with pizzazz! 💅🏻
+- [charmbracelet/glow](https://github.com/charmbracelet/glow) ([v1.5.0](https://github.com/charmbracelet/glow/releases/tag/v1.5.0), 2 weeks ago) - Render markdown on the CLI, with pizzazz! 💅🏻
 
 #### 🔨 My recent Pull Requests
 
-- [Report mouse button 10 &amp; 11](https://github.com/gnachman/iTerm2/pull/484) on [gnachman/iTerm2](https://github.com/gnachman/iTerm2) (1 day ago)
-- [chore(test): add mouse, copy, and hyperlink tests](https://github.com/muesli/termenv/pull/112) on [muesli/termenv](https://github.com/muesli/termenv) (5 days ago)
-- [Add GoReleaser and build for other OSs](https://github.com/muesli/termenv/pull/111) on [muesli/termenv](https://github.com/muesli/termenv) (5 days ago)
-- [Copy to primary clipboard](https://github.com/muesli/termenv/pull/110) on [muesli/termenv](https://github.com/muesli/termenv) (5 days ago)
-- [Skip TTY checks](https://github.com/muesli/termenv/pull/109) on [muesli/termenv](https://github.com/muesli/termenv) (5 days ago)
+- [Report mouse button 10 &amp; 11](https://github.com/gnachman/iTerm2/pull/484) on [gnachman/iTerm2](https://github.com/gnachman/iTerm2) (2 days ago)
+- [chore(test): add mouse, copy, and hyperlink tests](https://github.com/muesli/termenv/pull/112) on [muesli/termenv](https://github.com/muesli/termenv) (6 days ago)
+- [Add GoReleaser and build for other OSs](https://github.com/muesli/termenv/pull/111) on [muesli/termenv](https://github.com/muesli/termenv) (6 days ago)
+- [Copy to primary clipboard](https://github.com/muesli/termenv/pull/110) on [muesli/termenv](https://github.com/muesli/termenv) (6 days ago)
+- [Skip TTY checks](https://github.com/muesli/termenv/pull/109) on [muesli/termenv](https://github.com/muesli/termenv) (6 days ago)
 
 #### 📜 My recent blog posts
 
@@ -44,7 +44,7 @@
 
 #### ⭐ Recent Stars
 
-- [knz/lipgloss-convert](https://github.com/knz/lipgloss-convert) - String conversion functions for lipgloss Styles (2 days ago)
+- [knz/lipgloss-convert](https://github.com/knz/lipgloss-convert) - String conversion functions for lipgloss Styles (3 days ago)
 - [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) - Neovim config for the lazy (1 month ago)
 - [FiloSottile/passage](https://github.com/FiloSottile/passage) - A fork of password-store (https://www.passwordstore.org) that uses age (https://age-encryption.org) as backend. (1 month ago)
 - [guyfedwards/nom](https://github.com/guyfedwards/nom) - RSS reader for the terminal (1 month ago)
