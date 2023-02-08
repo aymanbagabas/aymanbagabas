@@ -20,11 +20,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.23.2](https://github.com/charmbracelet/bubbletea/releases/tag/v0.23.2), today) - A powerful little TUI framework 🏗
 - [muesli/termenv](https://github.com/muesli/termenv) ([v0.14.0](https://github.com/muesli/termenv/releases/tag/v0.14.0), 2 days ago) - Advanced ANSI style &amp; color support for your terminal applications
 - [toddrob99/searcharr](https://github.com/toddrob99/searcharr) ([v3.2.1](https://github.com/toddrob99/searcharr/releases/tag/v3.2.1), 5 days ago) - Sonarr &amp; Radarr &amp; Readarr Telegram Bot
 - [bloznelis/typioca](https://github.com/bloznelis/typioca) ([2.0.8](https://github.com/bloznelis/typioca/releases/tag/2.0.8), 1 week ago) - Cozy typing speed tester
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.4.5](https://github.com/charmbracelet/soft-serve/releases/tag/v0.4.5), 1 week ago) - A tasty, self-hostable Git server for the command line🍦
-- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.9.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.9.0), 2 weeks ago) - The SSH directory ✨
 
 #### 🔨 My recent Pull Requests
 
