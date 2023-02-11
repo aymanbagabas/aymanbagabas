@@ -20,17 +20,17 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.23.2](https://github.com/charmbracelet/bubbletea/releases/tag/v0.23.2), 2 days ago) - A powerful little TUI framework 🏗
-- [muesli/termenv](https://github.com/muesli/termenv) ([v0.14.0](https://github.com/muesli/termenv/releases/tag/v0.14.0), 4 days ago) - Advanced ANSI style &amp; color support for your terminal applications
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.23.2](https://github.com/charmbracelet/bubbletea/releases/tag/v0.23.2), 3 days ago) - A powerful little TUI framework 🏗
+- [muesli/termenv](https://github.com/muesli/termenv) ([v0.14.0](https://github.com/muesli/termenv/releases/tag/v0.14.0), 5 days ago) - Advanced ANSI style &amp; color support for your terminal applications
 - [toddrob99/searcharr](https://github.com/toddrob99/searcharr) ([v3.2.1](https://github.com/toddrob99/searcharr/releases/tag/v3.2.1), 1 week ago) - Sonarr &amp; Radarr &amp; Readarr Telegram Bot
 - [bloznelis/typioca](https://github.com/bloznelis/typioca) ([2.0.8](https://github.com/bloznelis/typioca/releases/tag/2.0.8), 1 week ago) - Cozy typing speed tester
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.4.5](https://github.com/charmbracelet/soft-serve/releases/tag/v0.4.5), 1 week ago) - A tasty, self-hostable Git server for the command line🍦
 
 #### 🔨 My recent Pull Requests
 
-- [Underline Styles &amp; Colors](https://github.com/muesli/termenv/pull/114) on [muesli/termenv](https://github.com/muesli/termenv) (4 days ago)
-- [ref(color): simplify the color interface](https://github.com/muesli/termenv/pull/113) on [muesli/termenv](https://github.com/muesli/termenv) (4 days ago)
-- [Report mouse button 10 &amp; 11](https://github.com/gnachman/iTerm2/pull/484) on [gnachman/iTerm2](https://github.com/gnachman/iTerm2) (6 days ago)
+- [Underline Styles &amp; Colors](https://github.com/muesli/termenv/pull/114) on [muesli/termenv](https://github.com/muesli/termenv) (5 days ago)
+- [ref(color): simplify the color interface](https://github.com/muesli/termenv/pull/113) on [muesli/termenv](https://github.com/muesli/termenv) (5 days ago)
+- [Report mouse button 10 &amp; 11](https://github.com/gnachman/iTerm2/pull/484) on [gnachman/iTerm2](https://github.com/gnachman/iTerm2) (1 week ago)
 - [chore(test): add mouse, copy, and hyperlink tests](https://github.com/muesli/termenv/pull/112) on [muesli/termenv](https://github.com/muesli/termenv) (1 week ago)
 - [Add GoReleaser and build for other OSs](https://github.com/muesli/termenv/pull/111) on [muesli/termenv](https://github.com/muesli/termenv) (1 week ago)
 
