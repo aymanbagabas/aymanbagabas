@@ -20,11 +20,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [gogs/git-module](https://github.com/gogs/git-module) ([v1.7.2](https://github.com/gogs/git-module/releases/tag/v1.7.2), today) - Package git-module is a Go module for Git access through shell commands
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.23.2](https://github.com/charmbracelet/bubbletea/releases/tag/v0.23.2), 3 days ago) - A powerful little TUI framework 🏗
 - [muesli/termenv](https://github.com/muesli/termenv) ([v0.14.0](https://github.com/muesli/termenv/releases/tag/v0.14.0), 5 days ago) - Advanced ANSI style &amp; color support for your terminal applications
 - [toddrob99/searcharr](https://github.com/toddrob99/searcharr) ([v3.2.1](https://github.com/toddrob99/searcharr/releases/tag/v3.2.1), 1 week ago) - Sonarr &amp; Radarr &amp; Readarr Telegram Bot
 - [bloznelis/typioca](https://github.com/bloznelis/typioca) ([2.0.8](https://github.com/bloznelis/typioca/releases/tag/2.0.8), 1 week ago) - Cozy typing speed tester
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.4.5](https://github.com/charmbracelet/soft-serve/releases/tag/v0.4.5), 1 week ago) - A tasty, self-hostable Git server for the command line🍦
 
 #### 🔨 My recent Pull Requests
 
