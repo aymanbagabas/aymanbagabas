@@ -4,9 +4,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - Nothing like ~ (today)
-- [navarasu/onedark.nvim](https://github.com/navarasu/onedark.nvim) - One dark and light colorscheme for neovim &gt;= 0.5.0 written in lua based on Atom&#39;s One Dark and Light theme. Additionally, it comes with 5 color variant styles (1 day ago)
-- [gogs/git-module](https://github.com/gogs/git-module) - Package git-module is a Go module for Git access through shell commands (3 days ago)
+- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - Nothing like ~ (1 day ago)
+- [navarasu/onedark.nvim](https://github.com/navarasu/onedark.nvim) - One dark and light colorscheme for neovim &gt;= 0.5.0 written in lua based on Atom&#39;s One Dark and Light theme. Additionally, it comes with 5 color variant styles (2 days ago)
+- [gogs/git-module](https://github.com/gogs/git-module) - Package git-module is a Go module for Git access through shell commands (4 days ago)
 - [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (1 week ago)
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (2 weeks ago)
 
@@ -20,15 +20,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [gogs/git-module](https://github.com/gogs/git-module) ([v1.8.1](https://github.com/gogs/git-module/releases/tag/v1.8.1), today) - Package git-module is a Go module for Git access through shell commands
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.23.2](https://github.com/charmbracelet/bubbletea/releases/tag/v0.23.2), 6 days ago) - A powerful little TUI framework 🏗
+- [gogs/git-module](https://github.com/gogs/git-module) ([v1.8.1](https://github.com/gogs/git-module/releases/tag/v1.8.1), 1 day ago) - Package git-module is a Go module for Git access through shell commands
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.23.2](https://github.com/charmbracelet/bubbletea/releases/tag/v0.23.2), 1 week ago) - A powerful little TUI framework 🏗
 - [muesli/termenv](https://github.com/muesli/termenv) ([v0.14.0](https://github.com/muesli/termenv/releases/tag/v0.14.0), 1 week ago) - Advanced ANSI style &amp; color support for your terminal applications
 - [toddrob99/searcharr](https://github.com/toddrob99/searcharr) ([v3.2.1](https://github.com/toddrob99/searcharr/releases/tag/v3.2.1), 1 week ago) - Sonarr &amp; Radarr &amp; Readarr Telegram Bot
 - [bloznelis/typioca](https://github.com/bloznelis/typioca) ([2.0.8](https://github.com/bloznelis/typioca/releases/tag/2.0.8), 2 weeks ago) - Cozy typing speed tester
 
 #### 🔨 My recent Pull Requests
 
-- [fix(plugin): indentBlankline hl group names](https://github.com/navarasu/onedark.nvim/pull/143) on [navarasu/onedark.nvim](https://github.com/navarasu/onedark.nvim) (today)
+- [fix(plugin): indentBlankline hl group names](https://github.com/navarasu/onedark.nvim/pull/143) on [navarasu/onedark.nvim](https://github.com/navarasu/onedark.nvim) (1 day ago)
 - [Underline Styles &amp; Colors](https://github.com/muesli/termenv/pull/114) on [muesli/termenv](https://github.com/muesli/termenv) (1 week ago)
 - [ref(color): simplify the color interface](https://github.com/muesli/termenv/pull/113) on [muesli/termenv](https://github.com/muesli/termenv) (1 week ago)
 - [Report mouse button 10 &amp; 11](https://github.com/gnachman/iTerm2/pull/484) on [gnachman/iTerm2](https://github.com/gnachman/iTerm2) (1 week ago)
