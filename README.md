@@ -4,9 +4,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [gnachman/iTerm2](https://github.com/gnachman/iTerm2) - iTerm2 is a terminal emulator for Mac OS X that does amazing things. (1 day ago)
-- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - Nothing like ~ (4 days ago)
-- [navarasu/onedark.nvim](https://github.com/navarasu/onedark.nvim) - One dark and light colorscheme for neovim &gt;= 0.5.0 written in lua based on Atom&#39;s One Dark and Light theme. Additionally, it comes with 5 color variant styles (5 days ago)
+- [gnachman/iTerm2](https://github.com/gnachman/iTerm2) - iTerm2 is a terminal emulator for Mac OS X that does amazing things. (2 days ago)
+- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - Nothing like ~ (5 days ago)
+- [navarasu/onedark.nvim](https://github.com/navarasu/onedark.nvim) - One dark and light colorscheme for neovim &gt;= 0.5.0 written in lua based on Atom&#39;s One Dark and Light theme. Additionally, it comes with 5 color variant styles (6 days ago)
 - [gogs/git-module](https://github.com/gogs/git-module) - Package git-module is a Go module for Git access through shell commands (1 week ago)
 - [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (2 weeks ago)
 
@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [gogs/git-module](https://github.com/gogs/git-module) ([v1.8.1](https://github.com/gogs/git-module/releases/tag/v1.8.1), 4 days ago) - Package git-module is a Go module for Git access through shell commands
+- [gogs/git-module](https://github.com/gogs/git-module) ([v1.8.1](https://github.com/gogs/git-module/releases/tag/v1.8.1), 5 days ago) - Package git-module is a Go module for Git access through shell commands
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.23.2](https://github.com/charmbracelet/bubbletea/releases/tag/v0.23.2), 1 week ago) - A powerful little TUI framework 🏗
 - [muesli/termenv](https://github.com/muesli/termenv) ([v0.14.0](https://github.com/muesli/termenv/releases/tag/v0.14.0), 1 week ago) - Advanced ANSI style &amp; color support for your terminal applications
 - [toddrob99/searcharr](https://github.com/toddrob99/searcharr) ([v3.2.1](https://github.com/toddrob99/searcharr/releases/tag/v3.2.1), 2 weeks ago) - Sonarr &amp; Radarr &amp; Readarr Telegram Bot
@@ -28,8 +28,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [fix(hi): indentblankline context highlights](https://github.com/navarasu/onedark.nvim/pull/145) on [navarasu/onedark.nvim](https://github.com/navarasu/onedark.nvim) (2 days ago)
-- [fix(plugin): indentBlankline hl group names](https://github.com/navarasu/onedark.nvim/pull/143) on [navarasu/onedark.nvim](https://github.com/navarasu/onedark.nvim) (4 days ago)
+- [fix(hi): indentblankline context highlights](https://github.com/navarasu/onedark.nvim/pull/145) on [navarasu/onedark.nvim](https://github.com/navarasu/onedark.nvim) (3 days ago)
+- [fix(plugin): indentBlankline hl group names](https://github.com/navarasu/onedark.nvim/pull/143) on [navarasu/onedark.nvim](https://github.com/navarasu/onedark.nvim) (5 days ago)
 - [Underline Styles &amp; Colors](https://github.com/muesli/termenv/pull/114) on [muesli/termenv](https://github.com/muesli/termenv) (1 week ago)
 - [ref(color): simplify the color interface](https://github.com/muesli/termenv/pull/113) on [muesli/termenv](https://github.com/muesli/termenv) (1 week ago)
 - [Report mouse button 10 &amp; 11](https://github.com/gnachman/iTerm2/pull/484) on [gnachman/iTerm2](https://github.com/gnachman/iTerm2) (2 weeks ago)
