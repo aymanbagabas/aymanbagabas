@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - Nothing like ~ (today)
-- [aymanbagabas/aymanbagabas.github.io](https://github.com/aymanbagabas/aymanbagabas.github.io) - A personal website built using Jekyll (today)
-- [aymanbagabas/fss3](https://github.com/aymanbagabas/fss3) - FSS3 is an S3 filesystem abstraction layer for Golang (today)
-- [gnachman/iTerm2](https://github.com/gnachman/iTerm2) - iTerm2 is a terminal emulator for Mac OS X that does amazing things. (2 days ago)
-- [navarasu/onedark.nvim](https://github.com/navarasu/onedark.nvim) - One dark and light colorscheme for neovim &gt;= 0.5.0 written in lua based on Atom&#39;s One Dark and Light theme. Additionally, it comes with 5 color variant styles (6 days ago)
+- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - Nothing like ~ (1 day ago)
+- [aymanbagabas/aymanbagabas.github.io](https://github.com/aymanbagabas/aymanbagabas.github.io) - A personal website built using Jekyll (1 day ago)
+- [aymanbagabas/fss3](https://github.com/aymanbagabas/fss3) - FSS3 is an S3 filesystem abstraction layer for Golang (1 day ago)
+- [gnachman/iTerm2](https://github.com/gnachman/iTerm2) - iTerm2 is a terminal emulator for Mac OS X that does amazing things. (3 days ago)
+- [navarasu/onedark.nvim](https://github.com/navarasu/onedark.nvim) - One dark and light colorscheme for neovim &gt;= 0.5.0 written in lua based on Atom&#39;s One Dark and Light theme. Additionally, it comes with 5 color variant styles (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -20,18 +20,18 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [gogs/git-module](https://github.com/gogs/git-module) ([v1.8.1](https://github.com/gogs/git-module/releases/tag/v1.8.1), 5 days ago) - Package git-module is a Go module for Git access through shell commands
+- [gogs/git-module](https://github.com/gogs/git-module) ([v1.8.1](https://github.com/gogs/git-module/releases/tag/v1.8.1), 6 days ago) - Package git-module is a Go module for Git access through shell commands
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.23.2](https://github.com/charmbracelet/bubbletea/releases/tag/v0.23.2), 1 week ago) - A powerful little TUI framework 🏗
-- [muesli/termenv](https://github.com/muesli/termenv) ([v0.14.0](https://github.com/muesli/termenv/releases/tag/v0.14.0), 1 week ago) - Advanced ANSI style &amp; color support for your terminal applications
+- [muesli/termenv](https://github.com/muesli/termenv) ([v0.14.0](https://github.com/muesli/termenv/releases/tag/v0.14.0), 2 weeks ago) - Advanced ANSI style &amp; color support for your terminal applications
 - [toddrob99/searcharr](https://github.com/toddrob99/searcharr) ([v3.2.1](https://github.com/toddrob99/searcharr/releases/tag/v3.2.1), 2 weeks ago) - Sonarr &amp; Radarr &amp; Readarr Telegram Bot
 - [bloznelis/typioca](https://github.com/bloznelis/typioca) ([2.0.8](https://github.com/bloznelis/typioca/releases/tag/2.0.8), 2 weeks ago) - Cozy typing speed tester
 
 #### 🔨 My recent Pull Requests
 
-- [fix(hi): indentblankline context highlights](https://github.com/navarasu/onedark.nvim/pull/145) on [navarasu/onedark.nvim](https://github.com/navarasu/onedark.nvim) (3 days ago)
-- [fix(plugin): indentBlankline hl group names](https://github.com/navarasu/onedark.nvim/pull/143) on [navarasu/onedark.nvim](https://github.com/navarasu/onedark.nvim) (5 days ago)
-- [Underline Styles &amp; Colors](https://github.com/muesli/termenv/pull/114) on [muesli/termenv](https://github.com/muesli/termenv) (1 week ago)
-- [ref(color): simplify the color interface](https://github.com/muesli/termenv/pull/113) on [muesli/termenv](https://github.com/muesli/termenv) (1 week ago)
+- [fix(hi): indentblankline context highlights](https://github.com/navarasu/onedark.nvim/pull/145) on [navarasu/onedark.nvim](https://github.com/navarasu/onedark.nvim) (4 days ago)
+- [fix(plugin): indentBlankline hl group names](https://github.com/navarasu/onedark.nvim/pull/143) on [navarasu/onedark.nvim](https://github.com/navarasu/onedark.nvim) (6 days ago)
+- [Underline Styles &amp; Colors](https://github.com/muesli/termenv/pull/114) on [muesli/termenv](https://github.com/muesli/termenv) (2 weeks ago)
+- [ref(color): simplify the color interface](https://github.com/muesli/termenv/pull/113) on [muesli/termenv](https://github.com/muesli/termenv) (2 weeks ago)
 - [Report mouse button 10 &amp; 11](https://github.com/gnachman/iTerm2/pull/484) on [gnachman/iTerm2](https://github.com/gnachman/iTerm2) (2 weeks ago)
 
 #### 📜 My recent blog posts
