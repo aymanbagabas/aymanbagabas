@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - Nothing like ~ (today)
+- [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (today)
 - [charmbracelet/log](https://github.com/charmbracelet/log) - A minimal, colorful Go logging library 🪵 (today)
-- [aymanbagabas/aymanbagabas.github.io](https://github.com/aymanbagabas/aymanbagabas.github.io) - A personal website built using Jekyll (2 days ago)
-- [aymanbagabas/fss3](https://github.com/aymanbagabas/fss3) - FSS3 is an S3 filesystem abstraction layer for Golang (2 days ago)
-- [gnachman/iTerm2](https://github.com/gnachman/iTerm2) - iTerm2 is a terminal emulator for Mac OS X that does amazing things. (4 days ago)
+- [charmbracelet/skate](https://github.com/charmbracelet/skate) - A personal key value store 🛼 (today)
+- [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (today)
+- [charmbracelet/git-lfs-transfer](https://github.com/charmbracelet/git-lfs-transfer) - Server-side implementation of the Git LFS pure-SSH protocol (today)
 
 #### 🌱 My latest projects
 
@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/skate](https://github.com/charmbracelet/skate) ([v0.2.2](https://github.com/charmbracelet/skate/releases/tag/v0.2.2), today) - A personal key value store 🛼
 - [charmbracelet/log](https://github.com/charmbracelet/log) ([v0.1.0](https://github.com/charmbracelet/log/releases/tag/v0.1.0), today) - A minimal, colorful Go logging library 🪵
 - [gogs/git-module](https://github.com/gogs/git-module) ([v1.8.1](https://github.com/gogs/git-module/releases/tag/v1.8.1), 1 week ago) - Package git-module is a Go module for Git access through shell commands
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.23.2](https://github.com/charmbracelet/bubbletea/releases/tag/v0.23.2), 1 week ago) - A powerful little TUI framework 🏗
 - [muesli/termenv](https://github.com/muesli/termenv) ([v0.14.0](https://github.com/muesli/termenv/releases/tag/v0.14.0), 2 weeks ago) - Advanced ANSI style &amp; color support for your terminal applications
-- [toddrob99/searcharr](https://github.com/toddrob99/searcharr) ([v3.2.1](https://github.com/toddrob99/searcharr/releases/tag/v3.2.1), 2 weeks ago) - Sonarr &amp; Radarr &amp; Readarr Telegram Bot
 
 #### 🔨 My recent Pull Requests
 
+- [chore: update deps](https://github.com/charmbracelet/git-lfs-transfer/pull/2) on [charmbracelet/git-lfs-transfer](https://github.com/charmbracelet/git-lfs-transfer) (today)
+- [chore: update deps](https://github.com/charmbracelet/skate/pull/64) on [charmbracelet/skate](https://github.com/charmbracelet/skate) (today)
+- [chore: update deps](https://github.com/charmbracelet/charm/pull/200) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (today)
 - [chore: move example into dir](https://github.com/charmbracelet/log/pull/6) on [charmbracelet/log](https://github.com/charmbracelet/log) (today)
 - [fix(hi): indentblankline context highlights](https://github.com/navarasu/onedark.nvim/pull/145) on [navarasu/onedark.nvim](https://github.com/navarasu/onedark.nvim) (5 days ago)
-- [fix(plugin): indentBlankline hl group names](https://github.com/navarasu/onedark.nvim/pull/143) on [navarasu/onedark.nvim](https://github.com/navarasu/onedark.nvim) (1 week ago)
-- [Underline Styles &amp; Colors](https://github.com/muesli/termenv/pull/114) on [muesli/termenv](https://github.com/muesli/termenv) (2 weeks ago)
-- [ref(color): simplify the color interface](https://github.com/muesli/termenv/pull/113) on [muesli/termenv](https://github.com/muesli/termenv) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
