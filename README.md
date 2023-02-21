@@ -20,11 +20,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) ([v0.3.0](https://github.com/charmbracelet/vhs/releases/tag/v0.3.0), today) - Your CLI home video recorder 📼
 - [charmbracelet/skate](https://github.com/charmbracelet/skate) ([v0.2.2](https://github.com/charmbracelet/skate/releases/tag/v0.2.2), today) - A personal key value store 🛼
 - [charmbracelet/log](https://github.com/charmbracelet/log) ([v0.1.0](https://github.com/charmbracelet/log/releases/tag/v0.1.0), today) - A minimal, colorful Go logging library 🪵
 - [gogs/git-module](https://github.com/gogs/git-module) ([v1.8.1](https://github.com/gogs/git-module/releases/tag/v1.8.1), 1 week ago) - Package git-module is a Go module for Git access through shell commands
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.23.2](https://github.com/charmbracelet/bubbletea/releases/tag/v0.23.2), 1 week ago) - A powerful little TUI framework 🏗
-- [muesli/termenv](https://github.com/muesli/termenv) ([v0.14.0](https://github.com/muesli/termenv/releases/tag/v0.14.0), 2 weeks ago) - Advanced ANSI style &amp; color support for your terminal applications
 
 #### 🔨 My recent Pull Requests
 
