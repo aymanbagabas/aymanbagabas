@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix(ci): lint workflow](https://github.com/charmbracelet/charm/pull/202) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (today)
 - [Switch to charmbracelet/log](https://github.com/charmbracelet/soft-serve/pull/217) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (today)
 - [chore: switch to charmbracelet/log](https://github.com/charmbracelet/charm/pull/201) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (today)
 - [chore: update deps](https://github.com/charmbracelet/git-lfs-transfer/pull/2) on [charmbracelet/git-lfs-transfer](https://github.com/charmbracelet/git-lfs-transfer) (today)
 - [chore: update deps](https://github.com/charmbracelet/skate/pull/64) on [charmbracelet/skate](https://github.com/charmbracelet/skate) (today)
-- [chore: update deps](https://github.com/charmbracelet/charm/pull/200) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (today)
 
 #### 📜 My recent blog posts
 
