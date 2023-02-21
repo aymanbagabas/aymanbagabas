@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (today)
+- [charmbracelet/git-lfs-transfer](https://github.com/charmbracelet/git-lfs-transfer) - Server-side implementation of the Git LFS pure-SSH protocol (today)
 - [charmbracelet/log](https://github.com/charmbracelet/log) - A minimal, colorful Go logging library 🪵 (today)
 - [charmbracelet/skate](https://github.com/charmbracelet/skate) - A personal key value store 🛼 (today)
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (today)
-- [charmbracelet/git-lfs-transfer](https://github.com/charmbracelet/git-lfs-transfer) - Server-side implementation of the Git LFS pure-SSH protocol (today)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (today)
 
 #### 🌱 My latest projects
 
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Switch to charmbracelet/log](https://github.com/charmbracelet/soft-serve/pull/217) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (today)
+- [chore: switch to charmbracelet/log](https://github.com/charmbracelet/charm/pull/201) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (today)
 - [chore: update deps](https://github.com/charmbracelet/git-lfs-transfer/pull/2) on [charmbracelet/git-lfs-transfer](https://github.com/charmbracelet/git-lfs-transfer) (today)
 - [chore: update deps](https://github.com/charmbracelet/skate/pull/64) on [charmbracelet/skate](https://github.com/charmbracelet/skate) (today)
 - [chore: update deps](https://github.com/charmbracelet/charm/pull/200) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (today)
-- [chore: move example into dir](https://github.com/charmbracelet/log/pull/6) on [charmbracelet/log](https://github.com/charmbracelet/log) (today)
-- [fix(hi): indentblankline context highlights](https://github.com/navarasu/onedark.nvim/pull/145) on [navarasu/onedark.nvim](https://github.com/navarasu/onedark.nvim) (5 days ago)
 
 #### 📜 My recent blog posts
 
