@@ -4,9 +4,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [charmbracelet/log](https://github.com/charmbracelet/log) - A minimal, colorful Go logging library 🪵 (today)
 - [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket) - Charmbracelet Scoop Bucket (1 day ago)
 - [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺 (1 day ago)
-- [charmbracelet/log](https://github.com/charmbracelet/log) - A minimal, colorful Go logging library 🪵 (1 day ago)
 - [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (1 day ago)
 - [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (1 day ago)
 
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [POC: feat(slog): implement slog.Handler](https://github.com/charmbracelet/log/pull/13) on [charmbracelet/log](https://github.com/charmbracelet/log) (today)
 - [Fix default level &amp; ensure styles are disabled after setting a new output](https://github.com/charmbracelet/log/pull/12) on [charmbracelet/log](https://github.com/charmbracelet/log) (today)
 - [fix(ci): lint workflow](https://github.com/charmbracelet/charm/pull/202) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (1 day ago)
 - [Switch to charmbracelet/log](https://github.com/charmbracelet/soft-serve/pull/217) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 day ago)
 - [chore: switch to charmbracelet/log](https://github.com/charmbracelet/charm/pull/201) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (1 day ago)
-- [chore: update deps](https://github.com/charmbracelet/git-lfs-transfer/pull/2) on [charmbracelet/git-lfs-transfer](https://github.com/charmbracelet/git-lfs-transfer) (1 day ago)
 
 #### 📜 My recent blog posts
 
