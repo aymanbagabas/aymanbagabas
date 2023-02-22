@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix default level &amp; ensure styles are disabled after setting a new output](https://github.com/charmbracelet/log/pull/12) on [charmbracelet/log](https://github.com/charmbracelet/log) (today)
 - [fix(ci): lint workflow](https://github.com/charmbracelet/charm/pull/202) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (1 day ago)
 - [Switch to charmbracelet/log](https://github.com/charmbracelet/soft-serve/pull/217) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 day ago)
 - [chore: switch to charmbracelet/log](https://github.com/charmbracelet/charm/pull/201) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (1 day ago)
 - [chore: update deps](https://github.com/charmbracelet/git-lfs-transfer/pull/2) on [charmbracelet/git-lfs-transfer](https://github.com/charmbracelet/git-lfs-transfer) (1 day ago)
-- [chore: update deps](https://github.com/charmbracelet/skate/pull/64) on [charmbracelet/skate](https://github.com/charmbracelet/skate) (1 day ago)
 
 #### 📜 My recent blog posts
 
