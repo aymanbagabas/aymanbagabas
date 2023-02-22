@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/log](https://github.com/charmbracelet/log) ([v0.1.1](https://github.com/charmbracelet/log/releases/tag/v0.1.1), today) - A minimal, colorful Go logging library 🪵
 - [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.12.5](https://github.com/charmbracelet/charm/releases/tag/v0.12.5), 1 day ago) - The Charm Tool and Library 🌟
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.4.6](https://github.com/charmbracelet/soft-serve/releases/tag/v0.4.6), 1 day ago) - A tasty, self-hostable Git server for the command line🍦
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) ([v0.3.0](https://github.com/charmbracelet/vhs/releases/tag/v0.3.0), 1 day ago) - Your CLI home video recorder 📼
 - [charmbracelet/skate](https://github.com/charmbracelet/skate) ([v0.2.2](https://github.com/charmbracelet/skate/releases/tag/v0.2.2), 1 day ago) - A personal key value store 🛼
-- [charmbracelet/log](https://github.com/charmbracelet/log) ([v0.1.0](https://github.com/charmbracelet/log/releases/tag/v0.1.0), 1 day ago) - A minimal, colorful Go logging library 🪵
 
 #### 🔨 My recent Pull Requests
 
+- [feat(styles): style certain keys](https://github.com/charmbracelet/log/pull/15) on [charmbracelet/log](https://github.com/charmbracelet/log) (today)
 - [POC: feat(slog): implement slog.Handler](https://github.com/charmbracelet/log/pull/13) on [charmbracelet/log](https://github.com/charmbracelet/log) (today)
 - [Fix default level &amp; ensure styles are disabled after setting a new output](https://github.com/charmbracelet/log/pull/12) on [charmbracelet/log](https://github.com/charmbracelet/log) (today)
 - [fix(ci): lint workflow](https://github.com/charmbracelet/charm/pull/202) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (1 day ago)
 - [Switch to charmbracelet/log](https://github.com/charmbracelet/soft-serve/pull/217) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 day ago)
-- [chore: switch to charmbracelet/log](https://github.com/charmbracelet/charm/pull/201) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (1 day ago)
 
 #### 📜 My recent blog posts
 
