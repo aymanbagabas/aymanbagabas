@@ -7,8 +7,8 @@
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (today)
 - [charmbracelet/log](https://github.com/charmbracelet/log) - A minimal, colorful Go logging library 🪵 (today)
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (today)
+- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - Nothing like ~ (today)
 - [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺 (2 days ago)
-- [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [docs: use picture tags](https://github.com/charmbracelet/log/pull/18) on [charmbracelet/log](https://github.com/charmbracelet/log) (today)
 - [docs: add light background gifs](https://github.com/charmbracelet/log/pull/17) on [charmbracelet/log](https://github.com/charmbracelet/log) (today)
 - [feat(styles): style certain keys](https://github.com/charmbracelet/log/pull/15) on [charmbracelet/log](https://github.com/charmbracelet/log) (1 day ago)
 - [POC: feat(slog): implement slog.Handler](https://github.com/charmbracelet/log/pull/13) on [charmbracelet/log](https://github.com/charmbracelet/log) (1 day ago)
 - [Fix default level &amp; ensure styles are disabled after setting a new output](https://github.com/charmbracelet/log/pull/12) on [charmbracelet/log](https://github.com/charmbracelet/log) (1 day ago)
-- [fix(ci): lint workflow](https://github.com/charmbracelet/charm/pull/202) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (2 days ago)
 
 #### 📜 My recent blog posts
 
