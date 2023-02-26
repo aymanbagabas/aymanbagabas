@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [bloznelis/typioca](https://github.com/bloznelis/typioca) ([2.1.0](https://github.com/bloznelis/typioca/releases/tag/2.1.0), today) - Cozy typing speed tester
+- [bloznelis/typioca](https://github.com/bloznelis/typioca) ([2.1.1](https://github.com/bloznelis/typioca/releases/tag/2.1.1), today) - Cozy typing speed tester
 - [charmbracelet/log](https://github.com/charmbracelet/log) ([v0.1.1](https://github.com/charmbracelet/log/releases/tag/v0.1.1), 4 days ago) - A minimal, colorful Go logging library 🪵
 - [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.12.5](https://github.com/charmbracelet/charm/releases/tag/v0.12.5), 5 days ago) - The Charm Tool and Library 🌟
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.4.6](https://github.com/charmbracelet/soft-serve/releases/tag/v0.4.6), 5 days ago) - A tasty, self-hostable Git server for the command line🍦
