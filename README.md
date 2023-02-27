@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix styling value before rendering](https://github.com/charmbracelet/log/pull/30) on [charmbracelet/log](https://github.com/charmbracelet/log) (today)
+- [feat(log): set custom format keys](https://github.com/charmbracelet/log/pull/29) on [charmbracelet/log](https://github.com/charmbracelet/log) (today)
 - [Make Log backward compatible ](https://github.com/charmbracelet/log/pull/28) on [charmbracelet/log](https://github.com/charmbracelet/log) (today)
 - [docs: use picture tags](https://github.com/charmbracelet/log/pull/18) on [charmbracelet/log](https://github.com/charmbracelet/log) (4 days ago)
 - [docs: add light background gifs](https://github.com/charmbracelet/log/pull/17) on [charmbracelet/log](https://github.com/charmbracelet/log) (4 days ago)
-- [feat(styles): style certain keys](https://github.com/charmbracelet/log/pull/15) on [charmbracelet/log](https://github.com/charmbracelet/log) (5 days ago)
-- [POC: feat(slog): implement slog.Handler](https://github.com/charmbracelet/log/pull/13) on [charmbracelet/log](https://github.com/charmbracelet/log) (5 days ago)
 
 #### 📜 My recent blog posts
 
