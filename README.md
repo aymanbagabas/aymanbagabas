@@ -4,9 +4,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [charmbracelet/log](https://github.com/charmbracelet/log) - A minimal, colorful Go logging library 🪵 (today)
 - [aymanbagabas/go-osc52](https://github.com/aymanbagabas/go-osc52) - Golang terminal ANSI OSC52 wrapper. Copy text to clipboard from anywhere. (2 days ago)
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (4 days ago)
-- [charmbracelet/log](https://github.com/charmbracelet/log) - A minimal, colorful Go logging library 🪵 (4 days ago)
 - [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - Nothing like ~ (4 days ago)
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (4 days ago)
 
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Make Log backward compatible ](https://github.com/charmbracelet/log/pull/28) on [charmbracelet/log](https://github.com/charmbracelet/log) (today)
 - [docs: use picture tags](https://github.com/charmbracelet/log/pull/18) on [charmbracelet/log](https://github.com/charmbracelet/log) (4 days ago)
 - [docs: add light background gifs](https://github.com/charmbracelet/log/pull/17) on [charmbracelet/log](https://github.com/charmbracelet/log) (4 days ago)
 - [feat(styles): style certain keys](https://github.com/charmbracelet/log/pull/15) on [charmbracelet/log](https://github.com/charmbracelet/log) (5 days ago)
 - [POC: feat(slog): implement slog.Handler](https://github.com/charmbracelet/log/pull/13) on [charmbracelet/log](https://github.com/charmbracelet/log) (5 days ago)
-- [Fix default level &amp; ensure styles are disabled after setting a new output](https://github.com/charmbracelet/log/pull/12) on [charmbracelet/log](https://github.com/charmbracelet/log) (5 days ago)
 
 #### 📜 My recent blog posts
 
