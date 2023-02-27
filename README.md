@@ -20,11 +20,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [aymanbagabas/go-osc52](https://github.com/aymanbagabas/go-osc52) ([v2.0.0](https://github.com/aymanbagabas/go-osc52/releases/tag/v2.0.0), today) - Golang terminal ANSI OSC52 wrapper. Copy text to clipboard from anywhere.
 - [charmbracelet/log](https://github.com/charmbracelet/log) ([v0.1.2](https://github.com/charmbracelet/log/releases/tag/v0.1.2), today) - A minimal, colorful Go logging library 🪵
 - [bloznelis/typioca](https://github.com/bloznelis/typioca) ([2.1.1](https://github.com/bloznelis/typioca/releases/tag/2.1.1), 1 day ago) - Cozy typing speed tester
 - [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.12.5](https://github.com/charmbracelet/charm/releases/tag/v0.12.5), 6 days ago) - The Charm Tool and Library 🌟
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.4.6](https://github.com/charmbracelet/soft-serve/releases/tag/v0.4.6), 6 days ago) - A tasty, self-hostable Git server for the command line🍦
-- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) ([v0.3.0](https://github.com/charmbracelet/vhs/releases/tag/v0.3.0), 6 days ago) - Your CLI home video recorder 📼
 
 #### 🔨 My recent Pull Requests
 
