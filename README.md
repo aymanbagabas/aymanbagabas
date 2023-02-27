@@ -5,7 +5,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [charmbracelet/log](https://github.com/charmbracelet/log) - A minimal, colorful Go logging library 🪵 (today)
-- [aymanbagabas/go-osc52](https://github.com/aymanbagabas/go-osc52) - Golang terminal ANSI OSC52 wrapper. Copy text to clipboard from anywhere. (2 days ago)
+- [aymanbagabas/go-osc52](https://github.com/aymanbagabas/go-osc52) - Golang terminal ANSI OSC52 wrapper. Copy text to clipboard from anywhere. (today)
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (4 days ago)
 - [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - Nothing like ~ (4 days ago)
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (4 days ago)
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Refactor and prepare for v2](https://github.com/aymanbagabas/go-osc52/pull/1) on [aymanbagabas/go-osc52](https://github.com/aymanbagabas/go-osc52) (today)
+- [feat(text): style certain values](https://github.com/charmbracelet/log/pull/31) on [charmbracelet/log](https://github.com/charmbracelet/log) (today)
 - [Fix styling value before rendering](https://github.com/charmbracelet/log/pull/30) on [charmbracelet/log](https://github.com/charmbracelet/log) (today)
 - [feat(log): set custom format keys](https://github.com/charmbracelet/log/pull/29) on [charmbracelet/log](https://github.com/charmbracelet/log) (today)
 - [Make Log backward compatible ](https://github.com/charmbracelet/log/pull/28) on [charmbracelet/log](https://github.com/charmbracelet/log) (today)
-- [docs: use picture tags](https://github.com/charmbracelet/log/pull/18) on [charmbracelet/log](https://github.com/charmbracelet/log) (4 days ago)
-- [docs: add light background gifs](https://github.com/charmbracelet/log/pull/17) on [charmbracelet/log](https://github.com/charmbracelet/log) (4 days ago)
 
 #### 📜 My recent blog posts
 
