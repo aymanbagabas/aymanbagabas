@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix(title): ignore setting title for floating windows](https://github.com/neovim/neovim/pull/22457) on [neovim/neovim](https://github.com/neovim/neovim) (today)
 - [Refactor and prepare for v2](https://github.com/aymanbagabas/go-osc52/pull/1) on [aymanbagabas/go-osc52](https://github.com/aymanbagabas/go-osc52) (1 day ago)
 - [feat(text): style certain values](https://github.com/charmbracelet/log/pull/31) on [charmbracelet/log](https://github.com/charmbracelet/log) (1 day ago)
 - [Fix styling value before rendering](https://github.com/charmbracelet/log/pull/30) on [charmbracelet/log](https://github.com/charmbracelet/log) (1 day ago)
 - [feat(log): set custom format keys](https://github.com/charmbracelet/log/pull/29) on [charmbracelet/log](https://github.com/charmbracelet/log) (1 day ago)
-- [Make Log backward compatible ](https://github.com/charmbracelet/log/pull/28) on [charmbracelet/log](https://github.com/charmbracelet/log) (1 day ago)
 
 #### 📜 My recent blog posts
 
