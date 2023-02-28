@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/log](https://github.com/charmbracelet/log) - A minimal, colorful Go logging library 🪵 (1 day ago)
+- [charmbracelet/log](https://github.com/charmbracelet/log) - A minimal, colorful Go logging library 🪵 (today)
 - [aymanbagabas/go-osc52](https://github.com/aymanbagabas/go-osc52) - Golang terminal ANSI OSC52 wrapper. Copy text to clipboard from anywhere. (1 day ago)
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (5 days ago)
 - [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - Nothing like ~ (5 days ago)
