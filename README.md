@@ -6,9 +6,9 @@
 
 - [aymanbagabas/shcopy](https://github.com/aymanbagabas/shcopy) - 📋 Copy text to your system clipboard locally and remotely using ANSI OSC52 sequence (today)
 - [aymanbagabas/homebrew-tap](https://github.com/aymanbagabas/homebrew-tap) - aymanbagabas/tap (today)
-- [charmbracelet/log](https://github.com/charmbracelet/log) - A minimal, colorful Go logging library 🪵 (1 day ago)
+- [aymanbagabas/scoop-bucket](https://github.com/aymanbagabas/scoop-bucket) - Scoop Bucket (today)
 - [aymanbagabas/go-osc52](https://github.com/aymanbagabas/go-osc52) - Golang terminal ANSI OSC52 wrapper. Copy text to clipboard from anywhere. (1 day ago)
-- [aymanbagabas/scoop-bucket](https://github.com/aymanbagabas/scoop-bucket) - Scoop Bucket (1 day ago)
+- [charmbracelet/log](https://github.com/charmbracelet/log) - A minimal, colorful Go logging library 🪵 (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat(log): add format methods](https://github.com/charmbracelet/log/pull/33) on [charmbracelet/log](https://github.com/charmbracelet/log) (today)
 - [upgrade to go-osc52/v2](https://github.com/aymanbagabas/shcopy/pull/3) on [aymanbagabas/shcopy](https://github.com/aymanbagabas/shcopy) (1 day ago)
 - [fix(title): ignore setting title for floating windows](https://github.com/neovim/neovim/pull/22457) on [neovim/neovim](https://github.com/neovim/neovim) (1 day ago)
 - [Refactor and prepare for v2](https://github.com/aymanbagabas/go-osc52/pull/1) on [aymanbagabas/go-osc52](https://github.com/aymanbagabas/go-osc52) (2 days ago)
 - [feat(text): style certain values](https://github.com/charmbracelet/log/pull/31) on [charmbracelet/log](https://github.com/charmbracelet/log) (2 days ago)
-- [Fix styling value before rendering](https://github.com/charmbracelet/log/pull/30) on [charmbracelet/log](https://github.com/charmbracelet/log) (2 days ago)
 
 #### 📜 My recent blog posts
 
