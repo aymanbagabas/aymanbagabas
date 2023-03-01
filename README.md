@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat(log): add callerFormat to set short/long file location](https://github.com/charmbracelet/log/pull/34) on [charmbracelet/log](https://github.com/charmbracelet/log) (today)
 - [feat(log): add format methods](https://github.com/charmbracelet/log/pull/33) on [charmbracelet/log](https://github.com/charmbracelet/log) (today)
 - [upgrade to go-osc52/v2](https://github.com/aymanbagabas/shcopy/pull/3) on [aymanbagabas/shcopy](https://github.com/aymanbagabas/shcopy) (1 day ago)
 - [fix(title): ignore setting title for floating windows](https://github.com/neovim/neovim/pull/22457) on [neovim/neovim](https://github.com/neovim/neovim) (1 day ago)
 - [Refactor and prepare for v2](https://github.com/aymanbagabas/go-osc52/pull/1) on [aymanbagabas/go-osc52](https://github.com/aymanbagabas/go-osc52) (2 days ago)
-- [feat(text): style certain values](https://github.com/charmbracelet/log/pull/31) on [charmbracelet/log](https://github.com/charmbracelet/log) (2 days ago)
 
 #### 📜 My recent blog posts
 
