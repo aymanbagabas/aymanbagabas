@@ -4,10 +4,10 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (today)
 - [aymanbagabas/shcopy](https://github.com/aymanbagabas/shcopy) - 📋 Copy text to your system clipboard locally and remotely using ANSI OSC52 sequence (2 days ago)
-- [aymanbagabas/homebrew-tap](https://github.com/aymanbagabas/homebrew-tap) - aymanbagabas/tap (2 days ago)
 - [aymanbagabas/scoop-bucket](https://github.com/aymanbagabas/scoop-bucket) - Scoop Bucket (2 days ago)
-- [aymanbagabas/go-osc52](https://github.com/aymanbagabas/go-osc52) - Golang terminal ANSI OSC52 wrapper. Copy text to clipboard from anywhere. (3 days ago)
+- [aymanbagabas/homebrew-tap](https://github.com/aymanbagabas/homebrew-tap) - aymanbagabas/tap (2 days ago)
 - [charmbracelet/log](https://github.com/charmbracelet/log) - A minimal, colorful Go logging library 🪵 (3 days ago)
 
 #### 🌱 My latest projects
@@ -28,7 +28,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [feat(output): set default global output](https://github.com/muesli/termenv/pull/117) on [muesli/termenv](https://github.com/muesli/termenv) (1 day ago)
+- [Change default output &amp; add WithTTY option](https://github.com/muesli/termenv/pull/117) on [muesli/termenv](https://github.com/muesli/termenv) (1 day ago)
 - [ref(renderer): rename renderer options &amp; add clone](https://github.com/charmbracelet/lipgloss/pull/174) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (1 day ago)
 - [feat(log): add callerFormat to set short/long file location](https://github.com/charmbracelet/log/pull/34) on [charmbracelet/log](https://github.com/charmbracelet/log) (2 days ago)
 - [feat(log): add format methods](https://github.com/charmbracelet/log/pull/33) on [charmbracelet/log](https://github.com/charmbracelet/log) (2 days ago)
