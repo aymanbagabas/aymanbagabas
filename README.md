@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [refactor: log options](https://github.com/charmbracelet/log/pull/39) on [charmbracelet/log](https://github.com/charmbracelet/log) (today)
 - [Change default output &amp; add WithTTY option](https://github.com/muesli/termenv/pull/117) on [muesli/termenv](https://github.com/muesli/termenv) (1 day ago)
 - [Ref: change renderer impl &amp; add Renderer() to style](https://github.com/charmbracelet/lipgloss/pull/174) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (1 day ago)
 - [feat(log): add callerFormat to set short/long file location](https://github.com/charmbracelet/log/pull/34) on [charmbracelet/log](https://github.com/charmbracelet/log) (2 days ago)
 - [feat(log): add format methods](https://github.com/charmbracelet/log/pull/33) on [charmbracelet/log](https://github.com/charmbracelet/log) (2 days ago)
-- [upgrade to go-osc52/v2](https://github.com/aymanbagabas/shcopy/pull/3) on [aymanbagabas/shcopy](https://github.com/aymanbagabas/shcopy) (3 days ago)
 
 #### 📜 My recent blog posts
 
