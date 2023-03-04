@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (today)
-- [aymanbagabas/shcopy](https://github.com/aymanbagabas/shcopy) - 📋 Copy text to your system clipboard locally and remotely using ANSI OSC52 sequence (2 days ago)
-- [aymanbagabas/scoop-bucket](https://github.com/aymanbagabas/scoop-bucket) - Scoop Bucket (2 days ago)
-- [aymanbagabas/homebrew-tap](https://github.com/aymanbagabas/homebrew-tap) - aymanbagabas/tap (2 days ago)
-- [charmbracelet/log](https://github.com/charmbracelet/log) - A minimal, colorful Go logging library 🪵 (3 days ago)
+- [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (1 day ago)
+- [aymanbagabas/shcopy](https://github.com/aymanbagabas/shcopy) - 📋 Copy text to your system clipboard locally and remotely using ANSI OSC52 sequence (3 days ago)
+- [aymanbagabas/scoop-bucket](https://github.com/aymanbagabas/scoop-bucket) - Scoop Bucket (3 days ago)
+- [aymanbagabas/homebrew-tap](https://github.com/aymanbagabas/homebrew-tap) - aymanbagabas/tap (3 days ago)
+- [charmbracelet/log](https://github.com/charmbracelet/log) - A minimal, colorful Go logging library 🪵 (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [aymanbagabas/shcopy](https://github.com/aymanbagabas/shcopy) ([v0.1.2](https://github.com/aymanbagabas/shcopy/releases/tag/v0.1.2), 3 days ago) - 📋 Copy text to your system clipboard locally and remotely using ANSI OSC52 sequence
-- [aymanbagabas/go-osc52](https://github.com/aymanbagabas/go-osc52) ([v2.0.0](https://github.com/aymanbagabas/go-osc52/releases/tag/v2.0.0), 4 days ago) - Golang terminal ANSI OSC52 wrapper. Copy text to clipboard from anywhere.
-- [charmbracelet/log](https://github.com/charmbracelet/log) ([v0.1.2](https://github.com/charmbracelet/log/releases/tag/v0.1.2), 4 days ago) - A minimal, colorful Go logging library 🪵
-- [bloznelis/typioca](https://github.com/bloznelis/typioca) ([2.1.1](https://github.com/bloznelis/typioca/releases/tag/2.1.1), 5 days ago) - Cozy typing speed tester
+- [aymanbagabas/shcopy](https://github.com/aymanbagabas/shcopy) ([v0.1.2](https://github.com/aymanbagabas/shcopy/releases/tag/v0.1.2), 4 days ago) - 📋 Copy text to your system clipboard locally and remotely using ANSI OSC52 sequence
+- [aymanbagabas/go-osc52](https://github.com/aymanbagabas/go-osc52) ([v2.0.0](https://github.com/aymanbagabas/go-osc52/releases/tag/v2.0.0), 5 days ago) - Golang terminal ANSI OSC52 wrapper. Copy text to clipboard from anywhere.
+- [charmbracelet/log](https://github.com/charmbracelet/log) ([v0.1.2](https://github.com/charmbracelet/log/releases/tag/v0.1.2), 5 days ago) - A minimal, colorful Go logging library 🪵
+- [bloznelis/typioca](https://github.com/bloznelis/typioca) ([2.1.1](https://github.com/bloznelis/typioca/releases/tag/2.1.1), 6 days ago) - Cozy typing speed tester
 - [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.12.5](https://github.com/charmbracelet/charm/releases/tag/v0.12.5), 1 week ago) - The Charm Tool and Library 🌟
 
 #### 🔨 My recent Pull Requests
 
-- [refactor: log options](https://github.com/charmbracelet/log/pull/39) on [charmbracelet/log](https://github.com/charmbracelet/log) (today)
-- [Change default output &amp; add WithTTY option](https://github.com/muesli/termenv/pull/117) on [muesli/termenv](https://github.com/muesli/termenv) (1 day ago)
-- [Ref: change renderer impl &amp; add Renderer() to style](https://github.com/charmbracelet/lipgloss/pull/174) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (1 day ago)
-- [feat(log): add callerFormat to set short/long file location](https://github.com/charmbracelet/log/pull/34) on [charmbracelet/log](https://github.com/charmbracelet/log) (2 days ago)
-- [feat(log): add format methods](https://github.com/charmbracelet/log/pull/33) on [charmbracelet/log](https://github.com/charmbracelet/log) (2 days ago)
+- [refactor: log options](https://github.com/charmbracelet/log/pull/39) on [charmbracelet/log](https://github.com/charmbracelet/log) (1 day ago)
+- [Change default output &amp; add WithTTY option](https://github.com/muesli/termenv/pull/117) on [muesli/termenv](https://github.com/muesli/termenv) (2 days ago)
+- [Ref: change renderer impl &amp; add Renderer() to style](https://github.com/charmbracelet/lipgloss/pull/174) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (2 days ago)
+- [feat(log): add callerFormat to set short/long file location](https://github.com/charmbracelet/log/pull/34) on [charmbracelet/log](https://github.com/charmbracelet/log) (3 days ago)
+- [feat(log): add format methods](https://github.com/charmbracelet/log/pull/33) on [charmbracelet/log](https://github.com/charmbracelet/log) (3 days ago)
 
 #### 📜 My recent blog posts
 
