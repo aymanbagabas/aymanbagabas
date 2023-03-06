@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [go-git/go-git](https://github.com/go-git/go-git) ([v5.6.0](https://github.com/go-git/go-git/releases/tag/v5.6.0), 6 days ago) - A highly extensible Git implementation in pure Go.
 - [aymanbagabas/shcopy](https://github.com/aymanbagabas/shcopy) ([v0.1.2](https://github.com/aymanbagabas/shcopy/releases/tag/v0.1.2), 6 days ago) - 📋 Copy text to your system clipboard locally and remotely using ANSI OSC52 sequence
 - [aymanbagabas/go-osc52](https://github.com/aymanbagabas/go-osc52) ([v2.0.0](https://github.com/aymanbagabas/go-osc52/releases/tag/v2.0.0), 1 week ago) - Golang terminal ANSI OSC52 wrapper. Copy text to clipboard from anywhere.
 - [charmbracelet/log](https://github.com/charmbracelet/log) ([v0.1.2](https://github.com/charmbracelet/log/releases/tag/v0.1.2), 1 week ago) - A minimal, colorful Go logging library 🪵
 - [bloznelis/typioca](https://github.com/bloznelis/typioca) ([2.1.1](https://github.com/bloznelis/typioca/releases/tag/2.1.1), 1 week ago) - Cozy typing speed tester
-- [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.12.5](https://github.com/charmbracelet/charm/releases/tag/v0.12.5), 1 week ago) - The Charm Tool and Library 🌟
 
 #### 🔨 My recent Pull Requests
 
+- [fix(spell): only underline spell words](https://github.com/navarasu/onedark.nvim/pull/149) on [navarasu/onedark.nvim](https://github.com/navarasu/onedark.nvim) (today)
 - [feat(deps): upgrade go version &amp; golang.org/x/sys](https://github.com/muesli/termenv/pull/119) on [muesli/termenv](https://github.com/muesli/termenv) (1 day ago)
 - [feat(copy): fix detecting tmux &amp; upgrade go-osc52 to v2](https://github.com/muesli/termenv/pull/118) on [muesli/termenv](https://github.com/muesli/termenv) (1 day ago)
 - [refactor: log options](https://github.com/charmbracelet/log/pull/39) on [charmbracelet/log](https://github.com/charmbracelet/log) (3 days ago)
 - [Change default output &amp; add WithTTY option](https://github.com/muesli/termenv/pull/117) on [muesli/termenv](https://github.com/muesli/termenv) (4 days ago)
-- [Ref: change renderer impl &amp; add Renderer() to style](https://github.com/charmbracelet/lipgloss/pull/174) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (4 days ago)
 
 #### 📜 My recent blog posts
 
