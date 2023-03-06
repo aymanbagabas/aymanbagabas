@@ -5,7 +5,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [aymanbagabas/go-osc52](https://github.com/aymanbagabas/go-osc52) - Golang terminal ANSI OSC52 wrapper. Copy text to clipboard from anywhere. (today)
-- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - Nothing like ~ (1 day ago)
+- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - Nothing like ~ (today)
 - [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (3 days ago)
 - [aymanbagabas/shcopy](https://github.com/aymanbagabas/shcopy) - 📋 Copy text to your system clipboard locally and remotely using ANSI OSC52 sequence (5 days ago)
 - [aymanbagabas/scoop-bucket](https://github.com/aymanbagabas/scoop-bucket) - Scoop Bucket (5 days ago)
@@ -28,7 +28,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [feat(deps): upgrade golang.org/x/sys](https://github.com/muesli/termenv/pull/119) on [muesli/termenv](https://github.com/muesli/termenv) (1 day ago)
+- [feat(deps): upgrade go version &amp; golang.org/x/sys](https://github.com/muesli/termenv/pull/119) on [muesli/termenv](https://github.com/muesli/termenv) (1 day ago)
 - [feat(copy): fix detecting tmux &amp; upgrade go-osc52 to v2](https://github.com/muesli/termenv/pull/118) on [muesli/termenv](https://github.com/muesli/termenv) (1 day ago)
 - [refactor: log options](https://github.com/charmbracelet/log/pull/39) on [charmbracelet/log](https://github.com/charmbracelet/log) (3 days ago)
 - [Change default output &amp; add WithTTY option](https://github.com/muesli/termenv/pull/117) on [muesli/termenv](https://github.com/muesli/termenv) (4 days ago)
