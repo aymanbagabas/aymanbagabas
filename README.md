@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [aymanbagabas/go-osc52](https://github.com/aymanbagabas/go-osc52) - Golang terminal ANSI OSC52 wrapper. Copy text to clipboard from anywhere. (today)
-- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - Nothing like ~ (today)
-- [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (3 days ago)
-- [aymanbagabas/shcopy](https://github.com/aymanbagabas/shcopy) - 📋 Copy text to your system clipboard locally and remotely using ANSI OSC52 sequence (5 days ago)
-- [aymanbagabas/scoop-bucket](https://github.com/aymanbagabas/scoop-bucket) - Scoop Bucket (5 days ago)
+- [aymanbagabas/go-osc52](https://github.com/aymanbagabas/go-osc52) - Golang terminal ANSI OSC52 wrapper. Copy text to clipboard from anywhere. (1 day ago)
+- [aymanbagabas/homebrew-tap](https://github.com/aymanbagabas/homebrew-tap) - aymanbagabas/tap (1 day ago)
+- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - Nothing like ~ (1 day ago)
+- [aymanbagabas/scoop-bucket](https://github.com/aymanbagabas/scoop-bucket) - Scoop Bucket (1 day ago)
+- [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [go-git/go-git](https://github.com/go-git/go-git) ([v5.6.0](https://github.com/go-git/go-git/releases/tag/v5.6.0), 6 days ago) - A highly extensible Git implementation in pure Go.
-- [aymanbagabas/shcopy](https://github.com/aymanbagabas/shcopy) ([v0.1.2](https://github.com/aymanbagabas/shcopy/releases/tag/v0.1.2), 6 days ago) - 📋 Copy text to your system clipboard locally and remotely using ANSI OSC52 sequence
+- [aymanbagabas/shcopy](https://github.com/aymanbagabas/shcopy) ([v0.1.3](https://github.com/aymanbagabas/shcopy/releases/tag/v0.1.3), today) - 📋 Copy text to your system clipboard locally and remotely using ANSI OSC52 sequence
+- [go-git/go-git](https://github.com/go-git/go-git) ([v5.6.0](https://github.com/go-git/go-git/releases/tag/v5.6.0), 1 week ago) - A highly extensible Git implementation in pure Go.
 - [aymanbagabas/go-osc52](https://github.com/aymanbagabas/go-osc52) ([v2.0.0](https://github.com/aymanbagabas/go-osc52/releases/tag/v2.0.0), 1 week ago) - Golang terminal ANSI OSC52 wrapper. Copy text to clipboard from anywhere.
 - [charmbracelet/log](https://github.com/charmbracelet/log) ([v0.1.2](https://github.com/charmbracelet/log/releases/tag/v0.1.2), 1 week ago) - A minimal, colorful Go logging library 🪵
 - [bloznelis/typioca](https://github.com/bloznelis/typioca) ([2.1.1](https://github.com/bloznelis/typioca/releases/tag/2.1.1), 1 week ago) - Cozy typing speed tester
 
 #### 🔨 My recent Pull Requests
 
-- [feat(go): upgrade golang to 1.19](https://github.com/charmbracelet/lipgloss/pull/177) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (today)
-- [fix(spell): only underline spell words](https://github.com/navarasu/onedark.nvim/pull/149) on [navarasu/onedark.nvim](https://github.com/navarasu/onedark.nvim) (today)
-- [feat(deps): upgrade go version &amp; golang.org/x/sys](https://github.com/muesli/termenv/pull/119) on [muesli/termenv](https://github.com/muesli/termenv) (1 day ago)
-- [feat(copy): fix detecting tmux &amp; upgrade go-osc52 to v2](https://github.com/muesli/termenv/pull/118) on [muesli/termenv](https://github.com/muesli/termenv) (1 day ago)
-- [refactor: log options](https://github.com/charmbracelet/log/pull/39) on [charmbracelet/log](https://github.com/charmbracelet/log) (3 days ago)
+- [feat(go): upgrade golang to 1.19](https://github.com/charmbracelet/lipgloss/pull/177) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (1 day ago)
+- [fix(spell): only underline spell words](https://github.com/navarasu/onedark.nvim/pull/149) on [navarasu/onedark.nvim](https://github.com/navarasu/onedark.nvim) (1 day ago)
+- [feat(deps): upgrade go version &amp; golang.org/x/sys](https://github.com/muesli/termenv/pull/119) on [muesli/termenv](https://github.com/muesli/termenv) (2 days ago)
+- [feat(copy): fix detecting tmux &amp; upgrade go-osc52 to v2](https://github.com/muesli/termenv/pull/118) on [muesli/termenv](https://github.com/muesli/termenv) (2 days ago)
+- [refactor: log options](https://github.com/charmbracelet/log/pull/39) on [charmbracelet/log](https://github.com/charmbracelet/log) (4 days ago)
 
 #### 📜 My recent blog posts
 
@@ -44,8 +44,8 @@
 
 #### ⭐ Recent Stars
 
-- [maaslalani/slides](https://github.com/maaslalani/slides) - Terminal based presentation tool (2 days ago)
-- [charmbracelet/log](https://github.com/charmbracelet/log) - A minimal, colorful Go logging library 🪵 (1 week ago)
+- [maaslalani/slides](https://github.com/maaslalani/slides) - Terminal based presentation tool (3 days ago)
+- [charmbracelet/log](https://github.com/charmbracelet/log) - A minimal, colorful Go logging library 🪵 (2 weeks ago)
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely. (2 weeks ago)
 - [knz/lipgloss-convert](https://github.com/knz/lipgloss-convert) - String conversion functions for lipgloss Styles (1 month ago)
 - [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) - Neovim config for the lazy (2 months ago)
