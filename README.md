@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [aymanbagabas/scoop-bucket](https://github.com/aymanbagabas/scoop-bucket) - Scoop Bucket (1 day ago)
-- [aymanbagabas/homebrew-tap](https://github.com/aymanbagabas/homebrew-tap) - aymanbagabas/tap (1 day ago)
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (1 day ago)
 - [caddy-dns/route53](https://github.com/caddy-dns/route53) - Caddy module: dns.providers.route53 (1 day ago)
-- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - Nothing like ~ (1 day ago)
 - [aymanbagabas/go-osc52](https://github.com/aymanbagabas/go-osc52) - Golang terminal ANSI OSC52 wrapper. Copy text to clipboard from anywhere. (1 day ago)
+- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - Nothing like ~ (1 day ago)
+- [aymanbagabas/scoop-bucket](https://github.com/aymanbagabas/scoop-bucket) - Scoop Bucket (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -28,7 +28,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [feat(go): upgrade golang to 1.19](https://github.com/charmbracelet/lipgloss/pull/177) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (1 day ago)
+- [feat(go): upgrade golang to 1.17](https://github.com/charmbracelet/lipgloss/pull/177) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (1 day ago)
 - [fix(spell): only underline spell words](https://github.com/navarasu/onedark.nvim/pull/149) on [navarasu/onedark.nvim](https://github.com/navarasu/onedark.nvim) (1 day ago)
 - [feat(deps): upgrade go version &amp; golang.org/x/sys](https://github.com/muesli/termenv/pull/119) on [muesli/termenv](https://github.com/muesli/termenv) (2 days ago)
 - [feat(copy): fix detecting tmux &amp; upgrade go-osc52 to v2](https://github.com/muesli/termenv/pull/118) on [muesli/termenv](https://github.com/muesli/termenv) (2 days ago)
