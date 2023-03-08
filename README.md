@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [aymanbagabas/scoop-bucket](https://github.com/aymanbagabas/scoop-bucket) - Scoop Bucket (2 days ago)
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (2 days ago)
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (today)
 - [caddy-dns/route53](https://github.com/caddy-dns/route53) - Caddy module: dns.providers.route53 (2 days ago)
-- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - Nothing like ~ (2 days ago)
 - [aymanbagabas/go-osc52](https://github.com/aymanbagabas/go-osc52) - Golang terminal ANSI OSC52 wrapper. Copy text to clipboard from anywhere. (2 days ago)
+- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - Nothing like ~ (2 days ago)
+- [aymanbagabas/scoop-bucket](https://github.com/aymanbagabas/scoop-bucket) - Scoop Bucket (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -20,11 +20,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [muesli/termenv](https://github.com/muesli/termenv) ([v0.15.0](https://github.com/muesli/termenv/releases/tag/v0.15.0), today) - Advanced ANSI style &amp; color support for your terminal applications
 - [caddy-dns/route53](https://github.com/caddy-dns/route53) ([v1.3.1](https://github.com/caddy-dns/route53/releases/tag/v1.3.1), 1 day ago) - Caddy module: dns.providers.route53
 - [libdns/route53](https://github.com/libdns/route53) ([v1.3.1](https://github.com/libdns/route53/releases/tag/v1.3.1), 1 day ago) - AWS Route53 provider implementation for libdns
 - [aymanbagabas/shcopy](https://github.com/aymanbagabas/shcopy) ([v0.1.3](https://github.com/aymanbagabas/shcopy/releases/tag/v0.1.3), 1 day ago) - 📋 Copy text to your system clipboard locally and remotely using ANSI OSC52 sequence
 - [go-git/go-git](https://github.com/go-git/go-git) ([v5.6.0](https://github.com/go-git/go-git/releases/tag/v5.6.0), 1 week ago) - A highly extensible Git implementation in pure Go.
-- [aymanbagabas/go-osc52](https://github.com/aymanbagabas/go-osc52) ([v2.0.0](https://github.com/aymanbagabas/go-osc52/releases/tag/v2.0.0), 1 week ago) - Golang terminal ANSI OSC52 wrapper. Copy text to clipboard from anywhere.
 
 #### 🔨 My recent Pull Requests
 
