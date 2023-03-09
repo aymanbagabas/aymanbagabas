@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (today)
 - [aymanbagabas/gh-stars](https://github.com/aymanbagabas/gh-stars) - GitHub stargazers in your terminal 🌟 (today)
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (1 day ago)
+- [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (today)
 - [aymanbagabas/fnanendb](https://github.com/aymanbagabas/fnanendb) - Fnanen.com scraper (1 day ago)
 - [charmbracelet/log](https://github.com/charmbracelet/log) - A minimal, colorful Go logging library 🪵 (1 day ago)
-- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - Nothing like ~ (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [muesli/termenv](https://github.com/muesli/termenv) ([v0.15.1](https://github.com/muesli/termenv/releases/tag/v0.15.1), today) - Advanced ANSI style &amp; color support for your terminal applications
 - [aymanbagabas/gh-stars](https://github.com/aymanbagabas/gh-stars) ([v1.0.1](https://github.com/aymanbagabas/gh-stars/releases/tag/v1.0.1), today) - GitHub stargazers in your terminal 🌟
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.7.0](https://github.com/charmbracelet/lipgloss/releases/tag/v0.7.0), 1 day ago) - Style definitions for nice terminal layouts 👄
-- [muesli/termenv](https://github.com/muesli/termenv) ([v0.15.0](https://github.com/muesli/termenv/releases/tag/v0.15.0), 1 day ago) - Advanced ANSI style &amp; color support for your terminal applications
 - [caddy-dns/route53](https://github.com/caddy-dns/route53) ([v1.3.1](https://github.com/caddy-dns/route53/releases/tag/v1.3.1), 2 days ago) - Caddy module: dns.providers.route53
 - [libdns/route53](https://github.com/libdns/route53) ([v1.3.1](https://github.com/libdns/route53/releases/tag/v1.3.1), 2 days ago) - AWS Route53 provider implementation for libdns
 
 #### 🔨 My recent Pull Requests
 
+- [fix(renderer): use termenv default renderer](https://github.com/charmbracelet/lipgloss/pull/179) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (today)
+- [fix(output): set default tty before querying the terminal](https://github.com/muesli/termenv/pull/121) on [muesli/termenv](https://github.com/muesli/termenv) (today)
 - [feat(caller): add caller formatter](https://github.com/charmbracelet/log/pull/43) on [charmbracelet/log](https://github.com/charmbracelet/log) (1 day ago)
 - [feat(log): sub-logger with prefix](https://github.com/charmbracelet/log/pull/42) on [charmbracelet/log](https://github.com/charmbracelet/log) (1 day ago)
 - [feat(go): upgrade golang to 1.17](https://github.com/charmbracelet/lipgloss/pull/177) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (3 days ago)
-- [fix(spell): only underline spell words](https://github.com/navarasu/onedark.nvim/pull/149) on [navarasu/onedark.nvim](https://github.com/navarasu/onedark.nvim) (3 days ago)
-- [feat(deps): upgrade go version &amp; golang.org/x/sys](https://github.com/muesli/termenv/pull/119) on [muesli/termenv](https://github.com/muesli/termenv) (4 days ago)
 
 #### 📜 My recent blog posts
 
