@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.7.1](https://github.com/charmbracelet/lipgloss/releases/tag/v0.7.1), today) - Style definitions for nice terminal layouts 👄
 - [muesli/termenv](https://github.com/muesli/termenv) ([v0.15.1](https://github.com/muesli/termenv/releases/tag/v0.15.1), today) - Advanced ANSI style &amp; color support for your terminal applications
 - [aymanbagabas/gh-stars](https://github.com/aymanbagabas/gh-stars) ([v1.0.1](https://github.com/aymanbagabas/gh-stars/releases/tag/v1.0.1), today) - GitHub stargazers in your terminal 🌟
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.7.0](https://github.com/charmbracelet/lipgloss/releases/tag/v0.7.0), 1 day ago) - Style definitions for nice terminal layouts 👄
 - [caddy-dns/route53](https://github.com/caddy-dns/route53) ([v1.3.1](https://github.com/caddy-dns/route53/releases/tag/v1.3.1), 2 days ago) - Caddy module: dns.providers.route53
 - [libdns/route53](https://github.com/libdns/route53) ([v1.3.1](https://github.com/libdns/route53/releases/tag/v1.3.1), 2 days ago) - AWS Route53 provider implementation for libdns
 
 #### 🔨 My recent Pull Requests
 
+- [fix(output): tmux supports OSC 10 &amp; 11](https://github.com/muesli/termenv/pull/123) on [muesli/termenv](https://github.com/muesli/termenv) (today)
+- [fix(output): status report ignored when assumeTTY or unsafe is true](https://github.com/muesli/termenv/pull/122) on [muesli/termenv](https://github.com/muesli/termenv) (today)
 - [fix(renderer): use termenv default renderer](https://github.com/charmbracelet/lipgloss/pull/179) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (today)
 - [fix(output): set default tty before querying the terminal](https://github.com/muesli/termenv/pull/121) on [muesli/termenv](https://github.com/muesli/termenv) (today)
 - [feat(caller): add caller formatter](https://github.com/charmbracelet/log/pull/43) on [charmbracelet/log](https://github.com/charmbracelet/log) (1 day ago)
-- [feat(log): sub-logger with prefix](https://github.com/charmbracelet/log/pull/42) on [charmbracelet/log](https://github.com/charmbracelet/log) (1 day ago)
-- [feat(go): upgrade golang to 1.17](https://github.com/charmbracelet/lipgloss/pull/177) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (3 days ago)
 
 #### 📜 My recent blog posts
 
