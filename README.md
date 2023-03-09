@@ -4,10 +4,10 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [aymanbagabas/gh-stars](https://github.com/aymanbagabas/gh-stars) - GitHub stargazers in your terminal 🌟 (today)
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (1 day ago)
 - [aymanbagabas/fnanendb](https://github.com/aymanbagabas/fnanendb) - Fnanen.com scraper (1 day ago)
 - [charmbracelet/log](https://github.com/charmbracelet/log) - A minimal, colorful Go logging library 🪵 (1 day ago)
-- [aymanbagabas/homebrew-tap](https://github.com/aymanbagabas/homebrew-tap) - aymanbagabas/tap (3 days ago)
 - [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - Nothing like ~ (3 days ago)
 
 #### 🌱 My latest projects
@@ -20,11 +20,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [aymanbagabas/gh-stars](https://github.com/aymanbagabas/gh-stars) ([v1.0.1](https://github.com/aymanbagabas/gh-stars/releases/tag/v1.0.1), today) - GitHub stargazers in your terminal 🌟
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.7.0](https://github.com/charmbracelet/lipgloss/releases/tag/v0.7.0), 1 day ago) - Style definitions for nice terminal layouts 👄
 - [muesli/termenv](https://github.com/muesli/termenv) ([v0.15.0](https://github.com/muesli/termenv/releases/tag/v0.15.0), 1 day ago) - Advanced ANSI style &amp; color support for your terminal applications
 - [caddy-dns/route53](https://github.com/caddy-dns/route53) ([v1.3.1](https://github.com/caddy-dns/route53/releases/tag/v1.3.1), 2 days ago) - Caddy module: dns.providers.route53
 - [libdns/route53](https://github.com/libdns/route53) ([v1.3.1](https://github.com/libdns/route53/releases/tag/v1.3.1), 2 days ago) - AWS Route53 provider implementation for libdns
-- [aymanbagabas/shcopy](https://github.com/aymanbagabas/shcopy) ([v0.1.3](https://github.com/aymanbagabas/shcopy/releases/tag/v0.1.3), 2 days ago) - 📋 Copy text to your system clipboard locally and remotely using ANSI OSC52 sequence
 
 #### 🔨 My recent Pull Requests
 
