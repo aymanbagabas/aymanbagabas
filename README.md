@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/log](https://github.com/charmbracelet/log) - A minimal, colorful Go logging library 🪵 (today)
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (today)
-- [caddy-dns/route53](https://github.com/caddy-dns/route53) - Caddy module: dns.providers.route53 (2 days ago)
-- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - Nothing like ~ (2 days ago)
-- [aymanbagabas/go-osc52](https://github.com/aymanbagabas/go-osc52) - Golang terminal ANSI OSC52 wrapper. Copy text to clipboard from anywhere. (2 days ago)
+- [charmbracelet/log](https://github.com/charmbracelet/log) - A minimal, colorful Go logging library 🪵 (1 day ago)
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (1 day ago)
+- [caddy-dns/route53](https://github.com/caddy-dns/route53) - Caddy module: dns.providers.route53 (3 days ago)
+- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - Nothing like ~ (3 days ago)
+- [aymanbagabas/go-osc52](https://github.com/aymanbagabas/go-osc52) - Golang terminal ANSI OSC52 wrapper. Copy text to clipboard from anywhere. (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.7.0](https://github.com/charmbracelet/lipgloss/releases/tag/v0.7.0), today) - Style definitions for nice terminal layouts 👄
-- [muesli/termenv](https://github.com/muesli/termenv) ([v0.15.0](https://github.com/muesli/termenv/releases/tag/v0.15.0), today) - Advanced ANSI style &amp; color support for your terminal applications
-- [caddy-dns/route53](https://github.com/caddy-dns/route53) ([v1.3.1](https://github.com/caddy-dns/route53/releases/tag/v1.3.1), 1 day ago) - Caddy module: dns.providers.route53
-- [libdns/route53](https://github.com/libdns/route53) ([v1.3.1](https://github.com/libdns/route53/releases/tag/v1.3.1), 1 day ago) - AWS Route53 provider implementation for libdns
-- [aymanbagabas/shcopy](https://github.com/aymanbagabas/shcopy) ([v0.1.3](https://github.com/aymanbagabas/shcopy/releases/tag/v0.1.3), 1 day ago) - 📋 Copy text to your system clipboard locally and remotely using ANSI OSC52 sequence
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.7.0](https://github.com/charmbracelet/lipgloss/releases/tag/v0.7.0), 1 day ago) - Style definitions for nice terminal layouts 👄
+- [muesli/termenv](https://github.com/muesli/termenv) ([v0.15.0](https://github.com/muesli/termenv/releases/tag/v0.15.0), 1 day ago) - Advanced ANSI style &amp; color support for your terminal applications
+- [caddy-dns/route53](https://github.com/caddy-dns/route53) ([v1.3.1](https://github.com/caddy-dns/route53/releases/tag/v1.3.1), 2 days ago) - Caddy module: dns.providers.route53
+- [libdns/route53](https://github.com/libdns/route53) ([v1.3.1](https://github.com/libdns/route53/releases/tag/v1.3.1), 2 days ago) - AWS Route53 provider implementation for libdns
+- [aymanbagabas/shcopy](https://github.com/aymanbagabas/shcopy) ([v0.1.3](https://github.com/aymanbagabas/shcopy/releases/tag/v0.1.3), 2 days ago) - 📋 Copy text to your system clipboard locally and remotely using ANSI OSC52 sequence
 
 #### 🔨 My recent Pull Requests
 
-- [feat(log): sub-logger with prefix](https://github.com/charmbracelet/log/pull/42) on [charmbracelet/log](https://github.com/charmbracelet/log) (today)
-- [feat(go): upgrade golang to 1.17](https://github.com/charmbracelet/lipgloss/pull/177) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (2 days ago)
-- [fix(spell): only underline spell words](https://github.com/navarasu/onedark.nvim/pull/149) on [navarasu/onedark.nvim](https://github.com/navarasu/onedark.nvim) (2 days ago)
-- [feat(deps): upgrade go version &amp; golang.org/x/sys](https://github.com/muesli/termenv/pull/119) on [muesli/termenv](https://github.com/muesli/termenv) (3 days ago)
-- [feat(copy): fix detecting tmux &amp; upgrade go-osc52 to v2](https://github.com/muesli/termenv/pull/118) on [muesli/termenv](https://github.com/muesli/termenv) (3 days ago)
+- [feat(caller): add caller formatter](https://github.com/charmbracelet/log/pull/43) on [charmbracelet/log](https://github.com/charmbracelet/log) (1 day ago)
+- [feat(log): sub-logger with prefix](https://github.com/charmbracelet/log/pull/42) on [charmbracelet/log](https://github.com/charmbracelet/log) (1 day ago)
+- [feat(go): upgrade golang to 1.17](https://github.com/charmbracelet/lipgloss/pull/177) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (3 days ago)
+- [fix(spell): only underline spell words](https://github.com/navarasu/onedark.nvim/pull/149) on [navarasu/onedark.nvim](https://github.com/navarasu/onedark.nvim) (3 days ago)
+- [feat(deps): upgrade go version &amp; golang.org/x/sys](https://github.com/muesli/termenv/pull/119) on [muesli/termenv](https://github.com/muesli/termenv) (4 days ago)
 
 #### 📜 My recent blog posts
 
@@ -44,7 +44,7 @@
 
 #### ⭐ Recent Stars
 
-- [maaslalani/slides](https://github.com/maaslalani/slides) - Terminal based presentation tool (4 days ago)
+- [maaslalani/slides](https://github.com/maaslalani/slides) - Terminal based presentation tool (5 days ago)
 - [charmbracelet/log](https://github.com/charmbracelet/log) - A minimal, colorful Go logging library 🪵 (2 weeks ago)
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely. (2 weeks ago)
 - [knz/lipgloss-convert](https://github.com/knz/lipgloss-convert) - String conversion functions for lipgloss Styles (1 month ago)
