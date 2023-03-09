@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix(ttyd): windows ttyd filename](https://github.com/charmbracelet/vhs-action/pull/86) on [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) (today)
+- [feat(core): add vhs to path](https://github.com/charmbracelet/vhs-action/pull/85) on [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) (today)
+- [feat: show graph before n days](https://github.com/aymanbagabas/gh-stars/pull/8) on [aymanbagabas/gh-stars](https://github.com/aymanbagabas/gh-stars) (today)
 - [fix(output): tmux supports OSC 10 &amp; 11](https://github.com/muesli/termenv/pull/123) on [muesli/termenv](https://github.com/muesli/termenv) (today)
 - [fix(output): status report ignored when assumeTTY or unsafe is true](https://github.com/muesli/termenv/pull/122) on [muesli/termenv](https://github.com/muesli/termenv) (today)
-- [fix(renderer): use termenv default renderer](https://github.com/charmbracelet/lipgloss/pull/179) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (today)
-- [fix(output): set default tty before querying the terminal](https://github.com/muesli/termenv/pull/121) on [muesli/termenv](https://github.com/muesli/termenv) (today)
-- [feat(caller): add caller formatter](https://github.com/charmbracelet/log/pull/43) on [charmbracelet/log](https://github.com/charmbracelet/log) (1 day ago)
 
 #### 📜 My recent blog posts
 
