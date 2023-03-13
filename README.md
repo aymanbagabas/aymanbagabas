@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (3 days ago)
-- [aymanbagabas/gh-stars](https://github.com/aymanbagabas/gh-stars) - GitHub stargazers in your terminal 🌟 (3 days ago)
-- [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (3 days ago)
-- [aymanbagabas/fnanendb](https://github.com/aymanbagabas/fnanendb) - Fnanen.com scraper (4 days ago)
-- [charmbracelet/log](https://github.com/charmbracelet/log) - A minimal, colorful Go logging library 🪵 (4 days ago)
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (4 days ago)
+- [aymanbagabas/gh-stars](https://github.com/aymanbagabas/gh-stars) - GitHub stargazers in your terminal 🌟 (4 days ago)
+- [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (4 days ago)
+- [aymanbagabas/fnanendb](https://github.com/aymanbagabas/fnanendb) - Fnanen.com scraper (5 days ago)
+- [charmbracelet/log](https://github.com/charmbracelet/log) - A minimal, colorful Go logging library 🪵 (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.7.1](https://github.com/charmbracelet/lipgloss/releases/tag/v0.7.1), 3 days ago) - Style definitions for nice terminal layouts 👄
-- [muesli/termenv](https://github.com/muesli/termenv) ([v0.15.1](https://github.com/muesli/termenv/releases/tag/v0.15.1), 3 days ago) - Advanced ANSI style &amp; color support for your terminal applications
-- [aymanbagabas/gh-stars](https://github.com/aymanbagabas/gh-stars) ([v1.0.1](https://github.com/aymanbagabas/gh-stars/releases/tag/v1.0.1), 3 days ago) - GitHub stargazers in your terminal 🌟
-- [caddy-dns/route53](https://github.com/caddy-dns/route53) ([v1.3.1](https://github.com/caddy-dns/route53/releases/tag/v1.3.1), 5 days ago) - Caddy module: dns.providers.route53
-- [libdns/route53](https://github.com/libdns/route53) ([v1.3.1](https://github.com/libdns/route53/releases/tag/v1.3.1), 5 days ago) - AWS Route53 provider implementation for libdns
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.7.1](https://github.com/charmbracelet/lipgloss/releases/tag/v0.7.1), 4 days ago) - Style definitions for nice terminal layouts 👄
+- [muesli/termenv](https://github.com/muesli/termenv) ([v0.15.1](https://github.com/muesli/termenv/releases/tag/v0.15.1), 4 days ago) - Advanced ANSI style &amp; color support for your terminal applications
+- [aymanbagabas/gh-stars](https://github.com/aymanbagabas/gh-stars) ([v1.0.1](https://github.com/aymanbagabas/gh-stars/releases/tag/v1.0.1), 4 days ago) - GitHub stargazers in your terminal 🌟
+- [caddy-dns/route53](https://github.com/caddy-dns/route53) ([v1.3.1](https://github.com/caddy-dns/route53/releases/tag/v1.3.1), 6 days ago) - Caddy module: dns.providers.route53
+- [libdns/route53](https://github.com/libdns/route53) ([v1.3.1](https://github.com/libdns/route53/releases/tag/v1.3.1), 6 days ago) - AWS Route53 provider implementation for libdns
 
 #### 🔨 My recent Pull Requests
 
-- [fix(ttyd): windows ttyd filename](https://github.com/charmbracelet/vhs-action/pull/86) on [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) (3 days ago)
-- [feat(core): add vhs to path](https://github.com/charmbracelet/vhs-action/pull/85) on [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) (3 days ago)
-- [feat: show graph before n days](https://github.com/aymanbagabas/gh-stars/pull/8) on [aymanbagabas/gh-stars](https://github.com/aymanbagabas/gh-stars) (3 days ago)
-- [fix(output): tmux supports OSC 10 &amp; 11](https://github.com/muesli/termenv/pull/123) on [muesli/termenv](https://github.com/muesli/termenv) (3 days ago)
-- [fix(output): status report ignored when assumeTTY or unsafe is true](https://github.com/muesli/termenv/pull/122) on [muesli/termenv](https://github.com/muesli/termenv) (3 days ago)
+- [fix(ttyd): windows ttyd filename](https://github.com/charmbracelet/vhs-action/pull/86) on [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) (4 days ago)
+- [feat(core): add vhs to path](https://github.com/charmbracelet/vhs-action/pull/85) on [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) (4 days ago)
+- [feat: show graph before n days](https://github.com/aymanbagabas/gh-stars/pull/8) on [aymanbagabas/gh-stars](https://github.com/aymanbagabas/gh-stars) (4 days ago)
+- [fix(output): tmux supports OSC 10 &amp; 11](https://github.com/muesli/termenv/pull/123) on [muesli/termenv](https://github.com/muesli/termenv) (4 days ago)
+- [fix(output): status report ignored when assumeTTY or unsafe is true](https://github.com/muesli/termenv/pull/122) on [muesli/termenv](https://github.com/muesli/termenv) (4 days ago)
 
 #### 📜 My recent blog posts
 
@@ -46,7 +46,7 @@
 
 - [maaslalani/slides](https://github.com/maaslalani/slides) - Terminal based presentation tool (1 week ago)
 - [charmbracelet/log](https://github.com/charmbracelet/log) - A minimal, colorful Go logging library 🪵 (2 weeks ago)
-- [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely. (2 weeks ago)
+- [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely. (3 weeks ago)
 - [knz/lipgloss-convert](https://github.com/knz/lipgloss-convert) - String conversion functions for lipgloss Styles (1 month ago)
 - [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) - Neovim config for the lazy (2 months ago)
 
