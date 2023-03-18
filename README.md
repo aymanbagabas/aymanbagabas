@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [aymanbagabas/kalima](https://github.com/aymanbagabas/kalima) - A PWA that views and searches through FnanenDB songs database. (1 day ago)
+- [aymanbagabas/kalima](https://github.com/aymanbagabas/kalima) - A PWA that views and searches through FnanenDB songs database. (2 days ago)
 - [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (1 week ago)
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (1 week ago)
 - [aymanbagabas/gh-stars](https://github.com/aymanbagabas/gh-stars) - GitHub stargazers in your terminal 🌟 (1 week ago)
@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [go-git/go-git](https://github.com/go-git/go-git) ([v5.6.1](https://github.com/go-git/go-git/releases/tag/v5.6.1), 1 day ago) - A highly extensible Git implementation in pure Go.
+- [go-git/go-git](https://github.com/go-git/go-git) ([v5.6.1](https://github.com/go-git/go-git/releases/tag/v5.6.1), 2 days ago) - A highly extensible Git implementation in pure Go.
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.7.1](https://github.com/charmbracelet/lipgloss/releases/tag/v0.7.1), 1 week ago) - Style definitions for nice terminal layouts 👄
 - [muesli/termenv](https://github.com/muesli/termenv) ([v0.15.1](https://github.com/muesli/termenv/releases/tag/v0.15.1), 1 week ago) - Advanced ANSI style &amp; color support for your terminal applications
 - [aymanbagabas/gh-stars](https://github.com/aymanbagabas/gh-stars) ([v1.0.1](https://github.com/aymanbagabas/gh-stars/releases/tag/v1.0.1), 1 week ago) - GitHub stargazers in your terminal 🌟
@@ -44,7 +44,7 @@
 
 #### ⭐ Recent Stars
 
-- [maaslalani/slides](https://github.com/maaslalani/slides) - Terminal based presentation tool (1 week ago)
+- [maaslalani/slides](https://github.com/maaslalani/slides) - Terminal based presentation tool (2 weeks ago)
 - [charmbracelet/log](https://github.com/charmbracelet/log) - A minimal, colorful Go logging library 🪵 (3 weeks ago)
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely. (3 weeks ago)
 - [knz/lipgloss-convert](https://github.com/knz/lipgloss-convert) - String conversion functions for lipgloss Styles (1 month ago)
