@@ -20,11 +20,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/log](https://github.com/charmbracelet/log) ([v0.2.0](https://github.com/charmbracelet/log/releases/tag/v0.2.0), today) - A minimal, colorful Go logging library 🪵
 - [go-git/go-git](https://github.com/go-git/go-git) ([v5.6.1](https://github.com/go-git/go-git/releases/tag/v5.6.1), 4 days ago) - A highly extensible Git implementation in pure Go.
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.7.1](https://github.com/charmbracelet/lipgloss/releases/tag/v0.7.1), 1 week ago) - Style definitions for nice terminal layouts 👄
 - [muesli/termenv](https://github.com/muesli/termenv) ([v0.15.1](https://github.com/muesli/termenv/releases/tag/v0.15.1), 1 week ago) - Advanced ANSI style &amp; color support for your terminal applications
 - [aymanbagabas/gh-stars](https://github.com/aymanbagabas/gh-stars) ([v1.0.1](https://github.com/aymanbagabas/gh-stars/releases/tag/v1.0.1), 1 week ago) - GitHub stargazers in your terminal 🌟
-- [caddy-dns/route53](https://github.com/caddy-dns/route53) ([v1.3.1](https://github.com/caddy-dns/route53/releases/tag/v1.3.1), 1 week ago) - Caddy module: dns.providers.route53
 
 #### 🔨 My recent Pull Requests
 
