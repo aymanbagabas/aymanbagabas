@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix(output): cache lipgloss renderers](https://github.com/charmbracelet/log/pull/52) on [charmbracelet/log](https://github.com/charmbracelet/log) (today)
 - [docs: add codecov &amp; go report badges](https://github.com/charmbracelet/log/pull/49) on [charmbracelet/log](https://github.com/charmbracelet/log) (1 day ago)
 - [fix(ttyd): windows ttyd filename](https://github.com/charmbracelet/vhs-action/pull/86) on [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) (1 week ago)
 - [feat(core): add vhs to path](https://github.com/charmbracelet/vhs-action/pull/85) on [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) (1 week ago)
 - [feat: show graph before n days](https://github.com/aymanbagabas/gh-stars/pull/8) on [aymanbagabas/gh-stars](https://github.com/aymanbagabas/gh-stars) (1 week ago)
-- [fix(output): tmux supports OSC 10 &amp; 11](https://github.com/muesli/termenv/pull/123) on [muesli/termenv](https://github.com/muesli/termenv) (1 week ago)
 
 #### 📜 My recent blog posts
 
