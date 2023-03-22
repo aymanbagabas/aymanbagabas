@@ -20,11 +20,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/log](https://github.com/charmbracelet/log) ([v0.2.1](https://github.com/charmbracelet/log/releases/tag/v0.2.1), today) - A minimal, colorful Go logging library 🪵
+- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.10.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.10.0), today) - The SSH directory ✨
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v1.1.0](https://github.com/charmbracelet/wish/releases/tag/v1.1.0), 2 days ago) - Make SSH apps, just like that! 💫
-- [charmbracelet/log](https://github.com/charmbracelet/log) ([v0.2.0](https://github.com/charmbracelet/log/releases/tag/v0.2.0), 2 days ago) - A minimal, colorful Go logging library 🪵
 - [go-git/go-git](https://github.com/go-git/go-git) ([v5.6.1](https://github.com/go-git/go-git/releases/tag/v5.6.1), 6 days ago) - A highly extensible Git implementation in pure Go.
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.7.1](https://github.com/charmbracelet/lipgloss/releases/tag/v0.7.1), 1 week ago) - Style definitions for nice terminal layouts 👄
-- [muesli/termenv](https://github.com/muesli/termenv) ([v0.15.1](https://github.com/muesli/termenv/releases/tag/v0.15.1), 1 week ago) - Advanced ANSI style &amp; color support for your terminal applications
 
 #### 🔨 My recent Pull Requests
 
