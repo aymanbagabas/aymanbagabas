@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Refactor,feat: use soft serve backends, implement git &amp; http servers, remove config repository, manage soft serve from ssh](https://github.com/charmbracelet/soft-serve/pull/231) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (today)
+- [feat(backend): server backend](https://github.com/charmbracelet/soft-serve/pull/230) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (today)
 - [fix(output): cache lipgloss renderers](https://github.com/charmbracelet/log/pull/52) on [charmbracelet/log](https://github.com/charmbracelet/log) (1 day ago)
 - [docs: add codecov &amp; go report badges](https://github.com/charmbracelet/log/pull/49) on [charmbracelet/log](https://github.com/charmbracelet/log) (2 days ago)
 - [fix(ttyd): windows ttyd filename](https://github.com/charmbracelet/vhs-action/pull/86) on [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) (1 week ago)
-- [feat(core): add vhs to path](https://github.com/charmbracelet/vhs-action/pull/85) on [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) (1 week ago)
-- [feat: show graph before n days](https://github.com/aymanbagabas/gh-stars/pull/8) on [aymanbagabas/gh-stars](https://github.com/aymanbagabas/gh-stars) (1 week ago)
 
 #### 📜 My recent blog posts
 
