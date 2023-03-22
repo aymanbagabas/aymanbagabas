@@ -4,9 +4,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/log](https://github.com/charmbracelet/log) - A minimal, colorful Go logging library 🪵 (today)
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (today)
-- [aymanbagabas/kalima](https://github.com/aymanbagabas/kalima) - A PWA that views and searches through FnanenDB songs database. (5 days ago)
+- [charmbracelet/log](https://github.com/charmbracelet/log) - A minimal, colorful Go logging library 🪵 (1 day ago)
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (1 day ago)
+- [aymanbagabas/kalima](https://github.com/aymanbagabas/kalima) - A PWA that views and searches through FnanenDB songs database. (6 days ago)
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (1 week ago)
 - [aymanbagabas/gh-stars](https://github.com/aymanbagabas/gh-stars) - GitHub stargazers in your terminal 🌟 (1 week ago)
 
@@ -20,16 +20,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v1.1.0](https://github.com/charmbracelet/wish/releases/tag/v1.1.0), 1 day ago) - Make SSH apps, just like that! 💫
-- [charmbracelet/log](https://github.com/charmbracelet/log) ([v0.2.0](https://github.com/charmbracelet/log/releases/tag/v0.2.0), 1 day ago) - A minimal, colorful Go logging library 🪵
-- [go-git/go-git](https://github.com/go-git/go-git) ([v5.6.1](https://github.com/go-git/go-git/releases/tag/v5.6.1), 5 days ago) - A highly extensible Git implementation in pure Go.
+- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v1.1.0](https://github.com/charmbracelet/wish/releases/tag/v1.1.0), 2 days ago) - Make SSH apps, just like that! 💫
+- [charmbracelet/log](https://github.com/charmbracelet/log) ([v0.2.0](https://github.com/charmbracelet/log/releases/tag/v0.2.0), 2 days ago) - A minimal, colorful Go logging library 🪵
+- [go-git/go-git](https://github.com/go-git/go-git) ([v5.6.1](https://github.com/go-git/go-git/releases/tag/v5.6.1), 6 days ago) - A highly extensible Git implementation in pure Go.
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.7.1](https://github.com/charmbracelet/lipgloss/releases/tag/v0.7.1), 1 week ago) - Style definitions for nice terminal layouts 👄
 - [muesli/termenv](https://github.com/muesli/termenv) ([v0.15.1](https://github.com/muesli/termenv/releases/tag/v0.15.1), 1 week ago) - Advanced ANSI style &amp; color support for your terminal applications
 
 #### 🔨 My recent Pull Requests
 
-- [fix(output): cache lipgloss renderers](https://github.com/charmbracelet/log/pull/52) on [charmbracelet/log](https://github.com/charmbracelet/log) (today)
-- [docs: add codecov &amp; go report badges](https://github.com/charmbracelet/log/pull/49) on [charmbracelet/log](https://github.com/charmbracelet/log) (1 day ago)
+- [fix(output): cache lipgloss renderers](https://github.com/charmbracelet/log/pull/52) on [charmbracelet/log](https://github.com/charmbracelet/log) (1 day ago)
+- [docs: add codecov &amp; go report badges](https://github.com/charmbracelet/log/pull/49) on [charmbracelet/log](https://github.com/charmbracelet/log) (2 days ago)
 - [fix(ttyd): windows ttyd filename](https://github.com/charmbracelet/vhs-action/pull/86) on [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) (1 week ago)
 - [feat(core): add vhs to path](https://github.com/charmbracelet/vhs-action/pull/85) on [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) (1 week ago)
 - [feat: show graph before n days](https://github.com/aymanbagabas/gh-stars/pull/8) on [aymanbagabas/gh-stars](https://github.com/aymanbagabas/gh-stars) (1 week ago)
@@ -46,7 +46,7 @@
 
 - [maaslalani/slides](https://github.com/maaslalani/slides) - Terminal based presentation tool (2 weeks ago)
 - [charmbracelet/log](https://github.com/charmbracelet/log) - A minimal, colorful Go logging library 🪵 (4 weeks ago)
-- [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely. (4 weeks ago)
+- [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely. (1 month ago)
 - [knz/lipgloss-convert](https://github.com/knz/lipgloss-convert) - String conversion functions for lipgloss Styles (1 month ago)
 - [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) - Neovim config for the lazy (2 months ago)
 
