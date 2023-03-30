@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (1 day ago)
-- [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺 (1 day ago)
-- [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket) - Charmbracelet Scoop Bucket (1 day ago)
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (2 days ago)
+- [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺 (2 days ago)
+- [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket) - Charmbracelet Scoop Bucket (2 days ago)
 - [charmbracelet/log](https://github.com/charmbracelet/log) - A minimal, colorful Go logging library 🪵 (1 week ago)
-- [aymanbagabas/kalima](https://github.com/aymanbagabas/kalima) - A PWA that views and searches through FnanenDB songs database. (1 week ago)
+- [aymanbagabas/kalima](https://github.com/aymanbagabas/kalima) - A PWA that views and searches through FnanenDB songs database. (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -20,15 +20,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.4.7](https://github.com/charmbracelet/soft-serve/releases/tag/v0.4.7), 1 day ago) - A tasty, self-hostable Git server for the command line🍦
-- [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.10.0](https://github.com/charmbracelet/gum/releases/tag/v0.10.0), 2 days ago) - A tool for glamorous shell scripts 🎀
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.4.7](https://github.com/charmbracelet/soft-serve/releases/tag/v0.4.7), 2 days ago) - A tasty, self-hostable Git server for the command line🍦
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.10.0](https://github.com/charmbracelet/gum/releases/tag/v0.10.0), 3 days ago) - A tool for glamorous shell scripts 🎀
 - [charmbracelet/log](https://github.com/charmbracelet/log) ([v0.2.1](https://github.com/charmbracelet/log/releases/tag/v0.2.1), 1 week ago) - A minimal, colorful Go logging library 🪵
 - [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.10.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.10.0), 1 week ago) - The SSH directory ✨
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v1.1.0](https://github.com/charmbracelet/wish/releases/tag/v1.1.0), 1 week ago) - Make SSH apps, just like that! 💫
 
 #### 🔨 My recent Pull Requests
 
-- [fix(config): ignore repos with broken head ref](https://github.com/charmbracelet/soft-serve/pull/236) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 day ago)
+- [fix(config): ignore repos with broken head ref](https://github.com/charmbracelet/soft-serve/pull/236) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (2 days ago)
 - [Refactor,feat: use soft serve backends, implement git &amp; http servers, remove config repository, manage soft serve from ssh](https://github.com/charmbracelet/soft-serve/pull/231) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 week ago)
 - [feat(backend): server backend](https://github.com/charmbracelet/soft-serve/pull/230) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 week ago)
 - [fix(output): cache lipgloss renderers](https://github.com/charmbracelet/log/pull/52) on [charmbracelet/log](https://github.com/charmbracelet/log) (1 week ago)
