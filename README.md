@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: git grep bare repositories](https://github.com/go-git/go-git/pull/728) on [go-git/go-git](https://github.com/go-git/go-git) (today)
 - [fix(config): ignore repos with broken head ref](https://github.com/charmbracelet/soft-serve/pull/236) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (2 days ago)
 - [Refactor,feat: use soft serve backends, implement git &amp; http servers, remove config repository, manage soft serve from ssh](https://github.com/charmbracelet/soft-serve/pull/231) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 week ago)
 - [feat(backend): server backend](https://github.com/charmbracelet/soft-serve/pull/230) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 week ago)
 - [fix(output): cache lipgloss renderers](https://github.com/charmbracelet/log/pull/52) on [charmbracelet/log](https://github.com/charmbracelet/log) (1 week ago)
-- [docs: add codecov &amp; go report badges](https://github.com/charmbracelet/log/pull/49) on [charmbracelet/log](https://github.com/charmbracelet/log) (1 week ago)
 
 #### 📜 My recent blog posts
 
