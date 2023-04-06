@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix(output): use withcolorcache on the default output](https://github.com/muesli/termenv/pull/130) on [muesli/termenv](https://github.com/muesli/termenv) (today)
 - [feat(clone): add mirror clone option](https://github.com/go-git/go-git/pull/735) on [go-git/go-git](https://github.com/go-git/go-git) (2 days ago)
 - [fix: git grep bare repositories](https://github.com/go-git/go-git/pull/728) on [go-git/go-git](https://github.com/go-git/go-git) (1 week ago)
 - [fix(config): ignore repos with broken head ref](https://github.com/charmbracelet/soft-serve/pull/236) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 week ago)
 - [Refactor,feat: use soft serve backends, implement git &amp; http servers, remove config repository, manage soft serve from ssh](https://github.com/charmbracelet/soft-serve/pull/231) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (2 weeks ago)
-- [feat(backend): server backend](https://github.com/charmbracelet/soft-serve/pull/230) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
