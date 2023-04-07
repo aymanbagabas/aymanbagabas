@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix(output): reuse termenv output](https://github.com/charmbracelet/bubbletea/pull/715) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
+- [ref: change api to expose ssh.PublicKey and authorizd_key](https://github.com/charmbracelet/keygen/pull/9) on [charmbracelet/keygen](https://github.com/charmbracelet/keygen) (today)
 - [fix(output): use withcolorcache on the default output](https://github.com/muesli/termenv/pull/130) on [muesli/termenv](https://github.com/muesli/termenv) (1 day ago)
 - [feat(clone): add mirror clone option](https://github.com/go-git/go-git/pull/735) on [go-git/go-git](https://github.com/go-git/go-git) (3 days ago)
 - [fix: git grep bare repositories](https://github.com/go-git/go-git/pull/728) on [go-git/go-git](https://github.com/go-git/go-git) (1 week ago)
-- [fix(config): ignore repos with broken head ref](https://github.com/charmbracelet/soft-serve/pull/236) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 week ago)
-- [Refactor,feat: use soft serve backends, implement git &amp; http servers, remove config repository, manage soft serve from ssh](https://github.com/charmbracelet/soft-serve/pull/231) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
