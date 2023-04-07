@@ -20,11 +20,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [bloznelis/typioca](https://github.com/bloznelis/typioca) ([2.2.0](https://github.com/bloznelis/typioca/releases/tag/2.2.0), today) - Cozy typing speed tester
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) ([v0.4.0](https://github.com/charmbracelet/vhs/releases/tag/v0.4.0), 2 days ago) - Your CLI home video recorder 📼
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.4.7](https://github.com/charmbracelet/soft-serve/releases/tag/v0.4.7), 1 week ago) - A tasty, self-hostable Git server for the command line🍦
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.10.0](https://github.com/charmbracelet/gum/releases/tag/v0.10.0), 1 week ago) - A tool for glamorous shell scripts 🎀
 - [charmbracelet/log](https://github.com/charmbracelet/log) ([v0.2.1](https://github.com/charmbracelet/log/releases/tag/v0.2.1), 2 weeks ago) - A minimal, colorful Go logging library 🪵
-- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.10.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.10.0), 2 weeks ago) - The SSH directory ✨
 
 #### 🔨 My recent Pull Requests
 
