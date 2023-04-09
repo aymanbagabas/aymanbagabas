@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Add aymanbagabas planck keyboard map](https://github.com/qmk/qmk_firmware/pull/20391) on [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) (today)
 - [SSH, HTTP, and Git urls, Hooks, mirroring and sqlite backend](https://github.com/charmbracelet/soft-serve/pull/242) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (2 days ago)
 - [fix(output): reuse termenv output](https://github.com/charmbracelet/bubbletea/pull/715) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 days ago)
 - [ref: change api to expose ssh.PublicKey and authorizd_key](https://github.com/charmbracelet/keygen/pull/9) on [charmbracelet/keygen](https://github.com/charmbracelet/keygen) (2 days ago)
 - [fix(output): use withcolorcache on the default output](https://github.com/muesli/termenv/pull/130) on [muesli/termenv](https://github.com/muesli/termenv) (3 days ago)
-- [feat(clone): add mirror clone option](https://github.com/go-git/go-git/pull/735) on [go-git/go-git](https://github.com/go-git/go-git) (5 days ago)
 
 #### 📜 My recent blog posts
 
