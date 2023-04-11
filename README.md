@@ -4,10 +4,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/keygen](https://github.com/charmbracelet/keygen) - An SSH key pair generator 🗝️ (4 days ago)
+- [charmbracelet/keygen](https://github.com/charmbracelet/keygen) - An SSH key pair generator 🗝️ (today)
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (2 weeks ago)
-- [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket) - Charmbracelet Scoop Bucket (2 weeks ago)
 - [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺 (2 weeks ago)
+- [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket) - Charmbracelet Scoop Bucket (2 weeks ago)
 - [charmbracelet/log](https://github.com/charmbracelet/log) - A minimal, colorful Go logging library 🪵 (2 weeks ago)
 
 #### 🌱 My latest projects
@@ -20,11 +20,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/keygen](https://github.com/charmbracelet/keygen) ([v0.4.0](https://github.com/charmbracelet/keygen/releases/tag/v0.4.0), today) - An SSH key pair generator 🗝️
 - [libdns/route53](https://github.com/libdns/route53) ([v1.3.2](https://github.com/libdns/route53/releases/tag/v1.3.2), today) - AWS Route53 provider implementation for libdns
 - [bloznelis/typioca](https://github.com/bloznelis/typioca) ([2.2.0](https://github.com/bloznelis/typioca/releases/tag/2.2.0), 4 days ago) - Cozy typing speed tester
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) ([v0.4.0](https://github.com/charmbracelet/vhs/releases/tag/v0.4.0), 6 days ago) - Your CLI home video recorder 📼
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.4.7](https://github.com/charmbracelet/soft-serve/releases/tag/v0.4.7), 2 weeks ago) - A tasty, self-hostable Git server for the command line🍦
-- [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.10.0](https://github.com/charmbracelet/gum/releases/tag/v0.10.0), 2 weeks ago) - A tool for glamorous shell scripts 🎀
 
 #### 🔨 My recent Pull Requests
 
