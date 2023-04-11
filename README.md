@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/keygen](https://github.com/charmbracelet/keygen) ([v0.4.0](https://github.com/charmbracelet/keygen/releases/tag/v0.4.0), today) - An SSH key pair generator 🗝️
+- [charmbracelet/keygen](https://github.com/charmbracelet/keygen) ([v0.4.1](https://github.com/charmbracelet/keygen/releases/tag/v0.4.1), today) - An SSH key pair generator 🗝️
 - [libdns/route53](https://github.com/libdns/route53) ([v1.3.2](https://github.com/libdns/route53/releases/tag/v1.3.2), today) - AWS Route53 provider implementation for libdns
 - [bloznelis/typioca](https://github.com/bloznelis/typioca) ([2.2.0](https://github.com/bloznelis/typioca/releases/tag/2.2.0), 4 days ago) - Cozy typing speed tester
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) ([v0.4.0](https://github.com/charmbracelet/vhs/releases/tag/v0.4.0), 6 days ago) - Your CLI home video recorder 📼
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: format TXT records based on specs](https://github.com/libdns/route53/pull/45) on [libdns/route53](https://github.com/libdns/route53) (today)
 - [feat: specify ECDSA elliptic curve &amp; ssh.Signer](https://github.com/charmbracelet/keygen/pull/10) on [charmbracelet/keygen](https://github.com/charmbracelet/keygen) (today)
 - [Add aymanbagabas planck keyboard map](https://github.com/qmk/qmk_firmware/pull/20391) on [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) (2 days ago)
 - [SSH, HTTP, and Git urls, Hooks, mirroring and sqlite backend](https://github.com/charmbracelet/soft-serve/pull/242) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (4 days ago)
 - [fix(output): reuse termenv output](https://github.com/charmbracelet/bubbletea/pull/715) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (4 days ago)
-- [ref: change api to expose ssh.PublicKey and authorizd_key](https://github.com/charmbracelet/keygen/pull/9) on [charmbracelet/keygen](https://github.com/charmbracelet/keygen) (4 days ago)
 
 #### 📜 My recent blog posts
 
