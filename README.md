@@ -20,11 +20,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [caddy-dns/route53](https://github.com/caddy-dns/route53) ([v1.3.2](https://github.com/caddy-dns/route53/releases/tag/v1.3.2), today) - Caddy module: dns.providers.route53
 - [charmbracelet/keygen](https://github.com/charmbracelet/keygen) ([v0.4.1](https://github.com/charmbracelet/keygen/releases/tag/v0.4.1), 1 day ago) - An SSH key pair generator 🗝️
 - [libdns/route53](https://github.com/libdns/route53) ([v1.3.2](https://github.com/libdns/route53/releases/tag/v1.3.2), 1 day ago) - AWS Route53 provider implementation for libdns
 - [bloznelis/typioca](https://github.com/bloznelis/typioca) ([2.2.0](https://github.com/bloznelis/typioca/releases/tag/2.2.0), 5 days ago) - Cozy typing speed tester
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) ([v0.4.0](https://github.com/charmbracelet/vhs/releases/tag/v0.4.0), 1 week ago) - Your CLI home video recorder 📼
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.4.7](https://github.com/charmbracelet/soft-serve/releases/tag/v0.4.7), 2 weeks ago) - A tasty, self-hostable Git server for the command line🍦
 
 #### 🔨 My recent Pull Requests
 
