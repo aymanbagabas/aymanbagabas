@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix(telescope): use dynamic workspace symbols](https://github.com/LazyVim/LazyVim/pull/577) on [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) (today)
 - [fix: format TXT records based on specs](https://github.com/libdns/route53/pull/45) on [libdns/route53](https://github.com/libdns/route53) (2 days ago)
 - [feat: specify ECDSA elliptic curve &amp; ssh.Signer](https://github.com/charmbracelet/keygen/pull/10) on [charmbracelet/keygen](https://github.com/charmbracelet/keygen) (2 days ago)
 - [Add aymanbagabas planck keyboard map](https://github.com/qmk/qmk_firmware/pull/20391) on [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) (4 days ago)
 - [SSH, HTTP, and Git urls, Hooks, mirroring and sqlite backend](https://github.com/charmbracelet/soft-serve/pull/242) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (6 days ago)
-- [fix(output): reuse termenv output](https://github.com/charmbracelet/bubbletea/pull/715) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (6 days ago)
 
 #### 📜 My recent blog posts
 
