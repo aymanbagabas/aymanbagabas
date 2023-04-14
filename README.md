@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: enable detecting colors on GitHub Actions](https://github.com/charmbracelet/vhs-action/pull/108) on [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) (today)
 - [fix(telescope): use dynamic workspace symbols](https://github.com/LazyVim/LazyVim/pull/577) on [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) (1 day ago)
 - [fix: format TXT records based on specs](https://github.com/libdns/route53/pull/45) on [libdns/route53](https://github.com/libdns/route53) (3 days ago)
 - [feat: specify ECDSA elliptic curve &amp; ssh.Signer](https://github.com/charmbracelet/keygen/pull/10) on [charmbracelet/keygen](https://github.com/charmbracelet/keygen) (3 days ago)
 - [Add aymanbagabas planck keyboard map](https://github.com/qmk/qmk_firmware/pull/20391) on [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) (5 days ago)
-- [SSH, HTTP, and Git urls, Hooks, mirroring and sqlite backend](https://github.com/charmbracelet/soft-serve/pull/242) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 week ago)
 
 #### 📜 My recent blog posts
 
