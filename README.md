@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (today)
+- [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) - Keep your GIFs up to date with VHS &#43; GitHub actions 📽️ (today)
 - [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - Nothing like ~ (1 day ago)
 - [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) - The SSH directory ✨ (2 days ago)
 - [charmbracelet/keygen](https://github.com/charmbracelet/keygen) - An SSH key pair generator 🗝️ (3 days ago)
-- [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket) - Charmbracelet Scoop Bucket (2 weeks ago)
-- [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺 (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix(output): cache bg and fg colors by default](https://github.com/muesli/termenv/pull/132) on [muesli/termenv](https://github.com/muesli/termenv) (today)
+- [fix(output): report terminal status when writer is not a file](https://github.com/muesli/termenv/pull/131) on [muesli/termenv](https://github.com/muesli/termenv) (today)
 - [fix: enable detecting colors on GitHub Actions](https://github.com/charmbracelet/vhs-action/pull/108) on [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) (today)
 - [fix(telescope): use dynamic workspace symbols](https://github.com/LazyVim/LazyVim/pull/577) on [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) (1 day ago)
 - [fix: format TXT records based on specs](https://github.com/libdns/route53/pull/45) on [libdns/route53](https://github.com/libdns/route53) (3 days ago)
-- [feat: specify ECDSA elliptic curve &amp; ssh.Signer](https://github.com/charmbracelet/keygen/pull/10) on [charmbracelet/keygen](https://github.com/charmbracelet/keygen) (3 days ago)
-- [Add aymanbagabas planck keyboard map](https://github.com/qmk/qmk_firmware/pull/20391) on [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) (5 days ago)
 
 #### 📜 My recent blog posts
 
