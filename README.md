@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [docs: add termenv aware environment variables](https://github.com/muesli/termenv/pull/134) on [muesli/termenv](https://github.com/muesli/termenv) (today)
+- [fix: remove CI exception](https://github.com/muesli/termenv/pull/133) on [muesli/termenv](https://github.com/muesli/termenv) (today)
 - [fix(output): cache bg and fg colors by default](https://github.com/muesli/termenv/pull/132) on [muesli/termenv](https://github.com/muesli/termenv) (today)
 - [fix(output): report terminal status when writer is not a file](https://github.com/muesli/termenv/pull/131) on [muesli/termenv](https://github.com/muesli/termenv) (today)
 - [fix: enable detecting colors on GitHub Actions](https://github.com/charmbracelet/vhs-action/pull/108) on [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) (today)
-- [fix(telescope): use dynamic workspace symbols](https://github.com/LazyVim/LazyVim/pull/577) on [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) (1 day ago)
-- [fix: format TXT records based on specs](https://github.com/libdns/route53/pull/45) on [libdns/route53](https://github.com/libdns/route53) (3 days ago)
 
 #### 📜 My recent blog posts
 
