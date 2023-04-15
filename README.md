@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: use environment variables to initialize provider](https://github.com/libdns/route53/pull/46) on [libdns/route53](https://github.com/libdns/route53) (today)
 - [docs: add termenv aware environment variables](https://github.com/muesli/termenv/pull/134) on [muesli/termenv](https://github.com/muesli/termenv) (1 day ago)
 - [fix: remove CI exception](https://github.com/muesli/termenv/pull/133) on [muesli/termenv](https://github.com/muesli/termenv) (1 day ago)
 - [fix(output): cache bg and fg colors by default](https://github.com/muesli/termenv/pull/132) on [muesli/termenv](https://github.com/muesli/termenv) (1 day ago)
 - [fix(output): report terminal status when writer is not a file](https://github.com/muesli/termenv/pull/131) on [muesli/termenv](https://github.com/muesli/termenv) (1 day ago)
-- [fix: enable detecting colors on GitHub Actions](https://github.com/charmbracelet/vhs-action/pull/108) on [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) (1 day ago)
 
 #### 📜 My recent blog posts
 
