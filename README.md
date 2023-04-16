@@ -4,27 +4,27 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [aymanbagabas/go-udiff](https://github.com/aymanbagabas/go-udiff) - µDiff - a mirco diffing library (today)
 - [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) - Neovim config for the lazy (today)
 - [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (2 days ago)
 - [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) - Keep your GIFs up to date with VHS &#43; GitHub actions 📽️ (2 days ago)
 - [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - Nothing like ~ (3 days ago)
-- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) - The SSH directory ✨ (4 days ago)
 
 #### 🌱 My latest projects
 
+- [aymanbagabas/go-udiff](https://github.com/aymanbagabas/go-udiff) - µDiff - a mirco diffing library
 - [aymanbagabas/scoop-bucket](https://github.com/aymanbagabas/scoop-bucket) - Scoop Bucket
 - [aymanbagabas/shcopy](https://github.com/aymanbagabas/shcopy) - 📋 Copy text to your system clipboard locally and remotely using ANSI OSC52 sequence
 - [aymanbagabas/homebrew-tap](https://github.com/aymanbagabas/homebrew-tap) - aymanbagabas/tap
 - [aymanbagabas/gh-stars](https://github.com/aymanbagabas/gh-stars) - GitHub stargazers in your terminal 🌟
-- [aymanbagabas/go-osc52](https://github.com/aymanbagabas/go-osc52) - Golang terminal ANSI OSC52 wrapper. Copy text to clipboard from anywhere.
 
 #### 🔭 Latest releases I've contributed to
 
+- [aymanbagabas/go-udiff](https://github.com/aymanbagabas/go-udiff) ([v0.1.0](https://github.com/aymanbagabas/go-udiff/releases/tag/v0.1.0), today) - µDiff - a mirco diffing library
 - [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) ([v1.2.1](https://github.com/charmbracelet/vhs-action/releases/tag/v1.2.1), 1 day ago) - Keep your GIFs up to date with VHS &#43; GitHub actions 📽️
 - [caddy-dns/route53](https://github.com/caddy-dns/route53) ([v1.3.2](https://github.com/caddy-dns/route53/releases/tag/v1.3.2), 4 days ago) - Caddy module: dns.providers.route53
 - [charmbracelet/keygen](https://github.com/charmbracelet/keygen) ([v0.4.1](https://github.com/charmbracelet/keygen/releases/tag/v0.4.1), 5 days ago) - An SSH key pair generator 🗝️
 - [libdns/route53](https://github.com/libdns/route53) ([v1.3.2](https://github.com/libdns/route53/releases/tag/v1.3.2), 5 days ago) - AWS Route53 provider implementation for libdns
-- [bloznelis/typioca](https://github.com/bloznelis/typioca) ([2.2.0](https://github.com/bloznelis/typioca/releases/tag/2.2.0), 1 week ago) - Cozy typing speed tester
 
 #### 🔨 My recent Pull Requests
 
