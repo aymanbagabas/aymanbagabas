@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) - Neovim config for the lazy (today)
 - [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (2 days ago)
 - [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) - Keep your GIFs up to date with VHS &#43; GitHub actions 📽️ (2 days ago)
 - [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - Nothing like ~ (3 days ago)
 - [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) - The SSH directory ✨ (4 days ago)
-- [charmbracelet/keygen](https://github.com/charmbracelet/keygen) - An SSH key pair generator 🗝️ (5 days ago)
 
 #### 🌱 My latest projects
 
