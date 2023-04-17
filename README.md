@@ -4,15 +4,15 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [aymanbagabas/go-udiff](https://github.com/aymanbagabas/go-udiff) - µDiff - a micro Go diffing library (1 day ago)
+- [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (today)
 - [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) - Neovim config for the lazy (1 day ago)
+- [aymanbagabas/go-udiff](https://github.com/aymanbagabas/go-udiff) - µDiff - a micro Go diff library (1 day ago)
 - [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) - Keep your GIFs up to date with VHS &#43; GitHub actions 📽️ (3 days ago)
 - [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (3 days ago)
-- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - Nothing like ~ (4 days ago)
 
 #### 🌱 My latest projects
 
-- [aymanbagabas/go-udiff](https://github.com/aymanbagabas/go-udiff) - µDiff - a micro Go diffing library
+- [aymanbagabas/go-udiff](https://github.com/aymanbagabas/go-udiff) - µDiff - a micro Go diff library
 - [aymanbagabas/scoop-bucket](https://github.com/aymanbagabas/scoop-bucket) - Scoop Bucket
 - [aymanbagabas/shcopy](https://github.com/aymanbagabas/shcopy) - 📋 Copy text to your system clipboard locally and remotely using ANSI OSC52 sequence
 - [aymanbagabas/homebrew-tap](https://github.com/aymanbagabas/homebrew-tap) - aymanbagabas/tap
@@ -21,7 +21,7 @@
 #### 🔭 Latest releases I've contributed to
 
 - [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v2.2.1](https://github.com/LazyVim/LazyVim/releases/tag/v2.2.1), today) - Neovim config for the lazy
-- [aymanbagabas/go-udiff](https://github.com/aymanbagabas/go-udiff) ([v0.1.0](https://github.com/aymanbagabas/go-udiff/releases/tag/v0.1.0), 1 day ago) - µDiff - a micro Go diffing library
+- [aymanbagabas/go-udiff](https://github.com/aymanbagabas/go-udiff) ([v0.1.0](https://github.com/aymanbagabas/go-udiff/releases/tag/v0.1.0), 1 day ago) - µDiff - a micro Go diff library
 - [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) ([v1.2.1](https://github.com/charmbracelet/vhs-action/releases/tag/v1.2.1), 2 days ago) - Keep your GIFs up to date with VHS &#43; GitHub actions 📽️
 - [caddy-dns/route53](https://github.com/caddy-dns/route53) ([v1.3.2](https://github.com/caddy-dns/route53/releases/tag/v1.3.2), 5 days ago) - Caddy module: dns.providers.route53
 - [charmbracelet/keygen](https://github.com/charmbracelet/keygen) ([v0.4.1](https://github.com/charmbracelet/keygen/releases/tag/v0.4.1), 6 days ago) - An SSH key pair generator 🗝️
@@ -44,7 +44,7 @@
 
 #### ⭐ Recent Stars
 
-- [aymanbagabas/go-udiff](https://github.com/aymanbagabas/go-udiff) - µDiff - a micro Go diffing library (1 day ago)
+- [aymanbagabas/go-udiff](https://github.com/aymanbagabas/go-udiff) - µDiff - a micro Go diff library (1 day ago)
 - [andmarti1424/sc-im](https://github.com/andmarti1424/sc-im) - sc-im - Spreadsheet Calculator Improvised -- An ncurses spreadsheet program for terminal (2 days ago)
 - [ltratt/pizauth](https://github.com/ltratt/pizauth) - Command-line OAuth2 authentication daemon (5 days ago)
 - [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go. (1 week ago)
