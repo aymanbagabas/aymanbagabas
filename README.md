@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [internal/diff: unified: match diff delete for empty file](https://github.com/golang/tools/pull/436) on [golang/tools](https://github.com/golang/tools) (today)
 - [fix: use environment variables to initialize provider](https://github.com/libdns/route53/pull/46) on [libdns/route53](https://github.com/libdns/route53) (5 days ago)
 - [docs: add termenv aware environment variables](https://github.com/muesli/termenv/pull/134) on [muesli/termenv](https://github.com/muesli/termenv) (6 days ago)
 - [fix: remove CI exception](https://github.com/muesli/termenv/pull/133) on [muesli/termenv](https://github.com/muesli/termenv) (6 days ago)
 - [fix(output): cache bg and fg colors by default](https://github.com/muesli/termenv/pull/132) on [muesli/termenv](https://github.com/muesli/termenv) (6 days ago)
-- [fix(output): report terminal status when writer is not a file](https://github.com/muesli/termenv/pull/131) on [muesli/termenv](https://github.com/muesli/termenv) (6 days ago)
 
 #### 📜 My recent blog posts
 
