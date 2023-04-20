@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v2.5.0](https://github.com/LazyVim/LazyVim/releases/tag/v2.5.0), 1 day ago) - Neovim config for the lazy
+- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v2.6.0](https://github.com/LazyVim/LazyVim/releases/tag/v2.6.0), today) - Neovim config for the lazy
 - [aymanbagabas/go-udiff](https://github.com/aymanbagabas/go-udiff) ([v0.1.0](https://github.com/aymanbagabas/go-udiff/releases/tag/v0.1.0), 4 days ago) - µDiff - a micro Go diff library
 - [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) ([v1.2.1](https://github.com/charmbracelet/vhs-action/releases/tag/v1.2.1), 5 days ago) - Keep your GIFs up to date with VHS &#43; GitHub actions 📽️
 - [caddy-dns/route53](https://github.com/caddy-dns/route53) ([v1.3.2](https://github.com/caddy-dns/route53/releases/tag/v1.3.2), 1 week ago) - Caddy module: dns.providers.route53
