@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v2.9.0](https://github.com/LazyVim/LazyVim/releases/tag/v2.9.0), today) - Neovim config for the lazy
+- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v2.10.0](https://github.com/LazyVim/LazyVim/releases/tag/v2.10.0), today) - Neovim config for the lazy
+- [caddy-dns/route53](https://github.com/caddy-dns/route53) ([v1.3.3](https://github.com/caddy-dns/route53/releases/tag/v1.3.3), today) - Caddy module: dns.providers.route53
+- [libdns/route53](https://github.com/libdns/route53) ([v1.3.3](https://github.com/libdns/route53/releases/tag/v1.3.3), today) - AWS Route53 provider implementation for libdns
 - [aymanbagabas/go-udiff](https://github.com/aymanbagabas/go-udiff) ([v0.1.0](https://github.com/aymanbagabas/go-udiff/releases/tag/v0.1.0), 5 days ago) - µDiff - a micro Go diff library
 - [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) ([v1.2.1](https://github.com/charmbracelet/vhs-action/releases/tag/v1.2.1), 6 days ago) - Keep your GIFs up to date with VHS &#43; GitHub actions 📽️
-- [caddy-dns/route53](https://github.com/caddy-dns/route53) ([v1.3.2](https://github.com/caddy-dns/route53/releases/tag/v1.3.2), 1 week ago) - Caddy module: dns.providers.route53
-- [charmbracelet/keygen](https://github.com/charmbracelet/keygen) ([v0.4.1](https://github.com/charmbracelet/keygen/releases/tag/v0.4.1), 1 week ago) - An SSH key pair generator 🗝️
 
 #### 🔨 My recent Pull Requests
 
+- [chore: bump libdns/route53](https://github.com/caddy-dns/route53/pull/34) on [caddy-dns/route53](https://github.com/caddy-dns/route53) (today)
 - [internal/diff: unified: match diff delete for empty file](https://github.com/golang/tools/pull/436) on [golang/tools](https://github.com/golang/tools) (1 day ago)
 - [fix: use environment variables to initialize provider](https://github.com/libdns/route53/pull/46) on [libdns/route53](https://github.com/libdns/route53) (6 days ago)
 - [docs: add termenv aware environment variables](https://github.com/muesli/termenv/pull/134) on [muesli/termenv](https://github.com/muesli/termenv) (1 week ago)
 - [fix: remove CI exception](https://github.com/muesli/termenv/pull/133) on [muesli/termenv](https://github.com/muesli/termenv) (1 week ago)
-- [fix(output): cache bg and fg colors by default](https://github.com/muesli/termenv/pull/132) on [muesli/termenv](https://github.com/muesli/termenv) (1 week ago)
 
 #### 📜 My recent blog posts
 
