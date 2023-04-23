@@ -4,9 +4,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [aymanbagabas/go-udiff](https://github.com/aymanbagabas/go-udiff) - µDiff - a micro Go diff library (2 days ago)
-- [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (5 days ago)
-- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) - Neovim config for the lazy (6 days ago)
+- [aymanbagabas/go-udiff](https://github.com/aymanbagabas/go-udiff) - µDiff - a micro Go diff library (3 days ago)
+- [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (6 days ago)
+- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) - Neovim config for the lazy (1 week ago)
 - [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) - Keep your GIFs up to date with VHS &#43; GitHub actions 📽️ (1 week ago)
 - [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (1 week ago)
 
@@ -20,16 +20,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v2.10.0](https://github.com/LazyVim/LazyVim/releases/tag/v2.10.0), 1 day ago) - Neovim config for the lazy
-- [caddy-dns/route53](https://github.com/caddy-dns/route53) ([v1.3.3](https://github.com/caddy-dns/route53/releases/tag/v1.3.3), 1 day ago) - Caddy module: dns.providers.route53
-- [libdns/route53](https://github.com/libdns/route53) ([v1.3.3](https://github.com/libdns/route53/releases/tag/v1.3.3), 1 day ago) - AWS Route53 provider implementation for libdns
-- [aymanbagabas/go-udiff](https://github.com/aymanbagabas/go-udiff) ([v0.1.0](https://github.com/aymanbagabas/go-udiff/releases/tag/v0.1.0), 6 days ago) - µDiff - a micro Go diff library
+- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v2.10.0](https://github.com/LazyVim/LazyVim/releases/tag/v2.10.0), 2 days ago) - Neovim config for the lazy
+- [caddy-dns/route53](https://github.com/caddy-dns/route53) ([v1.3.3](https://github.com/caddy-dns/route53/releases/tag/v1.3.3), 2 days ago) - Caddy module: dns.providers.route53
+- [libdns/route53](https://github.com/libdns/route53) ([v1.3.3](https://github.com/libdns/route53/releases/tag/v1.3.3), 2 days ago) - AWS Route53 provider implementation for libdns
+- [aymanbagabas/go-udiff](https://github.com/aymanbagabas/go-udiff) ([v0.1.0](https://github.com/aymanbagabas/go-udiff/releases/tag/v0.1.0), 1 week ago) - µDiff - a micro Go diff library
 - [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) ([v1.2.1](https://github.com/charmbracelet/vhs-action/releases/tag/v1.2.1), 1 week ago) - Keep your GIFs up to date with VHS &#43; GitHub actions 📽️
 
 #### 🔨 My recent Pull Requests
 
-- [chore: bump libdns/route53](https://github.com/caddy-dns/route53/pull/34) on [caddy-dns/route53](https://github.com/caddy-dns/route53) (1 day ago)
-- [internal/diff: unified: match diff delete for empty file](https://github.com/golang/tools/pull/436) on [golang/tools](https://github.com/golang/tools) (2 days ago)
+- [chore: bump libdns/route53](https://github.com/caddy-dns/route53/pull/34) on [caddy-dns/route53](https://github.com/caddy-dns/route53) (2 days ago)
+- [internal/diff: unified: match diff delete for empty file](https://github.com/golang/tools/pull/436) on [golang/tools](https://github.com/golang/tools) (3 days ago)
 - [fix: use environment variables to initialize provider](https://github.com/libdns/route53/pull/46) on [libdns/route53](https://github.com/libdns/route53) (1 week ago)
 - [docs: add termenv aware environment variables](https://github.com/muesli/termenv/pull/134) on [muesli/termenv](https://github.com/muesli/termenv) (1 week ago)
 - [fix: remove CI exception](https://github.com/muesli/termenv/pull/133) on [muesli/termenv](https://github.com/muesli/termenv) (1 week ago)
@@ -44,9 +44,9 @@
 
 #### ⭐ Recent Stars
 
-- [romkatv/zsh-defer](https://github.com/romkatv/zsh-defer) - Deferred execution of Zsh commands (4 days ago)
-- [mattmc3/zsh_unplugged](https://github.com/mattmc3/zsh_unplugged) -  🤔 perhaps you don&#39;t need a Zsh plugin manager after all... (4 days ago)
-- [aymanbagabas/go-udiff](https://github.com/aymanbagabas/go-udiff) - µDiff - a micro Go diff library (6 days ago)
+- [romkatv/zsh-defer](https://github.com/romkatv/zsh-defer) - Deferred execution of Zsh commands (5 days ago)
+- [mattmc3/zsh_unplugged](https://github.com/mattmc3/zsh_unplugged) -  🤔 perhaps you don&#39;t need a Zsh plugin manager after all... (5 days ago)
+- [aymanbagabas/go-udiff](https://github.com/aymanbagabas/go-udiff) - µDiff - a micro Go diff library (1 week ago)
 - [andmarti1424/sc-im](https://github.com/andmarti1424/sc-im) - sc-im - Spreadsheet Calculator Improvised -- An ncurses spreadsheet program for terminal (1 week ago)
 - [ltratt/pizauth](https://github.com/ltratt/pizauth) - Command-line OAuth2 authentication daemon (1 week ago)
 
