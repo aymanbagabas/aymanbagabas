@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v2.10.0](https://github.com/LazyVim/LazyVim/releases/tag/v2.10.0), 2 days ago) - Neovim config for the lazy
+- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v2.11.0](https://github.com/LazyVim/LazyVim/releases/tag/v2.11.0), today) - Neovim config for the lazy
 - [caddy-dns/route53](https://github.com/caddy-dns/route53) ([v1.3.3](https://github.com/caddy-dns/route53/releases/tag/v1.3.3), 2 days ago) - Caddy module: dns.providers.route53
 - [libdns/route53](https://github.com/libdns/route53) ([v1.3.3](https://github.com/libdns/route53/releases/tag/v1.3.3), 2 days ago) - AWS Route53 provider implementation for libdns
 - [aymanbagabas/go-udiff](https://github.com/aymanbagabas/go-udiff) ([v0.1.0](https://github.com/aymanbagabas/go-udiff/releases/tag/v0.1.0), 1 week ago) - µDiff - a micro Go diff library
