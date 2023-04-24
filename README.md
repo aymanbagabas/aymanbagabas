@@ -4,10 +4,10 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [charmbracelet/keygen](https://github.com/charmbracelet/keygen) - An SSH key pair generator 🗝️ (today)
 - [aymanbagabas/go-udiff](https://github.com/aymanbagabas/go-udiff) - µDiff - a micro Go diff library (4 days ago)
 - [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (1 week ago)
 - [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) - Neovim config for the lazy (1 week ago)
-- [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) - Keep your GIFs up to date with VHS &#43; GitHub actions 📽️ (1 week ago)
 - [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (1 week ago)
 
 #### 🌱 My latest projects
@@ -20,11 +20,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v2.11.0](https://github.com/LazyVim/LazyVim/releases/tag/v2.11.0), 1 day ago) - Neovim config for the lazy
+- [charmbracelet/keygen](https://github.com/charmbracelet/keygen) ([v0.4.2](https://github.com/charmbracelet/keygen/releases/tag/v0.4.2), today) - An SSH key pair generator 🗝️
+- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v2.12.0](https://github.com/LazyVim/LazyVim/releases/tag/v2.12.0), today) - Neovim config for the lazy
 - [caddy-dns/route53](https://github.com/caddy-dns/route53) ([v1.3.3](https://github.com/caddy-dns/route53/releases/tag/v1.3.3), 3 days ago) - Caddy module: dns.providers.route53
 - [libdns/route53](https://github.com/libdns/route53) ([v1.3.3](https://github.com/libdns/route53/releases/tag/v1.3.3), 3 days ago) - AWS Route53 provider implementation for libdns
 - [aymanbagabas/go-udiff](https://github.com/aymanbagabas/go-udiff) ([v0.1.0](https://github.com/aymanbagabas/go-udiff/releases/tag/v0.1.0), 1 week ago) - µDiff - a micro Go diff library
-- [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) ([v1.2.1](https://github.com/charmbracelet/vhs-action/releases/tag/v1.2.1), 1 week ago) - Keep your GIFs up to date with VHS &#43; GitHub actions 📽️
 
 #### 🔨 My recent Pull Requests
 
