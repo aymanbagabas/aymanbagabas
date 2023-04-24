@@ -5,10 +5,10 @@
 #### 👷 Check out what I'm currently working on
 
 - [charmbracelet/keygen](https://github.com/charmbracelet/keygen) - An SSH key pair generator 🗝️ (today)
+- [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (today)
+- [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (today)
 - [aymanbagabas/go-udiff](https://github.com/aymanbagabas/go-udiff) - µDiff - a micro Go diff library (4 days ago)
-- [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (1 week ago)
 - [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) - Neovim config for the lazy (1 week ago)
-- [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v1.1.1](https://github.com/charmbracelet/wish/releases/tag/v1.1.1), today) - Make SSH apps, just like that! 💫
 - [charmbracelet/keygen](https://github.com/charmbracelet/keygen) ([v0.4.2](https://github.com/charmbracelet/keygen/releases/tag/v0.4.2), today) - An SSH key pair generator 🗝️
 - [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v2.12.0](https://github.com/LazyVim/LazyVim/releases/tag/v2.12.0), today) - Neovim config for the lazy
 - [caddy-dns/route53](https://github.com/caddy-dns/route53) ([v1.3.3](https://github.com/caddy-dns/route53/releases/tag/v1.3.3), 3 days ago) - Caddy module: dns.providers.route53
 - [libdns/route53](https://github.com/libdns/route53) ([v1.3.3](https://github.com/libdns/route53/releases/tag/v1.3.3), 3 days ago) - AWS Route53 provider implementation for libdns
-- [aymanbagabas/go-udiff](https://github.com/aymanbagabas/go-udiff) ([v0.1.0](https://github.com/aymanbagabas/go-udiff/releases/tag/v0.1.0), 1 week ago) - µDiff - a micro Go diff library
 
 #### 🔨 My recent Pull Requests
 
+- [fix: disable twitter announcements](https://github.com/charmbracelet/meta/pull/82) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (today)
 - [fix: expand file path](https://github.com/charmbracelet/keygen/pull/11) on [charmbracelet/keygen](https://github.com/charmbracelet/keygen) (today)
 - [chore: bump libdns/route53](https://github.com/caddy-dns/route53/pull/34) on [caddy-dns/route53](https://github.com/caddy-dns/route53) (3 days ago)
 - [internal/diff: unified: match diff delete for empty file](https://github.com/golang/tools/pull/436) on [golang/tools](https://github.com/golang/tools) (4 days ago)
 - [fix: use environment variables to initialize provider](https://github.com/libdns/route53/pull/46) on [libdns/route53](https://github.com/libdns/route53) (1 week ago)
-- [docs: add termenv aware environment variables](https://github.com/muesli/termenv/pull/134) on [muesli/termenv](https://github.com/muesli/termenv) (1 week ago)
 
 #### 📜 My recent blog posts
 
