@@ -20,11 +20,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) ([v1.2.2](https://github.com/charmbracelet/vhs-action/releases/tag/v1.2.2), today) - Keep your GIFs up to date with VHS &#43; GitHub actions 📽️
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v1.1.1](https://github.com/charmbracelet/wish/releases/tag/v1.1.1), 1 day ago) - Make SSH apps, just like that! 💫
 - [charmbracelet/keygen](https://github.com/charmbracelet/keygen) ([v0.4.2](https://github.com/charmbracelet/keygen/releases/tag/v0.4.2), 1 day ago) - An SSH key pair generator 🗝️
 - [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v2.12.0](https://github.com/LazyVim/LazyVim/releases/tag/v2.12.0), 1 day ago) - Neovim config for the lazy
 - [caddy-dns/route53](https://github.com/caddy-dns/route53) ([v1.3.3](https://github.com/caddy-dns/route53/releases/tag/v1.3.3), 4 days ago) - Caddy module: dns.providers.route53
-- [libdns/route53](https://github.com/libdns/route53) ([v1.3.3](https://github.com/libdns/route53/releases/tag/v1.3.3), 4 days ago) - AWS Route53 provider implementation for libdns
 
 #### 🔨 My recent Pull Requests
 
