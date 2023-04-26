@@ -4,10 +4,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/keygen](https://github.com/charmbracelet/keygen) - An SSH key pair generator 🗝️ (1 day ago)
-- [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (1 day ago)
-- [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (1 day ago)
-- [aymanbagabas/go-udiff](https://github.com/aymanbagabas/go-udiff) - µDiff - a micro Go diff library (5 days ago)
+- [charmbracelet/keygen](https://github.com/charmbracelet/keygen) - An SSH key pair generator 🗝️ (2 days ago)
+- [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (2 days ago)
+- [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (2 days ago)
+- [aymanbagabas/go-udiff](https://github.com/aymanbagabas/go-udiff) - µDiff - a micro Go diff library (6 days ago)
 - [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) - Neovim config for the lazy (1 week ago)
 
 #### 🌱 My latest projects
@@ -20,18 +20,18 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) ([v1.2.2](https://github.com/charmbracelet/vhs-action/releases/tag/v1.2.2), today) - Keep your GIFs up to date with VHS &#43; GitHub actions 📽️
-- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v1.1.1](https://github.com/charmbracelet/wish/releases/tag/v1.1.1), 1 day ago) - Make SSH apps, just like that! 💫
-- [charmbracelet/keygen](https://github.com/charmbracelet/keygen) ([v0.4.2](https://github.com/charmbracelet/keygen/releases/tag/v0.4.2), 1 day ago) - An SSH key pair generator 🗝️
-- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v2.12.0](https://github.com/LazyVim/LazyVim/releases/tag/v2.12.0), 1 day ago) - Neovim config for the lazy
-- [caddy-dns/route53](https://github.com/caddy-dns/route53) ([v1.3.3](https://github.com/caddy-dns/route53/releases/tag/v1.3.3), 4 days ago) - Caddy module: dns.providers.route53
+- [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) ([v1.2.2](https://github.com/charmbracelet/vhs-action/releases/tag/v1.2.2), 1 day ago) - Keep your GIFs up to date with VHS &#43; GitHub actions 📽️
+- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v1.1.1](https://github.com/charmbracelet/wish/releases/tag/v1.1.1), 2 days ago) - Make SSH apps, just like that! 💫
+- [charmbracelet/keygen](https://github.com/charmbracelet/keygen) ([v0.4.2](https://github.com/charmbracelet/keygen/releases/tag/v0.4.2), 2 days ago) - An SSH key pair generator 🗝️
+- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v2.12.0](https://github.com/LazyVim/LazyVim/releases/tag/v2.12.0), 2 days ago) - Neovim config for the lazy
+- [caddy-dns/route53](https://github.com/caddy-dns/route53) ([v1.3.3](https://github.com/caddy-dns/route53/releases/tag/v1.3.3), 5 days ago) - Caddy module: dns.providers.route53
 
 #### 🔨 My recent Pull Requests
 
-- [fix: disable twitter announcements](https://github.com/charmbracelet/meta/pull/82) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (1 day ago)
-- [fix: expand file path](https://github.com/charmbracelet/keygen/pull/11) on [charmbracelet/keygen](https://github.com/charmbracelet/keygen) (1 day ago)
-- [chore: bump libdns/route53](https://github.com/caddy-dns/route53/pull/34) on [caddy-dns/route53](https://github.com/caddy-dns/route53) (4 days ago)
-- [internal/diff: unified: match diff delete for empty file](https://github.com/golang/tools/pull/436) on [golang/tools](https://github.com/golang/tools) (5 days ago)
+- [fix: disable twitter announcements](https://github.com/charmbracelet/meta/pull/82) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (2 days ago)
+- [fix: expand file path](https://github.com/charmbracelet/keygen/pull/11) on [charmbracelet/keygen](https://github.com/charmbracelet/keygen) (2 days ago)
+- [chore: bump libdns/route53](https://github.com/caddy-dns/route53/pull/34) on [caddy-dns/route53](https://github.com/caddy-dns/route53) (5 days ago)
+- [internal/diff: unified: match diff delete for empty file](https://github.com/golang/tools/pull/436) on [golang/tools](https://github.com/golang/tools) (6 days ago)
 - [fix: use environment variables to initialize provider](https://github.com/libdns/route53/pull/46) on [libdns/route53](https://github.com/libdns/route53) (1 week ago)
 
 #### 📜 My recent blog posts
@@ -48,7 +48,7 @@
 - [mattmc3/zsh_unplugged](https://github.com/mattmc3/zsh_unplugged) -  🤔 perhaps you don&#39;t need a Zsh plugin manager after all... (1 week ago)
 - [aymanbagabas/go-udiff](https://github.com/aymanbagabas/go-udiff) - µDiff - a micro Go diff library (1 week ago)
 - [andmarti1424/sc-im](https://github.com/andmarti1424/sc-im) - sc-im - Spreadsheet Calculator Improvised -- An ncurses spreadsheet program for terminal (1 week ago)
-- [ltratt/pizauth](https://github.com/ltratt/pizauth) - Command-line OAuth2 authentication daemon (1 week ago)
+- [ltratt/pizauth](https://github.com/ltratt/pizauth) - Command-line OAuth2 authentication daemon (2 weeks ago)
 
 #### 📫 How to reach me
 
