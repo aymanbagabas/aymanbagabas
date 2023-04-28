@@ -20,10 +20,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v2.12.1](https://github.com/LazyVim/LazyVim/releases/tag/v2.12.1), today) - Neovim config for the lazy
 - [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) ([v1.2.2](https://github.com/charmbracelet/vhs-action/releases/tag/v1.2.2), 3 days ago) - Keep your GIFs up to date with VHS &#43; GitHub actions 📽️
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v1.1.1](https://github.com/charmbracelet/wish/releases/tag/v1.1.1), 4 days ago) - Make SSH apps, just like that! 💫
 - [charmbracelet/keygen](https://github.com/charmbracelet/keygen) ([v0.4.2](https://github.com/charmbracelet/keygen/releases/tag/v0.4.2), 4 days ago) - An SSH key pair generator 🗝️
-- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v2.12.0](https://github.com/LazyVim/LazyVim/releases/tag/v2.12.0), 4 days ago) - Neovim config for the lazy
 - [caddy-dns/route53](https://github.com/caddy-dns/route53) ([v1.3.3](https://github.com/caddy-dns/route53/releases/tag/v1.3.3), 1 week ago) - Caddy module: dns.providers.route53
 
 #### 🔨 My recent Pull Requests
