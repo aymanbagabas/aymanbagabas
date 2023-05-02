@@ -5,10 +5,10 @@
 #### 👷 Check out what I'm currently working on
 
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (today)
+- [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket) - Charmbracelet Scoop Bucket (today)
+- [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺 (today)
 - [aymanbagabas/go-udiff](https://github.com/aymanbagabas/go-udiff) - µDiff - a micro Go diff library (4 days ago)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (6 days ago)
-- [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (1 week ago)
-- [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -20,11 +20,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.5.0](https://github.com/charmbracelet/soft-serve/releases/tag/v0.5.0), today) - A tasty, self-hostable Git server for the command line🍦
 - [aymanbagabas/go-udiff](https://github.com/aymanbagabas/go-udiff) ([v0.1.1](https://github.com/aymanbagabas/go-udiff/releases/tag/v0.1.1), 3 days ago) - µDiff - a micro Go diff library
 - [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v2.12.1](https://github.com/LazyVim/LazyVim/releases/tag/v2.12.1), 4 days ago) - Neovim config for the lazy
 - [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) ([v1.2.2](https://github.com/charmbracelet/vhs-action/releases/tag/v1.2.2), 1 week ago) - Keep your GIFs up to date with VHS &#43; GitHub actions 📽️
 - [golang/tools](https://github.com/golang/tools) ([gopls/v0.12.0-pre.1](https://github.com/golang/tools/releases/tag/gopls/v0.12.0-pre.1), 1 week ago) - [mirror] Go Tools
-- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v1.1.1](https://github.com/charmbracelet/wish/releases/tag/v1.1.1), 1 week ago) - Make SSH apps, just like that! 💫
 
 #### 🔨 My recent Pull Requests
 
