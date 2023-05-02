@@ -4,8 +4,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [aymanbagabas/go-udiff](https://github.com/aymanbagabas/go-udiff) - µDiff - a micro Go diff library (3 days ago)
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (5 days ago)
+- [aymanbagabas/go-udiff](https://github.com/aymanbagabas/go-udiff) - µDiff - a micro Go diff library (4 days ago)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (6 days ago)
 - [charmbracelet/keygen](https://github.com/charmbracelet/keygen) - An SSH key pair generator 🗝️ (1 week ago)
 - [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (1 week ago)
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (1 week ago)
@@ -20,10 +20,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [aymanbagabas/go-udiff](https://github.com/aymanbagabas/go-udiff) ([v0.1.1](https://github.com/aymanbagabas/go-udiff/releases/tag/v0.1.1), 2 days ago) - µDiff - a micro Go diff library
-- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v2.12.1](https://github.com/LazyVim/LazyVim/releases/tag/v2.12.1), 3 days ago) - Neovim config for the lazy
-- [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) ([v1.2.2](https://github.com/charmbracelet/vhs-action/releases/tag/v1.2.2), 6 days ago) - Keep your GIFs up to date with VHS &#43; GitHub actions 📽️
-- [golang/tools](https://github.com/golang/tools) ([gopls/v0.12.0-pre.1](https://github.com/golang/tools/releases/tag/gopls/v0.12.0-pre.1), 6 days ago) - [mirror] Go Tools
+- [aymanbagabas/go-udiff](https://github.com/aymanbagabas/go-udiff) ([v0.1.1](https://github.com/aymanbagabas/go-udiff/releases/tag/v0.1.1), 3 days ago) - µDiff - a micro Go diff library
+- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v2.12.1](https://github.com/LazyVim/LazyVim/releases/tag/v2.12.1), 4 days ago) - Neovim config for the lazy
+- [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) ([v1.2.2](https://github.com/charmbracelet/vhs-action/releases/tag/v1.2.2), 1 week ago) - Keep your GIFs up to date with VHS &#43; GitHub actions 📽️
+- [golang/tools](https://github.com/golang/tools) ([gopls/v0.12.0-pre.1](https://github.com/golang/tools/releases/tag/gopls/v0.12.0-pre.1), 1 week ago) - [mirror] Go Tools
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v1.1.1](https://github.com/charmbracelet/wish/releases/tag/v1.1.1), 1 week ago) - Make SSH apps, just like that! 💫
 
 #### 🔨 My recent Pull Requests
@@ -44,8 +44,8 @@
 
 #### ⭐ Recent Stars
 
-- [romkatv/zsh-defer](https://github.com/romkatv/zsh-defer) - Deferred execution of Zsh commands (1 week ago)
-- [mattmc3/zsh_unplugged](https://github.com/mattmc3/zsh_unplugged) -  🤔 perhaps you don&#39;t need a Zsh plugin manager after all... (1 week ago)
+- [romkatv/zsh-defer](https://github.com/romkatv/zsh-defer) - Deferred execution of Zsh commands (2 weeks ago)
+- [mattmc3/zsh_unplugged](https://github.com/mattmc3/zsh_unplugged) -  🤔 perhaps you don&#39;t need a Zsh plugin manager after all... (2 weeks ago)
 - [aymanbagabas/go-udiff](https://github.com/aymanbagabas/go-udiff) - µDiff - a micro Go diff library (2 weeks ago)
 - [andmarti1424/sc-im](https://github.com/andmarti1424/sc-im) - sc-im - Spreadsheet Calculator Improvised -- An ncurses spreadsheet program for terminal (2 weeks ago)
 - [ltratt/pizauth](https://github.com/ltratt/pizauth) - Command-line OAuth2 authentication daemon (2 weeks ago)
