@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix(nfpm): don&#39;t enable and start systemd service by default](https://github.com/charmbracelet/soft-serve/pull/258) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (today)
 - [fix: disable twitter announcements](https://github.com/charmbracelet/meta/pull/82) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (1 week ago)
 - [fix: expand file path](https://github.com/charmbracelet/keygen/pull/11) on [charmbracelet/keygen](https://github.com/charmbracelet/keygen) (1 week ago)
 - [chore: bump libdns/route53](https://github.com/caddy-dns/route53/pull/34) on [caddy-dns/route53](https://github.com/caddy-dns/route53) (1 week ago)
 - [internal/diff: unified: match diff delete for empty file](https://github.com/golang/tools/pull/436) on [golang/tools](https://github.com/golang/tools) (1 week ago)
-- [fix: use environment variables to initialize provider](https://github.com/libdns/route53/pull/46) on [libdns/route53](https://github.com/libdns/route53) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
