@@ -5,10 +5,10 @@
 #### 👷 Check out what I'm currently working on
 
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (today)
+- [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket) - Charmbracelet Scoop Bucket (today)
+- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - Nothing like ~ (today)
 - [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (today)
-- [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket) - Charmbracelet Scoop Bucket (1 day ago)
-- [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺 (1 day ago)
-- [aymanbagabas/go-udiff](https://github.com/aymanbagabas/go-udiff) - µDiff - a micro Go diff library (5 days ago)
+- [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺 (today)
 
 #### 🌱 My latest projects
 
@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.5.0](https://github.com/charmbracelet/soft-serve/releases/tag/v0.5.0), 1 day ago) - A tasty, self-hostable Git server for the command line🍦
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.5.1](https://github.com/charmbracelet/soft-serve/releases/tag/v0.5.1), today) - A tasty, self-hostable Git server for the command line🍦
 - [aymanbagabas/go-udiff](https://github.com/aymanbagabas/go-udiff) ([v0.1.1](https://github.com/aymanbagabas/go-udiff/releases/tag/v0.1.1), 4 days ago) - µDiff - a micro Go diff library
 - [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v2.12.1](https://github.com/LazyVim/LazyVim/releases/tag/v2.12.1), 5 days ago) - Neovim config for the lazy
 - [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) ([v1.2.2](https://github.com/charmbracelet/vhs-action/releases/tag/v1.2.2), 1 week ago) - Keep your GIFs up to date with VHS &#43; GitHub actions 📽️
