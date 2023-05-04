@@ -20,11 +20,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/confettysh](https://github.com/charmbracelet/confettysh) ([v1.1.0](https://github.com/charmbracelet/confettysh/releases/tag/v1.1.0), today) - confetti over ssh
+- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.11.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.11.0), today) - The SSH directory ✨
 - [charmbracelet/promwish](https://github.com/charmbracelet/promwish) ([v0.6.0](https://github.com/charmbracelet/promwish/releases/tag/v0.6.0), today) - Prometheus middleware for Wish
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.5.1](https://github.com/charmbracelet/soft-serve/releases/tag/v0.5.1), 1 day ago) - A tasty, self-hostable Git server for the command line🍦
 - [aymanbagabas/go-udiff](https://github.com/aymanbagabas/go-udiff) ([v0.1.1](https://github.com/aymanbagabas/go-udiff/releases/tag/v0.1.1), 5 days ago) - µDiff - a micro Go diff library
-- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v2.12.1](https://github.com/LazyVim/LazyVim/releases/tag/v2.12.1), 6 days ago) - Neovim config for the lazy
-- [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) ([v1.2.2](https://github.com/charmbracelet/vhs-action/releases/tag/v1.2.2), 1 week ago) - Keep your GIFs up to date with VHS &#43; GitHub actions 📽️
 
 #### 🔨 My recent Pull Requests
 
