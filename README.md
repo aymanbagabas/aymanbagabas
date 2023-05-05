@@ -4,34 +4,34 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (today)
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (1 day ago)
-- [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket) - Charmbracelet Scoop Bucket (1 day ago)
-- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - Nothing like ~ (1 day ago)
-- [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺 (1 day ago)
+- [aymanbagabas/go-git-daemon](https://github.com/aymanbagabas/go-git-daemon) - git-daemon implementation in golang (1 day ago)
+- [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (1 day ago)
+- [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket) - Charmbracelet Scoop Bucket (2 days ago)
+- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - Nothing like ~ (2 days ago)
+- [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺 (2 days ago)
 
 #### 🌱 My latest projects
 
+- [aymanbagabas/go-git-daemon](https://github.com/aymanbagabas/go-git-daemon) - git-daemon implementation in golang
 - [aymanbagabas/go-udiff](https://github.com/aymanbagabas/go-udiff) - µDiff - a micro Go diff library
 - [aymanbagabas/scoop-bucket](https://github.com/aymanbagabas/scoop-bucket) - Scoop Bucket
 - [aymanbagabas/shcopy](https://github.com/aymanbagabas/shcopy) - 📋 Copy text to your system clipboard locally and remotely using ANSI OSC52 sequence
 - [aymanbagabas/homebrew-tap](https://github.com/aymanbagabas/homebrew-tap) - aymanbagabas/tap
-- [aymanbagabas/gh-stars](https://github.com/aymanbagabas/gh-stars) - GitHub stargazers in your terminal 🌟
 
 #### 🔭 Latest releases I've contributed to
 
-- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v2.13.0](https://github.com/LazyVim/LazyVim/releases/tag/v2.13.0), today) - Neovim config for the lazy
-- [charmbracelet/confettysh](https://github.com/charmbracelet/confettysh) ([v1.1.0](https://github.com/charmbracelet/confettysh/releases/tag/v1.1.0), today) - confetti over ssh
-- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.11.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.11.0), today) - The SSH directory ✨
-- [charmbracelet/promwish](https://github.com/charmbracelet/promwish) ([v0.6.0](https://github.com/charmbracelet/promwish/releases/tag/v0.6.0), today) - Prometheus middleware for Wish
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.5.1](https://github.com/charmbracelet/soft-serve/releases/tag/v0.5.1), 1 day ago) - A tasty, self-hostable Git server for the command line🍦
+- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v2.13.0](https://github.com/LazyVim/LazyVim/releases/tag/v2.13.0), 1 day ago) - Neovim config for the lazy
+- [charmbracelet/confettysh](https://github.com/charmbracelet/confettysh) ([v1.1.0](https://github.com/charmbracelet/confettysh/releases/tag/v1.1.0), 1 day ago) - confetti over ssh
+- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.11.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.11.0), 1 day ago) - The SSH directory ✨
+- [charmbracelet/promwish](https://github.com/charmbracelet/promwish) ([v0.6.0](https://github.com/charmbracelet/promwish/releases/tag/v0.6.0), 1 day ago) - Prometheus middleware for Wish
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.5.1](https://github.com/charmbracelet/soft-serve/releases/tag/v0.5.1), 2 days ago) - A tasty, self-hostable Git server for the command line🍦
 
 #### 🔨 My recent Pull Requests
 
-- [fix(nfpm): don&#39;t enable and start systemd service by default](https://github.com/charmbracelet/soft-serve/pull/258) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 day ago)
+- [fix(nfpm): don&#39;t enable and start systemd service by default](https://github.com/charmbracelet/soft-serve/pull/258) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (2 days ago)
 - [fix: disable twitter announcements](https://github.com/charmbracelet/meta/pull/82) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (1 week ago)
 - [fix: expand file path](https://github.com/charmbracelet/keygen/pull/11) on [charmbracelet/keygen](https://github.com/charmbracelet/keygen) (1 week ago)
-- [chore: bump libdns/route53](https://github.com/caddy-dns/route53/pull/34) on [caddy-dns/route53](https://github.com/caddy-dns/route53) (1 week ago)
+- [chore: bump libdns/route53](https://github.com/caddy-dns/route53/pull/34) on [caddy-dns/route53](https://github.com/caddy-dns/route53) (2 weeks ago)
 - [internal/diff: unified: match diff delete for empty file](https://github.com/golang/tools/pull/436) on [golang/tools](https://github.com/golang/tools) (2 weeks ago)
 
 #### 📜 My recent blog posts
@@ -44,7 +44,7 @@
 
 #### ⭐ Recent Stars
 
-- [pgrok/pgrok](https://github.com/pgrok/pgrok) - Poor man&#39;s ngrok - a multi-tenant HTTP/TCP reverse tunnel solution through SSH remote port forwarding (1 day ago)
+- [pgrok/pgrok](https://github.com/pgrok/pgrok) - Poor man&#39;s ngrok - a multi-tenant HTTP/TCP reverse tunnel solution through SSH remote port forwarding (2 days ago)
 - [romkatv/zsh-defer](https://github.com/romkatv/zsh-defer) - Deferred execution of Zsh commands (2 weeks ago)
 - [mattmc3/zsh_unplugged](https://github.com/mattmc3/zsh_unplugged) -  🤔 perhaps you don&#39;t need a Zsh plugin manager after all... (2 weeks ago)
 - [aymanbagabas/go-udiff](https://github.com/aymanbagabas/go-udiff) - µDiff - a micro Go diff library (2 weeks ago)
