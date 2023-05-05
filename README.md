@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [aymanbagabas/go-git-daemon](https://github.com/aymanbagabas/go-git-daemon) - git-daemon implementation in golang (1 day ago)
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (today)
+- [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket) - Charmbracelet Scoop Bucket (today)
+- [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺 (today)
 - [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (1 day ago)
-- [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket) - Charmbracelet Scoop Bucket (2 days ago)
-- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - Nothing like ~ (2 days ago)
-- [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺 (2 days ago)
+- [aymanbagabas/go-git-daemon](https://github.com/aymanbagabas/go-git-daemon) - git-daemon implementation in golang (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -20,11 +20,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.5.2](https://github.com/charmbracelet/soft-serve/releases/tag/v0.5.2), today) - A tasty, self-hostable Git server for the command line🍦
 - [aymanbagabas/go-git-daemon](https://github.com/aymanbagabas/go-git-daemon) ([v0.1.0](https://github.com/aymanbagabas/go-git-daemon/releases/tag/v0.1.0), today) - git-daemon implementation in golang
 - [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v2.13.0](https://github.com/LazyVim/LazyVim/releases/tag/v2.13.0), 1 day ago) - Neovim config for the lazy
 - [charmbracelet/confettysh](https://github.com/charmbracelet/confettysh) ([v1.1.0](https://github.com/charmbracelet/confettysh/releases/tag/v1.1.0), 1 day ago) - confetti over ssh
 - [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.11.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.11.0), 1 day ago) - The SSH directory ✨
-- [charmbracelet/promwish](https://github.com/charmbracelet/promwish) ([v0.6.0](https://github.com/charmbracelet/promwish/releases/tag/v0.6.0), 1 day ago) - Prometheus middleware for Wish
 
 #### 🔨 My recent Pull Requests
 
