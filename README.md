@@ -20,11 +20,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.24.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.24.0), today) - A powerful little TUI framework 🏗
 - [aymanbagabas/go-git-daemon](https://github.com/aymanbagabas/go-git-daemon) ([v0.2.0](https://github.com/aymanbagabas/go-git-daemon/releases/tag/v0.2.0), today) - git-daemon implementation in golang
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.5.2](https://github.com/charmbracelet/soft-serve/releases/tag/v0.5.2), 3 days ago) - A tasty, self-hostable Git server for the command line🍦
 - [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v2.13.0](https://github.com/LazyVim/LazyVim/releases/tag/v2.13.0), 4 days ago) - Neovim config for the lazy
 - [charmbracelet/confettysh](https://github.com/charmbracelet/confettysh) ([v1.1.0](https://github.com/charmbracelet/confettysh/releases/tag/v1.1.0), 4 days ago) - confetti over ssh
-- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.11.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.11.0), 4 days ago) - The SSH directory ✨
 
 #### 🔨 My recent Pull Requests
 
