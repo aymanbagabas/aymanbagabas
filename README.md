@@ -4,9 +4,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (today)
 - [aymanbagabas/aymanbagabas.github.io](https://github.com/aymanbagabas/aymanbagabas.github.io) - A personal website built using Jekyll (today)
 - [aymanbagabas/go-git-daemon](https://github.com/aymanbagabas/go-git-daemon) - git-daemon implementation in golang (2 days ago)
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (4 days ago)
 - [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺 (4 days ago)
 - [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (4 days ago)
 
