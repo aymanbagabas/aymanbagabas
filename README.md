@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/glow](https://github.com/charmbracelet/glow) ([v1.5.1](https://github.com/charmbracelet/glow/releases/tag/v1.5.1), today) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.24.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.24.0), 1 day ago) - A powerful little TUI framework 🏗
 - [aymanbagabas/go-git-daemon](https://github.com/aymanbagabas/go-git-daemon) ([v0.2.0](https://github.com/aymanbagabas/go-git-daemon/releases/tag/v0.2.0), 1 day ago) - git-daemon implementation in golang
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.5.2](https://github.com/charmbracelet/soft-serve/releases/tag/v0.5.2), 4 days ago) - A tasty, self-hostable Git server for the command line🍦
 - [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v2.13.0](https://github.com/LazyVim/LazyVim/releases/tag/v2.13.0), 5 days ago) - Neovim config for the lazy
-- [charmbracelet/confettysh](https://github.com/charmbracelet/confettysh) ([v1.1.0](https://github.com/charmbracelet/confettysh/releases/tag/v1.1.0), 5 days ago) - confetti over ssh
 
 #### 🔨 My recent Pull Requests
 
+- [feat: run command with context](https://github.com/gogs/git-module/pull/95) on [gogs/git-module](https://github.com/gogs/git-module) (today)
 - [fix(server): wait for and ensure git command exits](https://github.com/charmbracelet/soft-serve/pull/263) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (4 days ago)
 - [fix(nfpm): don&#39;t enable and start systemd service by default](https://github.com/charmbracelet/soft-serve/pull/258) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (6 days ago)
 - [fix: disable twitter announcements](https://github.com/charmbracelet/meta/pull/82) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (2 weeks ago)
 - [fix: expand file path](https://github.com/charmbracelet/keygen/pull/11) on [charmbracelet/keygen](https://github.com/charmbracelet/keygen) (2 weeks ago)
-- [chore: bump libdns/route53](https://github.com/caddy-dns/route53/pull/34) on [caddy-dns/route53](https://github.com/caddy-dns/route53) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
