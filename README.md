@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix(backend): cache repos in memory](https://github.com/charmbracelet/soft-serve/pull/274) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (today)
+- [fix(server): bound the current context to the underlying operation](https://github.com/charmbracelet/soft-serve/pull/273) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (today)
 - [feat: add server-side git commands](https://github.com/gogs/git-module/pull/96) on [gogs/git-module](https://github.com/gogs/git-module) (today)
 - [feat: run command with context](https://github.com/gogs/git-module/pull/95) on [gogs/git-module](https://github.com/gogs/git-module) (today)
 - [fix(server): wait for and ensure git command exits](https://github.com/charmbracelet/soft-serve/pull/263) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (4 days ago)
-- [fix(nfpm): don&#39;t enable and start systemd service by default](https://github.com/charmbracelet/soft-serve/pull/258) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (6 days ago)
-- [fix: disable twitter announcements](https://github.com/charmbracelet/meta/pull/82) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
