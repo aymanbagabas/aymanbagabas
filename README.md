@@ -5,10 +5,10 @@
 #### 👷 Check out what I'm currently working on
 
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (1 day ago)
+- [gogs/git-module](https://github.com/gogs/git-module) - Package git-module is a Go module for Git access through shell commands (1 day ago)
 - [aymanbagabas/aymanbagabas.github.io](https://github.com/aymanbagabas/aymanbagabas.github.io) - A personal website built using Jekyll (1 day ago)
 - [aymanbagabas/go-git-daemon](https://github.com/aymanbagabas/go-git-daemon) - git-daemon implementation in golang (3 days ago)
-- [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺 (5 days ago)
-- [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (5 days ago)
+- [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket) - Charmbracelet Scoop Bucket (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -20,11 +20,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [gogs/git-module](https://github.com/gogs/git-module) ([v1.8.2](https://github.com/gogs/git-module/releases/tag/v1.8.2), today) - Package git-module is a Go module for Git access through shell commands
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) ([v1.5.1](https://github.com/charmbracelet/glow/releases/tag/v1.5.1), 1 day ago) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.24.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.24.0), 2 days ago) - A powerful little TUI framework 🏗
 - [aymanbagabas/go-git-daemon](https://github.com/aymanbagabas/go-git-daemon) ([v0.2.0](https://github.com/aymanbagabas/go-git-daemon/releases/tag/v0.2.0), 2 days ago) - git-daemon implementation in golang
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.5.2](https://github.com/charmbracelet/soft-serve/releases/tag/v0.5.2), 5 days ago) - A tasty, self-hostable Git server for the command line🍦
-- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v2.13.0](https://github.com/LazyVim/LazyVim/releases/tag/v2.13.0), 6 days ago) - Neovim config for the lazy
 
 #### 🔨 My recent Pull Requests
 
