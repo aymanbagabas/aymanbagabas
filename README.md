@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix(log): respect log config](https://github.com/charmbracelet/soft-serve/pull/280) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (today)
 - [fix(ui): UI regressions ](https://github.com/charmbracelet/soft-serve/pull/279) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (today)
 - [fix(backend): wrap i/o operations in transactions](https://github.com/charmbracelet/soft-serve/pull/278) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (today)
 - [docs: add systemd instructions](https://github.com/charmbracelet/soft-serve/pull/276) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (today)
 - [fix(backend): cache repos in memory](https://github.com/charmbracelet/soft-serve/pull/274) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 day ago)
-- [fix(server): bound the current context to the underlying operation](https://github.com/charmbracelet/soft-serve/pull/273) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 day ago)
 
 #### 📜 My recent blog posts
 
