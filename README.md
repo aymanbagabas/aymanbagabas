@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [bloznelis/typioca](https://github.com/bloznelis/typioca) ([2.3.1](https://github.com/bloznelis/typioca/releases/tag/2.3.1), today) - Cozy typing speed tester
 - [gogs/git-module](https://github.com/gogs/git-module) ([v1.8.2](https://github.com/gogs/git-module/releases/tag/v1.8.2), today) - Package git-module is a Go module for Git access through shell commands
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) ([v1.5.1](https://github.com/charmbracelet/glow/releases/tag/v1.5.1), 1 day ago) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.24.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.24.0), 2 days ago) - A powerful little TUI framework 🏗
 - [aymanbagabas/go-git-daemon](https://github.com/aymanbagabas/go-git-daemon) ([v0.2.0](https://github.com/aymanbagabas/go-git-daemon/releases/tag/v0.2.0), 2 days ago) - git-daemon implementation in golang
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.5.2](https://github.com/charmbracelet/soft-serve/releases/tag/v0.5.2), 5 days ago) - A tasty, self-hostable Git server for the command line🍦
 
 #### 🔨 My recent Pull Requests
 
+- [fix(ui): UI regressions ](https://github.com/charmbracelet/soft-serve/pull/279) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (today)
 - [fix(backend): wrap i/o operations in transactions](https://github.com/charmbracelet/soft-serve/pull/278) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (today)
 - [docs: add systemd instructions](https://github.com/charmbracelet/soft-serve/pull/276) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (today)
 - [fix(backend): cache repos in memory](https://github.com/charmbracelet/soft-serve/pull/274) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 day ago)
 - [fix(server): bound the current context to the underlying operation](https://github.com/charmbracelet/soft-serve/pull/273) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 day ago)
-- [feat: add server-side git commands](https://github.com/gogs/git-module/pull/96) on [gogs/git-module](https://github.com/gogs/git-module) (1 day ago)
 
 #### 📜 My recent blog posts
 
