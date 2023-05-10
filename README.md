@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix(backend): wrap i/o operations in transactions](https://github.com/charmbracelet/soft-serve/pull/278) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (today)
 - [docs: add systemd instructions](https://github.com/charmbracelet/soft-serve/pull/276) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (today)
 - [fix(backend): cache repos in memory](https://github.com/charmbracelet/soft-serve/pull/274) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 day ago)
 - [fix(server): bound the current context to the underlying operation](https://github.com/charmbracelet/soft-serve/pull/273) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 day ago)
 - [feat: add server-side git commands](https://github.com/gogs/git-module/pull/96) on [gogs/git-module](https://github.com/gogs/git-module) (1 day ago)
-- [feat: run command with context](https://github.com/gogs/git-module/pull/95) on [gogs/git-module](https://github.com/gogs/git-module) (1 day ago)
 
 #### 📜 My recent blog posts
 
