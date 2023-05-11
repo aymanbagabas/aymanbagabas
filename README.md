@@ -6,9 +6,9 @@
 
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (today)
 - [aymanbagabas/go-git-daemon](https://github.com/aymanbagabas/go-git-daemon) - git-daemon implementation in golang (today)
+- [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺 (today)
+- [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket) - Charmbracelet Scoop Bucket (today)
 - [gogs/git-module](https://github.com/gogs/git-module) - Package git-module is a Go module for Git access through shell commands (2 days ago)
-- [aymanbagabas/aymanbagabas.github.io](https://github.com/aymanbagabas/aymanbagabas.github.io) - A personal website built using Jekyll (2 days ago)
-- [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -20,11 +20,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.5.3](https://github.com/charmbracelet/soft-serve/releases/tag/v0.5.3), today) - A tasty, self-hostable Git server for the command line🍦
 - [bloznelis/typioca](https://github.com/bloznelis/typioca) ([2.3.1](https://github.com/bloznelis/typioca/releases/tag/2.3.1), 1 day ago) - Cozy typing speed tester
 - [gogs/git-module](https://github.com/gogs/git-module) ([v1.8.2](https://github.com/gogs/git-module/releases/tag/v1.8.2), 1 day ago) - Package git-module is a Go module for Git access through shell commands
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) ([v1.5.1](https://github.com/charmbracelet/glow/releases/tag/v1.5.1), 2 days ago) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.24.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.24.0), 3 days ago) - A powerful little TUI framework 🏗
-- [aymanbagabas/go-git-daemon](https://github.com/aymanbagabas/go-git-daemon) ([v0.2.0](https://github.com/aymanbagabas/go-git-daemon/releases/tag/v0.2.0), 3 days ago) - git-daemon implementation in golang
 
 #### 🔨 My recent Pull Requests
 
