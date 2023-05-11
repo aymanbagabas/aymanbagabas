@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (1 day ago)
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (today)
+- [aymanbagabas/go-git-daemon](https://github.com/aymanbagabas/go-git-daemon) - git-daemon implementation in golang (today)
 - [gogs/git-module](https://github.com/gogs/git-module) - Package git-module is a Go module for Git access through shell commands (2 days ago)
 - [aymanbagabas/aymanbagabas.github.io](https://github.com/aymanbagabas/aymanbagabas.github.io) - A personal website built using Jekyll (2 days ago)
-- [aymanbagabas/go-git-daemon](https://github.com/aymanbagabas/go-git-daemon) - git-daemon implementation in golang (4 days ago)
-- [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket) - Charmbracelet Scoop Bucket (6 days ago)
+- [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -28,8 +28,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [feat(wq): use errgroup to queue work](https://github.com/charmbracelet/soft-serve/pull/287) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (today)
-- [perf: update mirrors in a workqueue](https://github.com/charmbracelet/soft-serve/pull/285) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (today)
+- [feat(wp): use a workpool impl](https://github.com/charmbracelet/soft-serve/pull/287) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (today)
+- [perf: update mirrors in a workpool](https://github.com/charmbracelet/soft-serve/pull/285) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (today)
 - [fix(log): respect log config](https://github.com/charmbracelet/soft-serve/pull/280) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 day ago)
 - [fix(ui): UI regressions ](https://github.com/charmbracelet/soft-serve/pull/279) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 day ago)
 - [fix(backend): wrap i/o operations in transactions](https://github.com/charmbracelet/soft-serve/pull/278) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 day ago)
