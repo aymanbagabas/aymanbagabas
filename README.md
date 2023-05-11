@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat(wq): use errgroup to queue work](https://github.com/charmbracelet/soft-serve/pull/287) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (today)
 - [perf: update mirrors in a workqueue](https://github.com/charmbracelet/soft-serve/pull/285) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (today)
 - [fix(log): respect log config](https://github.com/charmbracelet/soft-serve/pull/280) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 day ago)
 - [fix(ui): UI regressions ](https://github.com/charmbracelet/soft-serve/pull/279) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 day ago)
 - [fix(backend): wrap i/o operations in transactions](https://github.com/charmbracelet/soft-serve/pull/278) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 day ago)
-- [docs: add systemd instructions](https://github.com/charmbracelet/soft-serve/pull/276) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 day ago)
 
 #### 📜 My recent blog posts
 
