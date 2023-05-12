@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat(ci): upload goreleaser dist](https://github.com/charmbracelet/meta/pull/88) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (today)
 - [fix: skip fields without env key in onSet](https://github.com/caarlos0/env/pull/266) on [caarlos0/env](https://github.com/caarlos0/env) (today)
 - [feat: add log mr slog](https://github.com/charmbracelet/x/pull/4) on [charmbracelet/x](https://github.com/charmbracelet/x) (today)
 - [fix: print help and exit](https://github.com/charmbracelet/mods/pull/40) on [charmbracelet/mods](https://github.com/charmbracelet/mods) (today)
 - [feat(wp): use a workpool impl](https://github.com/charmbracelet/soft-serve/pull/287) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 day ago)
-- [perf: update mirrors in a workpool](https://github.com/charmbracelet/soft-serve/pull/285) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 day ago)
 
 #### 📜 My recent blog posts
 
