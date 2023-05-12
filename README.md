@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (1 day ago)
-- [aymanbagabas/go-git-daemon](https://github.com/aymanbagabas/go-git-daemon) - git-daemon implementation in golang (1 day ago)
-- [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺 (1 day ago)
-- [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket) - Charmbracelet Scoop Bucket (1 day ago)
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (1 day ago)
+- [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket) - Charmbracelet Scoop Bucket (1 day ago)
+- [aymanbagabas/go-git-daemon](https://github.com/aymanbagabas/go-git-daemon) - git-daemon implementation in golang (1 day ago)
+- [charmbracelet/mods](https://github.com/charmbracelet/mods) - AI on the command line (1 day ago)
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -30,9 +30,9 @@
 
 - [fix: skip fields without env key in onSet](https://github.com/caarlos0/env/pull/266) on [caarlos0/env](https://github.com/caarlos0/env) (today)
 - [feat: add log mr slog](https://github.com/charmbracelet/x/pull/4) on [charmbracelet/x](https://github.com/charmbracelet/x) (today)
+- [fix: print help and exit](https://github.com/charmbracelet/mods/pull/40) on [charmbracelet/mods](https://github.com/charmbracelet/mods) (today)
 - [feat(wp): use a workpool impl](https://github.com/charmbracelet/soft-serve/pull/287) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 day ago)
 - [perf: update mirrors in a workpool](https://github.com/charmbracelet/soft-serve/pull/285) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 day ago)
-- [fix(log): respect log config](https://github.com/charmbracelet/soft-serve/pull/280) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (2 days ago)
 
 #### 📜 My recent blog posts
 
