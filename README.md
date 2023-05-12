@@ -20,11 +20,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v2.13.1](https://github.com/LazyVim/LazyVim/releases/tag/v2.13.1), today) - Neovim config for the lazy
+- [charmbracelet/mods](https://github.com/charmbracelet/mods) ([v0.1.0](https://github.com/charmbracelet/mods/releases/tag/v0.1.0), today) - AI on the command line
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.5.3](https://github.com/charmbracelet/soft-serve/releases/tag/v0.5.3), 1 day ago) - A tasty, self-hostable Git server for the command line🍦
 - [bloznelis/typioca](https://github.com/bloznelis/typioca) ([2.3.1](https://github.com/bloznelis/typioca/releases/tag/2.3.1), 2 days ago) - Cozy typing speed tester
 - [gogs/git-module](https://github.com/gogs/git-module) ([v1.8.2](https://github.com/gogs/git-module/releases/tag/v1.8.2), 2 days ago) - Package git-module is a Go module for Git access through shell commands
-- [charmbracelet/glow](https://github.com/charmbracelet/glow) ([v1.5.1](https://github.com/charmbracelet/glow/releases/tag/v1.5.1), 3 days ago) - Render markdown on the CLI, with pizzazz! 💅🏻
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.24.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.24.0), 4 days ago) - A powerful little TUI framework 🏗
 
 #### 🔨 My recent Pull Requests
 
@@ -44,11 +44,11 @@
 
 #### ⭐ Recent Stars
 
+- [charmbracelet/mods](https://github.com/charmbracelet/mods) - AI on the command line (today)
 - [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages. (3 days ago)
 - [pgrok/pgrok](https://github.com/pgrok/pgrok) - Poor man&#39;s ngrok - a multi-tenant HTTP/TCP reverse tunnel solution through SSH remote port forwarding (1 week ago)
 - [romkatv/zsh-defer](https://github.com/romkatv/zsh-defer) - Deferred execution of Zsh commands (3 weeks ago)
 - [mattmc3/zsh_unplugged](https://github.com/mattmc3/zsh_unplugged) -  🤔 perhaps you don&#39;t need a Zsh plugin manager after all... (3 weeks ago)
-- [aymanbagabas/go-udiff](https://github.com/aymanbagabas/go-udiff) - µDiff - a micro Go diff library (3 weeks ago)
 
 #### 📫 How to reach me
 
