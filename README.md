@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v3.0.0](https://github.com/LazyVim/LazyVim/releases/tag/v3.0.0), 1 day ago) - Neovim config for the lazy
+- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v3.1.0](https://github.com/LazyVim/LazyVim/releases/tag/v3.1.0), today) - Neovim config for the lazy
 - [charmbracelet/mods](https://github.com/charmbracelet/mods) ([v0.1.1](https://github.com/charmbracelet/mods/releases/tag/v0.1.1), 1 day ago) - AI on the command line
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.5.3](https://github.com/charmbracelet/soft-serve/releases/tag/v0.5.3), 2 days ago) - A tasty, self-hostable Git server for the command line🍦
 - [bloznelis/typioca](https://github.com/bloznelis/typioca) ([2.3.1](https://github.com/bloznelis/typioca/releases/tag/2.3.1), 3 days ago) - Cozy typing speed tester
