@@ -44,11 +44,11 @@
 
 #### ⭐ Recent Stars
 
+- [robherley/snips.sh](https://github.com/robherley/snips.sh) - ✂️ passwordless, anonymous SSH-powered pastebin with a human-friendly TUI and web UI (today)
 - [charmbracelet/mods](https://github.com/charmbracelet/mods) - AI on the command line (1 day ago)
 - [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages. (4 days ago)
 - [pgrok/pgrok](https://github.com/pgrok/pgrok) - Poor man&#39;s ngrok - a multi-tenant HTTP/TCP reverse tunnel solution through SSH remote port forwarding (1 week ago)
 - [romkatv/zsh-defer](https://github.com/romkatv/zsh-defer) - Deferred execution of Zsh commands (3 weeks ago)
-- [mattmc3/zsh_unplugged](https://github.com/mattmc3/zsh_unplugged) -  🤔 perhaps you don&#39;t need a Zsh plugin manager after all... (3 weeks ago)
 
 #### 📫 How to reach me
 
