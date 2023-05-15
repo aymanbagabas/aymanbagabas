@@ -4,9 +4,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [aymanbagabas/go-udiff](https://github.com/aymanbagabas/go-udiff) - µDiff - a micro Go diff library (today)
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (today)
 - [charmbracelet/mods](https://github.com/charmbracelet/mods) - AI on the command line (3 days ago)
-- [charmbracelet/log](https://github.com/charmbracelet/log) - A minimal, colorful Go logging library 🪵 (3 days ago)
-- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages. (3 days ago)
 - [caarlos0/env](https://github.com/caarlos0/env) - A simple and zero-dependencies library to parse environment variables into structs. (3 days ago)
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧 (3 days ago)
 
@@ -20,11 +20,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [aymanbagabas/go-udiff](https://github.com/aymanbagabas/go-udiff) ([v0.1.2](https://github.com/aymanbagabas/go-udiff/releases/tag/v0.1.2), today) - µDiff - a micro Go diff library
 - [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v3.1.0](https://github.com/LazyVim/LazyVim/releases/tag/v3.1.0), 2 days ago) - Neovim config for the lazy
 - [charmbracelet/mods](https://github.com/charmbracelet/mods) ([v0.1.1](https://github.com/charmbracelet/mods/releases/tag/v0.1.1), 3 days ago) - AI on the command line
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.5.3](https://github.com/charmbracelet/soft-serve/releases/tag/v0.5.3), 4 days ago) - A tasty, self-hostable Git server for the command line🍦
 - [bloznelis/typioca](https://github.com/bloznelis/typioca) ([2.3.1](https://github.com/bloznelis/typioca/releases/tag/2.3.1), 5 days ago) - Cozy typing speed tester
-- [gogs/git-module](https://github.com/gogs/git-module) ([v1.8.2](https://github.com/gogs/git-module/releases/tag/v1.8.2), 5 days ago) - Package git-module is a Go module for Git access through shell commands
 
 #### 🔨 My recent Pull Requests
 
