@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Smart HTTP Git transport &amp; partial clones](https://github.com/charmbracelet/soft-serve/pull/291) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (today)
 - [fix: host can be omitted](https://github.com/aymanbagabas/go-git-daemon/pull/1) on [aymanbagabas/go-git-daemon](https://github.com/aymanbagabas/go-git-daemon) (1 day ago)
 - [fix(ssh): restrict publickey auth](https://github.com/charmbracelet/soft-serve/pull/290) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (3 days ago)
 - [feat: switch to env/v8](https://github.com/charmbracelet/soft-serve/pull/289) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (3 days ago)
 - [feat(ci): upload goreleaser dist](https://github.com/charmbracelet/meta/pull/88) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (3 days ago)
-- [fix: skip fields without env key in onSet](https://github.com/caarlos0/env/pull/266) on [caarlos0/env](https://github.com/caarlos0/env) (3 days ago)
 
 #### 📜 My recent blog posts
 
