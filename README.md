@@ -20,11 +20,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [golang/tools](https://github.com/golang/tools) ([gopls/v0.12.0-pre.2](https://github.com/golang/tools/releases/tag/gopls/v0.12.0-pre.2), today) - [mirror] Go Tools
 - [aymanbagabas/go-git-daemon](https://github.com/aymanbagabas/go-git-daemon) ([v0.2.1](https://github.com/aymanbagabas/go-git-daemon/releases/tag/v0.2.1), today) - git-daemon implementation in golang
 - [aymanbagabas/go-udiff](https://github.com/aymanbagabas/go-udiff) ([v0.1.2](https://github.com/aymanbagabas/go-udiff/releases/tag/v0.1.2), 1 day ago) - µDiff - a micro Go diff library
 - [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v3.1.0](https://github.com/LazyVim/LazyVim/releases/tag/v3.1.0), 3 days ago) - Neovim config for the lazy
 - [charmbracelet/mods](https://github.com/charmbracelet/mods) ([v0.1.1](https://github.com/charmbracelet/mods/releases/tag/v0.1.1), 4 days ago) - AI on the command line
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.5.3](https://github.com/charmbracelet/soft-serve/releases/tag/v0.5.3), 5 days ago) - A tasty, self-hostable Git server for the command line🍦
 
 #### 🔨 My recent Pull Requests
 
