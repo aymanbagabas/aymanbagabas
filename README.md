@@ -20,11 +20,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) ([v0.5.0](https://github.com/charmbracelet/vhs/releases/tag/v0.5.0), today) - Your CLI home video recorder 📼
 - [toddrob99/searcharr](https://github.com/toddrob99/searcharr) ([v3.2.2](https://github.com/toddrob99/searcharr/releases/tag/v3.2.2), today) - Sonarr &amp; Radarr &amp; Readarr Telegram Bot
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.5.4](https://github.com/charmbracelet/soft-serve/releases/tag/v0.5.4), 1 day ago) - A tasty, self-hostable Git server for the command line🍦
 - [golang/tools](https://github.com/golang/tools) ([gopls/v0.12.0-pre.2](https://github.com/golang/tools/releases/tag/gopls/v0.12.0-pre.2), 1 day ago) - [mirror] Go Tools
 - [aymanbagabas/go-git-daemon](https://github.com/aymanbagabas/go-git-daemon) ([v0.2.1](https://github.com/aymanbagabas/go-git-daemon/releases/tag/v0.2.1), 1 day ago) - git-daemon implementation in golang
-- [aymanbagabas/go-udiff](https://github.com/aymanbagabas/go-udiff) ([v0.1.2](https://github.com/aymanbagabas/go-udiff/releases/tag/v0.1.2), 2 days ago) - µDiff - a micro Go diff library
 
 #### 🔨 My recent Pull Requests
 
