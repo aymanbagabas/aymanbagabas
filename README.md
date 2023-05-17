@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (1 day ago)
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (today)
 - [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket) - Charmbracelet Scoop Bucket (1 day ago)
 - [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺 (1 day ago)
 - [aymanbagabas/go-udiff](https://github.com/aymanbagabas/go-udiff) - µDiff - a micro Go diff library (2 days ago)
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix(cmd): user info reporting false admin status](https://github.com/charmbracelet/soft-serve/pull/299) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (today)
 - [feat: bump minimum go version to go1.20](https://github.com/charmbracelet/soft-serve/pull/295) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 day ago)
 - [Smart HTTP Git transport &amp; partial clones](https://github.com/charmbracelet/soft-serve/pull/291) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (2 days ago)
 - [fix: host can be omitted](https://github.com/aymanbagabas/go-git-daemon/pull/1) on [aymanbagabas/go-git-daemon](https://github.com/aymanbagabas/go-git-daemon) (3 days ago)
 - [fix(ssh): restrict publickey auth](https://github.com/charmbracelet/soft-serve/pull/290) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (5 days ago)
-- [feat: switch to env/v8](https://github.com/charmbracelet/soft-serve/pull/289) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (5 days ago)
 
 #### 📜 My recent blog posts
 
