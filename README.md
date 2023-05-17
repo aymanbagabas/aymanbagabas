@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Neo config](https://github.com/charmbracelet/soft-serve/pull/302) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (today)
+- [Cache lru](https://github.com/charmbracelet/soft-serve/pull/301) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (today)
 - [fix(config): write config file when instructed to](https://github.com/charmbracelet/soft-serve/pull/300) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (today)
 - [fix(cmd): user info reporting false admin status](https://github.com/charmbracelet/soft-serve/pull/299) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (today)
 - [feat: bump minimum go version to go1.20](https://github.com/charmbracelet/soft-serve/pull/295) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 day ago)
-- [Smart HTTP Git transport &amp; partial clones](https://github.com/charmbracelet/soft-serve/pull/291) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (2 days ago)
-- [fix: host can be omitted](https://github.com/aymanbagabas/go-git-daemon/pull/1) on [aymanbagabas/go-git-daemon](https://github.com/aymanbagabas/go-git-daemon) (3 days ago)
 
 #### 📜 My recent blog posts
 
