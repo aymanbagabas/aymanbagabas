@@ -20,11 +20,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [go-git/go-git](https://github.com/go-git/go-git) ([v5.7.0](https://github.com/go-git/go-git/releases/tag/v5.7.0), today) - A highly extensible Git implementation in pure Go.
+- [charmbracelet/log](https://github.com/charmbracelet/log) ([v0.2.2](https://github.com/charmbracelet/log/releases/tag/v0.2.2), today) - A minimal, colorful Go logging library 🪵
 - [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v3.5.0](https://github.com/LazyVim/LazyVim/releases/tag/v3.5.0), today) - Neovim config for the lazy
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) ([v0.5.0](https://github.com/charmbracelet/vhs/releases/tag/v0.5.0), 6 days ago) - Your CLI home video recorder 📼
 - [toddrob99/searcharr](https://github.com/toddrob99/searcharr) ([v3.2.2](https://github.com/toddrob99/searcharr/releases/tag/v3.2.2), 6 days ago) - Sonarr &amp; Radarr &amp; Readarr Telegram Bot
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.5.4](https://github.com/charmbracelet/soft-serve/releases/tag/v0.5.4), 1 week ago) - A tasty, self-hostable Git server for the command line🍦
-- [golang/tools](https://github.com/golang/tools) ([gopls/v0.12.0-pre.2](https://github.com/golang/tools/releases/tag/gopls/v0.12.0-pre.2), 1 week ago) - [mirror] Go Tools
 
 #### 🔨 My recent Pull Requests
 
