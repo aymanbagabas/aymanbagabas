@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v3.4.0](https://github.com/LazyVim/LazyVim/releases/tag/v3.4.0), 1 day ago) - Neovim config for the lazy
+- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v3.5.0](https://github.com/LazyVim/LazyVim/releases/tag/v3.5.0), today) - Neovim config for the lazy
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) ([v0.5.0](https://github.com/charmbracelet/vhs/releases/tag/v0.5.0), 6 days ago) - Your CLI home video recorder 📼
 - [toddrob99/searcharr](https://github.com/toddrob99/searcharr) ([v3.2.2](https://github.com/toddrob99/searcharr/releases/tag/v3.2.2), 6 days ago) - Sonarr &amp; Radarr &amp; Readarr Telegram Bot
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.5.4](https://github.com/charmbracelet/soft-serve/releases/tag/v0.5.4), 1 week ago) - A tasty, self-hostable Git server for the command line🍦
