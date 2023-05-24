@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v3.6.0](https://github.com/LazyVim/LazyVim/releases/tag/v3.6.0), today) - Neovim config for the lazy
+- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v3.6.1](https://github.com/LazyVim/LazyVim/releases/tag/v3.6.1), today) - Neovim config for the lazy
 - [go-git/go-git](https://github.com/go-git/go-git) ([v5.7.0](https://github.com/go-git/go-git/releases/tag/v5.7.0), 1 day ago) - A highly extensible Git implementation in pure Go.
 - [charmbracelet/log](https://github.com/charmbracelet/log) ([v0.2.2](https://github.com/charmbracelet/log/releases/tag/v0.2.2), 1 day ago) - A minimal, colorful Go logging library 🪵
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) ([v0.5.0](https://github.com/charmbracelet/vhs/releases/tag/v0.5.0), 1 week ago) - Your CLI home video recorder 📼
