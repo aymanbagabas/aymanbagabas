@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (today)
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (1 week ago)
 - [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺 (1 week ago)
 - [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket) - Charmbracelet Scoop Bucket (1 week ago)
 - [aymanbagabas/go-udiff](https://github.com/aymanbagabas/go-udiff) - µDiff - a micro Go diff library (1 week ago)
-- [aymanbagabas/go-git-daemon](https://github.com/aymanbagabas/go-git-daemon) - git-daemon implementation in golang (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -20,11 +20,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.24.1](https://github.com/charmbracelet/bubbletea/releases/tag/v0.24.1), today) - A powerful little TUI framework 🏗
 - [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v3.6.1](https://github.com/LazyVim/LazyVim/releases/tag/v3.6.1), today) - Neovim config for the lazy
 - [go-git/go-git](https://github.com/go-git/go-git) ([v5.7.0](https://github.com/go-git/go-git/releases/tag/v5.7.0), 1 day ago) - A highly extensible Git implementation in pure Go.
 - [charmbracelet/log](https://github.com/charmbracelet/log) ([v0.2.2](https://github.com/charmbracelet/log/releases/tag/v0.2.2), 1 day ago) - A minimal, colorful Go logging library 🪵
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) ([v0.5.0](https://github.com/charmbracelet/vhs/releases/tag/v0.5.0), 1 week ago) - Your CLI home video recorder 📼
-- [toddrob99/searcharr](https://github.com/toddrob99/searcharr) ([v3.2.2](https://github.com/toddrob99/searcharr/releases/tag/v3.2.2), 1 week ago) - Sonarr &amp; Radarr &amp; Readarr Telegram Bot
 
 #### 🔨 My recent Pull Requests
 
