@@ -20,11 +20,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/mods](https://github.com/charmbracelet/mods) ([v0.2.0](https://github.com/charmbracelet/mods/releases/tag/v0.2.0), today) - AI on the command line
 - [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v3.7.1](https://github.com/LazyVim/LazyVim/releases/tag/v3.7.1), today) - Neovim config for the lazy
 - [golang/tools](https://github.com/golang/tools) ([gopls/v0.12.0-pre.3](https://github.com/golang/tools/releases/tag/gopls/v0.12.0-pre.3), 1 day ago) - [mirror] Go Tools
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.24.1](https://github.com/charmbracelet/bubbletea/releases/tag/v0.24.1), 1 day ago) - A powerful little TUI framework 🏗
 - [go-git/go-git](https://github.com/go-git/go-git) ([v5.7.0](https://github.com/go-git/go-git/releases/tag/v5.7.0), 2 days ago) - A highly extensible Git implementation in pure Go.
-- [charmbracelet/log](https://github.com/charmbracelet/log) ([v0.2.2](https://github.com/charmbracelet/log/releases/tag/v0.2.2), 2 days ago) - A minimal, colorful Go logging library 🪵
 
 #### 🔨 My recent Pull Requests
 
