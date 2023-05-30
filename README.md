@@ -44,11 +44,11 @@
 
 #### ⭐ Recent Stars
 
+- [Bekaboo/dropbar.nvim](https://github.com/Bekaboo/dropbar.nvim) - IDE-like breadcrumbs, out of the box (today)
 - [robherley/snips.sh](https://github.com/robherley/snips.sh) - ✂️ passwordless, anonymous SSH-powered pastebin with a human-friendly TUI and web UI (2 weeks ago)
 - [charmbracelet/mods](https://github.com/charmbracelet/mods) - AI on the command line (2 weeks ago)
 - [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages. (3 weeks ago)
 - [pgrok/pgrok](https://github.com/pgrok/pgrok) - Poor man&#39;s ngrok - a multi-tenant HTTP/TCP reverse tunnel solution through SSH remote port forwarding (3 weeks ago)
-- [romkatv/zsh-defer](https://github.com/romkatv/zsh-defer) - Deferred execution of Zsh commands (1 month ago)
 
 #### 📫 How to reach me
 
