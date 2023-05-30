@@ -20,9 +20,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [golang/tools](https://github.com/golang/tools) ([gopls/v0.12.0](https://github.com/golang/tools/releases/tag/gopls/v0.12.0), today) - [mirror] Go Tools
 - [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v4.3.1](https://github.com/LazyVim/LazyVim/releases/tag/v4.3.1), 2 days ago) - Neovim config for the lazy
 - [charmbracelet/mods](https://github.com/charmbracelet/mods) ([v0.2.0](https://github.com/charmbracelet/mods/releases/tag/v0.2.0), 5 days ago) - AI on the command line
-- [golang/tools](https://github.com/golang/tools) ([gopls/v0.12.0-pre.3](https://github.com/golang/tools/releases/tag/gopls/v0.12.0-pre.3), 6 days ago) - [mirror] Go Tools
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.24.1](https://github.com/charmbracelet/bubbletea/releases/tag/v0.24.1), 6 days ago) - A powerful little TUI framework 🏗
 - [go-git/go-git](https://github.com/go-git/go-git) ([v5.7.0](https://github.com/go-git/go-git/releases/tag/v5.7.0), 1 week ago) - A highly extensible Git implementation in pure Go.
 
