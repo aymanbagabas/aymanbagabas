@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (6 days ago)
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (1 week ago)
 - [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (1 week ago)
 - [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺 (2 weeks ago)
 - [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket) - Charmbracelet Scoop Bucket (2 weeks ago)
@@ -20,16 +20,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.16.1](https://github.com/charmbracelet/bubbles/releases/tag/v0.16.1), today) - TUI components for Bubble Tea 🫧
-- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v4.4.0](https://github.com/LazyVim/LazyVim/releases/tag/v4.4.0), 1 day ago) - Neovim config for the lazy
-- [golang/tools](https://github.com/golang/tools) ([gopls/v0.12.0](https://github.com/golang/tools/releases/tag/gopls/v0.12.0), 1 day ago) - [mirror] Go Tools
-- [charmbracelet/mods](https://github.com/charmbracelet/mods) ([v0.2.0](https://github.com/charmbracelet/mods/releases/tag/v0.2.0), 6 days ago) - AI on the command line
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.16.1](https://github.com/charmbracelet/bubbles/releases/tag/v0.16.1), 1 day ago) - TUI components for Bubble Tea 🫧
+- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v4.4.0](https://github.com/LazyVim/LazyVim/releases/tag/v4.4.0), 2 days ago) - Neovim config for the lazy
+- [golang/tools](https://github.com/golang/tools) ([gopls/v0.12.0](https://github.com/golang/tools/releases/tag/gopls/v0.12.0), 2 days ago) - [mirror] Go Tools
+- [charmbracelet/mods](https://github.com/charmbracelet/mods) ([v0.2.0](https://github.com/charmbracelet/mods/releases/tag/v0.2.0), 1 week ago) - AI on the command line
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.24.1](https://github.com/charmbracelet/bubbletea/releases/tag/v0.24.1), 1 week ago) - A powerful little TUI framework 🏗
 
 #### 🔨 My recent Pull Requests
 
-- [fix: include version in archives](https://github.com/charmbracelet/meta/pull/93) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (1 day ago)
-- [fix(test): convert dos crlf to lf](https://github.com/charmbracelet/soft-serve/pull/311) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (6 days ago)
+- [fix: include version in archives](https://github.com/charmbracelet/meta/pull/93) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (2 days ago)
+- [fix(test): convert dos crlf to lf](https://github.com/charmbracelet/soft-serve/pull/311) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 week ago)
 - [Neo config](https://github.com/charmbracelet/soft-serve/pull/302) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (2 weeks ago)
 - [Cache lru](https://github.com/charmbracelet/soft-serve/pull/301) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (2 weeks ago)
 - [fix(config): write config file when instructed to](https://github.com/charmbracelet/soft-serve/pull/300) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (2 weeks ago)
@@ -44,7 +44,7 @@
 
 #### ⭐ Recent Stars
 
-- [Bekaboo/dropbar.nvim](https://github.com/Bekaboo/dropbar.nvim) - IDE-like breadcrumbs, out of the box (1 day ago)
+- [Bekaboo/dropbar.nvim](https://github.com/Bekaboo/dropbar.nvim) - IDE-like breadcrumbs, out of the box (2 days ago)
 - [robherley/snips.sh](https://github.com/robherley/snips.sh) - ✂️ passwordless, anonymous SSH-powered pastebin with a human-friendly TUI and web UI (2 weeks ago)
 - [charmbracelet/mods](https://github.com/charmbracelet/mods) - AI on the command line (2 weeks ago)
 - [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages. (3 weeks ago)
