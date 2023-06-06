@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v4.6.1](https://github.com/LazyVim/LazyVim/releases/tag/v4.6.1), 1 day ago) - Neovim config for the lazy
+- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v4.6.2](https://github.com/LazyVim/LazyVim/releases/tag/v4.6.2), today) - Neovim config for the lazy
 - [golang/tools](https://github.com/golang/tools) ([gopls/v0.12.2](https://github.com/golang/tools/releases/tag/gopls/v0.12.2), 4 days ago) - [mirror] Go Tools
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.16.1](https://github.com/charmbracelet/bubbles/releases/tag/v0.16.1), 6 days ago) - TUI components for Bubble Tea 🫧
 - [charmbracelet/mods](https://github.com/charmbracelet/mods) ([v0.2.0](https://github.com/charmbracelet/mods/releases/tag/v0.2.0), 1 week ago) - AI on the command line
