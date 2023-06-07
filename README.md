@@ -6,7 +6,7 @@
 
 - [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (1 week ago)
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (1 week ago)
-- [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (1 week ago)
+- [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (2 weeks ago)
 - [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺 (3 weeks ago)
 - [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket) - Charmbracelet Scoop Bucket (3 weeks ago)
 
@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.24.2](https://github.com/charmbracelet/bubbletea/releases/tag/v0.24.2), today) - A powerful little TUI framework 🏗
-- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v4.6.2](https://github.com/LazyVim/LazyVim/releases/tag/v4.6.2), today) - Neovim config for the lazy
-- [golang/tools](https://github.com/golang/tools) ([gopls/v0.12.2](https://github.com/golang/tools/releases/tag/gopls/v0.12.2), 4 days ago) - [mirror] Go Tools
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.16.1](https://github.com/charmbracelet/bubbles/releases/tag/v0.16.1), 6 days ago) - TUI components for Bubble Tea 🫧
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.24.2](https://github.com/charmbracelet/bubbletea/releases/tag/v0.24.2), 1 day ago) - A powerful little TUI framework 🏗
+- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v4.6.2](https://github.com/LazyVim/LazyVim/releases/tag/v4.6.2), 1 day ago) - Neovim config for the lazy
+- [golang/tools](https://github.com/golang/tools) ([gopls/v0.12.2](https://github.com/golang/tools/releases/tag/gopls/v0.12.2), 5 days ago) - [mirror] Go Tools
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.16.1](https://github.com/charmbracelet/bubbles/releases/tag/v0.16.1), 1 week ago) - TUI components for Bubble Tea 🫧
 - [charmbracelet/mods](https://github.com/charmbracelet/mods) ([v0.2.0](https://github.com/charmbracelet/mods/releases/tag/v0.2.0), 1 week ago) - AI on the command line
 
 #### 🔨 My recent Pull Requests
 
 - [fix: include version in archives](https://github.com/charmbracelet/meta/pull/93) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (1 week ago)
 - [fix(test): convert dos crlf to lf](https://github.com/charmbracelet/soft-serve/pull/311) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 week ago)
-- [Neo config](https://github.com/charmbracelet/soft-serve/pull/302) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (2 weeks ago)
-- [Cache lru](https://github.com/charmbracelet/soft-serve/pull/301) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (2 weeks ago)
-- [fix(config): write config file when instructed to](https://github.com/charmbracelet/soft-serve/pull/300) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (2 weeks ago)
+- [Neo config](https://github.com/charmbracelet/soft-serve/pull/302) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (3 weeks ago)
+- [Cache lru](https://github.com/charmbracelet/soft-serve/pull/301) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (3 weeks ago)
+- [fix(config): write config file when instructed to](https://github.com/charmbracelet/soft-serve/pull/300) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (3 weeks ago)
 
 #### 📜 My recent blog posts
 
