@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (today)
-- [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (1 week ago)
+- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (1 day ago)
+- [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (2 weeks ago)
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (2 weeks ago)
 - [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (2 weeks ago)
-- [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket) - Charmbracelet Scoop Bucket (3 weeks ago)
+- [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket) - Charmbracelet Scoop Bucket (4 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -20,16 +20,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v4.8.1](https://github.com/LazyVim/LazyVim/releases/tag/v4.8.1), 3 days ago) - Neovim config for the lazy
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.24.2](https://github.com/charmbracelet/bubbletea/releases/tag/v0.24.2), 6 days ago) - A powerful little TUI framework 🏗
+- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v4.8.1](https://github.com/LazyVim/LazyVim/releases/tag/v4.8.1), 4 days ago) - Neovim config for the lazy
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.24.2](https://github.com/charmbracelet/bubbletea/releases/tag/v0.24.2), 1 week ago) - A powerful little TUI framework 🏗
 - [golang/tools](https://github.com/golang/tools) ([gopls/v0.12.2](https://github.com/golang/tools/releases/tag/gopls/v0.12.2), 1 week ago) - [mirror] Go Tools
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.16.1](https://github.com/charmbracelet/bubbles/releases/tag/v0.16.1), 1 week ago) - TUI components for Bubble Tea 🫧
 - [charmbracelet/mods](https://github.com/charmbracelet/mods) ([v0.2.0](https://github.com/charmbracelet/mods/releases/tag/v0.2.0), 2 weeks ago) - AI on the command line
 
 #### 🔨 My recent Pull Requests
 
-- [Feat/kbdlight](https://github.com/aymanbagabas/Huawei-WMI/pull/76) on [aymanbagabas/Huawei-WMI](https://github.com/aymanbagabas/Huawei-WMI) (today)
-- [fix: include version in archives](https://github.com/charmbracelet/meta/pull/93) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (1 week ago)
+- [Feat/kbdlight](https://github.com/aymanbagabas/Huawei-WMI/pull/76) on [aymanbagabas/Huawei-WMI](https://github.com/aymanbagabas/Huawei-WMI) (1 day ago)
+- [fix: include version in archives](https://github.com/charmbracelet/meta/pull/93) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (2 weeks ago)
 - [fix(test): convert dos crlf to lf](https://github.com/charmbracelet/soft-serve/pull/311) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (2 weeks ago)
 - [Neo config](https://github.com/charmbracelet/soft-serve/pull/302) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (3 weeks ago)
 - [Cache lru](https://github.com/charmbracelet/soft-serve/pull/301) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (3 weeks ago)
@@ -44,7 +44,7 @@
 
 #### ⭐ Recent Stars
 
-- [Bekaboo/dropbar.nvim](https://github.com/Bekaboo/dropbar.nvim) - IDE-like breadcrumbs, out of the box (1 week ago)
+- [Bekaboo/dropbar.nvim](https://github.com/Bekaboo/dropbar.nvim) - IDE-like breadcrumbs, out of the box (2 weeks ago)
 - [robherley/snips.sh](https://github.com/robherley/snips.sh) - ✂️ passwordless, anonymous SSH-powered pastebin with a human-friendly TUI and web UI (1 month ago)
 - [charmbracelet/mods](https://github.com/charmbracelet/mods) - AI on the command line (1 month ago)
 - [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages. (1 month ago)
