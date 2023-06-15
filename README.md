@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: format workflow yaml files](https://github.com/charmbracelet/meta/pull/94) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (today)
 - [Feat/kbdlight](https://github.com/aymanbagabas/Huawei-WMI/pull/76) on [aymanbagabas/Huawei-WMI](https://github.com/aymanbagabas/Huawei-WMI) (3 days ago)
 - [fix: include version in archives](https://github.com/charmbracelet/meta/pull/93) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (2 weeks ago)
 - [fix(test): convert dos crlf to lf](https://github.com/charmbracelet/soft-serve/pull/311) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (3 weeks ago)
 - [Neo config](https://github.com/charmbracelet/soft-serve/pull/302) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (4 weeks ago)
-- [Cache lru](https://github.com/charmbracelet/soft-serve/pull/301) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (4 weeks ago)
 
 #### 📜 My recent blog posts
 
