@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (3 days ago)
+- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (4 days ago)
 - [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (2 weeks ago)
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (3 weeks ago)
 - [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (3 weeks ago)
@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v4.8.1](https://github.com/LazyVim/LazyVim/releases/tag/v4.8.1), 6 days ago) - Neovim config for the lazy
+- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v4.8.1](https://github.com/LazyVim/LazyVim/releases/tag/v4.8.1), 1 week ago) - Neovim config for the lazy
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.24.2](https://github.com/charmbracelet/bubbletea/releases/tag/v0.24.2), 1 week ago) - A powerful little TUI framework 🏗
-- [golang/tools](https://github.com/golang/tools) ([gopls/v0.12.2](https://github.com/golang/tools/releases/tag/gopls/v0.12.2), 1 week ago) - [mirror] Go Tools
+- [golang/tools](https://github.com/golang/tools) ([gopls/v0.12.2](https://github.com/golang/tools/releases/tag/gopls/v0.12.2), 2 weeks ago) - [mirror] Go Tools
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.16.1](https://github.com/charmbracelet/bubbles/releases/tag/v0.16.1), 2 weeks ago) - TUI components for Bubble Tea 🫧
 - [charmbracelet/mods](https://github.com/charmbracelet/mods) ([v0.2.0](https://github.com/charmbracelet/mods/releases/tag/v0.2.0), 3 weeks ago) - AI on the command line
 
 #### 🔨 My recent Pull Requests
 
-- [fix: format workflow yaml files](https://github.com/charmbracelet/meta/pull/94) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (today)
-- [Feat/kbdlight](https://github.com/aymanbagabas/Huawei-WMI/pull/76) on [aymanbagabas/Huawei-WMI](https://github.com/aymanbagabas/Huawei-WMI) (3 days ago)
+- [fix: format workflow yaml files](https://github.com/charmbracelet/meta/pull/94) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (1 day ago)
+- [Feat/kbdlight](https://github.com/aymanbagabas/Huawei-WMI/pull/76) on [aymanbagabas/Huawei-WMI](https://github.com/aymanbagabas/Huawei-WMI) (4 days ago)
 - [fix: include version in archives](https://github.com/charmbracelet/meta/pull/93) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (2 weeks ago)
 - [fix(test): convert dos crlf to lf](https://github.com/charmbracelet/soft-serve/pull/311) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (3 weeks ago)
-- [Neo config](https://github.com/charmbracelet/soft-serve/pull/302) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (4 weeks ago)
+- [Neo config](https://github.com/charmbracelet/soft-serve/pull/302) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 month ago)
 
 #### 📜 My recent blog posts
 
