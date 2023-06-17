@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (today)
+- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (1 day ago)
 - [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (2 weeks ago)
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (3 weeks ago)
 - [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (3 weeks ago)
@@ -28,8 +28,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [fix: format workflow yaml files](https://github.com/charmbracelet/meta/pull/94) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (1 day ago)
-- [Feat/kbdlight](https://github.com/aymanbagabas/Huawei-WMI/pull/76) on [aymanbagabas/Huawei-WMI](https://github.com/aymanbagabas/Huawei-WMI) (4 days ago)
+- [fix: format workflow yaml files](https://github.com/charmbracelet/meta/pull/94) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (2 days ago)
+- [Feat/kbdlight](https://github.com/aymanbagabas/Huawei-WMI/pull/76) on [aymanbagabas/Huawei-WMI](https://github.com/aymanbagabas/Huawei-WMI) (5 days ago)
 - [fix: include version in archives](https://github.com/charmbracelet/meta/pull/93) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (2 weeks ago)
 - [fix(test): convert dos crlf to lf](https://github.com/charmbracelet/soft-serve/pull/311) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (3 weeks ago)
 - [Neo config](https://github.com/charmbracelet/soft-serve/pull/302) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 month ago)
