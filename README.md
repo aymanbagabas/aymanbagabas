@@ -4,10 +4,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [aymanbagabas/aymanbagabas.github.io](https://github.com/aymanbagabas/aymanbagabas.github.io) - A personal website built using Jekyll (1 day ago)
-- [aymanbagabas/go-udiff](https://github.com/aymanbagabas/go-udiff) - µDiff - a micro Go diff library (2 days ago)
-- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (2 days ago)
-- [aymanbagabas/go-osc52](https://github.com/aymanbagabas/go-osc52) - Golang terminal ANSI OSC52 wrapper. Copy text to clipboard from anywhere. (2 days ago)
+- [aymanbagabas/aymanbagabas.github.io](https://github.com/aymanbagabas/aymanbagabas.github.io) - A personal website built using Jekyll (2 days ago)
+- [aymanbagabas/go-udiff](https://github.com/aymanbagabas/go-udiff) - µDiff - a micro Go diff library (3 days ago)
+- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (3 days ago)
+- [aymanbagabas/go-osc52](https://github.com/aymanbagabas/go-osc52) - Golang terminal ANSI OSC52 wrapper. Copy text to clipboard from anywhere. (3 days ago)
 - [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (3 weeks ago)
 
 #### 🌱 My latest projects
@@ -20,9 +20,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [golang/tools](https://github.com/golang/tools) ([gopls/v0.12.3](https://github.com/golang/tools/releases/tag/gopls/v0.12.3), today) - [mirror] Go Tools
-- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v4.15.0](https://github.com/LazyVim/LazyVim/releases/tag/v4.15.0), today) - Neovim config for the lazy
-- [aymanbagabas/go-udiff](https://github.com/aymanbagabas/go-udiff) ([v0.1.3](https://github.com/aymanbagabas/go-udiff/releases/tag/v0.1.3), 2 days ago) - µDiff - a micro Go diff library
+- [golang/tools](https://github.com/golang/tools) ([gopls/v0.12.3](https://github.com/golang/tools/releases/tag/gopls/v0.12.3), 1 day ago) - [mirror] Go Tools
+- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v4.15.0](https://github.com/LazyVim/LazyVim/releases/tag/v4.15.0), 1 day ago) - Neovim config for the lazy
+- [aymanbagabas/go-udiff](https://github.com/aymanbagabas/go-udiff) ([v0.1.3](https://github.com/aymanbagabas/go-udiff/releases/tag/v0.1.3), 3 days ago) - µDiff - a micro Go diff library
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.24.2](https://github.com/charmbracelet/bubbletea/releases/tag/v0.24.2), 2 weeks ago) - A powerful little TUI framework 🏗
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.16.1](https://github.com/charmbracelet/bubbles/releases/tag/v0.16.1), 3 weeks ago) - TUI components for Bubble Tea 🫧
 
