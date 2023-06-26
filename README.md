@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v4.18.0](https://github.com/LazyVim/LazyVim/releases/tag/v4.18.0), 1 day ago) - Neovim config for the lazy
+- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v4.19.0](https://github.com/LazyVim/LazyVim/releases/tag/v4.19.0), today) - Neovim config for the lazy
 - [golang/tools](https://github.com/golang/tools) ([gopls/v0.12.4](https://github.com/golang/tools/releases/tag/gopls/v0.12.4), 3 days ago) - [mirror] Go Tools
 - [aymanbagabas/go-udiff](https://github.com/aymanbagabas/go-udiff) ([v0.1.3](https://github.com/aymanbagabas/go-udiff/releases/tag/v0.1.3), 6 days ago) - µDiff - a micro Go diff library
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.24.2](https://github.com/charmbracelet/bubbletea/releases/tag/v0.24.2), 2 weeks ago) - A powerful little TUI framework 🏗
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: invalid environment variable](https://github.com/caarlos0/env/pull/271) on [caarlos0/env](https://github.com/caarlos0/env) (today)
 - [fix: format workflow yaml files](https://github.com/charmbracelet/meta/pull/94) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (1 week ago)
 - [Feat/kbdlight](https://github.com/aymanbagabas/Huawei-WMI/pull/76) on [aymanbagabas/Huawei-WMI](https://github.com/aymanbagabas/Huawei-WMI) (2 weeks ago)
 - [fix: include version in archives](https://github.com/charmbracelet/meta/pull/93) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (3 weeks ago)
 - [fix(test): convert dos crlf to lf](https://github.com/charmbracelet/soft-serve/pull/311) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 month ago)
-- [Neo config](https://github.com/charmbracelet/soft-serve/pull/302) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 month ago)
 
 #### 📜 My recent blog posts
 
