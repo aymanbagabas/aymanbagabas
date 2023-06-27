@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: rename struct and deprecated the old name](https://github.com/charmbracelet/keygen/pull/13) on [charmbracelet/keygen](https://github.com/charmbracelet/keygen) (today)
 - [fix: invalid environment variable](https://github.com/caarlos0/env/pull/271) on [caarlos0/env](https://github.com/caarlos0/env) (1 day ago)
 - [fix: format workflow yaml files](https://github.com/charmbracelet/meta/pull/94) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (1 week ago)
 - [Feat/kbdlight](https://github.com/aymanbagabas/Huawei-WMI/pull/76) on [aymanbagabas/Huawei-WMI](https://github.com/aymanbagabas/Huawei-WMI) (2 weeks ago)
 - [fix: include version in archives](https://github.com/charmbracelet/meta/pull/93) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (4 weeks ago)
-- [fix(test): convert dos crlf to lf](https://github.com/charmbracelet/soft-serve/pull/311) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 month ago)
 
 #### 📜 My recent blog posts
 
