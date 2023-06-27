@@ -20,11 +20,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/keygen](https://github.com/charmbracelet/keygen) ([v0.4.3](https://github.com/charmbracelet/keygen/releases/tag/v0.4.3), today) - An SSH key pair generator 🗝️
 - [muesli/termenv](https://github.com/muesli/termenv) ([v0.15.2](https://github.com/muesli/termenv/releases/tag/v0.15.2), today) - Advanced ANSI style &amp; color support for your terminal applications
 - [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v4.19.0](https://github.com/LazyVim/LazyVim/releases/tag/v4.19.0), 1 day ago) - Neovim config for the lazy
 - [golang/tools](https://github.com/golang/tools) ([gopls/v0.12.4](https://github.com/golang/tools/releases/tag/gopls/v0.12.4), 4 days ago) - [mirror] Go Tools
 - [aymanbagabas/go-udiff](https://github.com/aymanbagabas/go-udiff) ([v0.1.3](https://github.com/aymanbagabas/go-udiff/releases/tag/v0.1.3), 1 week ago) - µDiff - a micro Go diff library
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.24.2](https://github.com/charmbracelet/bubbletea/releases/tag/v0.24.2), 3 weeks ago) - A powerful little TUI framework 🏗
 
 #### 🔨 My recent Pull Requests
 
