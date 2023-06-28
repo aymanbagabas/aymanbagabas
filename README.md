@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [caarlos0/env](https://github.com/caarlos0/env) - A simple and zero-dependencies library to parse environment variables into structs. (today)
 - [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (2 days ago)
 - [aymanbagabas/aymanbagabas.github.io](https://github.com/aymanbagabas/aymanbagabas.github.io) - A personal website built using Jekyll (1 week ago)
 - [aymanbagabas/go-udiff](https://github.com/aymanbagabas/go-udiff) - µDiff - a micro Go diff library (1 week ago)
 - [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (1 week ago)
-- [aymanbagabas/go-osc52](https://github.com/aymanbagabas/go-osc52) - Golang terminal ANSI OSC52 wrapper. Copy text to clipboard from anywhere. (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -20,11 +20,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [caarlos0/env](https://github.com/caarlos0/env) ([v9.0.0](https://github.com/caarlos0/env/releases/tag/v9.0.0), today) - A simple and zero-dependencies library to parse environment variables into structs.
 - [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v4.20.0](https://github.com/LazyVim/LazyVim/releases/tag/v4.20.0), today) - Neovim config for the lazy
 - [charmbracelet/keygen](https://github.com/charmbracelet/keygen) ([v0.4.3](https://github.com/charmbracelet/keygen/releases/tag/v0.4.3), 1 day ago) - An SSH key pair generator 🗝️
 - [muesli/termenv](https://github.com/muesli/termenv) ([v0.15.2](https://github.com/muesli/termenv/releases/tag/v0.15.2), 1 day ago) - Advanced ANSI style &amp; color support for your terminal applications
 - [golang/tools](https://github.com/golang/tools) ([gopls/v0.12.4](https://github.com/golang/tools/releases/tag/gopls/v0.12.4), 5 days ago) - [mirror] Go Tools
-- [aymanbagabas/go-udiff](https://github.com/aymanbagabas/go-udiff) ([v0.1.3](https://github.com/aymanbagabas/go-udiff/releases/tag/v0.1.3), 1 week ago) - µDiff - a micro Go diff library
 
 #### 🔨 My recent Pull Requests
 
