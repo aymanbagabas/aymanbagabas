@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v4.19.1](https://github.com/LazyVim/LazyVim/releases/tag/v4.19.1), 1 day ago) - Neovim config for the lazy
+- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v4.20.0](https://github.com/LazyVim/LazyVim/releases/tag/v4.20.0), today) - Neovim config for the lazy
 - [charmbracelet/keygen](https://github.com/charmbracelet/keygen) ([v0.4.3](https://github.com/charmbracelet/keygen/releases/tag/v0.4.3), 1 day ago) - An SSH key pair generator 🗝️
 - [muesli/termenv](https://github.com/muesli/termenv) ([v0.15.2](https://github.com/muesli/termenv/releases/tag/v0.15.2), 1 day ago) - Advanced ANSI style &amp; color support for your terminal applications
 - [golang/tools](https://github.com/golang/tools) ([gopls/v0.12.4](https://github.com/golang/tools/releases/tag/gopls/v0.12.4), 5 days ago) - [mirror] Go Tools
