@@ -4,8 +4,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [caarlos0/env](https://github.com/caarlos0/env) - A simple and zero-dependencies library to parse environment variables into structs. (today)
-- [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (2 days ago)
+- [caarlos0/env](https://github.com/caarlos0/env) - A simple and zero-dependencies library to parse environment variables into structs. (1 day ago)
+- [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (3 days ago)
 - [aymanbagabas/aymanbagabas.github.io](https://github.com/aymanbagabas/aymanbagabas.github.io) - A personal website built using Jekyll (1 week ago)
 - [aymanbagabas/go-udiff](https://github.com/aymanbagabas/go-udiff) - µDiff - a micro Go diff library (1 week ago)
 - [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (1 week ago)
@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [caarlos0/env](https://github.com/caarlos0/env) ([v9.0.0](https://github.com/caarlos0/env/releases/tag/v9.0.0), today) - A simple and zero-dependencies library to parse environment variables into structs.
-- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v4.20.0](https://github.com/LazyVim/LazyVim/releases/tag/v4.20.0), today) - Neovim config for the lazy
-- [charmbracelet/keygen](https://github.com/charmbracelet/keygen) ([v0.4.3](https://github.com/charmbracelet/keygen/releases/tag/v0.4.3), 1 day ago) - An SSH key pair generator 🗝️
-- [muesli/termenv](https://github.com/muesli/termenv) ([v0.15.2](https://github.com/muesli/termenv/releases/tag/v0.15.2), 1 day ago) - Advanced ANSI style &amp; color support for your terminal applications
-- [golang/tools](https://github.com/golang/tools) ([gopls/v0.12.4](https://github.com/golang/tools/releases/tag/gopls/v0.12.4), 5 days ago) - [mirror] Go Tools
+- [caarlos0/env](https://github.com/caarlos0/env) ([v9.0.0](https://github.com/caarlos0/env/releases/tag/v9.0.0), 1 day ago) - A simple and zero-dependencies library to parse environment variables into structs.
+- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v4.20.0](https://github.com/LazyVim/LazyVim/releases/tag/v4.20.0), 1 day ago) - Neovim config for the lazy
+- [charmbracelet/keygen](https://github.com/charmbracelet/keygen) ([v0.4.3](https://github.com/charmbracelet/keygen/releases/tag/v0.4.3), 2 days ago) - An SSH key pair generator 🗝️
+- [muesli/termenv](https://github.com/muesli/termenv) ([v0.15.2](https://github.com/muesli/termenv/releases/tag/v0.15.2), 2 days ago) - Advanced ANSI style &amp; color support for your terminal applications
+- [golang/tools](https://github.com/golang/tools) ([gopls/v0.12.4](https://github.com/golang/tools/releases/tag/gopls/v0.12.4), 6 days ago) - [mirror] Go Tools
 
 #### 🔨 My recent Pull Requests
 
-- [fix: rename struct and deprecated the old name](https://github.com/charmbracelet/keygen/pull/13) on [charmbracelet/keygen](https://github.com/charmbracelet/keygen) (1 day ago)
-- [fix: invalid environment variable](https://github.com/caarlos0/env/pull/271) on [caarlos0/env](https://github.com/caarlos0/env) (2 days ago)
-- [fix: format workflow yaml files](https://github.com/charmbracelet/meta/pull/94) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (1 week ago)
+- [fix: rename struct and deprecated the old name](https://github.com/charmbracelet/keygen/pull/13) on [charmbracelet/keygen](https://github.com/charmbracelet/keygen) (2 days ago)
+- [fix: invalid environment variable](https://github.com/caarlos0/env/pull/271) on [caarlos0/env](https://github.com/caarlos0/env) (3 days ago)
+- [fix: format workflow yaml files](https://github.com/charmbracelet/meta/pull/94) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (2 weeks ago)
 - [Feat/kbdlight](https://github.com/aymanbagabas/Huawei-WMI/pull/76) on [aymanbagabas/Huawei-WMI](https://github.com/aymanbagabas/Huawei-WMI) (2 weeks ago)
-- [fix: include version in archives](https://github.com/charmbracelet/meta/pull/93) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (4 weeks ago)
+- [fix: include version in archives](https://github.com/charmbracelet/meta/pull/93) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (1 month ago)
 
 #### 📜 My recent blog posts
 
@@ -44,8 +44,8 @@
 
 #### ⭐ Recent Stars
 
-- [maaslalani/invoice](https://github.com/maaslalani/invoice) - Generate invoices from the command line (2 days ago)
-- [Bekaboo/dropbar.nvim](https://github.com/Bekaboo/dropbar.nvim) - IDE-like breadcrumbs, out of the box (4 weeks ago)
+- [maaslalani/invoice](https://github.com/maaslalani/invoice) - Generate invoices from the command line (3 days ago)
+- [Bekaboo/dropbar.nvim](https://github.com/Bekaboo/dropbar.nvim) - IDE-like breadcrumbs, out of the box (1 month ago)
 - [robherley/snips.sh](https://github.com/robherley/snips.sh) - ✂️ passwordless, anonymous SSH-powered pastebin with a human-friendly TUI and web UI (1 month ago)
 - [charmbracelet/mods](https://github.com/charmbracelet/mods) - AI on the command line (1 month ago)
 - [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages. (1 month ago)
