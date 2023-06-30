@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Smart HTTP Git transport &amp; partial clones (#291)](https://github.com/charmbracelet/soft-serve/pull/332) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (today)
 - [fix: rename struct and deprecated the old name](https://github.com/charmbracelet/keygen/pull/13) on [charmbracelet/keygen](https://github.com/charmbracelet/keygen) (3 days ago)
 - [fix: invalid environment variable](https://github.com/caarlos0/env/pull/271) on [caarlos0/env](https://github.com/caarlos0/env) (4 days ago)
 - [fix: format workflow yaml files](https://github.com/charmbracelet/meta/pull/94) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (2 weeks ago)
 - [Feat/kbdlight](https://github.com/aymanbagabas/Huawei-WMI/pull/76) on [aymanbagabas/Huawei-WMI](https://github.com/aymanbagabas/Huawei-WMI) (2 weeks ago)
-- [fix: include version in archives](https://github.com/charmbracelet/meta/pull/93) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (1 month ago)
 
 #### 📜 My recent blog posts
 
