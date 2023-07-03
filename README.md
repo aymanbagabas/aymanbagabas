@@ -44,7 +44,7 @@
 
 #### ⭐ Recent Stars
 
-- [maaslalani/invoice](https://github.com/maaslalani/invoice) - Generate invoices from the command line (1 week ago)
+- [maaslalani/invoice](https://github.com/maaslalani/invoice) - Command line invoice generator (1 week ago)
 - [Bekaboo/dropbar.nvim](https://github.com/Bekaboo/dropbar.nvim) - IDE-like breadcrumbs, out of the box (1 month ago)
 - [robherley/snips.sh](https://github.com/robherley/snips.sh) - ✂️ passwordless, anonymous SSH-powered pastebin with a human-friendly TUI and web UI (1 month ago)
 - [charmbracelet/mods](https://github.com/charmbracelet/mods) - AI on the command line (1 month ago)
