@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: use pure-go implementation when cgo is disabled](https://github.com/go-gorm/sqlite/pull/161) on [go-gorm/sqlite](https://github.com/go-gorm/sqlite) (today)
 - [Smart HTTP Git transport &amp; partial clones (#291)](https://github.com/charmbracelet/soft-serve/pull/332) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (5 days ago)
 - [fix: rename struct and deprecated the old name](https://github.com/charmbracelet/keygen/pull/13) on [charmbracelet/keygen](https://github.com/charmbracelet/keygen) (1 week ago)
 - [fix: invalid environment variable](https://github.com/caarlos0/env/pull/271) on [caarlos0/env](https://github.com/caarlos0/env) (1 week ago)
 - [fix: format workflow yaml files](https://github.com/charmbracelet/meta/pull/94) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (2 weeks ago)
-- [Feat/kbdlight](https://github.com/aymanbagabas/Huawei-WMI/pull/76) on [aymanbagabas/Huawei-WMI](https://github.com/aymanbagabas/Huawei-WMI) (3 weeks ago)
 
 #### 📜 My recent blog posts
 
