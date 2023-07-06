@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v4.26.0](https://github.com/LazyVim/LazyVim/releases/tag/v4.26.0), today) - Neovim config for the lazy
+- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v4.27.0](https://github.com/LazyVim/LazyVim/releases/tag/v4.27.0), today) - Neovim config for the lazy
 - [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) ([v2](https://github.com/charmbracelet/vhs-action/releases/tag/v2), 1 day ago) - Keep your GIFs up to date with VHS &#43; GitHub actions 📽️
 - [caarlos0/env](https://github.com/caarlos0/env) ([v9.0.0](https://github.com/caarlos0/env/releases/tag/v9.0.0), 1 week ago) - A simple and zero-dependencies library to parse environment variables into structs.
 - [charmbracelet/keygen](https://github.com/charmbracelet/keygen) ([v0.4.3](https://github.com/charmbracelet/keygen/releases/tag/v0.4.3), 1 week ago) - An SSH key pair generator 🗝️
