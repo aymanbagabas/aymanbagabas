@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: context data race](https://github.com/charmbracelet/ssh/pull/4) on [charmbracelet/ssh](https://github.com/charmbracelet/ssh) (today)
+- [Merge upstream](https://github.com/charmbracelet/ssh/pull/3) on [charmbracelet/ssh](https://github.com/charmbracelet/ssh) (today)
+- [fix: context data race](https://github.com/gliderlabs/ssh/pull/209) on [gliderlabs/ssh](https://github.com/gliderlabs/ssh) (today)
 - [refactor: implement database module and abstract backend](https://github.com/charmbracelet/soft-serve/pull/337) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (today)
 - [feat(tests): support pure-go sqlite driver](https://github.com/go-gorm/gorm/pull/6448) on [go-gorm/gorm](https://github.com/go-gorm/gorm) (1 week ago)
-- [feat: use pure-go implementation when cgo is disabled](https://github.com/go-gorm/sqlite/pull/161) on [go-gorm/sqlite](https://github.com/go-gorm/sqlite) (1 week ago)
-- [Smart HTTP Git transport &amp; partial clones (#291)](https://github.com/charmbracelet/soft-serve/pull/332) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 week ago)
-- [fix: rename struct and deprecated the old name](https://github.com/charmbracelet/keygen/pull/13) on [charmbracelet/keygen](https://github.com/charmbracelet/keygen) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
