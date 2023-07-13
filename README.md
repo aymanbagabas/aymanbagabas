@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v4.28.1](https://github.com/LazyVim/LazyVim/releases/tag/v4.28.1), 1 day ago) - Neovim config for the lazy
+- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v5.0.0](https://github.com/LazyVim/LazyVim/releases/tag/v5.0.0), today) - Neovim config for the lazy
 - [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.12.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.12.0), 1 day ago) - The SSH directory ✨
 - [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) ([v2](https://github.com/charmbracelet/vhs-action/releases/tag/v2), 1 week ago) - Keep your GIFs up to date with VHS &#43; GitHub actions 📽️
 - [caarlos0/env](https://github.com/caarlos0/env) ([v9.0.0](https://github.com/caarlos0/env/releases/tag/v9.0.0), 2 weeks ago) - A simple and zero-dependencies library to parse environment variables into structs.
