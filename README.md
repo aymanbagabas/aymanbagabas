@@ -4,8 +4,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (today)
 - [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (3 days ago)
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (4 days ago)
 - [charmbracelet/pop](https://github.com/charmbracelet/pop) - Send emails from your terminal 📬 (4 days ago)
 - [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (2 weeks ago)
 - [caarlos0/env](https://github.com/caarlos0/env) - A simple and zero-dependencies library to parse environment variables into structs. (2 weeks ago)
