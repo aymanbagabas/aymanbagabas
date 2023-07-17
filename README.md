@@ -6,7 +6,7 @@
 
 - [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (3 days ago)
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (4 days ago)
-- [charmbracelet/pop](https://github.com/charmbracelet/pop) - Send emails from your terminal. 📬 (4 days ago)
+- [charmbracelet/pop](https://github.com/charmbracelet/pop) - Send emails from your terminal 📬 (4 days ago)
 - [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (2 weeks ago)
 - [caarlos0/env](https://github.com/caarlos0/env) - A simple and zero-dependencies library to parse environment variables into structs. (2 weeks ago)
 
@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/pop](https://github.com/charmbracelet/pop) ([v0.1.0](https://github.com/charmbracelet/pop/releases/tag/v0.1.0), today) - Send emails from your terminal. 📬
+- [charmbracelet/pop](https://github.com/charmbracelet/pop) ([v0.1.0](https://github.com/charmbracelet/pop/releases/tag/v0.1.0), today) - Send emails from your terminal 📬
 - [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v5.1.1](https://github.com/LazyVim/LazyVim/releases/tag/v5.1.1), 1 day ago) - Neovim config for the lazy
 - [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.12.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.12.0), 5 days ago) - The SSH directory ✨
 - [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) ([v2](https://github.com/charmbracelet/vhs-action/releases/tag/v2), 1 week ago) - Keep your GIFs up to date with VHS &#43; GitHub actions 📽️
@@ -44,7 +44,7 @@
 
 #### ⭐ Recent Stars
 
-- [charmbracelet/pop](https://github.com/charmbracelet/pop) - Send emails from your terminal. 📬 (today)
+- [charmbracelet/pop](https://github.com/charmbracelet/pop) - Send emails from your terminal 📬 (today)
 - [maaslalani/invoice](https://github.com/maaslalani/invoice) - Command line invoice generator (3 weeks ago)
 - [Bekaboo/dropbar.nvim](https://github.com/Bekaboo/dropbar.nvim) - IDE-like breadcrumbs, out of the box (1 month ago)
 - [robherley/snips.sh](https://github.com/robherley/snips.sh) - ✂️ passwordless, anonymous SSH-powered pastebin with a human-friendly TUI and web UI (2 months ago)
