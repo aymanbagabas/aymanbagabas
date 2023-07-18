@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: initial default branch name](https://github.com/charmbracelet/soft-serve/pull/340) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (today)
 - [feat: store repo meta data in repo directory](https://github.com/charmbracelet/soft-serve/pull/338) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 day ago)
 - [feat(ci): add CD/CI pipelines](https://github.com/charmbracelet/pop/pull/2) on [charmbracelet/pop](https://github.com/charmbracelet/pop) (5 days ago)
 - [fix: context data race](https://github.com/charmbracelet/ssh/pull/4) on [charmbracelet/ssh](https://github.com/charmbracelet/ssh) (6 days ago)
 - [Merge upstream](https://github.com/charmbracelet/ssh/pull/3) on [charmbracelet/ssh](https://github.com/charmbracelet/ssh) (6 days ago)
-- [fix: context data race](https://github.com/gliderlabs/ssh/pull/209) on [gliderlabs/ssh](https://github.com/gliderlabs/ssh) (6 days ago)
 
 #### 📜 My recent blog posts
 
