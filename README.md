@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: support git push options](https://github.com/charmbracelet/soft-serve/pull/341) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (today)
 - [feat: split goreleaser configs into separate files](https://github.com/charmbracelet/meta/pull/102) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (today)
 - [feat: use custom aur package name](https://github.com/charmbracelet/meta/pull/101) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (today)
 - [fix: initial default branch name](https://github.com/charmbracelet/soft-serve/pull/340) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (today)
 - [feat: store repo meta data in repo directory](https://github.com/charmbracelet/soft-serve/pull/338) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 day ago)
-- [feat(ci): add CD/CI pipelines](https://github.com/charmbracelet/pop/pull/2) on [charmbracelet/pop](https://github.com/charmbracelet/pop) (5 days ago)
 
 #### 📜 My recent blog posts
 
