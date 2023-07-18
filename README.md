@@ -6,9 +6,9 @@
 
 - [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺 (today)
 - [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket) - Charmbracelet Scoop Bucket (today)
+- [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (today)
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (today)
 - [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (4 days ago)
-- [charmbracelet/pop](https://github.com/charmbracelet/pop) - Send emails from your terminal 📬 (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: split goreleaser configs into separate files](https://github.com/charmbracelet/meta/pull/102) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (today)
 - [feat: use custom aur package name](https://github.com/charmbracelet/meta/pull/101) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (today)
 - [fix: initial default branch name](https://github.com/charmbracelet/soft-serve/pull/340) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (today)
 - [feat: store repo meta data in repo directory](https://github.com/charmbracelet/soft-serve/pull/338) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 day ago)
 - [feat(ci): add CD/CI pipelines](https://github.com/charmbracelet/pop/pull/2) on [charmbracelet/pop](https://github.com/charmbracelet/pop) (5 days ago)
-- [fix: context data race](https://github.com/charmbracelet/ssh/pull/4) on [charmbracelet/ssh](https://github.com/charmbracelet/ssh) (6 days ago)
 
 #### 📜 My recent blog posts
 
