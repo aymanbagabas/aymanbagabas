@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺 (today)
+- [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket) - Charmbracelet Scoop Bucket (today)
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (today)
 - [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (4 days ago)
 - [charmbracelet/pop](https://github.com/charmbracelet/pop) - Send emails from your terminal 📬 (5 days ago)
-- [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (2 weeks ago)
-- [caarlos0/env](https://github.com/caarlos0/env) - A simple and zero-dependencies library to parse environment variables into structs. (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.5.5](https://github.com/charmbracelet/soft-serve/releases/tag/v0.5.5), today) - A tasty, self-hostable Git server for the command line🍦
 - [charmbracelet/pop](https://github.com/charmbracelet/pop) ([v0.1.0](https://github.com/charmbracelet/pop/releases/tag/v0.1.0), 1 day ago) - Send emails from your terminal 📬
 - [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v5.1.1](https://github.com/LazyVim/LazyVim/releases/tag/v5.1.1), 2 days ago) - Neovim config for the lazy
 - [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.12.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.12.0), 6 days ago) - The SSH directory ✨
 - [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) ([v2](https://github.com/charmbracelet/vhs-action/releases/tag/v2), 1 week ago) - Keep your GIFs up to date with VHS &#43; GitHub actions 📽️
-- [caarlos0/env](https://github.com/caarlos0/env) ([v9.0.0](https://github.com/caarlos0/env/releases/tag/v9.0.0), 2 weeks ago) - A simple and zero-dependencies library to parse environment variables into structs.
 
 #### 🔨 My recent Pull Requests
 
+- [feat: use custom aur package name](https://github.com/charmbracelet/meta/pull/101) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (today)
 - [fix: initial default branch name](https://github.com/charmbracelet/soft-serve/pull/340) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (today)
 - [feat: store repo meta data in repo directory](https://github.com/charmbracelet/soft-serve/pull/338) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 day ago)
 - [feat(ci): add CD/CI pipelines](https://github.com/charmbracelet/pop/pull/2) on [charmbracelet/pop](https://github.com/charmbracelet/pop) (5 days ago)
 - [fix: context data race](https://github.com/charmbracelet/ssh/pull/4) on [charmbracelet/ssh](https://github.com/charmbracelet/ssh) (6 days ago)
-- [Merge upstream](https://github.com/charmbracelet/ssh/pull/3) on [charmbracelet/ssh](https://github.com/charmbracelet/ssh) (6 days ago)
 
 #### 📜 My recent blog posts
 
