@@ -4,10 +4,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺 (1 day ago)
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (today)
 - [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket) - Charmbracelet Scoop Bucket (1 day ago)
 - [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (1 day ago)
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (1 day ago)
+- [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺 (1 day ago)
 - [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (5 days ago)
 
 #### 🌱 My latest projects
@@ -44,11 +44,11 @@
 
 #### ⭐ Recent Stars
 
+- [TypicalAM/goread](https://github.com/TypicalAM/goread) - A beautiful program to read your RSS/Atom feeds right in the terminal! (today)
 - [charmbracelet/pop](https://github.com/charmbracelet/pop) - Send emails from your terminal 📬 (2 days ago)
 - [maaslalani/invoice](https://github.com/maaslalani/invoice) - Command line invoice generator (3 weeks ago)
 - [Bekaboo/dropbar.nvim](https://github.com/Bekaboo/dropbar.nvim) - IDE-like breadcrumbs, out of the box (1 month ago)
 - [robherley/snips.sh](https://github.com/robherley/snips.sh) - ✂️ passwordless, anonymous SSH-powered pastebin with a human-friendly TUI and web UI (2 months ago)
-- [charmbracelet/mods](https://github.com/charmbracelet/mods) - AI on the command line (2 months ago)
 
 #### 📫 How to reach me
 
