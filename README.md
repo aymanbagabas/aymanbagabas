@@ -20,11 +20,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) ([v0.6.0](https://github.com/charmbracelet/vhs/releases/tag/v0.6.0), today) - Your CLI home video recorder 📼
 - [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.13.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.13.0), 1 day ago) - The SSH directory ✨
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.5.5](https://github.com/charmbracelet/soft-serve/releases/tag/v0.5.5), 2 days ago) - A tasty, self-hostable Git server for the command line🍦
 - [charmbracelet/pop](https://github.com/charmbracelet/pop) ([v0.1.0](https://github.com/charmbracelet/pop/releases/tag/v0.1.0), 3 days ago) - Send emails from your terminal 📬
 - [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v5.1.1](https://github.com/LazyVim/LazyVim/releases/tag/v5.1.1), 4 days ago) - Neovim config for the lazy
-- [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) ([v2](https://github.com/charmbracelet/vhs-action/releases/tag/v2), 2 weeks ago) - Keep your GIFs up to date with VHS &#43; GitHub actions 📽️
 
 #### 🔨 My recent Pull Requests
 
