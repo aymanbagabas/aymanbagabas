@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (1 day ago)
-- [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket) - Charmbracelet Scoop Bucket (2 days ago)
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (today)
+- [charmbracelet/git-lfs-transfer](https://github.com/charmbracelet/git-lfs-transfer) - Server-side implementation of the Git LFS pure-SSH protocol (today)
 - [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (2 days ago)
 - [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺 (2 days ago)
-- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (6 days ago)
+- [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket) - Charmbracelet Scoop Bucket (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: implement git-lfs preliminary support](https://github.com/charmbracelet/soft-serve/pull/344) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (today)
 - [fix: respect gitattributes](https://github.com/charmbracelet/soft-serve/pull/342) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 day ago)
 - [feat: support git push options](https://github.com/charmbracelet/soft-serve/pull/341) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (2 days ago)
 - [feat: split goreleaser configs into separate files](https://github.com/charmbracelet/meta/pull/102) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (2 days ago)
 - [feat: use custom aur package name](https://github.com/charmbracelet/meta/pull/101) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (2 days ago)
-- [fix: initial default branch name](https://github.com/charmbracelet/soft-serve/pull/340) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (2 days ago)
 
 #### 📜 My recent blog posts
 
