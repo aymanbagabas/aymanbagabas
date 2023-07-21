@@ -20,11 +20,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [go-git/go-git](https://github.com/go-git/go-git) ([v5.8.0](https://github.com/go-git/go-git/releases/tag/v5.8.0), today) - A highly extensible Git implementation in pure Go.
 - [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v6.0.0](https://github.com/LazyVim/LazyVim/releases/tag/v6.0.0), today) - Neovim config for the lazy
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) ([v0.6.0](https://github.com/charmbracelet/vhs/releases/tag/v0.6.0), 1 day ago) - Your CLI home video recorder 📼
 - [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.13.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.13.0), 2 days ago) - The SSH directory ✨
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.5.5](https://github.com/charmbracelet/soft-serve/releases/tag/v0.5.5), 3 days ago) - A tasty, self-hostable Git server for the command line🍦
-- [charmbracelet/pop](https://github.com/charmbracelet/pop) ([v0.1.0](https://github.com/charmbracelet/pop/releases/tag/v0.1.0), 4 days ago) - Send emails from your terminal 📬
 
 #### 🔨 My recent Pull Requests
 
