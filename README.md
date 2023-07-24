@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/git-lfs-transfer](https://github.com/charmbracelet/git-lfs-transfer) - Server-side implementation of the Git LFS pure-SSH protocol (3 days ago)
+- [charmbracelet/git-lfs-transfer](https://github.com/charmbracelet/git-lfs-transfer) - Server-side implementation of the Git LFS pure-SSH protocol (today)
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (4 days ago)
 - [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (6 days ago)
 - [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺 (6 days ago)
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: download lfs files](https://github.com/charmbracelet/meta/pull/105) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (today)
 - [feat: http authentication &amp; lfs endpoints](https://github.com/charmbracelet/soft-serve/pull/346) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (today)
 - [feat: implement git-lfs preliminary support](https://github.com/charmbracelet/soft-serve/pull/344) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (4 days ago)
 - [fix: respect gitattributes](https://github.com/charmbracelet/soft-serve/pull/342) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (5 days ago)
 - [feat: support git push options](https://github.com/charmbracelet/soft-serve/pull/341) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (6 days ago)
-- [feat: split goreleaser configs into separate files](https://github.com/charmbracelet/meta/pull/102) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (6 days ago)
 
 #### 📜 My recent blog posts
 
