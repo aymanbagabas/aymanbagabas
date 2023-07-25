@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: support user access tokens](https://github.com/charmbracelet/soft-serve/pull/349) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (today)
 - [feat: export context key](https://github.com/charmbracelet/log/pull/65) on [charmbracelet/log](https://github.com/charmbracelet/log) (today)
 - [feat: download lfs files](https://github.com/charmbracelet/meta/pull/105) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (1 day ago)
 - [feat: http authentication &amp; lfs endpoints](https://github.com/charmbracelet/soft-serve/pull/346) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 day ago)
 - [feat: implement git-lfs preliminary support](https://github.com/charmbracelet/soft-serve/pull/344) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (5 days ago)
-- [fix: respect gitattributes](https://github.com/charmbracelet/soft-serve/pull/342) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (6 days ago)
 
 #### 📜 My recent blog posts
 
