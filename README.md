@@ -4,10 +4,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/git-lfs-transfer](https://github.com/charmbracelet/git-lfs-transfer) - Server-side implementation of the Git LFS pure-SSH protocol (1 day ago)
+- [charmbracelet/log](https://github.com/charmbracelet/log) - A minimal, colorful Go logging library 🪵 (today)
+- [charmbracelet/git-lfs-transfer](https://github.com/charmbracelet/git-lfs-transfer) - Server-side implementation of the Git LFS pure-SSH protocol (today)
 - [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (1 day ago)
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (5 days ago)
-- [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺 (1 week ago)
 - [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket) - Charmbracelet Scoop Bucket (1 week ago)
 
 #### 🌱 My latest projects
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: export context key](https://github.com/charmbracelet/log/pull/65) on [charmbracelet/log](https://github.com/charmbracelet/log) (today)
 - [feat: download lfs files](https://github.com/charmbracelet/meta/pull/105) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (1 day ago)
 - [feat: http authentication &amp; lfs endpoints](https://github.com/charmbracelet/soft-serve/pull/346) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 day ago)
 - [feat: implement git-lfs preliminary support](https://github.com/charmbracelet/soft-serve/pull/344) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (5 days ago)
 - [fix: respect gitattributes](https://github.com/charmbracelet/soft-serve/pull/342) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (6 days ago)
-- [feat: support git push options](https://github.com/charmbracelet/soft-serve/pull/341) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 week ago)
 
 #### 📜 My recent blog posts
 
