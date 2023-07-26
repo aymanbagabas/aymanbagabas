@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [git-lfs/git-lfs](https://github.com/git-lfs/git-lfs) ([v3.4.0](https://github.com/git-lfs/git-lfs/releases/tag/v3.4.0), today) - Git extension for versioning large files
 - [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.12.6](https://github.com/charmbracelet/charm/releases/tag/v0.12.6), today) - The Charm Tool and Library 🌟
 - [go-git/go-git](https://github.com/go-git/go-git) ([v5.8.1](https://github.com/go-git/go-git/releases/tag/v5.8.1), today) - A highly extensible Git implementation in pure Go.
 - [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v6.2.0](https://github.com/LazyVim/LazyVim/releases/tag/v6.2.0), 1 day ago) - Neovim config for the lazy
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.11.0](https://github.com/charmbracelet/gum/releases/tag/v0.11.0), 5 days ago) - A tool for glamorous shell scripts 🎀
-- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) ([v0.6.0](https://github.com/charmbracelet/vhs/releases/tag/v0.6.0), 6 days ago) - Your CLI home video recorder 📼
 
 #### 🔨 My recent Pull Requests
 
+- [feat: lfs http and jwt tests](https://github.com/charmbracelet/soft-serve/pull/351) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (today)
 - [feat: support user access tokens](https://github.com/charmbracelet/soft-serve/pull/349) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 day ago)
 - [feat: export context key](https://github.com/charmbracelet/log/pull/65) on [charmbracelet/log](https://github.com/charmbracelet/log) (1 day ago)
 - [feat: download lfs files](https://github.com/charmbracelet/meta/pull/105) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (2 days ago)
 - [feat: http authentication &amp; lfs endpoints](https://github.com/charmbracelet/soft-serve/pull/346) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (2 days ago)
-- [feat: implement git-lfs preliminary support](https://github.com/charmbracelet/soft-serve/pull/344) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (6 days ago)
 
 #### 📜 My recent blog posts
 
