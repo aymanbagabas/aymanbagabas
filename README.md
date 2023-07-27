@@ -20,11 +20,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [golang/tools](https://github.com/golang/tools) ([gopls/v0.13.0-pre.3](https://github.com/golang/tools/releases/tag/gopls/v0.13.0-pre.3), today) - [mirror] Go Tools
 - [git-lfs/git-lfs](https://github.com/git-lfs/git-lfs) ([v3.4.0](https://github.com/git-lfs/git-lfs/releases/tag/v3.4.0), 1 day ago) - Git extension for versioning large files
 - [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.12.6](https://github.com/charmbracelet/charm/releases/tag/v0.12.6), 1 day ago) - The Charm Tool and Library 🌟
 - [go-git/go-git](https://github.com/go-git/go-git) ([v5.8.1](https://github.com/go-git/go-git/releases/tag/v5.8.1), 1 day ago) - A highly extensible Git implementation in pure Go.
 - [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v6.2.0](https://github.com/LazyVim/LazyVim/releases/tag/v6.2.0), 2 days ago) - Neovim config for the lazy
-- [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.11.0](https://github.com/charmbracelet/gum/releases/tag/v0.11.0), 6 days ago) - A tool for glamorous shell scripts 🎀
 
 #### 🔨 My recent Pull Requests
 
