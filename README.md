@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: cache the color profile](https://github.com/muesli/termenv/pull/147) on [muesli/termenv](https://github.com/muesli/termenv) (today)
 - [fix: lock buffer during write before read](https://github.com/charmbracelet/log/pull/68) on [charmbracelet/log](https://github.com/charmbracelet/log) (today)
 - [fix!: output race condition](https://github.com/muesli/termenv/pull/146) on [muesli/termenv](https://github.com/muesli/termenv) (today)
 - [fix: renderer race condition](https://github.com/charmbracelet/lipgloss/pull/210) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (1 day ago)
 - [fix(tea): set the color profile once](https://github.com/charmbracelet/wish/pull/159) on [charmbracelet/wish](https://github.com/charmbracelet/wish) (1 day ago)
-- [feat: test ui using golden files](https://github.com/charmbracelet/soft-serve/pull/352) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (2 days ago)
 
 #### 📜 My recent blog posts
 
