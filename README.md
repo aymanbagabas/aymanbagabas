@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [add support for terminal opcodes](https://github.com/gliderlabs/ssh/pull/210) on [gliderlabs/ssh](https://github.com/gliderlabs/ssh) (today)
+- [refactor(pty): use input/output IO types instead of concrete type](https://github.com/coder/coder/pull/8803) on [coder/coder](https://github.com/coder/coder) (today)
 - [fix: cache the color profile](https://github.com/muesli/termenv/pull/147) on [muesli/termenv](https://github.com/muesli/termenv) (3 days ago)
 - [fix: lock buffer during write before read](https://github.com/charmbracelet/log/pull/68) on [charmbracelet/log](https://github.com/charmbracelet/log) (3 days ago)
 - [fix!: output race condition](https://github.com/muesli/termenv/pull/146) on [muesli/termenv](https://github.com/muesli/termenv) (3 days ago)
-- [fix: renderer race condition](https://github.com/charmbracelet/lipgloss/pull/210) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (4 days ago)
-- [fix(tea): set the color profile once](https://github.com/charmbracelet/wish/pull/159) on [charmbracelet/wish](https://github.com/charmbracelet/wish) (4 days ago)
 
 #### 📜 My recent blog posts
 
