@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [golang/tools](https://github.com/golang/tools) ([gopls/v0.13.0-pre.3](https://github.com/golang/tools/releases/tag/gopls/v0.13.0-pre.3), 4 days ago) - [mirror] Go Tools
+- [golang/tools](https://github.com/golang/tools) ([gopls/v0.13.0](https://github.com/golang/tools/releases/tag/gopls/v0.13.0), today) - [mirror] Go Tools
 - [git-lfs/git-lfs](https://github.com/git-lfs/git-lfs) ([v3.4.0](https://github.com/git-lfs/git-lfs/releases/tag/v3.4.0), 5 days ago) - Git extension for versioning large files
 - [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.12.6](https://github.com/charmbracelet/charm/releases/tag/v0.12.6), 5 days ago) - The Charm Tool and Library 🌟
 - [go-git/go-git](https://github.com/go-git/go-git) ([v5.8.1](https://github.com/go-git/go-git/releases/tag/v5.8.1), 5 days ago) - A highly extensible Git implementation in pure Go.
