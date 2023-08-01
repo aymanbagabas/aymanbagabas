@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [charmbracelet/log](https://github.com/charmbracelet/log) - A minimal, colorful Go logging library 🪵 (today)
 - [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (today)
 - [charmbracelet/pop](https://github.com/charmbracelet/pop) - Send emails from your terminal 📬 (today)
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (today)
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (6 days ago)
-- [charmbracelet/log](https://github.com/charmbracelet/log) - A minimal, colorful Go logging library 🪵 (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -20,11 +20,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/log](https://github.com/charmbracelet/log) ([v0.2.3](https://github.com/charmbracelet/log/releases/tag/v0.2.3), today) - A minimal, colorful Go logging library 🪵
 - [golang/tools](https://github.com/golang/tools) ([gopls/v0.13.1](https://github.com/golang/tools/releases/tag/gopls/v0.13.1), today) - [mirror] Go Tools
 - [charmbracelet/pop](https://github.com/charmbracelet/pop) ([v0.2.0](https://github.com/charmbracelet/pop/releases/tag/v0.2.0), today) - Send emails from your terminal 📬
 - [git-lfs/git-lfs](https://github.com/git-lfs/git-lfs) ([v3.4.0](https://github.com/git-lfs/git-lfs/releases/tag/v3.4.0), 6 days ago) - Git extension for versioning large files
 - [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.12.6](https://github.com/charmbracelet/charm/releases/tag/v0.12.6), 6 days ago) - The Charm Tool and Library 🌟
-- [go-git/go-git](https://github.com/go-git/go-git) ([v5.8.1](https://github.com/go-git/go-git/releases/tag/v5.8.1), 6 days ago) - A highly extensible Git implementation in pure Go.
 
 #### 🔨 My recent Pull Requests
 
