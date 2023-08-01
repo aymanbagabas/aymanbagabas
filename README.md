@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: set lipgloss renderer color profile](https://github.com/charmbracelet/log/pull/69) on [charmbracelet/log](https://github.com/charmbracelet/log) (today)
 - [fix: remove extra completion cmd](https://github.com/charmbracelet/pop/pull/20) on [charmbracelet/pop](https://github.com/charmbracelet/pop) (today)
 - [Add repository owner](https://github.com/charmbracelet/soft-serve/pull/353) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 day ago)
 - [fix: cache color profile and background](https://github.com/charmbracelet/lipgloss/pull/212) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (1 day ago)
 - [add support for terminal opcodes](https://github.com/charmbracelet/ssh/pull/5) on [charmbracelet/ssh](https://github.com/charmbracelet/ssh) (1 day ago)
-- [add support for terminal opcodes](https://github.com/gliderlabs/ssh/pull/210) on [gliderlabs/ssh](https://github.com/gliderlabs/ssh) (1 day ago)
 
 #### 📜 My recent blog posts
 
