@@ -4,9 +4,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (5 days ago)
-- [charmbracelet/log](https://github.com/charmbracelet/log) - A minimal, colorful Go logging library 🪵 (6 days ago)
-- [charmbracelet/git-lfs-transfer](https://github.com/charmbracelet/git-lfs-transfer) - Server-side implementation of the Git LFS pure-SSH protocol (6 days ago)
+- [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (6 days ago)
+- [charmbracelet/log](https://github.com/charmbracelet/log) - A minimal, colorful Go logging library 🪵 (1 week ago)
+- [charmbracelet/git-lfs-transfer](https://github.com/charmbracelet/git-lfs-transfer) - Server-side implementation of the Git LFS pure-SSH protocol (1 week ago)
 - [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (1 week ago)
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (1 week ago)
 
@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [golang/tools](https://github.com/golang/tools) ([gopls/v0.13.0](https://github.com/golang/tools/releases/tag/gopls/v0.13.0), today) - [mirror] Go Tools
-- [git-lfs/git-lfs](https://github.com/git-lfs/git-lfs) ([v3.4.0](https://github.com/git-lfs/git-lfs/releases/tag/v3.4.0), 5 days ago) - Git extension for versioning large files
-- [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.12.6](https://github.com/charmbracelet/charm/releases/tag/v0.12.6), 5 days ago) - The Charm Tool and Library 🌟
-- [go-git/go-git](https://github.com/go-git/go-git) ([v5.8.1](https://github.com/go-git/go-git/releases/tag/v5.8.1), 5 days ago) - A highly extensible Git implementation in pure Go.
-- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v6.2.0](https://github.com/LazyVim/LazyVim/releases/tag/v6.2.0), 6 days ago) - Neovim config for the lazy
+- [golang/tools](https://github.com/golang/tools) ([gopls/v0.13.0](https://github.com/golang/tools/releases/tag/gopls/v0.13.0), 1 day ago) - [mirror] Go Tools
+- [git-lfs/git-lfs](https://github.com/git-lfs/git-lfs) ([v3.4.0](https://github.com/git-lfs/git-lfs/releases/tag/v3.4.0), 6 days ago) - Git extension for versioning large files
+- [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.12.6](https://github.com/charmbracelet/charm/releases/tag/v0.12.6), 6 days ago) - The Charm Tool and Library 🌟
+- [go-git/go-git](https://github.com/go-git/go-git) ([v5.8.1](https://github.com/go-git/go-git/releases/tag/v5.8.1), 6 days ago) - A highly extensible Git implementation in pure Go.
+- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v6.2.0](https://github.com/LazyVim/LazyVim/releases/tag/v6.2.0), 1 week ago) - Neovim config for the lazy
 
 #### 🔨 My recent Pull Requests
 
-- [fix: cache color profile and background](https://github.com/charmbracelet/lipgloss/pull/212) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (today)
-- [add support for terminal opcodes](https://github.com/charmbracelet/ssh/pull/5) on [charmbracelet/ssh](https://github.com/charmbracelet/ssh) (today)
-- [add support for terminal opcodes](https://github.com/gliderlabs/ssh/pull/210) on [gliderlabs/ssh](https://github.com/gliderlabs/ssh) (today)
-- [refactor(pty): use input/output IO types instead of concrete type](https://github.com/coder/coder/pull/8803) on [coder/coder](https://github.com/coder/coder) (today)
-- [fix: cache the color profile](https://github.com/muesli/termenv/pull/147) on [muesli/termenv](https://github.com/muesli/termenv) (3 days ago)
+- [Add repository owner](https://github.com/charmbracelet/soft-serve/pull/353) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 day ago)
+- [fix: cache color profile and background](https://github.com/charmbracelet/lipgloss/pull/212) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (1 day ago)
+- [add support for terminal opcodes](https://github.com/charmbracelet/ssh/pull/5) on [charmbracelet/ssh](https://github.com/charmbracelet/ssh) (1 day ago)
+- [add support for terminal opcodes](https://github.com/gliderlabs/ssh/pull/210) on [gliderlabs/ssh](https://github.com/gliderlabs/ssh) (1 day ago)
+- [refactor(pty): use input/output IO types instead of concrete type](https://github.com/coder/coder/pull/8803) on [coder/coder](https://github.com/coder/coder) (1 day ago)
 
 #### 📜 My recent blog posts
 
