@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Use Cobra to handle Git SSH commands](https://github.com/charmbracelet/soft-serve/pull/355) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (today)
 - [feat: set lipgloss renderer color profile](https://github.com/charmbracelet/log/pull/69) on [charmbracelet/log](https://github.com/charmbracelet/log) (1 day ago)
 - [fix: remove extra completion cmd](https://github.com/charmbracelet/pop/pull/20) on [charmbracelet/pop](https://github.com/charmbracelet/pop) (1 day ago)
 - [Add repository owner](https://github.com/charmbracelet/soft-serve/pull/353) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (2 days ago)
 - [fix: cache color profile and background](https://github.com/charmbracelet/lipgloss/pull/212) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (2 days ago)
-- [add support for terminal opcodes](https://github.com/charmbracelet/ssh/pull/5) on [charmbracelet/ssh](https://github.com/charmbracelet/ssh) (2 days ago)
 
 #### 📜 My recent blog posts
 
