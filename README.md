@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: add option to set a custom lipgloss renderer](https://github.com/charmbracelet/bubbles/pull/403) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (today)
 - [feat: add collaborators with access level](https://github.com/charmbracelet/soft-serve/pull/358) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (today)
 - [feat: print clone url on repo create](https://github.com/charmbracelet/soft-serve/pull/357) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (today)
 - [feat,fix: add task manager](https://github.com/charmbracelet/soft-serve/pull/356) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 day ago)
 - [Use Cobra to handle Git SSH commands](https://github.com/charmbracelet/soft-serve/pull/355) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 day ago)
-- [feat: set lipgloss renderer color profile](https://github.com/charmbracelet/log/pull/69) on [charmbracelet/log](https://github.com/charmbracelet/log) (2 days ago)
 
 #### 📜 My recent blog posts
 
