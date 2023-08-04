@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [docs: update readme in preparation of v0.6](https://github.com/charmbracelet/soft-serve/pull/360) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (today)
 - [feat: add option to set a custom lipgloss renderer](https://github.com/charmbracelet/bubbles/pull/403) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (1 day ago)
 - [feat: add collaborators with access level](https://github.com/charmbracelet/soft-serve/pull/358) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 day ago)
 - [feat: print clone url on repo create](https://github.com/charmbracelet/soft-serve/pull/357) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 day ago)
 - [feat,fix: add task manager](https://github.com/charmbracelet/soft-serve/pull/356) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (2 days ago)
-- [Use Cobra to handle Git SSH commands](https://github.com/charmbracelet/soft-serve/pull/355) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (2 days ago)
 
 #### 📜 My recent blog posts
 
