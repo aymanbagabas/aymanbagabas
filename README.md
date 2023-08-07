@@ -44,7 +44,7 @@
 
 #### ⭐ Recent Stars
 
-- [TypicalAM/goread](https://github.com/TypicalAM/goread) - A beautiful program to read your RSS/Atom feeds right in the terminal! (2 weeks ago)
+- [TypicalAM/goread](https://github.com/TypicalAM/goread) - Beautiful program to read your RSS/Atom feeds right in the terminal! (2 weeks ago)
 - [charmbracelet/pop](https://github.com/charmbracelet/pop) - Send emails from your terminal 📬 (3 weeks ago)
 - [maaslalani/invoice](https://github.com/maaslalani/invoice) - Command line invoice generator (1 month ago)
 - [Bekaboo/dropbar.nvim](https://github.com/Bekaboo/dropbar.nvim) - IDE-like breadcrumbs, out of the box (2 months ago)
