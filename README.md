@@ -44,11 +44,11 @@
 
 #### ⭐ Recent Stars
 
-- [TypicalAM/goread](https://github.com/TypicalAM/goread) - Beautiful program to read your RSS/Atom feeds right in the terminal! (2 weeks ago)
-- [charmbracelet/pop](https://github.com/charmbracelet/pop) - Send emails from your terminal 📬 (3 weeks ago)
-- [maaslalani/invoice](https://github.com/maaslalani/invoice) - Command line invoice generator (1 month ago)
-- [Bekaboo/dropbar.nvim](https://github.com/Bekaboo/dropbar.nvim) - IDE-like breadcrumbs, out of the box (2 months ago)
-- [robherley/snips.sh](https://github.com/robherley/snips.sh) - ✂️ passwordless, anonymous SSH-powered pastebin with a human-friendly TUI and web UI (2 months ago)
+- [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable aggregator… (today)
+- [wallabag/wallabag](https://github.com/wallabag/wallabag) - wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely. (today)
+- [sebsauvage/Shaarli](https://github.com/sebsauvage/Shaarli) - The personal, minimalist, super-fast, no-database delicious clone. (today)
+- [supabase/postgres_lsp](https://github.com/supabase/postgres_lsp) - A Language Server for Postgres (today)
+- [caarlos0/svu](https://github.com/caarlos0/svu) - Semantic Version Util (today)
 
 #### 📫 How to reach me
 
