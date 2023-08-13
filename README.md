@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [gogs/git-module](https://github.com/gogs/git-module) - Package git-module is a Go module for Git access through shell commands (2 days ago)
+- [gogs/git-module](https://github.com/gogs/git-module) - Package git-module is a Go module for Git access through shell commands (3 days ago)
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (1 week ago)
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (1 week ago)
 - [charmbracelet/log](https://github.com/charmbracelet/log) - A minimal, colorful Go logging library 🪵 (1 week ago)
@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [gogs/git-module](https://github.com/gogs/git-module) ([v1.8.3](https://github.com/gogs/git-module/releases/tag/v1.8.3), 1 day ago) - Package git-module is a Go module for Git access through shell commands
+- [gogs/git-module](https://github.com/gogs/git-module) ([v1.8.3](https://github.com/gogs/git-module/releases/tag/v1.8.3), 2 days ago) - Package git-module is a Go module for Git access through shell commands
 - [charmbracelet/log](https://github.com/charmbracelet/log) ([v0.2.3](https://github.com/charmbracelet/log/releases/tag/v0.2.3), 1 week ago) - A minimal, colorful Go logging library 🪵
 - [golang/tools](https://github.com/golang/tools) ([gopls/v0.13.1](https://github.com/golang/tools/releases/tag/gopls/v0.13.1), 1 week ago) - [mirror] Go Tools
 - [charmbracelet/pop](https://github.com/charmbracelet/pop) ([v0.2.0](https://github.com/charmbracelet/pop/releases/tag/v0.2.0), 1 week ago) - Send emails from your terminal 📬
@@ -44,11 +44,11 @@
 
 #### ⭐ Recent Stars
 
-- [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable aggregator… (4 days ago)
-- [wallabag/wallabag](https://github.com/wallabag/wallabag) - wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely. (4 days ago)
-- [sebsauvage/Shaarli](https://github.com/sebsauvage/Shaarli) - The personal, minimalist, super-fast, no-database delicious clone. (4 days ago)
-- [supabase/postgres_lsp](https://github.com/supabase/postgres_lsp) - A Language Server for Postgres (4 days ago)
-- [caarlos0/svu](https://github.com/caarlos0/svu) - Semantic Version Util (4 days ago)
+- [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable aggregator… (5 days ago)
+- [wallabag/wallabag](https://github.com/wallabag/wallabag) - wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely. (5 days ago)
+- [sebsauvage/Shaarli](https://github.com/sebsauvage/Shaarli) - The personal, minimalist, super-fast, no-database delicious clone. (5 days ago)
+- [supabase/postgres_lsp](https://github.com/supabase/postgres_lsp) - A Language Server for Postgres (5 days ago)
+- [caarlos0/svu](https://github.com/caarlos0/svu) - Semantic Version Util (5 days ago)
 
 #### 📫 How to reach me
 
