@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [gogs/git-module](https://github.com/gogs/git-module) - Package git-module is a Go module for Git access through shell commands (5 days ago)
+- [gogs/git-module](https://github.com/gogs/git-module) - Package git-module is a Go module for Git access through shell commands (6 days ago)
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (1 week ago)
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (1 week ago)
 - [charmbracelet/log](https://github.com/charmbracelet/log) - A minimal, colorful Go logging library 🪵 (2 weeks ago)
@@ -20,11 +20,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [golang/tools](https://github.com/golang/tools) ([gopls/v0.13.2](https://github.com/golang/tools/releases/tag/gopls/v0.13.2), 1 day ago) - [mirror] Go Tools
-- [gogs/git-module](https://github.com/gogs/git-module) ([v1.8.3](https://github.com/gogs/git-module/releases/tag/v1.8.3), 4 days ago) - Package git-module is a Go module for Git access through shell commands
+- [golang/tools](https://github.com/golang/tools) ([gopls/v0.13.2](https://github.com/golang/tools/releases/tag/gopls/v0.13.2), 2 days ago) - [mirror] Go Tools
+- [gogs/git-module](https://github.com/gogs/git-module) ([v1.8.3](https://github.com/gogs/git-module/releases/tag/v1.8.3), 5 days ago) - Package git-module is a Go module for Git access through shell commands
 - [charmbracelet/log](https://github.com/charmbracelet/log) ([v0.2.3](https://github.com/charmbracelet/log/releases/tag/v0.2.3), 2 weeks ago) - A minimal, colorful Go logging library 🪵
 - [charmbracelet/pop](https://github.com/charmbracelet/pop) ([v0.2.0](https://github.com/charmbracelet/pop/releases/tag/v0.2.0), 2 weeks ago) - Send emails from your terminal 📬
-- [git-lfs/git-lfs](https://github.com/git-lfs/git-lfs) ([v3.4.0](https://github.com/git-lfs/git-lfs/releases/tag/v3.4.0), 2 weeks ago) - Git extension for versioning large files
+- [git-lfs/git-lfs](https://github.com/git-lfs/git-lfs) ([v3.4.0](https://github.com/git-lfs/git-lfs/releases/tag/v3.4.0), 3 weeks ago) - Git extension for versioning large files
 
 #### 🔨 My recent Pull Requests
 
@@ -32,7 +32,7 @@
 - [feat: add option to set a custom lipgloss renderer](https://github.com/charmbracelet/bubbles/pull/403) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (1 week ago)
 - [feat: add collaborators with access level](https://github.com/charmbracelet/soft-serve/pull/358) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 week ago)
 - [feat: print clone url on repo create](https://github.com/charmbracelet/soft-serve/pull/357) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 week ago)
-- [feat,fix: add task manager](https://github.com/charmbracelet/soft-serve/pull/356) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 week ago)
+- [feat,fix: add task manager](https://github.com/charmbracelet/soft-serve/pull/356) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
