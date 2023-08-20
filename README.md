@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [golang/tools](https://github.com/golang/tools) ([gopls/v0.13.2](https://github.com/golang/tools/releases/tag/gopls/v0.13.2), 5 days ago) - [mirror] Go Tools
+- [golang/tools](https://github.com/golang/tools) ([gopls/v0.13.2](https://github.com/golang/tools/releases/tag/gopls/v0.13.2), 6 days ago) - [mirror] Go Tools
 - [gogs/git-module](https://github.com/gogs/git-module) ([v1.8.3](https://github.com/gogs/git-module/releases/tag/v1.8.3), 1 week ago) - Package git-module is a Go module for Git access through shell commands
 - [charmbracelet/log](https://github.com/charmbracelet/log) ([v0.2.3](https://github.com/charmbracelet/log/releases/tag/v0.2.3), 2 weeks ago) - A minimal, colorful Go logging library 🪵
 - [charmbracelet/pop](https://github.com/charmbracelet/pop) ([v0.2.0](https://github.com/charmbracelet/pop/releases/tag/v0.2.0), 2 weeks ago) - Send emails from your terminal 📬
