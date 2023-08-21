@@ -4,9 +4,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (today)
 - [gogs/git-module](https://github.com/gogs/git-module) - Package git-module is a Go module for Git access through shell commands (1 week ago)
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (2 weeks ago)
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (2 weeks ago)
 - [charmbracelet/log](https://github.com/charmbracelet/log) - A minimal, colorful Go logging library 🪵 (2 weeks ago)
 - [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (2 weeks ago)
 
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: config paths on windows](https://github.com/charmbracelet/soft-serve/pull/368) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (today)
 - [docs: update readme in preparation of v0.6](https://github.com/charmbracelet/soft-serve/pull/360) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (2 weeks ago)
 - [feat: add option to set a custom lipgloss renderer](https://github.com/charmbracelet/bubbles/pull/403) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (2 weeks ago)
 - [feat: add collaborators with access level](https://github.com/charmbracelet/soft-serve/pull/358) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (2 weeks ago)
 - [feat: print clone url on repo create](https://github.com/charmbracelet/soft-serve/pull/357) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (2 weeks ago)
-- [feat,fix: add task manager](https://github.com/charmbracelet/soft-serve/pull/356) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
