@@ -4,8 +4,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (today)
 - [charmbracelet/log](https://github.com/charmbracelet/log) - A minimal, colorful Go logging library 🪵 (today)
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (1 day ago)
 - [charmbracelet/keygen](https://github.com/charmbracelet/keygen) - An SSH key pair generator 🗝️ (1 day ago)
 - [gogs/git-module](https://github.com/gogs/git-module) - Package git-module is a Go module for Git access through shell commands (1 week ago)
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (2 weeks ago)
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: add ssh example](https://github.com/charmbracelet/bubbletea/pull/809) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [Ctx race](https://github.com/charmbracelet/ssh/pull/6) on [charmbracelet/ssh](https://github.com/charmbracelet/ssh) (today)
 - [fix: add ssh commands back](https://github.com/charmbracelet/soft-serve/pull/370) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (today)
 - [feat: bump minimum go version to 1.18](https://github.com/charmbracelet/lipgloss/pull/216) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (today)
 - [feat: browse local repositories](https://github.com/charmbracelet/soft-serve/pull/369) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 day ago)
-- [fix: config paths on windows](https://github.com/charmbracelet/soft-serve/pull/368) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 day ago)
 
 #### 📜 My recent blog posts
 
