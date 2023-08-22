@@ -20,11 +20,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.8.0](https://github.com/charmbracelet/lipgloss/releases/tag/v0.8.0), today) - Style definitions for nice terminal layouts 👄
 - [golang/tools](https://github.com/golang/tools) ([gopls/v0.13.2](https://github.com/golang/tools/releases/tag/gopls/v0.13.2), 1 week ago) - [mirror] Go Tools
 - [gogs/git-module](https://github.com/gogs/git-module) ([v1.8.3](https://github.com/gogs/git-module/releases/tag/v1.8.3), 1 week ago) - Package git-module is a Go module for Git access through shell commands
 - [charmbracelet/log](https://github.com/charmbracelet/log) ([v0.2.3](https://github.com/charmbracelet/log/releases/tag/v0.2.3), 3 weeks ago) - A minimal, colorful Go logging library 🪵
 - [charmbracelet/pop](https://github.com/charmbracelet/pop) ([v0.2.0](https://github.com/charmbracelet/pop/releases/tag/v0.2.0), 3 weeks ago) - Send emails from your terminal 📬
-- [git-lfs/git-lfs](https://github.com/git-lfs/git-lfs) ([v3.4.0](https://github.com/git-lfs/git-lfs/releases/tag/v3.4.0), 3 weeks ago) - Git extension for versioning large files
 
 #### 🔨 My recent Pull Requests
 
