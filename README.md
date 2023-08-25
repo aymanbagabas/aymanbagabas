@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Repository webhooks](https://github.com/charmbracelet/soft-serve/pull/375) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (today)
 - [feat: add ssh example](https://github.com/charmbracelet/bubbletea/pull/809) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (3 days ago)
 - [Ctx race](https://github.com/charmbracelet/ssh/pull/6) on [charmbracelet/ssh](https://github.com/charmbracelet/ssh) (3 days ago)
 - [fix: add ssh commands back](https://github.com/charmbracelet/soft-serve/pull/370) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (3 days ago)
 - [feat: bump minimum go version to 1.18](https://github.com/charmbracelet/lipgloss/pull/216) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (3 days ago)
-- [feat: browse local repositories](https://github.com/charmbracelet/soft-serve/pull/369) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (4 days ago)
 
 #### 📜 My recent blog posts
 
