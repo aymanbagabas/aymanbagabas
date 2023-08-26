@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: read fore/background colors on first access](https://github.com/muesli/termenv/pull/149) on [muesli/termenv](https://github.com/muesli/termenv) (today)
 - [Repository webhooks](https://github.com/charmbracelet/soft-serve/pull/375) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 day ago)
 - [feat: add ssh example](https://github.com/charmbracelet/bubbletea/pull/809) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (4 days ago)
 - [Ctx race](https://github.com/charmbracelet/ssh/pull/6) on [charmbracelet/ssh](https://github.com/charmbracelet/ssh) (4 days ago)
 - [fix: add ssh commands back](https://github.com/charmbracelet/soft-serve/pull/370) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (4 days ago)
-- [feat: bump minimum go version to 1.18](https://github.com/charmbracelet/lipgloss/pull/216) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (4 days ago)
 
 #### 📜 My recent blog posts
 
