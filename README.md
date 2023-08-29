@@ -4,10 +4,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺 (today)
-- [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket) - Charmbracelet Scoop Bucket (today)
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦 (today)
-- [charmbracelet/log](https://github.com/charmbracelet/log) - A minimal, colorful Go logging library 🪵 (6 days ago)
+- [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺 (1 day ago)
+- [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket) - Charmbracelet Scoop Bucket (1 day ago)
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦 (1 day ago)
+- [charmbracelet/log](https://github.com/charmbracelet/log) - A minimal, colorful Go logging library 🪵 (1 week ago)
 - [charmbracelet/keygen](https://github.com/charmbracelet/keygen) - An SSH key pair generator 🗝️ (1 week ago)
 
 #### 🌱 My latest projects
@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.6.0](https://github.com/charmbracelet/soft-serve/releases/tag/v0.6.0), today) - The mighty, self-hostable Git server for the command line🍦
-- [charmbracelet/log](https://github.com/charmbracelet/log) ([v0.2.4](https://github.com/charmbracelet/log/releases/tag/v0.2.4), 6 days ago) - A minimal, colorful Go logging library 🪵
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.8.0](https://github.com/charmbracelet/lipgloss/releases/tag/v0.8.0), 6 days ago) - Style definitions for nice terminal layouts 👄
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.6.0](https://github.com/charmbracelet/soft-serve/releases/tag/v0.6.0), 1 day ago) - The mighty, self-hostable Git server for the command line🍦
+- [charmbracelet/log](https://github.com/charmbracelet/log) ([v0.2.4](https://github.com/charmbracelet/log/releases/tag/v0.2.4), 1 week ago) - A minimal, colorful Go logging library 🪵
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.8.0](https://github.com/charmbracelet/lipgloss/releases/tag/v0.8.0), 1 week ago) - Style definitions for nice terminal layouts 👄
 - [golang/tools](https://github.com/golang/tools) ([gopls/v0.13.2](https://github.com/golang/tools/releases/tag/gopls/v0.13.2), 2 weeks ago) - [mirror] Go Tools
 - [gogs/git-module](https://github.com/gogs/git-module) ([v1.8.3](https://github.com/gogs/git-module/releases/tag/v1.8.3), 2 weeks ago) - Package git-module is a Go module for Git access through shell commands
 
 #### 🔨 My recent Pull Requests
 
-- [fix: read fore/background colors on first access](https://github.com/muesli/termenv/pull/149) on [muesli/termenv](https://github.com/muesli/termenv) (2 days ago)
-- [Repository webhooks](https://github.com/charmbracelet/soft-serve/pull/375) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (3 days ago)
-- [feat: add ssh example](https://github.com/charmbracelet/bubbletea/pull/809) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (6 days ago)
-- [Ctx race](https://github.com/charmbracelet/ssh/pull/6) on [charmbracelet/ssh](https://github.com/charmbracelet/ssh) (6 days ago)
-- [fix: add ssh commands back](https://github.com/charmbracelet/soft-serve/pull/370) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (6 days ago)
+- [fix: read fore/background colors on first access](https://github.com/muesli/termenv/pull/149) on [muesli/termenv](https://github.com/muesli/termenv) (3 days ago)
+- [Repository webhooks](https://github.com/charmbracelet/soft-serve/pull/375) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (4 days ago)
+- [feat: add ssh example](https://github.com/charmbracelet/bubbletea/pull/809) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 week ago)
+- [Ctx race](https://github.com/charmbracelet/ssh/pull/6) on [charmbracelet/ssh](https://github.com/charmbracelet/ssh) (1 week ago)
+- [fix: add ssh commands back](https://github.com/charmbracelet/soft-serve/pull/370) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 week ago)
 
 #### 📜 My recent blog posts
 
@@ -44,11 +44,11 @@
 
 #### ⭐ Recent Stars
 
-- [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable news aggregator… (2 weeks ago)
-- [wallabag/wallabag](https://github.com/wallabag/wallabag) - wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely. (2 weeks ago)
-- [sebsauvage/Shaarli](https://github.com/sebsauvage/Shaarli) - The personal, minimalist, super-fast, no-database delicious clone. (2 weeks ago)
-- [supabase/postgres_lsp](https://github.com/supabase/postgres_lsp) - A Language Server for Postgres (2 weeks ago)
-- [caarlos0/svu](https://github.com/caarlos0/svu) - Semantic Version Util (2 weeks ago)
+- [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable news aggregator… (3 weeks ago)
+- [wallabag/wallabag](https://github.com/wallabag/wallabag) - wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely. (3 weeks ago)
+- [sebsauvage/Shaarli](https://github.com/sebsauvage/Shaarli) - The personal, minimalist, super-fast, no-database delicious clone. (3 weeks ago)
+- [supabase/postgres_lsp](https://github.com/supabase/postgres_lsp) - A Language Server for Postgres (3 weeks ago)
+- [caarlos0/svu](https://github.com/caarlos0/svu) - Semantic Version Util (3 weeks ago)
 
 #### 📫 How to reach me
 
