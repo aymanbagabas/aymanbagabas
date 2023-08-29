@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [(wip) refactor: use cobra for flags](https://github.com/charmbracelet/mods/pull/112) on [charmbracelet/mods](https://github.com/charmbracelet/mods) (today)
 - [fix: read fore/background colors on first access](https://github.com/muesli/termenv/pull/149) on [muesli/termenv](https://github.com/muesli/termenv) (3 days ago)
 - [Repository webhooks](https://github.com/charmbracelet/soft-serve/pull/375) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (4 days ago)
 - [feat: add ssh example](https://github.com/charmbracelet/bubbletea/pull/809) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 week ago)
 - [Ctx race](https://github.com/charmbracelet/ssh/pull/6) on [charmbracelet/ssh](https://github.com/charmbracelet/ssh) (1 week ago)
-- [fix: add ssh commands back](https://github.com/charmbracelet/soft-serve/pull/370) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 week ago)
 
 #### 📜 My recent blog posts
 
