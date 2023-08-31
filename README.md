@@ -28,7 +28,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [(wip) refactor: use cobra for flags](https://github.com/charmbracelet/mods/pull/112) on [charmbracelet/mods](https://github.com/charmbracelet/mods) (2 days ago)
+- [feat: cobra, shell completions, perf and ui improvements](https://github.com/charmbracelet/mods/pull/112) on [charmbracelet/mods](https://github.com/charmbracelet/mods) (2 days ago)
 - [fix: read fore/background colors on first access](https://github.com/muesli/termenv/pull/149) on [muesli/termenv](https://github.com/muesli/termenv) (5 days ago)
 - [Repository webhooks](https://github.com/charmbracelet/soft-serve/pull/375) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (6 days ago)
 - [feat: add ssh example](https://github.com/charmbracelet/bubbletea/pull/809) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 week ago)
