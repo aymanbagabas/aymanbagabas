@@ -6,9 +6,9 @@
 
 - [aymanbagabas/Huawei-WMI](https://github.com/aymanbagabas/Huawei-WMI) - Huawei WMI laptop extras linux driver (1 day ago)
 - [charmbracelet/mods](https://github.com/charmbracelet/mods) - AI on the command line (4 days ago)
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦 (1 week ago)
-- [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket) - Charmbracelet Scoop Bucket (1 week ago)
 - [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺 (1 week ago)
+- [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket) - Charmbracelet Scoop Bucket (1 week ago)
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦 (1 week ago)
 
 #### 🌱 My latest projects
 
