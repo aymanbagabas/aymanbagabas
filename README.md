@@ -20,11 +20,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v6.3.0](https://github.com/LazyVim/LazyVim/releases/tag/v6.3.0), today) - Neovim config for the lazy
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.6.0](https://github.com/charmbracelet/soft-serve/releases/tag/v0.6.0), 1 week ago) - The mighty, self-hostable Git server for the command line🍦
 - [charmbracelet/log](https://github.com/charmbracelet/log) ([v0.2.4](https://github.com/charmbracelet/log/releases/tag/v0.2.4), 1 week ago) - A minimal, colorful Go logging library 🪵
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.8.0](https://github.com/charmbracelet/lipgloss/releases/tag/v0.8.0), 1 week ago) - Style definitions for nice terminal layouts 👄
 - [golang/tools](https://github.com/golang/tools) ([gopls/v0.13.2](https://github.com/golang/tools/releases/tag/gopls/v0.13.2), 3 weeks ago) - [mirror] Go Tools
-- [gogs/git-module](https://github.com/gogs/git-module) ([v1.8.3](https://github.com/gogs/git-module/releases/tag/v1.8.3), 3 weeks ago) - Package git-module is a Go module for Git access through shell commands
 
 #### 🔨 My recent Pull Requests
 
