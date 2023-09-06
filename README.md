@@ -44,11 +44,11 @@
 
 #### ⭐ Recent Stars
 
+- [opentffoundation/opentf](https://github.com/opentffoundation/opentf) - OpenTF lets you declaratively manage your cloud infrastructure. (today)
 - [atanunq/viu](https://github.com/atanunq/viu) - Terminal image viewer with native support for iTerm and Kitty (3 days ago)
 - [feathericons/feather](https://github.com/feathericons/feather) - Simply beautiful open-source icons (6 days ago)
 - [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable news aggregator… (4 weeks ago)
 - [wallabag/wallabag](https://github.com/wallabag/wallabag) - wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely. (4 weeks ago)
-- [sebsauvage/Shaarli](https://github.com/sebsauvage/Shaarli) - The personal, minimalist, super-fast, no-database delicious clone. (4 weeks ago)
 
 #### 📫 How to reach me
 
