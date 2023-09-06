@@ -4,8 +4,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [aymanbagabas/Huawei-WMI](https://github.com/aymanbagabas/Huawei-WMI) - Huawei WMI laptop extras linux driver (2 days ago)
-- [charmbracelet/mods](https://github.com/charmbracelet/mods) - AI on the command line (5 days ago)
+- [aymanbagabas/Huawei-WMI](https://github.com/aymanbagabas/Huawei-WMI) - Huawei WMI laptop extras linux driver (3 days ago)
+- [charmbracelet/mods](https://github.com/charmbracelet/mods) - AI on the command line (6 days ago)
 - [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺 (1 week ago)
 - [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket) - Charmbracelet Scoop Bucket (1 week ago)
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦 (1 week ago)
@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v6.3.0](https://github.com/LazyVim/LazyVim/releases/tag/v6.3.0), 1 day ago) - Neovim config for the lazy
+- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v6.3.0](https://github.com/LazyVim/LazyVim/releases/tag/v6.3.0), 2 days ago) - Neovim config for the lazy
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.6.0](https://github.com/charmbracelet/soft-serve/releases/tag/v0.6.0), 1 week ago) - The mighty, self-hostable Git server for the command line🍦
 - [charmbracelet/log](https://github.com/charmbracelet/log) ([v0.2.4](https://github.com/charmbracelet/log/releases/tag/v0.2.4), 2 weeks ago) - A minimal, colorful Go logging library 🪵
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.8.0](https://github.com/charmbracelet/lipgloss/releases/tag/v0.8.0), 2 weeks ago) - Style definitions for nice terminal layouts 👄
@@ -28,7 +28,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [refactor,fix: move parser to root and fix bugs](https://github.com/danielgatis/go-vte/pull/1) on [danielgatis/go-vte](https://github.com/danielgatis/go-vte) (today)
+- [refactor,fix: move parser to root and fix bugs](https://github.com/danielgatis/go-vte/pull/1) on [danielgatis/go-vte](https://github.com/danielgatis/go-vte) (1 day ago)
 - [feat: cobra, shell completions, perf and ui improvements](https://github.com/charmbracelet/mods/pull/112) on [charmbracelet/mods](https://github.com/charmbracelet/mods) (1 week ago)
 - [fix: read fore/background colors on first access](https://github.com/muesli/termenv/pull/149) on [muesli/termenv](https://github.com/muesli/termenv) (1 week ago)
 - [Repository webhooks](https://github.com/charmbracelet/soft-serve/pull/375) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 week ago)
@@ -44,8 +44,8 @@
 
 #### ⭐ Recent Stars
 
-- [atanunq/viu](https://github.com/atanunq/viu) - Terminal image viewer with native support for iTerm and Kitty (2 days ago)
-- [feathericons/feather](https://github.com/feathericons/feather) - Simply beautiful open-source icons (5 days ago)
+- [atanunq/viu](https://github.com/atanunq/viu) - Terminal image viewer with native support for iTerm and Kitty (3 days ago)
+- [feathericons/feather](https://github.com/feathericons/feather) - Simply beautiful open-source icons (6 days ago)
 - [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable news aggregator… (4 weeks ago)
 - [wallabag/wallabag](https://github.com/wallabag/wallabag) - wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely. (4 weeks ago)
 - [sebsauvage/Shaarli](https://github.com/sebsauvage/Shaarli) - The personal, minimalist, super-fast, no-database delicious clone. (4 weeks ago)
