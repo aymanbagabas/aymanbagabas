@@ -44,11 +44,11 @@
 
 #### ⭐ Recent Stars
 
+- [xo/terminfo](https://github.com/xo/terminfo) - A terminfo package in pure go! (today)
 - [opentffoundation/opentf](https://github.com/opentffoundation/opentf) - OpenTF lets you declaratively manage your cloud infrastructure. (1 day ago)
 - [atanunq/viu](https://github.com/atanunq/viu) - Terminal image viewer with native support for iTerm and Kitty (4 days ago)
 - [feathericons/feather](https://github.com/feathericons/feather) - Simply beautiful open-source icons (1 week ago)
 - [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable news aggregator… (1 month ago)
-- [wallabag/wallabag](https://github.com/wallabag/wallabag) - wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely. (1 month ago)
 
 #### 📫 How to reach me
 
