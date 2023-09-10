@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [aymanbagabas/Huawei-WMI](https://github.com/aymanbagabas/Huawei-WMI) - Huawei WMI laptop extras linux driver (6 days ago)
+- [aymanbagabas/Huawei-WMI](https://github.com/aymanbagabas/Huawei-WMI) - Huawei WMI laptop extras linux driver (1 week ago)
 - [charmbracelet/mods](https://github.com/charmbracelet/mods) - AI on the command line (1 week ago)
 - [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺 (1 week ago)
 - [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket) - Charmbracelet Scoop Bucket (1 week ago)
@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v6.3.0](https://github.com/LazyVim/LazyVim/releases/tag/v6.3.0), 5 days ago) - Neovim config for the lazy
+- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v6.3.0](https://github.com/LazyVim/LazyVim/releases/tag/v6.3.0), 6 days ago) - Neovim config for the lazy
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.6.0](https://github.com/charmbracelet/soft-serve/releases/tag/v0.6.0), 1 week ago) - The mighty, self-hostable Git server for the command line🍦
 - [charmbracelet/log](https://github.com/charmbracelet/log) ([v0.2.4](https://github.com/charmbracelet/log/releases/tag/v0.2.4), 2 weeks ago) - A minimal, colorful Go logging library 🪵
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.8.0](https://github.com/charmbracelet/lipgloss/releases/tag/v0.8.0), 2 weeks ago) - Style definitions for nice terminal layouts 👄
@@ -28,7 +28,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [refactor,fix: move parser to root and fix bugs](https://github.com/danielgatis/go-vte/pull/1) on [danielgatis/go-vte](https://github.com/danielgatis/go-vte) (4 days ago)
+- [refactor,fix: move parser to root and fix bugs](https://github.com/danielgatis/go-vte/pull/1) on [danielgatis/go-vte](https://github.com/danielgatis/go-vte) (5 days ago)
 - [feat: cobra, shell completions, perf and ui improvements](https://github.com/charmbracelet/mods/pull/112) on [charmbracelet/mods](https://github.com/charmbracelet/mods) (1 week ago)
 - [fix: read fore/background colors on first access](https://github.com/muesli/termenv/pull/149) on [muesli/termenv](https://github.com/muesli/termenv) (2 weeks ago)
 - [Repository webhooks](https://github.com/charmbracelet/soft-serve/pull/375) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (2 weeks ago)
@@ -37,16 +37,16 @@
 #### 📜 My recent blog posts
 
 - [Self-hosted Soft Serve](https://aymanbagabas.com/blog/2023/04/28/self-hosted-soft-serve.html) (4 months ago)
-- [Simple Vim Session Management](https://aymanbagabas.com/blog/2023/04/13/simple-vim-session-management.html) (4 months ago)
+- [Simple Vim Session Management](https://aymanbagabas.com/blog/2023/04/13/simple-vim-session-management.html) (5 months ago)
 - [Blue Mountain](https://aymanbagabas.com/blog/2022/06/02/blue-mountain.html) (1 year ago)
 - [Import Notion Pages to Jekyll](https://aymanbagabas.com/blog/2022/03/29/import-notion-pages-to-jekyll.html) (1 year ago)
 - [Nyan Cat Over SSH](https://aymanbagabas.com/blog/2022/03/25/nyan-cat-over-ssh.html) (1 year ago)
 
 #### ⭐ Recent Stars
 
-- [xo/terminfo](https://github.com/xo/terminfo) - A terminfo package in pure go! (2 days ago)
-- [opentffoundation/opentf](https://github.com/opentffoundation/opentf) - OpenTF lets you declaratively manage your cloud infrastructure. (3 days ago)
-- [atanunq/viu](https://github.com/atanunq/viu) - Terminal image viewer with native support for iTerm and Kitty (6 days ago)
+- [xo/terminfo](https://github.com/xo/terminfo) - A terminfo package in pure go! (3 days ago)
+- [opentffoundation/opentf](https://github.com/opentffoundation/opentf) - OpenTF lets you declaratively manage your cloud infrastructure. (4 days ago)
+- [atanunq/viu](https://github.com/atanunq/viu) - Terminal image viewer with native support for iTerm and Kitty (1 week ago)
 - [feathericons/feather](https://github.com/feathericons/feather) - Simply beautiful open-source icons (1 week ago)
 - [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable news aggregator… (1 month ago)
 
