@@ -22,17 +22,17 @@
 
 - [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v6.3.0](https://github.com/LazyVim/LazyVim/releases/tag/v6.3.0), 1 week ago) - Neovim config for the lazy
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.6.0](https://github.com/charmbracelet/soft-serve/releases/tag/v0.6.0), 2 weeks ago) - The mighty, self-hostable Git server for the command line🍦
-- [charmbracelet/log](https://github.com/charmbracelet/log) ([v0.2.4](https://github.com/charmbracelet/log/releases/tag/v0.2.4), 2 weeks ago) - A minimal, colorful Go logging library 🪵
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.8.0](https://github.com/charmbracelet/lipgloss/releases/tag/v0.8.0), 2 weeks ago) - Style definitions for nice terminal layouts 👄
+- [charmbracelet/log](https://github.com/charmbracelet/log) ([v0.2.4](https://github.com/charmbracelet/log/releases/tag/v0.2.4), 3 weeks ago) - A minimal, colorful Go logging library 🪵
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.8.0](https://github.com/charmbracelet/lipgloss/releases/tag/v0.8.0), 3 weeks ago) - Style definitions for nice terminal layouts 👄
 - [golang/tools](https://github.com/golang/tools) ([gopls/v0.13.2](https://github.com/golang/tools/releases/tag/gopls/v0.13.2), 4 weeks ago) - [mirror] Go Tools
 
 #### 🔨 My recent Pull Requests
 
-- [refactor,fix: move parser to root and fix bugs](https://github.com/danielgatis/go-vte/pull/1) on [danielgatis/go-vte](https://github.com/danielgatis/go-vte) (6 days ago)
-- [feat: cobra, shell completions, perf and ui improvements](https://github.com/charmbracelet/mods/pull/112) on [charmbracelet/mods](https://github.com/charmbracelet/mods) (1 week ago)
+- [refactor,fix: move parser to root and fix bugs](https://github.com/danielgatis/go-vte/pull/1) on [danielgatis/go-vte](https://github.com/danielgatis/go-vte) (1 week ago)
+- [feat: cobra, shell completions, perf and ui improvements](https://github.com/charmbracelet/mods/pull/112) on [charmbracelet/mods](https://github.com/charmbracelet/mods) (2 weeks ago)
 - [fix: read fore/background colors on first access](https://github.com/muesli/termenv/pull/149) on [muesli/termenv](https://github.com/muesli/termenv) (2 weeks ago)
 - [Repository webhooks](https://github.com/charmbracelet/soft-serve/pull/375) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (2 weeks ago)
-- [feat: add ssh example](https://github.com/charmbracelet/bubbletea/pull/809) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 weeks ago)
+- [feat: add ssh example](https://github.com/charmbracelet/bubbletea/pull/809) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (3 weeks ago)
 
 #### 📜 My recent blog posts
 
@@ -44,8 +44,8 @@
 
 #### ⭐ Recent Stars
 
-- [xo/terminfo](https://github.com/xo/terminfo) - A terminfo package in pure go! (4 days ago)
-- [opentffoundation/opentf](https://github.com/opentffoundation/opentf) - OpenTF lets you declaratively manage your cloud infrastructure. (5 days ago)
+- [xo/terminfo](https://github.com/xo/terminfo) - A terminfo package in pure go! (5 days ago)
+- [opentffoundation/opentf](https://github.com/opentffoundation/opentf) - OpenTF lets you declaratively manage your cloud infrastructure. (6 days ago)
 - [atanunq/viu](https://github.com/atanunq/viu) - Terminal image viewer with native support for iTerm and Kitty (1 week ago)
 - [feathericons/feather](https://github.com/feathericons/feather) - Simply beautiful open-source icons (1 week ago)
 - [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable news aggregator… (1 month ago)
