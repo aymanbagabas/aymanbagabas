@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix(conpty): pass flags down on Pty creation](https://github.com/microsoft/hcsshim/pull/1904) on [microsoft/hcsshim](https://github.com/microsoft/hcsshim) (today)
 - [Fix Postgres related issues and add CI](https://github.com/charmbracelet/soft-serve/pull/384) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (2 days ago)
 - [fix(db): quote postgres keywords](https://github.com/charmbracelet/soft-serve/pull/383) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (2 days ago)
 - [refactor,fix: move parser to root and fix bugs](https://github.com/danielgatis/go-vte/pull/1) on [danielgatis/go-vte](https://github.com/danielgatis/go-vte) (1 week ago)
 - [feat: cobra, shell completions, perf and ui improvements](https://github.com/charmbracelet/mods/pull/112) on [charmbracelet/mods](https://github.com/charmbracelet/mods) (2 weeks ago)
-- [fix: read fore/background colors on first access](https://github.com/muesli/termenv/pull/149) on [muesli/termenv](https://github.com/muesli/termenv) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
