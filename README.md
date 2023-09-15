@@ -4,9 +4,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺 (1 day ago)
-- [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket) - Charmbracelet Scoop Bucket (1 day ago)
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦 (1 day ago)
+- [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺 (2 days ago)
+- [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket) - Charmbracelet Scoop Bucket (2 days ago)
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦 (2 days ago)
 - [aymanbagabas/Huawei-WMI](https://github.com/aymanbagabas/Huawei-WMI) - Huawei WMI laptop extras linux driver (1 week ago)
 - [charmbracelet/mods](https://github.com/charmbracelet/mods) - AI on the command line (2 weeks ago)
 
@@ -20,16 +20,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.6.1](https://github.com/charmbracelet/soft-serve/releases/tag/v0.6.1), 1 day ago) - The mighty, self-hostable Git server for the command line🍦
-- [go-git/go-git](https://github.com/go-git/go-git) ([v5.9.0](https://github.com/go-git/go-git/releases/tag/v5.9.0), 2 days ago) - A highly extensible Git implementation in pure Go.
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.6.1](https://github.com/charmbracelet/soft-serve/releases/tag/v0.6.1), 2 days ago) - The mighty, self-hostable Git server for the command line🍦
+- [go-git/go-git](https://github.com/go-git/go-git) ([v5.9.0](https://github.com/go-git/go-git/releases/tag/v5.9.0), 3 days ago) - A highly extensible Git implementation in pure Go.
 - [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v6.3.0](https://github.com/LazyVim/LazyVim/releases/tag/v6.3.0), 1 week ago) - Neovim config for the lazy
 - [charmbracelet/log](https://github.com/charmbracelet/log) ([v0.2.4](https://github.com/charmbracelet/log/releases/tag/v0.2.4), 3 weeks ago) - A minimal, colorful Go logging library 🪵
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.8.0](https://github.com/charmbracelet/lipgloss/releases/tag/v0.8.0), 3 weeks ago) - Style definitions for nice terminal layouts 👄
 
 #### 🔨 My recent Pull Requests
 
-- [Fix Postgres related issues and add CI](https://github.com/charmbracelet/soft-serve/pull/384) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 day ago)
-- [fix(db): quote postgres keywords](https://github.com/charmbracelet/soft-serve/pull/383) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 day ago)
+- [Fix Postgres related issues and add CI](https://github.com/charmbracelet/soft-serve/pull/384) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (2 days ago)
+- [fix(db): quote postgres keywords](https://github.com/charmbracelet/soft-serve/pull/383) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (2 days ago)
 - [refactor,fix: move parser to root and fix bugs](https://github.com/danielgatis/go-vte/pull/1) on [danielgatis/go-vte](https://github.com/danielgatis/go-vte) (1 week ago)
 - [feat: cobra, shell completions, perf and ui improvements](https://github.com/charmbracelet/mods/pull/112) on [charmbracelet/mods](https://github.com/charmbracelet/mods) (2 weeks ago)
 - [fix: read fore/background colors on first access](https://github.com/muesli/termenv/pull/149) on [muesli/termenv](https://github.com/muesli/termenv) (2 weeks ago)
