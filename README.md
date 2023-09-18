@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [syscall: add SysProcAttr.PseudoConsole on Windows](https://github.com/golang/go/pull/62710) on [golang/go](https://github.com/golang/go) (today)
 - [windows: add console ConPTY API](https://github.com/golang/sys/pull/175) on [golang/sys](https://github.com/golang/sys) (1 day ago)
 - [fix(conpty): pass flags down on Pty creation](https://github.com/microsoft/hcsshim/pull/1904) on [microsoft/hcsshim](https://github.com/microsoft/hcsshim) (3 days ago)
 - [Fix Postgres related issues and add CI](https://github.com/charmbracelet/soft-serve/pull/384) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (5 days ago)
 - [fix(db): quote postgres keywords](https://github.com/charmbracelet/soft-serve/pull/383) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (5 days ago)
-- [refactor,fix: move parser to root and fix bugs](https://github.com/danielgatis/go-vte/pull/1) on [danielgatis/go-vte](https://github.com/danielgatis/go-vte) (1 week ago)
 
 #### 📜 My recent blog posts
 
