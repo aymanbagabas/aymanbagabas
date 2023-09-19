@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [aymanbagabas/go-udiff](https://github.com/aymanbagabas/go-udiff) - µDiff - a micro Go diff library (2 days ago)
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦 (5 days ago)
-- [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket) - Charmbracelet Scoop Bucket (5 days ago)
-- [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺 (5 days ago)
-- [danielgatis/go-vte](https://github.com/danielgatis/go-vte) - A library to parse terminal escape sequences (almost) exactly how the real hardware does. (1 week ago)
+- [aymanbagabas/go-udiff](https://github.com/aymanbagabas/go-udiff) - µDiff - a micro Go diff library (3 days ago)
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦 (6 days ago)
+- [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket) - Charmbracelet Scoop Bucket (6 days ago)
+- [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺 (6 days ago)
+- [danielgatis/go-vte](https://github.com/danielgatis/go-vte) - A library to parse terminal escape sequences (almost) exactly how the real hardware does. (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.6.1](https://github.com/charmbracelet/soft-serve/releases/tag/v0.6.1), 5 days ago) - The mighty, self-hostable Git server for the command line🍦
-- [go-git/go-git](https://github.com/go-git/go-git) ([v5.9.0](https://github.com/go-git/go-git/releases/tag/v5.9.0), 6 days ago) - A highly extensible Git implementation in pure Go.
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.6.1](https://github.com/charmbracelet/soft-serve/releases/tag/v0.6.1), 6 days ago) - The mighty, self-hostable Git server for the command line🍦
+- [go-git/go-git](https://github.com/go-git/go-git) ([v5.9.0](https://github.com/go-git/go-git/releases/tag/v5.9.0), 1 week ago) - A highly extensible Git implementation in pure Go.
 - [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v6.3.0](https://github.com/LazyVim/LazyVim/releases/tag/v6.3.0), 2 weeks ago) - Neovim config for the lazy
-- [charmbracelet/log](https://github.com/charmbracelet/log) ([v0.2.4](https://github.com/charmbracelet/log/releases/tag/v0.2.4), 3 weeks ago) - A minimal, colorful Go logging library 🪵
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.8.0](https://github.com/charmbracelet/lipgloss/releases/tag/v0.8.0), 3 weeks ago) - Style definitions for nice terminal layouts 👄
+- [charmbracelet/log](https://github.com/charmbracelet/log) ([v0.2.4](https://github.com/charmbracelet/log/releases/tag/v0.2.4), 4 weeks ago) - A minimal, colorful Go logging library 🪵
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.8.0](https://github.com/charmbracelet/lipgloss/releases/tag/v0.8.0), 4 weeks ago) - Style definitions for nice terminal layouts 👄
 
 #### 🔨 My recent Pull Requests
 
-- [syscall: add SysProcAttr.PseudoConsole on Windows](https://github.com/golang/go/pull/62710) on [golang/go](https://github.com/golang/go) (today)
-- [windows: add console ConPTY API](https://github.com/golang/sys/pull/175) on [golang/sys](https://github.com/golang/sys) (1 day ago)
-- [fix(conpty): pass flags down on Pty creation](https://github.com/microsoft/hcsshim/pull/1904) on [microsoft/hcsshim](https://github.com/microsoft/hcsshim) (3 days ago)
-- [Fix Postgres related issues and add CI](https://github.com/charmbracelet/soft-serve/pull/384) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (5 days ago)
-- [fix(db): quote postgres keywords](https://github.com/charmbracelet/soft-serve/pull/383) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (5 days ago)
+- [syscall: add SysProcAttr.PseudoConsole on Windows](https://github.com/golang/go/pull/62710) on [golang/go](https://github.com/golang/go) (1 day ago)
+- [windows: add console ConPTY API](https://github.com/golang/sys/pull/175) on [golang/sys](https://github.com/golang/sys) (2 days ago)
+- [fix(conpty): pass flags down on Pty creation](https://github.com/microsoft/hcsshim/pull/1904) on [microsoft/hcsshim](https://github.com/microsoft/hcsshim) (4 days ago)
+- [Fix Postgres related issues and add CI](https://github.com/charmbracelet/soft-serve/pull/384) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (6 days ago)
+- [fix(db): quote postgres keywords](https://github.com/charmbracelet/soft-serve/pull/383) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (6 days ago)
 
 #### 📜 My recent blog posts
 
