@@ -44,11 +44,11 @@
 
 #### ⭐ Recent Stars
 
+- [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better &#39;df&#39; alternative (today)
 - [xo/terminfo](https://github.com/xo/terminfo) - A terminfo package in pure go! (1 week ago)
 - [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure. (2 weeks ago)
 - [atanunq/viu](https://github.com/atanunq/viu) - Terminal image viewer with native support for iTerm and Kitty (2 weeks ago)
 - [feathericons/feather](https://github.com/feathericons/feather) - Simply beautiful open-source icons (2 weeks ago)
-- [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable news aggregator… (1 month ago)
 
 #### 📫 How to reach me
 
