@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: disable pty emulation](https://github.com/charmbracelet/ssh/pull/7) on [charmbracelet/ssh](https://github.com/charmbracelet/ssh) (today)
 - [syscall: add SysProcAttr.PseudoConsole on Windows](https://github.com/golang/go/pull/62710) on [golang/go](https://github.com/golang/go) (3 days ago)
 - [windows: add console ConPTY API](https://github.com/golang/sys/pull/175) on [golang/sys](https://github.com/golang/sys) (4 days ago)
 - [fix(conpty): pass flags down on Pty creation](https://github.com/microsoft/hcsshim/pull/1904) on [microsoft/hcsshim](https://github.com/microsoft/hcsshim) (6 days ago)
 - [Fix Postgres related issues and add CI](https://github.com/charmbracelet/soft-serve/pull/384) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 week ago)
-- [fix(db): quote postgres keywords](https://github.com/charmbracelet/soft-serve/pull/383) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 week ago)
 
 #### 📜 My recent blog posts
 
