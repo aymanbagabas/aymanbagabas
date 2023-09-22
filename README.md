@@ -20,11 +20,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [danielgatis/go-vte](https://github.com/danielgatis/go-vte) ([v0.1.2](https://github.com/danielgatis/go-vte/releases/tag/v0.1.2), today) - A library to parse terminal escape sequences (almost) exactly how the real hardware does.
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.6.1](https://github.com/charmbracelet/soft-serve/releases/tag/v0.6.1), 1 week ago) - The mighty, self-hostable Git server for the command line🍦
 - [go-git/go-git](https://github.com/go-git/go-git) ([v5.9.0](https://github.com/go-git/go-git/releases/tag/v5.9.0), 1 week ago) - A highly extensible Git implementation in pure Go.
 - [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v6.3.0](https://github.com/LazyVim/LazyVim/releases/tag/v6.3.0), 2 weeks ago) - Neovim config for the lazy
 - [charmbracelet/log](https://github.com/charmbracelet/log) ([v0.2.4](https://github.com/charmbracelet/log/releases/tag/v0.2.4), 1 month ago) - A minimal, colorful Go logging library 🪵
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.8.0](https://github.com/charmbracelet/lipgloss/releases/tag/v0.8.0), 1 month ago) - Style definitions for nice terminal layouts 👄
 
 #### 🔨 My recent Pull Requests
 
