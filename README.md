@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Dos2unix](https://github.com/aymanbagabas/go-pty/pull/7) on [aymanbagabas/go-pty](https://github.com/aymanbagabas/go-pty) (today)
 - [feat: initial implementation](https://github.com/aymanbagabas/go-pty/pull/6) on [aymanbagabas/go-pty](https://github.com/aymanbagabas/go-pty) (today)
 - [feat: disable pty emulation](https://github.com/charmbracelet/ssh/pull/7) on [charmbracelet/ssh](https://github.com/charmbracelet/ssh) (1 day ago)
 - [syscall: add SysProcAttr.PseudoConsole on Windows](https://github.com/golang/go/pull/62710) on [golang/go](https://github.com/golang/go) (4 days ago)
 - [windows: add console ConPTY API](https://github.com/golang/sys/pull/175) on [golang/sys](https://github.com/golang/sys) (5 days ago)
-- [fix(conpty): pass flags down on Pty creation](https://github.com/microsoft/hcsshim/pull/1904) on [microsoft/hcsshim](https://github.com/microsoft/hcsshim) (1 week ago)
 
 #### 📜 My recent blog posts
 
@@ -44,11 +44,11 @@
 
 #### ⭐ Recent Stars
 
+- [aymanbagabas/go-pty](https://github.com/aymanbagabas/go-pty) - Go Pty interface (today)
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better &#39;df&#39; alternative (2 days ago)
 - [xo/terminfo](https://github.com/xo/terminfo) - A terminfo package in pure go! (2 weeks ago)
 - [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure. (2 weeks ago)
 - [atanunq/viu](https://github.com/atanunq/viu) - Terminal image viewer with native support for iTerm and Kitty (2 weeks ago)
-- [feathericons/feather](https://github.com/feathericons/feather) - Simply beautiful open-source icons (3 weeks ago)
 
 #### 📫 How to reach me
 
