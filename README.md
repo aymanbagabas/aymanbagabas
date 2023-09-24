@@ -20,9 +20,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [danielgatis/go-vte](https://github.com/danielgatis/go-vte) ([v1.0.5](https://github.com/danielgatis/go-vte/releases/tag/v1.0.5), today) - A library to parse terminal escape sequences (almost) exactly how the real hardware does.
 - [aymanbagabas/go-pty](https://github.com/aymanbagabas/go-pty) ([v0.1.0](https://github.com/aymanbagabas/go-pty/releases/tag/v0.1.0), 2 days ago) - Go Pty interface
 - [charmbracelet/mods](https://github.com/charmbracelet/mods) ([v1.0.0](https://github.com/charmbracelet/mods/releases/tag/v1.0.0), 2 days ago) - AI on the command line
-- [danielgatis/go-vte](https://github.com/danielgatis/go-vte) ([v0.1.2](https://github.com/danielgatis/go-vte/releases/tag/v0.1.2), 2 days ago) - A library to parse terminal escape sequences (almost) exactly how the real hardware does.
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.6.1](https://github.com/charmbracelet/soft-serve/releases/tag/v0.6.1), 1 week ago) - The mighty, self-hostable Git server for the command line🍦
 - [go-git/go-git](https://github.com/go-git/go-git) ([v5.9.0](https://github.com/go-git/go-git/releases/tag/v5.9.0), 1 week ago) - A highly extensible Git implementation in pure Go.
 
