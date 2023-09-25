@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Update Privado OpenVPN config files and script](https://github.com/haugene/vpn-configs-contrib/pull/239) on [haugene/vpn-configs-contrib](https://github.com/haugene/vpn-configs-contrib) (today)
 - [Dos2unix](https://github.com/aymanbagabas/go-pty/pull/7) on [aymanbagabas/go-pty](https://github.com/aymanbagabas/go-pty) (3 days ago)
 - [feat: initial implementation](https://github.com/aymanbagabas/go-pty/pull/6) on [aymanbagabas/go-pty](https://github.com/aymanbagabas/go-pty) (3 days ago)
 - [feat: disable pty emulation](https://github.com/charmbracelet/ssh/pull/7) on [charmbracelet/ssh](https://github.com/charmbracelet/ssh) (4 days ago)
 - [syscall: add SysProcAttr.PseudoConsole on Windows](https://github.com/golang/go/pull/62710) on [golang/go](https://github.com/golang/go) (1 week ago)
-- [windows: add console ConPTY API](https://github.com/golang/sys/pull/175) on [golang/sys](https://github.com/golang/sys) (1 week ago)
 
 #### 📜 My recent blog posts
 
