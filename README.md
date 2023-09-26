@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [aymanbagabas/go-pty](https://github.com/aymanbagabas/go-pty) - Go Pty interface (today)
 - [golang/sys](https://github.com/golang/sys) - [mirror] Go packages for low-level interaction with the operating system (today)
 - [haugene/vpn-configs-contrib](https://github.com/haugene/vpn-configs-contrib) - A collection of configs for various VPN providers (1 day ago)
 - [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (1 day ago)
 - [aymanbagabas/go-udiff](https://github.com/aymanbagabas/go-udiff) - µDiff - a micro Go diffing library (3 days ago)
-- [aymanbagabas/go-pty](https://github.com/aymanbagabas/go-pty) - Go Pty interface (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix(ssh): add authentication middleware](https://github.com/charmbracelet/soft-serve/pull/388) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (today)
 - [Update Privado OpenVPN config files and script](https://github.com/haugene/vpn-configs-contrib/pull/239) on [haugene/vpn-configs-contrib](https://github.com/haugene/vpn-configs-contrib) (1 day ago)
 - [Dos2unix](https://github.com/aymanbagabas/go-pty/pull/7) on [aymanbagabas/go-pty](https://github.com/aymanbagabas/go-pty) (4 days ago)
 - [feat: initial implementation](https://github.com/aymanbagabas/go-pty/pull/6) on [aymanbagabas/go-pty](https://github.com/aymanbagabas/go-pty) (4 days ago)
 - [feat: disable pty emulation](https://github.com/charmbracelet/ssh/pull/7) on [charmbracelet/ssh](https://github.com/charmbracelet/ssh) (5 days ago)
-- [syscall: add SysProcAttr.PseudoConsole on Windows](https://github.com/golang/go/pull/62710) on [golang/go](https://github.com/golang/go) (1 week ago)
 
 #### 📜 My recent blog posts
 
