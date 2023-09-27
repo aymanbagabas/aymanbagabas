@@ -20,9 +20,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [danielgatis/go-vte](https://github.com/danielgatis/go-vte) ([v1.0.6](https://github.com/danielgatis/go-vte/releases/tag/v1.0.6), today) - A library to parse terminal escape sequences (almost) exactly how the real hardware does.
 - [aymanbagabas/go-pty](https://github.com/aymanbagabas/go-pty) ([v0.1.1](https://github.com/aymanbagabas/go-pty/releases/tag/v0.1.1), 1 day ago) - Go Pty interface
 - [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v6.4.0](https://github.com/LazyVim/LazyVim/releases/tag/v6.4.0), 1 day ago) - Neovim config for the lazy
-- [danielgatis/go-vte](https://github.com/danielgatis/go-vte) ([v1.0.5](https://github.com/danielgatis/go-vte/releases/tag/v1.0.5), 3 days ago) - A library to parse terminal escape sequences (almost) exactly how the real hardware does.
 - [charmbracelet/mods](https://github.com/charmbracelet/mods) ([v1.0.0](https://github.com/charmbracelet/mods/releases/tag/v1.0.0), 5 days ago) - AI on the command line
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.6.1](https://github.com/charmbracelet/soft-serve/releases/tag/v0.6.1), 2 weeks ago) - The mighty, self-hostable Git server for the command line🍦
 
