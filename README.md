@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (today)
 - [charmbracelet/log](https://github.com/charmbracelet/log) - A minimal, colorful Go logging library 🪵 (1 day ago)
 - [golang/sys](https://github.com/golang/sys) - [mirror] Go packages for low-level interaction with the operating system (3 days ago)
 - [aymanbagabas/go-pty](https://github.com/aymanbagabas/go-pty) - Go Pty interface (3 days ago)
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦 (3 days ago)
-- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (4 days ago)
 
 #### 🌱 My latest projects
 
