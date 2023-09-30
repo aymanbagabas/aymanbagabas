@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (1 day ago)
+- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (today)
 - [charmbracelet/log](https://github.com/charmbracelet/log) - A minimal, colorful Go logging library 🪵 (2 days ago)
 - [golang/sys](https://github.com/golang/sys) - [mirror] Go packages for low-level interaction with the operating system (4 days ago)
 - [aymanbagabas/go-pty](https://github.com/aymanbagabas/go-pty) - Go Pty interface (4 days ago)
@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v7.0.1](https://github.com/LazyVim/LazyVim/releases/tag/v7.0.1), 1 day ago) - Neovim config for the lazy
+- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v7.0.2](https://github.com/LazyVim/LazyVim/releases/tag/v7.0.2), today) - Neovim config for the lazy
 - [danielgatis/go-vte](https://github.com/danielgatis/go-vte) ([v1.0.6](https://github.com/danielgatis/go-vte/releases/tag/v1.0.6), 3 days ago) - A library to parse terminal escape sequences (almost) exactly how the real hardware does.
 - [aymanbagabas/go-pty](https://github.com/aymanbagabas/go-pty) ([v0.1.1](https://github.com/aymanbagabas/go-pty/releases/tag/v0.1.1), 4 days ago) - Go Pty interface
 - [charmbracelet/mods](https://github.com/charmbracelet/mods) ([v1.0.0](https://github.com/charmbracelet/mods/releases/tag/v1.0.0), 1 week ago) - AI on the command line
