@@ -7,12 +7,12 @@
 - [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (today)
 - [charmbracelet/log](https://github.com/charmbracelet/log) - A minimal, colorful Go logging library 🪵 (2 days ago)
 - [golang/sys](https://github.com/golang/sys) - [mirror] Go packages for low-level interaction with the operating system (4 days ago)
-- [aymanbagabas/go-pty](https://github.com/aymanbagabas/go-pty) - Go Pty interface (4 days ago)
+- [aymanbagabas/go-pty](https://github.com/aymanbagabas/go-pty) - Cross platform Go Pty interface (4 days ago)
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦 (4 days ago)
 
 #### 🌱 My latest projects
 
-- [aymanbagabas/go-pty](https://github.com/aymanbagabas/go-pty) - Go Pty interface
+- [aymanbagabas/go-pty](https://github.com/aymanbagabas/go-pty) - Cross platform Go Pty interface
 - [aymanbagabas/go-git-daemon](https://github.com/aymanbagabas/go-git-daemon) - git-daemon implementation in golang
 - [aymanbagabas/go-udiff](https://github.com/aymanbagabas/go-udiff) - µDiff - a micro Go diffing library
 - [aymanbagabas/scoop-bucket](https://github.com/aymanbagabas/scoop-bucket) - Scoop Bucket
@@ -22,7 +22,7 @@
 
 - [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v7.0.2](https://github.com/LazyVim/LazyVim/releases/tag/v7.0.2), today) - Neovim config for the lazy
 - [danielgatis/go-vte](https://github.com/danielgatis/go-vte) ([v1.0.6](https://github.com/danielgatis/go-vte/releases/tag/v1.0.6), 3 days ago) - A library to parse terminal escape sequences (almost) exactly how the real hardware does.
-- [aymanbagabas/go-pty](https://github.com/aymanbagabas/go-pty) ([v0.1.1](https://github.com/aymanbagabas/go-pty/releases/tag/v0.1.1), 4 days ago) - Go Pty interface
+- [aymanbagabas/go-pty](https://github.com/aymanbagabas/go-pty) ([v0.1.1](https://github.com/aymanbagabas/go-pty/releases/tag/v0.1.1), 4 days ago) - Cross platform Go Pty interface
 - [charmbracelet/mods](https://github.com/charmbracelet/mods) ([v1.0.0](https://github.com/charmbracelet/mods/releases/tag/v1.0.0), 1 week ago) - AI on the command line
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.6.1](https://github.com/charmbracelet/soft-serve/releases/tag/v0.6.1), 2 weeks ago) - The mighty, self-hostable Git server for the command line🍦
 
@@ -44,7 +44,7 @@
 
 #### ⭐ Recent Stars
 
-- [aymanbagabas/go-pty](https://github.com/aymanbagabas/go-pty) - Go Pty interface (1 week ago)
+- [aymanbagabas/go-pty](https://github.com/aymanbagabas/go-pty) - Cross platform Go Pty interface (1 week ago)
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better &#39;df&#39; alternative (1 week ago)
 - [xo/terminfo](https://github.com/xo/terminfo) - A terminfo package in pure go! (3 weeks ago)
 - [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure. (3 weeks ago)
