@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix(ibl): add updated IndentBlankline highlights](https://github.com/navarasu/onedark.nvim/pull/190) on [navarasu/onedark.nvim](https://github.com/navarasu/onedark.nvim) (today)
 - [fix(ssh): add authentication middleware](https://github.com/charmbracelet/soft-serve/pull/388) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (6 days ago)
 - [Update Privado OpenVPN config files and script](https://github.com/haugene/vpn-configs-contrib/pull/239) on [haugene/vpn-configs-contrib](https://github.com/haugene/vpn-configs-contrib) (1 week ago)
 - [Dos2unix](https://github.com/aymanbagabas/go-pty/pull/7) on [aymanbagabas/go-pty](https://github.com/aymanbagabas/go-pty) (1 week ago)
 - [feat: initial implementation](https://github.com/aymanbagabas/go-pty/pull/6) on [aymanbagabas/go-pty](https://github.com/aymanbagabas/go-pty) (1 week ago)
-- [feat: disable pty emulation](https://github.com/charmbracelet/ssh/pull/7) on [charmbracelet/ssh](https://github.com/charmbracelet/ssh) (1 week ago)
 
 #### 📜 My recent blog posts
 
