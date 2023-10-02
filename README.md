@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket) - Charmbracelet Scoop Bucket (today)
+- [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (today)
+- [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺 (today)
 - [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (2 days ago)
 - [charmbracelet/log](https://github.com/charmbracelet/log) - A minimal, colorful Go logging library 🪵 (4 days ago)
-- [golang/sys](https://github.com/golang/sys) - [mirror] Go packages for low-level interaction with the operating system (6 days ago)
-- [aymanbagabas/go-pty](https://github.com/aymanbagabas/go-pty) - Cross platform Go Pty interface (6 days ago)
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦 (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -20,11 +20,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.6.2](https://github.com/charmbracelet/soft-serve/releases/tag/v0.6.2), today) - The mighty, self-hostable Git server for the command line🍦
 - [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v8.2.0](https://github.com/LazyVim/LazyVim/releases/tag/v8.2.0), today) - Neovim config for the lazy
 - [danielgatis/go-vte](https://github.com/danielgatis/go-vte) ([v1.0.6](https://github.com/danielgatis/go-vte/releases/tag/v1.0.6), 5 days ago) - A library to parse terminal escape sequences (almost) exactly how the real hardware does.
 - [aymanbagabas/go-pty](https://github.com/aymanbagabas/go-pty) ([v0.1.1](https://github.com/aymanbagabas/go-pty/releases/tag/v0.1.1), 6 days ago) - Cross platform Go Pty interface
 - [charmbracelet/mods](https://github.com/charmbracelet/mods) ([v1.0.0](https://github.com/charmbracelet/mods/releases/tag/v1.0.0), 1 week ago) - AI on the command line
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.6.1](https://github.com/charmbracelet/soft-serve/releases/tag/v0.6.1), 2 weeks ago) - The mighty, self-hostable Git server for the command line🍦
 
 #### 🔨 My recent Pull Requests
 
