@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v8.0.0](https://github.com/LazyVim/LazyVim/releases/tag/v8.0.0), 1 day ago) - Neovim config for the lazy
+- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v8.1.0](https://github.com/LazyVim/LazyVim/releases/tag/v8.1.0), today) - Neovim config for the lazy
 - [danielgatis/go-vte](https://github.com/danielgatis/go-vte) ([v1.0.6](https://github.com/danielgatis/go-vte/releases/tag/v1.0.6), 5 days ago) - A library to parse terminal escape sequences (almost) exactly how the real hardware does.
 - [aymanbagabas/go-pty](https://github.com/aymanbagabas/go-pty) ([v0.1.1](https://github.com/aymanbagabas/go-pty/releases/tag/v0.1.1), 6 days ago) - Cross platform Go Pty interface
 - [charmbracelet/mods](https://github.com/charmbracelet/mods) ([v1.0.0](https://github.com/charmbracelet/mods/releases/tag/v1.0.0), 1 week ago) - AI on the command line
