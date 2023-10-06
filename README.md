@@ -20,11 +20,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/keygen](https://github.com/charmbracelet/keygen) ([v0.5.0](https://github.com/charmbracelet/keygen/releases/tag/v0.5.0), today) - An SSH key pair generator 🗝️
 - [charmbracelet/melt](https://github.com/charmbracelet/melt) ([v0.6.0](https://github.com/charmbracelet/melt/releases/tag/v0.6.0), today) - 🧊 Backup and restore Ed25519 SSH keys with seed words.
 - [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v9.2.0](https://github.com/LazyVim/LazyVim/releases/tag/v9.2.0), today) - Neovim config for the lazy
 - [charmbracelet/log](https://github.com/charmbracelet/log) ([v0.2.5](https://github.com/charmbracelet/log/releases/tag/v0.2.5), 2 days ago) - A minimal, colorful Go logging library 🪵
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.6.2](https://github.com/charmbracelet/soft-serve/releases/tag/v0.6.2), 4 days ago) - The mighty, self-hostable Git server for the command line🍦
-- [danielgatis/go-vte](https://github.com/danielgatis/go-vte) ([v1.0.6](https://github.com/danielgatis/go-vte/releases/tag/v1.0.6), 1 week ago) - A library to parse terminal escape sequences (almost) exactly how the real hardware does.
 
 #### 🔨 My recent Pull Requests
 
