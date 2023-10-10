@@ -20,11 +20,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.9.0](https://github.com/charmbracelet/lipgloss/releases/tag/v0.9.0), today) - Style definitions for nice terminal layouts 👄
 - [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v9.8.0](https://github.com/LazyVim/LazyVim/releases/tag/v9.8.0), 1 day ago) - Neovim config for the lazy
 - [charmbracelet/keygen](https://github.com/charmbracelet/keygen) ([v0.5.0](https://github.com/charmbracelet/keygen/releases/tag/v0.5.0), 4 days ago) - An SSH key pair generator 🗝️
 - [charmbracelet/melt](https://github.com/charmbracelet/melt) ([v0.6.0](https://github.com/charmbracelet/melt/releases/tag/v0.6.0), 4 days ago) - 🧊 Backup and restore Ed25519 SSH keys with seed words.
 - [charmbracelet/log](https://github.com/charmbracelet/log) ([v0.2.5](https://github.com/charmbracelet/log/releases/tag/v0.2.5), 6 days ago) - A minimal, colorful Go logging library 🪵
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.6.2](https://github.com/charmbracelet/soft-serve/releases/tag/v0.6.2), 1 week ago) - The mighty, self-hostable Git server for the command line🍦
 
 #### 🔨 My recent Pull Requests
 
