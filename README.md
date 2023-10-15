@@ -20,8 +20,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v10.2.0](https://github.com/LazyVim/LazyVim/releases/tag/v10.2.0), today) - Neovim config for the lazy
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.9.1](https://github.com/charmbracelet/lipgloss/releases/tag/v0.9.1), 2 days ago) - Style definitions for nice terminal layouts 👄
+- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v10.2.0](https://github.com/LazyVim/LazyVim/releases/tag/v10.2.0), 1 day ago) - Neovim config for the lazy
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.9.1](https://github.com/charmbracelet/lipgloss/releases/tag/v0.9.1), 3 days ago) - Style definitions for nice terminal layouts 👄
 - [charmbracelet/keygen](https://github.com/charmbracelet/keygen) ([v0.5.0](https://github.com/charmbracelet/keygen/releases/tag/v0.5.0), 1 week ago) - An SSH key pair generator 🗝️
 - [charmbracelet/melt](https://github.com/charmbracelet/melt) ([v0.6.0](https://github.com/charmbracelet/melt/releases/tag/v0.6.0), 1 week ago) - 🧊 Backup and restore Ed25519 SSH keys with seed words.
 - [charmbracelet/log](https://github.com/charmbracelet/log) ([v0.2.5](https://github.com/charmbracelet/log/releases/tag/v0.2.5), 1 week ago) - A minimal, colorful Go logging library 🪵
