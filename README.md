@@ -20,11 +20,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [golang/tools](https://github.com/golang/tools) ([gopls/v0.14.0-pre.4](https://github.com/golang/tools/releases/tag/gopls/v0.14.0-pre.4), today) - [mirror] Go Tools
 - [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v10.4.2](https://github.com/LazyVim/LazyVim/releases/tag/v10.4.2), today) - Neovim config for the lazy
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.9.1](https://github.com/charmbracelet/lipgloss/releases/tag/v0.9.1), 5 days ago) - Style definitions for nice terminal layouts 👄
 - [charmbracelet/keygen](https://github.com/charmbracelet/keygen) ([v0.5.0](https://github.com/charmbracelet/keygen/releases/tag/v0.5.0), 1 week ago) - An SSH key pair generator 🗝️
 - [charmbracelet/melt](https://github.com/charmbracelet/melt) ([v0.6.0](https://github.com/charmbracelet/melt/releases/tag/v0.6.0), 1 week ago) - 🧊 Backup and restore Ed25519 SSH keys with seed words.
-- [charmbracelet/log](https://github.com/charmbracelet/log) ([v0.2.5](https://github.com/charmbracelet/log/releases/tag/v0.2.5), 1 week ago) - A minimal, colorful Go logging library 🪵
 
 #### 🔨 My recent Pull Requests
 
