@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦 (1 day ago)
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦 (2 days ago)
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (1 week ago)
 - [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (2 weeks ago)
 - [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket) - Charmbracelet Scoop Bucket (2 weeks ago)
@@ -20,9 +20,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v10.4.3](https://github.com/LazyVim/LazyVim/releases/tag/v10.4.3), today) - Neovim config for the lazy
-- [golang/tools](https://github.com/golang/tools) ([gopls/v0.14.0-pre.4](https://github.com/golang/tools/releases/tag/gopls/v0.14.0-pre.4), today) - [mirror] Go Tools
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.9.1](https://github.com/charmbracelet/lipgloss/releases/tag/v0.9.1), 5 days ago) - Style definitions for nice terminal layouts 👄
+- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v10.4.3](https://github.com/LazyVim/LazyVim/releases/tag/v10.4.3), 1 day ago) - Neovim config for the lazy
+- [golang/tools](https://github.com/golang/tools) ([gopls/v0.14.0-pre.4](https://github.com/golang/tools/releases/tag/gopls/v0.14.0-pre.4), 1 day ago) - [mirror] Go Tools
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.9.1](https://github.com/charmbracelet/lipgloss/releases/tag/v0.9.1), 6 days ago) - Style definitions for nice terminal layouts 👄
 - [charmbracelet/keygen](https://github.com/charmbracelet/keygen) ([v0.5.0](https://github.com/charmbracelet/keygen/releases/tag/v0.5.0), 1 week ago) - An SSH key pair generator 🗝️
 - [charmbracelet/melt](https://github.com/charmbracelet/melt) ([v0.6.0](https://github.com/charmbracelet/melt/releases/tag/v0.6.0), 1 week ago) - 🧊 Backup and restore Ed25519 SSH keys with seed words.
 
@@ -44,10 +44,10 @@
 
 #### ⭐ Recent Stars
 
-- [rivo/uniseg](https://github.com/rivo/uniseg) - Unicode Text Segmentation, Word Wrapping, and String Width Calculation in Go (1 week ago)
+- [rivo/uniseg](https://github.com/rivo/uniseg) - Unicode Text Segmentation, Word Wrapping, and String Width Calculation in Go (2 weeks ago)
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system. (2 weeks ago)
 - [aymanbagabas/go-pty](https://github.com/aymanbagabas/go-pty) - Cross platform Go Pty interface (3 weeks ago)
-- [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better &#39;df&#39; alternative (3 weeks ago)
+- [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better &#39;df&#39; alternative (4 weeks ago)
 - [xo/terminfo](https://github.com/xo/terminfo) - A terminfo package in pure go! (1 month ago)
 
 #### 📫 How to reach me
