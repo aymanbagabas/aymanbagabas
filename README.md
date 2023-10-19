@@ -4,8 +4,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦 (2 days ago)
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (1 week ago)
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦 (3 days ago)
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (2 weeks ago)
 - [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (2 weeks ago)
 - [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket) - Charmbracelet Scoop Bucket (2 weeks ago)
 - [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (2 weeks ago)
@@ -20,9 +20,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v10.4.4](https://github.com/LazyVim/LazyVim/releases/tag/v10.4.4), today) - Neovim config for the lazy
-- [golang/tools](https://github.com/golang/tools) ([gopls/v0.14.0-pre.4](https://github.com/golang/tools/releases/tag/gopls/v0.14.0-pre.4), 1 day ago) - [mirror] Go Tools
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.9.1](https://github.com/charmbracelet/lipgloss/releases/tag/v0.9.1), 6 days ago) - Style definitions for nice terminal layouts 👄
+- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v10.4.4](https://github.com/LazyVim/LazyVim/releases/tag/v10.4.4), 1 day ago) - Neovim config for the lazy
+- [golang/tools](https://github.com/golang/tools) ([gopls/v0.14.0-pre.4](https://github.com/golang/tools/releases/tag/gopls/v0.14.0-pre.4), 2 days ago) - [mirror] Go Tools
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.9.1](https://github.com/charmbracelet/lipgloss/releases/tag/v0.9.1), 1 week ago) - Style definitions for nice terminal layouts 👄
 - [charmbracelet/keygen](https://github.com/charmbracelet/keygen) ([v0.5.0](https://github.com/charmbracelet/keygen/releases/tag/v0.5.0), 1 week ago) - An SSH key pair generator 🗝️
 - [charmbracelet/melt](https://github.com/charmbracelet/melt) ([v0.6.0](https://github.com/charmbracelet/melt/releases/tag/v0.6.0), 1 week ago) - 🧊 Backup and restore Ed25519 SSH keys with seed words.
 
