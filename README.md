@@ -20,11 +20,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) ([v2.0.1](https://github.com/charmbracelet/vhs-action/releases/tag/v2.0.1), today) - Keep your GIFs up to date with VHS &#43; GitHub actions 📽️
 - [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v10.5.0](https://github.com/LazyVim/LazyVim/releases/tag/v10.5.0), 1 day ago) - Neovim config for the lazy
 - [golang/tools](https://github.com/golang/tools) ([gopls/v0.14.0-pre.4](https://github.com/golang/tools/releases/tag/gopls/v0.14.0-pre.4), 3 days ago) - [mirror] Go Tools
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.9.1](https://github.com/charmbracelet/lipgloss/releases/tag/v0.9.1), 1 week ago) - Style definitions for nice terminal layouts 👄
 - [charmbracelet/keygen](https://github.com/charmbracelet/keygen) ([v0.5.0](https://github.com/charmbracelet/keygen/releases/tag/v0.5.0), 2 weeks ago) - An SSH key pair generator 🗝️
-- [charmbracelet/melt](https://github.com/charmbracelet/melt) ([v0.6.0](https://github.com/charmbracelet/melt/releases/tag/v0.6.0), 2 weeks ago) - 🧊 Backup and restore Ed25519 SSH keys with seed words.
 
 #### 🔨 My recent Pull Requests
 
