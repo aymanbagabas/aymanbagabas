@@ -6,7 +6,7 @@
 
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦 (1 week ago)
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (2 weeks ago)
-- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (2 weeks ago)
+- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (3 weeks ago)
 - [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket) - Charmbracelet Scoop Bucket (3 weeks ago)
 - [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺 (3 weeks ago)
 
@@ -20,16 +20,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) ([v2.0.1](https://github.com/charmbracelet/vhs-action/releases/tag/v2.0.1), 3 days ago) - Keep your GIFs up to date with VHS &#43; GitHub actions 📽️
-- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v10.5.0](https://github.com/LazyVim/LazyVim/releases/tag/v10.5.0), 4 days ago) - Neovim config for the lazy
-- [golang/tools](https://github.com/golang/tools) ([gopls/v0.14.0-pre.4](https://github.com/golang/tools/releases/tag/gopls/v0.14.0-pre.4), 6 days ago) - [mirror] Go Tools
+- [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) ([v2.0.1](https://github.com/charmbracelet/vhs-action/releases/tag/v2.0.1), 4 days ago) - Keep your GIFs up to date with VHS &#43; GitHub actions 📽️
+- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v10.5.0](https://github.com/LazyVim/LazyVim/releases/tag/v10.5.0), 5 days ago) - Neovim config for the lazy
+- [golang/tools](https://github.com/golang/tools) ([gopls/v0.14.0-pre.4](https://github.com/golang/tools/releases/tag/gopls/v0.14.0-pre.4), 1 week ago) - [mirror] Go Tools
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.9.1](https://github.com/charmbracelet/lipgloss/releases/tag/v0.9.1), 1 week ago) - Style definitions for nice terminal layouts 👄
 - [charmbracelet/keygen](https://github.com/charmbracelet/keygen) ([v0.5.0](https://github.com/charmbracelet/keygen/releases/tag/v0.5.0), 2 weeks ago) - An SSH key pair generator 🗝️
 
 #### 🔨 My recent Pull Requests
 
 - [fix(ibl): add updated IndentBlankline highlights](https://github.com/navarasu/onedark.nvim/pull/190) on [navarasu/onedark.nvim](https://github.com/navarasu/onedark.nvim) (3 weeks ago)
-- [fix(ssh): add authentication middleware](https://github.com/charmbracelet/soft-serve/pull/388) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (3 weeks ago)
+- [fix(ssh): add authentication middleware](https://github.com/charmbracelet/soft-serve/pull/388) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (4 weeks ago)
 - [Update Privado OpenVPN config files and script](https://github.com/haugene/vpn-configs-contrib/pull/239) on [haugene/vpn-configs-contrib](https://github.com/haugene/vpn-configs-contrib) (4 weeks ago)
 - [Dos2unix](https://github.com/aymanbagabas/go-pty/pull/7) on [aymanbagabas/go-pty](https://github.com/aymanbagabas/go-pty) (1 month ago)
 - [feat: initial implementation](https://github.com/aymanbagabas/go-pty/pull/6) on [aymanbagabas/go-pty](https://github.com/aymanbagabas/go-pty) (1 month ago)
@@ -45,7 +45,7 @@
 #### ⭐ Recent Stars
 
 - [rivo/uniseg](https://github.com/rivo/uniseg) - Unicode Text Segmentation, Word Wrapping, and String Width Calculation in Go (2 weeks ago)
-- [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system. (2 weeks ago)
+- [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system. (3 weeks ago)
 - [aymanbagabas/go-pty](https://github.com/aymanbagabas/go-pty) - Cross platform Go Pty interface (1 month ago)
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better &#39;df&#39; alternative (1 month ago)
 - [xo/terminfo](https://github.com/xo/terminfo) - A terminfo package in pure go! (1 month ago)
