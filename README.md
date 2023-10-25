@@ -20,23 +20,23 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) ([v2.0.1](https://github.com/charmbracelet/vhs-action/releases/tag/v2.0.1), 4 days ago) - Keep your GIFs up to date with VHS &#43; GitHub actions 📽️
-- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v10.5.0](https://github.com/LazyVim/LazyVim/releases/tag/v10.5.0), 5 days ago) - Neovim config for the lazy
+- [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) ([v2.0.1](https://github.com/charmbracelet/vhs-action/releases/tag/v2.0.1), 5 days ago) - Keep your GIFs up to date with VHS &#43; GitHub actions 📽️
+- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v10.5.0](https://github.com/LazyVim/LazyVim/releases/tag/v10.5.0), 6 days ago) - Neovim config for the lazy
 - [golang/tools](https://github.com/golang/tools) ([gopls/v0.14.0-pre.4](https://github.com/golang/tools/releases/tag/gopls/v0.14.0-pre.4), 1 week ago) - [mirror] Go Tools
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.9.1](https://github.com/charmbracelet/lipgloss/releases/tag/v0.9.1), 1 week ago) - Style definitions for nice terminal layouts 👄
 - [charmbracelet/keygen](https://github.com/charmbracelet/keygen) ([v0.5.0](https://github.com/charmbracelet/keygen/releases/tag/v0.5.0), 2 weeks ago) - An SSH key pair generator 🗝️
 
 #### 🔨 My recent Pull Requests
 
-- [feat: add stash command](https://github.com/gogs/git-module/pull/101) on [gogs/git-module](https://github.com/gogs/git-module) (today)
+- [feat: add stash command](https://github.com/gogs/git-module/pull/101) on [gogs/git-module](https://github.com/gogs/git-module) (1 day ago)
 - [fix(ibl): add updated IndentBlankline highlights](https://github.com/navarasu/onedark.nvim/pull/190) on [navarasu/onedark.nvim](https://github.com/navarasu/onedark.nvim) (3 weeks ago)
 - [fix(ssh): add authentication middleware](https://github.com/charmbracelet/soft-serve/pull/388) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (4 weeks ago)
-- [Update Privado OpenVPN config files and script](https://github.com/haugene/vpn-configs-contrib/pull/239) on [haugene/vpn-configs-contrib](https://github.com/haugene/vpn-configs-contrib) (4 weeks ago)
+- [Update Privado OpenVPN config files and script](https://github.com/haugene/vpn-configs-contrib/pull/239) on [haugene/vpn-configs-contrib](https://github.com/haugene/vpn-configs-contrib) (1 month ago)
 - [Dos2unix](https://github.com/aymanbagabas/go-pty/pull/7) on [aymanbagabas/go-pty](https://github.com/aymanbagabas/go-pty) (1 month ago)
 
 #### 📜 My recent blog posts
 
-- [Self-hosted Soft Serve](https://aymanbagabas.com/blog/2023/04/28/self-hosted-soft-serve.html) (5 months ago)
+- [Self-hosted Soft Serve](https://aymanbagabas.com/blog/2023/04/28/self-hosted-soft-serve.html) (6 months ago)
 - [Simple Vim Session Management](https://aymanbagabas.com/blog/2023/04/13/simple-vim-session-management.html) (6 months ago)
 - [Blue Mountain](https://aymanbagabas.com/blog/2022/06/02/blue-mountain.html) (1 year ago)
 - [Import Notion Pages to Jekyll](https://aymanbagabas.com/blog/2022/03/29/import-notion-pages-to-jekyll.html) (2 years ago)
@@ -44,7 +44,7 @@
 
 #### ⭐ Recent Stars
 
-- [rivo/uniseg](https://github.com/rivo/uniseg) - Unicode Text Segmentation, Word Wrapping, and String Width Calculation in Go (2 weeks ago)
+- [rivo/uniseg](https://github.com/rivo/uniseg) - Unicode Text Segmentation, Word Wrapping, and String Width Calculation in Go (3 weeks ago)
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system. (3 weeks ago)
 - [aymanbagabas/go-pty](https://github.com/aymanbagabas/go-pty) - Cross platform Go Pty interface (1 month ago)
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better &#39;df&#39; alternative (1 month ago)
