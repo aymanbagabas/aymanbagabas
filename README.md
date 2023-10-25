@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [aymanbagabas/go-pty](https://github.com/aymanbagabas/go-pty) - Cross platform Go Pty interface (1 day ago)
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦 (1 week ago)
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (2 weeks ago)
 - [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (3 weeks ago)
 - [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket) - Charmbracelet Scoop Bucket (3 weeks ago)
-- [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺 (3 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -20,11 +20,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [aymanbagabas/go-pty](https://github.com/aymanbagabas/go-pty) ([v0.2.0](https://github.com/aymanbagabas/go-pty/releases/tag/v0.2.0), today) - Cross platform Go Pty interface
 - [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) ([v2.0.1](https://github.com/charmbracelet/vhs-action/releases/tag/v2.0.1), 5 days ago) - Keep your GIFs up to date with VHS &#43; GitHub actions 📽️
 - [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v10.5.0](https://github.com/LazyVim/LazyVim/releases/tag/v10.5.0), 6 days ago) - Neovim config for the lazy
 - [golang/tools](https://github.com/golang/tools) ([gopls/v0.14.0-pre.4](https://github.com/golang/tools/releases/tag/gopls/v0.14.0-pre.4), 1 week ago) - [mirror] Go Tools
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.9.1](https://github.com/charmbracelet/lipgloss/releases/tag/v0.9.1), 1 week ago) - Style definitions for nice terminal layouts 👄
-- [charmbracelet/keygen](https://github.com/charmbracelet/keygen) ([v0.5.0](https://github.com/charmbracelet/keygen/releases/tag/v0.5.0), 2 weeks ago) - An SSH key pair generator 🗝️
 
 #### 🔨 My recent Pull Requests
 
