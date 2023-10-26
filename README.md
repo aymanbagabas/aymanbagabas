@@ -20,11 +20,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v1.2.0](https://github.com/charmbracelet/wish/releases/tag/v1.2.0), today) - Make SSH apps, just like that! 💫
 - [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v10.7.1](https://github.com/LazyVim/LazyVim/releases/tag/v10.7.1), 1 day ago) - Neovim config for the lazy
 - [golang/tools](https://github.com/golang/tools) ([gopls/v0.14.0](https://github.com/golang/tools/releases/tag/gopls/v0.14.0), 1 day ago) - [mirror] Go Tools
 - [go-git/go-git](https://github.com/go-git/go-git) ([v5.10.0](https://github.com/go-git/go-git/releases/tag/v5.10.0), 1 day ago) - A highly extensible Git implementation in pure Go.
 - [aymanbagabas/go-pty](https://github.com/aymanbagabas/go-pty) ([v0.2.0](https://github.com/aymanbagabas/go-pty/releases/tag/v0.2.0), 1 day ago) - Cross platform Go Pty interface
-- [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) ([v2.0.1](https://github.com/charmbracelet/vhs-action/releases/tag/v2.0.1), 6 days ago) - Keep your GIFs up to date with VHS &#43; GitHub actions 📽️
 
 #### 🔨 My recent Pull Requests
 
