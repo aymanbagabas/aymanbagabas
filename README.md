@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [charmbracelet/git-lfs-transfer](https://github.com/charmbracelet/git-lfs-transfer) - Server-side implementation of the Git LFS pure-SSH protocol (today)
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦 (1 day ago)
 - [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (1 day ago)
 - [aymanbagabas/go-pty](https://github.com/aymanbagabas/go-pty) - Cross platform Go Pty interface (2 days ago)
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (3 weeks ago)
-- [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket) - Charmbracelet Scoop Bucket (3 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: repsect oid batch arguments](https://github.com/charmbracelet/git-lfs-transfer/pull/16) on [charmbracelet/git-lfs-transfer](https://github.com/charmbracelet/git-lfs-transfer) (today)
 - [feat: add stash command](https://github.com/gogs/git-module/pull/101) on [gogs/git-module](https://github.com/gogs/git-module) (2 days ago)
 - [fix(ibl): add updated IndentBlankline highlights](https://github.com/navarasu/onedark.nvim/pull/190) on [navarasu/onedark.nvim](https://github.com/navarasu/onedark.nvim) (3 weeks ago)
 - [fix(ssh): add authentication middleware](https://github.com/charmbracelet/soft-serve/pull/388) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 month ago)
 - [Update Privado OpenVPN config files and script](https://github.com/haugene/vpn-configs-contrib/pull/239) on [haugene/vpn-configs-contrib](https://github.com/haugene/vpn-configs-contrib) (1 month ago)
-- [Dos2unix](https://github.com/aymanbagabas/go-pty/pull/7) on [aymanbagabas/go-pty](https://github.com/aymanbagabas/go-pty) (1 month ago)
 
 #### 📜 My recent blog posts
 
