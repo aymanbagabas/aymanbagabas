@@ -4,10 +4,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/git-lfs-transfer](https://github.com/charmbracelet/git-lfs-transfer) - Server-side implementation of the Git LFS pure-SSH protocol (today)
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦 (1 day ago)
-- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (1 day ago)
-- [aymanbagabas/go-pty](https://github.com/aymanbagabas/go-pty) - Cross platform Go Pty interface (2 days ago)
+- [charmbracelet/git-lfs-transfer](https://github.com/charmbracelet/git-lfs-transfer) - Server-side implementation of the Git LFS pure-SSH protocol (1 day ago)
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦 (2 days ago)
+- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (2 days ago)
+- [aymanbagabas/go-pty](https://github.com/aymanbagabas/go-pty) - Cross platform Go Pty interface (3 days ago)
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (3 weeks ago)
 
 #### 🌱 My latest projects
@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.14.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.14.0), today) - The SSH directory ✨
-- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v1.2.0](https://github.com/charmbracelet/wish/releases/tag/v1.2.0), today) - Make SSH apps, just like that! 💫
-- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v10.7.1](https://github.com/LazyVim/LazyVim/releases/tag/v10.7.1), 1 day ago) - Neovim config for the lazy
-- [golang/tools](https://github.com/golang/tools) ([gopls/v0.14.0](https://github.com/golang/tools/releases/tag/gopls/v0.14.0), 1 day ago) - [mirror] Go Tools
-- [go-git/go-git](https://github.com/go-git/go-git) ([v5.10.0](https://github.com/go-git/go-git/releases/tag/v5.10.0), 1 day ago) - A highly extensible Git implementation in pure Go.
+- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.14.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.14.0), 1 day ago) - The SSH directory ✨
+- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v1.2.0](https://github.com/charmbracelet/wish/releases/tag/v1.2.0), 1 day ago) - Make SSH apps, just like that! 💫
+- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v10.7.1](https://github.com/LazyVim/LazyVim/releases/tag/v10.7.1), 2 days ago) - Neovim config for the lazy
+- [golang/tools](https://github.com/golang/tools) ([gopls/v0.14.0](https://github.com/golang/tools/releases/tag/gopls/v0.14.0), 2 days ago) - [mirror] Go Tools
+- [go-git/go-git](https://github.com/go-git/go-git) ([v5.10.0](https://github.com/go-git/go-git/releases/tag/v5.10.0), 2 days ago) - A highly extensible Git implementation in pure Go.
 
 #### 🔨 My recent Pull Requests
 
-- [fix(lfs): ensure line feed after each status message](https://github.com/bk2204/scutiger/pull/12) on [bk2204/scutiger](https://github.com/bk2204/scutiger) (today)
-- [doc: update ssh_adapter.md](https://github.com/git-lfs/git-lfs/pull/5560) on [git-lfs/git-lfs](https://github.com/git-lfs/git-lfs) (today)
-- [feat: add logger interface](https://github.com/charmbracelet/git-lfs-transfer/pull/17) on [charmbracelet/git-lfs-transfer](https://github.com/charmbracelet/git-lfs-transfer) (today)
-- [feat: repsect oid batch arguments](https://github.com/charmbracelet/git-lfs-transfer/pull/16) on [charmbracelet/git-lfs-transfer](https://github.com/charmbracelet/git-lfs-transfer) (today)
-- [feat: add stash command](https://github.com/gogs/git-module/pull/101) on [gogs/git-module](https://github.com/gogs/git-module) (2 days ago)
+- [fix(lfs): ensure line feed after each status message](https://github.com/bk2204/scutiger/pull/12) on [bk2204/scutiger](https://github.com/bk2204/scutiger) (1 day ago)
+- [doc: update ssh_adapter.md](https://github.com/git-lfs/git-lfs/pull/5560) on [git-lfs/git-lfs](https://github.com/git-lfs/git-lfs) (1 day ago)
+- [feat: add logger interface](https://github.com/charmbracelet/git-lfs-transfer/pull/17) on [charmbracelet/git-lfs-transfer](https://github.com/charmbracelet/git-lfs-transfer) (1 day ago)
+- [feat: repsect oid batch arguments](https://github.com/charmbracelet/git-lfs-transfer/pull/16) on [charmbracelet/git-lfs-transfer](https://github.com/charmbracelet/git-lfs-transfer) (1 day ago)
+- [feat: add stash command](https://github.com/gogs/git-module/pull/101) on [gogs/git-module](https://github.com/gogs/git-module) (3 days ago)
 
 #### 📜 My recent blog posts
 
