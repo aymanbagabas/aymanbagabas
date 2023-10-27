@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [refactor: rename pkgs](https://github.com/charmbracelet/soft-serve/pull/408) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (today)
 - [feat: add tests and export capabilities and protocol version](https://github.com/charmbracelet/git-lfs-transfer/pull/21) on [charmbracelet/git-lfs-transfer](https://github.com/charmbracelet/git-lfs-transfer) (today)
 - [fix: oid pointer relative path](https://github.com/charmbracelet/git-lfs-transfer/pull/20) on [charmbracelet/git-lfs-transfer](https://github.com/charmbracelet/git-lfs-transfer) (today)
 - [fix(lfs): ensure line feed after each status message](https://github.com/bk2204/scutiger/pull/12) on [bk2204/scutiger](https://github.com/bk2204/scutiger) (1 day ago)
 - [doc: update ssh_adapter.md](https://github.com/git-lfs/git-lfs/pull/5560) on [git-lfs/git-lfs](https://github.com/git-lfs/git-lfs) (1 day ago)
-- [feat: add logger interface](https://github.com/charmbracelet/git-lfs-transfer/pull/17) on [charmbracelet/git-lfs-transfer](https://github.com/charmbracelet/git-lfs-transfer) (1 day ago)
 
 #### 📜 My recent blog posts
 
