@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [caarlos0/env](https://github.com/caarlos0/env) ([v10.0.0](https://github.com/caarlos0/env/releases/tag/v10.0.0), today) - A simple and zero-dependencies library to parse environment variables into structs
 - [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.14.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.14.0), 1 day ago) - The SSH directory ✨
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v1.2.0](https://github.com/charmbracelet/wish/releases/tag/v1.2.0), 1 day ago) - Make SSH apps, just like that! 💫
 - [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v10.7.1](https://github.com/LazyVim/LazyVim/releases/tag/v10.7.1), 2 days ago) - Neovim config for the lazy
 - [golang/tools](https://github.com/golang/tools) ([gopls/v0.14.0](https://github.com/golang/tools/releases/tag/gopls/v0.14.0), 2 days ago) - [mirror] Go Tools
-- [go-git/go-git](https://github.com/go-git/go-git) ([v5.10.0](https://github.com/go-git/go-git/releases/tag/v5.10.0), 2 days ago) - A highly extensible Git implementation in pure Go.
 
 #### 🔨 My recent Pull Requests
 
+- [refactor,fix: add rename lfs objects migration](https://github.com/charmbracelet/soft-serve/pull/409) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (today)
 - [refactor: rename pkgs](https://github.com/charmbracelet/soft-serve/pull/408) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (today)
 - [feat: add tests and export capabilities and protocol version](https://github.com/charmbracelet/git-lfs-transfer/pull/21) on [charmbracelet/git-lfs-transfer](https://github.com/charmbracelet/git-lfs-transfer) (today)
 - [fix: oid pointer relative path](https://github.com/charmbracelet/git-lfs-transfer/pull/20) on [charmbracelet/git-lfs-transfer](https://github.com/charmbracelet/git-lfs-transfer) (today)
 - [fix(lfs): ensure line feed after each status message](https://github.com/bk2204/scutiger/pull/12) on [bk2204/scutiger](https://github.com/bk2204/scutiger) (1 day ago)
-- [doc: update ssh_adapter.md](https://github.com/git-lfs/git-lfs/pull/5560) on [git-lfs/git-lfs](https://github.com/git-lfs/git-lfs) (1 day ago)
 
 #### 📜 My recent blog posts
 
