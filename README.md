@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦 (today)
-- [charmbracelet/git-lfs-transfer](https://github.com/charmbracelet/git-lfs-transfer) - Server-side implementation of the Git LFS pure-SSH protocol (today)
-- [git-lfs/git-lfs](https://github.com/git-lfs/git-lfs) - Git extension for versioning large files (1 day ago)
-- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (2 days ago)
-- [aymanbagabas/go-pty](https://github.com/aymanbagabas/go-pty) - Cross platform Go Pty interface (3 days ago)
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦 (1 day ago)
+- [charmbracelet/git-lfs-transfer](https://github.com/charmbracelet/git-lfs-transfer) - Server-side implementation of the Git LFS pure-SSH protocol (1 day ago)
+- [git-lfs/git-lfs](https://github.com/git-lfs/git-lfs) - Git extension for versioning large files (2 days ago)
+- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (3 days ago)
+- [aymanbagabas/go-pty](https://github.com/aymanbagabas/go-pty) - Cross platform Go Pty interface (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [caarlos0/env](https://github.com/caarlos0/env) ([v10.0.0](https://github.com/caarlos0/env/releases/tag/v10.0.0), today) - A simple and zero-dependencies library to parse environment variables into structs
-- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.14.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.14.0), 1 day ago) - The SSH directory ✨
-- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v1.2.0](https://github.com/charmbracelet/wish/releases/tag/v1.2.0), 1 day ago) - Make SSH apps, just like that! 💫
-- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v10.7.1](https://github.com/LazyVim/LazyVim/releases/tag/v10.7.1), 2 days ago) - Neovim config for the lazy
-- [golang/tools](https://github.com/golang/tools) ([gopls/v0.14.0](https://github.com/golang/tools/releases/tag/gopls/v0.14.0), 2 days ago) - [mirror] Go Tools
+- [caarlos0/env](https://github.com/caarlos0/env) ([v10.0.0](https://github.com/caarlos0/env/releases/tag/v10.0.0), 1 day ago) - A simple and zero-dependencies library to parse environment variables into structs
+- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.14.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.14.0), 2 days ago) - The SSH directory ✨
+- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v1.2.0](https://github.com/charmbracelet/wish/releases/tag/v1.2.0), 2 days ago) - Make SSH apps, just like that! 💫
+- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v10.7.1](https://github.com/LazyVim/LazyVim/releases/tag/v10.7.1), 3 days ago) - Neovim config for the lazy
+- [golang/tools](https://github.com/golang/tools) ([gopls/v0.14.0](https://github.com/golang/tools/releases/tag/gopls/v0.14.0), 3 days ago) - [mirror] Go Tools
 
 #### 🔨 My recent Pull Requests
 
-- [refactor,fix: add rename lfs objects migration](https://github.com/charmbracelet/soft-serve/pull/409) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (today)
-- [refactor: rename pkgs](https://github.com/charmbracelet/soft-serve/pull/408) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (today)
-- [feat: add tests and export capabilities and protocol version](https://github.com/charmbracelet/git-lfs-transfer/pull/21) on [charmbracelet/git-lfs-transfer](https://github.com/charmbracelet/git-lfs-transfer) (today)
-- [fix: oid pointer relative path](https://github.com/charmbracelet/git-lfs-transfer/pull/20) on [charmbracelet/git-lfs-transfer](https://github.com/charmbracelet/git-lfs-transfer) (today)
-- [fix(lfs): ensure line feed after each status message](https://github.com/bk2204/scutiger/pull/12) on [bk2204/scutiger](https://github.com/bk2204/scutiger) (1 day ago)
+- [refactor,fix: add rename lfs objects migration](https://github.com/charmbracelet/soft-serve/pull/409) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 day ago)
+- [refactor: rename pkgs](https://github.com/charmbracelet/soft-serve/pull/408) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 day ago)
+- [feat: add tests and export capabilities and protocol version](https://github.com/charmbracelet/git-lfs-transfer/pull/21) on [charmbracelet/git-lfs-transfer](https://github.com/charmbracelet/git-lfs-transfer) (1 day ago)
+- [fix: oid pointer relative path](https://github.com/charmbracelet/git-lfs-transfer/pull/20) on [charmbracelet/git-lfs-transfer](https://github.com/charmbracelet/git-lfs-transfer) (1 day ago)
+- [fix(lfs): ensure line feed after each status message](https://github.com/bk2204/scutiger/pull/12) on [bk2204/scutiger](https://github.com/bk2204/scutiger) (2 days ago)
 
 #### 📜 My recent blog posts
 
