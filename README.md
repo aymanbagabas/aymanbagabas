@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Implement upload-server-info](https://github.com/go-git/go-git/pull/896) on [go-git/go-git](https://github.com/go-git/go-git) (today)
 - [refactor,fix: add rename lfs objects migration](https://github.com/charmbracelet/soft-serve/pull/409) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (2 days ago)
 - [refactor: rename pkgs](https://github.com/charmbracelet/soft-serve/pull/408) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (2 days ago)
 - [feat: add tests and export capabilities and protocol version](https://github.com/charmbracelet/git-lfs-transfer/pull/21) on [charmbracelet/git-lfs-transfer](https://github.com/charmbracelet/git-lfs-transfer) (2 days ago)
 - [fix: oid pointer relative path](https://github.com/charmbracelet/git-lfs-transfer/pull/20) on [charmbracelet/git-lfs-transfer](https://github.com/charmbracelet/git-lfs-transfer) (2 days ago)
-- [fix(lfs): ensure line feed after each status message](https://github.com/bk2204/scutiger/pull/12) on [bk2204/scutiger](https://github.com/bk2204/scutiger) (3 days ago)
 
 #### 📜 My recent blog posts
 
