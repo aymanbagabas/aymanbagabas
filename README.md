@@ -20,11 +20,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [golang/tools](https://github.com/golang/tools) ([gopls/v0.14.1](https://github.com/golang/tools/releases/tag/gopls/v0.14.1), today) - [mirror] Go Tools
 - [caarlos0/env](https://github.com/caarlos0/env) ([v10.0.0](https://github.com/caarlos0/env/releases/tag/v10.0.0), 3 days ago) - A simple and zero-dependencies library to parse environment variables into structs
 - [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.14.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.14.0), 4 days ago) - The SSH directory ✨
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v1.2.0](https://github.com/charmbracelet/wish/releases/tag/v1.2.0), 4 days ago) - Make SSH apps, just like that! 💫
 - [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v10.7.1](https://github.com/LazyVim/LazyVim/releases/tag/v10.7.1), 5 days ago) - Neovim config for the lazy
-- [golang/tools](https://github.com/golang/tools) ([gopls/v0.14.0](https://github.com/golang/tools/releases/tag/gopls/v0.14.0), 5 days ago) - [mirror] Go Tools
 
 #### 🔨 My recent Pull Requests
 
