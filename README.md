@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦 (3 days ago)
-- [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket) - Charmbracelet Scoop Bucket (3 days ago)
-- [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺 (3 days ago)
-- [charmbracelet/log](https://github.com/charmbracelet/log) - A minimal, colorful Go logging library 🪵 (4 days ago)
-- [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go. (6 days ago)
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦 (4 days ago)
+- [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket) - Charmbracelet Scoop Bucket (4 days ago)
+- [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺 (4 days ago)
+- [charmbracelet/log](https://github.com/charmbracelet/log) - A minimal, colorful Go logging library 🪵 (5 days ago)
+- [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go. (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -20,17 +20,17 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v10.8.0](https://github.com/LazyVim/LazyVim/releases/tag/v10.8.0), today) - Neovim config for the lazy
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.7.1](https://github.com/charmbracelet/soft-serve/releases/tag/v0.7.1), 3 days ago) - The mighty, self-hostable Git server for the command line🍦
-- [golang/tools](https://github.com/golang/tools) ([gopls/v0.14.1](https://github.com/golang/tools/releases/tag/gopls/v0.14.1), 5 days ago) - [mirror] Go Tools
+- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v10.8.0](https://github.com/LazyVim/LazyVim/releases/tag/v10.8.0), 1 day ago) - Neovim config for the lazy
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.7.1](https://github.com/charmbracelet/soft-serve/releases/tag/v0.7.1), 4 days ago) - The mighty, self-hostable Git server for the command line🍦
+- [golang/tools](https://github.com/golang/tools) ([gopls/v0.14.1](https://github.com/golang/tools/releases/tag/gopls/v0.14.1), 6 days ago) - [mirror] Go Tools
 - [caarlos0/env](https://github.com/caarlos0/env) ([v10.0.0](https://github.com/caarlos0/env/releases/tag/v10.0.0), 1 week ago) - A simple and zero-dependencies library to parse environment variables into structs
 - [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.14.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.14.0), 1 week ago) - The SSH directory ✨
 
 #### 🔨 My recent Pull Requests
 
-- [feat: set custom styles](https://github.com/charmbracelet/log/pull/84) on [charmbracelet/log](https://github.com/charmbracelet/log) (3 days ago)
-- [doc: update readme](https://github.com/charmbracelet/soft-serve/pull/413) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (4 days ago)
-- [Implement upload-server-info](https://github.com/go-git/go-git/pull/896) on [go-git/go-git](https://github.com/go-git/go-git) (6 days ago)
+- [feat: set custom styles](https://github.com/charmbracelet/log/pull/84) on [charmbracelet/log](https://github.com/charmbracelet/log) (4 days ago)
+- [doc: update readme](https://github.com/charmbracelet/soft-serve/pull/413) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (5 days ago)
+- [Implement upload-server-info](https://github.com/go-git/go-git/pull/896) on [go-git/go-git](https://github.com/go-git/go-git) (1 week ago)
 - [refactor,fix: add rename lfs objects migration](https://github.com/charmbracelet/soft-serve/pull/409) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 week ago)
 - [refactor: rename pkgs](https://github.com/charmbracelet/soft-serve/pull/408) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 week ago)
 
