@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: add log command](https://github.com/charmbracelet/gum/pull/449) on [charmbracelet/gum](https://github.com/charmbracelet/gum) (today)
 - [feat: set custom styles](https://github.com/charmbracelet/log/pull/84) on [charmbracelet/log](https://github.com/charmbracelet/log) (5 days ago)
 - [doc: update readme](https://github.com/charmbracelet/soft-serve/pull/413) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (6 days ago)
 - [Implement upload-server-info](https://github.com/go-git/go-git/pull/896) on [go-git/go-git](https://github.com/go-git/go-git) (1 week ago)
 - [refactor,fix: add rename lfs objects migration](https://github.com/charmbracelet/soft-serve/pull/409) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 week ago)
-- [refactor: rename pkgs](https://github.com/charmbracelet/soft-serve/pull/408) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 week ago)
 
 #### 📜 My recent blog posts
 
