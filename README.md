@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [utils: remove ioutil.Pipe and use std library io.Pipe](https://github.com/go-git/go-git/pull/922) on [go-git/go-git](https://github.com/go-git/go-git) (today)
 - [Refactor server logic](https://github.com/go-git/go-git/pull/921) on [go-git/go-git](https://github.com/go-git/go-git) (3 days ago)
 - [git: add tracer package](https://github.com/go-git/go-git/pull/916) on [go-git/go-git](https://github.com/go-git/go-git) (5 days ago)
 - [cli: separate go module for cli](https://github.com/go-git/go-git/pull/914) on [go-git/go-git](https://github.com/go-git/go-git) (6 days ago)
 - [feat: add log command](https://github.com/charmbracelet/gum/pull/449) on [charmbracelet/gum](https://github.com/charmbracelet/gum) (1 week ago)
-- [feat: set custom styles](https://github.com/charmbracelet/log/pull/84) on [charmbracelet/log](https://github.com/charmbracelet/log) (1 week ago)
 
 #### 📜 My recent blog posts
 
