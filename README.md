@@ -4,10 +4,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/log](https://github.com/charmbracelet/log) - A minimal, colorful Go logging library 🪵 (4 days ago)
-- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (4 days ago)
-- [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go. (5 days ago)
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦 (6 days ago)
+- [charmbracelet/log](https://github.com/charmbracelet/log) - A minimal, colorful Go logging library 🪵 (5 days ago)
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (5 days ago)
+- [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go. (6 days ago)
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦 (1 week ago)
 - [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket) - Charmbracelet Scoop Bucket (1 week ago)
 
 #### 🌱 My latest projects
@@ -20,18 +20,18 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/log](https://github.com/charmbracelet/log) ([v0.3.0](https://github.com/charmbracelet/log/releases/tag/v0.3.0), 5 days ago) - A minimal, colorful Go logging library 🪵
+- [charmbracelet/log](https://github.com/charmbracelet/log) ([v0.3.0](https://github.com/charmbracelet/log/releases/tag/v0.3.0), 6 days ago) - A minimal, colorful Go logging library 🪵
 - [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v10.8.0](https://github.com/LazyVim/LazyVim/releases/tag/v10.8.0), 1 week ago) - Neovim config for the lazy
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.7.1](https://github.com/charmbracelet/soft-serve/releases/tag/v0.7.1), 1 week ago) - The mighty, self-hostable Git server for the command line🍦
-- [golang/tools](https://github.com/golang/tools) ([gopls/v0.14.1](https://github.com/golang/tools/releases/tag/gopls/v0.14.1), 1 week ago) - [mirror] Go Tools
+- [golang/tools](https://github.com/golang/tools) ([gopls/v0.14.1](https://github.com/golang/tools/releases/tag/gopls/v0.14.1), 2 weeks ago) - [mirror] Go Tools
 - [caarlos0/env](https://github.com/caarlos0/env) ([v10.0.0](https://github.com/caarlos0/env/releases/tag/v10.0.0), 2 weeks ago) - A simple and zero-dependencies library to parse environment variables into structs
 
 #### 🔨 My recent Pull Requests
 
-- [Refactor server logic](https://github.com/go-git/go-git/pull/921) on [go-git/go-git](https://github.com/go-git/go-git) (2 days ago)
-- [git: add tracer package](https://github.com/go-git/go-git/pull/916) on [go-git/go-git](https://github.com/go-git/go-git) (4 days ago)
-- [cli: separate go module for cli](https://github.com/go-git/go-git/pull/914) on [go-git/go-git](https://github.com/go-git/go-git) (5 days ago)
-- [feat: add log command](https://github.com/charmbracelet/gum/pull/449) on [charmbracelet/gum](https://github.com/charmbracelet/gum) (6 days ago)
+- [Refactor server logic](https://github.com/go-git/go-git/pull/921) on [go-git/go-git](https://github.com/go-git/go-git) (3 days ago)
+- [git: add tracer package](https://github.com/go-git/go-git/pull/916) on [go-git/go-git](https://github.com/go-git/go-git) (5 days ago)
+- [cli: separate go module for cli](https://github.com/go-git/go-git/pull/914) on [go-git/go-git](https://github.com/go-git/go-git) (6 days ago)
+- [feat: add log command](https://github.com/charmbracelet/gum/pull/449) on [charmbracelet/gum](https://github.com/charmbracelet/gum) (1 week ago)
 - [feat: set custom styles](https://github.com/charmbracelet/log/pull/84) on [charmbracelet/log](https://github.com/charmbracelet/log) (1 week ago)
 
 #### 📜 My recent blog posts
