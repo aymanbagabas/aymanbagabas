@@ -4,9 +4,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/log](https://github.com/charmbracelet/log) - A minimal, colorful Go logging library 🪵 (5 days ago)
-- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (5 days ago)
-- [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go. (6 days ago)
+- [charmbracelet/log](https://github.com/charmbracelet/log) - A minimal, colorful Go logging library 🪵 (6 days ago)
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (6 days ago)
+- [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go. (1 week ago)
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦 (1 week ago)
 - [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket) - Charmbracelet Scoop Bucket (1 week ago)
 
@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/log](https://github.com/charmbracelet/log) ([v0.3.0](https://github.com/charmbracelet/log/releases/tag/v0.3.0), 6 days ago) - A minimal, colorful Go logging library 🪵
+- [charmbracelet/log](https://github.com/charmbracelet/log) ([v0.3.0](https://github.com/charmbracelet/log/releases/tag/v0.3.0), 1 week ago) - A minimal, colorful Go logging library 🪵
 - [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v10.8.0](https://github.com/LazyVim/LazyVim/releases/tag/v10.8.0), 1 week ago) - Neovim config for the lazy
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.7.1](https://github.com/charmbracelet/soft-serve/releases/tag/v0.7.1), 1 week ago) - The mighty, self-hostable Git server for the command line🍦
 - [golang/tools](https://github.com/golang/tools) ([gopls/v0.14.1](https://github.com/golang/tools/releases/tag/gopls/v0.14.1), 2 weeks ago) - [mirror] Go Tools
@@ -28,10 +28,10 @@
 
 #### 🔨 My recent Pull Requests
 
-- [utils: remove ioutil.Pipe and use std library io.Pipe](https://github.com/go-git/go-git/pull/922) on [go-git/go-git](https://github.com/go-git/go-git) (today)
-- [Refactor server logic](https://github.com/go-git/go-git/pull/921) on [go-git/go-git](https://github.com/go-git/go-git) (3 days ago)
-- [git: add tracer package](https://github.com/go-git/go-git/pull/916) on [go-git/go-git](https://github.com/go-git/go-git) (5 days ago)
-- [cli: separate go module for cli](https://github.com/go-git/go-git/pull/914) on [go-git/go-git](https://github.com/go-git/go-git) (6 days ago)
+- [utils: remove ioutil.Pipe and use std library io.Pipe](https://github.com/go-git/go-git/pull/922) on [go-git/go-git](https://github.com/go-git/go-git) (1 day ago)
+- [Refactor server logic](https://github.com/go-git/go-git/pull/921) on [go-git/go-git](https://github.com/go-git/go-git) (4 days ago)
+- [git: add tracer package](https://github.com/go-git/go-git/pull/916) on [go-git/go-git](https://github.com/go-git/go-git) (6 days ago)
+- [cli: separate go module for cli](https://github.com/go-git/go-git/pull/914) on [go-git/go-git](https://github.com/go-git/go-git) (1 week ago)
 - [feat: add log command](https://github.com/charmbracelet/gum/pull/449) on [charmbracelet/gum](https://github.com/charmbracelet/gum) (1 week ago)
 
 #### 📜 My recent blog posts
