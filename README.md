@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix(http): times out on large repositories](https://github.com/charmbracelet/soft-serve/pull/428) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (today)
 - [utils: remove ioutil.Pipe and use std library io.Pipe](https://github.com/go-git/go-git/pull/922) on [go-git/go-git](https://github.com/go-git/go-git) (2 days ago)
 - [Refactor server logic](https://github.com/go-git/go-git/pull/921) on [go-git/go-git](https://github.com/go-git/go-git) (5 days ago)
 - [git: add tracer package](https://github.com/go-git/go-git/pull/916) on [go-git/go-git](https://github.com/go-git/go-git) (1 week ago)
 - [cli: separate go module for cli](https://github.com/go-git/go-git/pull/914) on [go-git/go-git](https://github.com/go-git/go-git) (1 week ago)
-- [feat: add log command](https://github.com/charmbracelet/gum/pull/449) on [charmbracelet/gum](https://github.com/charmbracelet/gum) (1 week ago)
 
 #### 📜 My recent blog posts
 
