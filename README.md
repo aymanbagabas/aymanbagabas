@@ -4,10 +4,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket) - Charmbracelet Scoop Bucket (today)
-- [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺 (today)
-- [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go. (today)
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦 (today)
+- [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket) - Charmbracelet Scoop Bucket (1 day ago)
+- [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺 (1 day ago)
+- [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go. (1 day ago)
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦 (1 day ago)
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (1 week ago)
 
 #### 🌱 My latest projects
@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [golang/tools](https://github.com/golang/tools) ([gopls/v0.14.2](https://github.com/golang/tools/releases/tag/gopls/v0.14.2), today) - [mirror] Go Tools
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.7.2](https://github.com/charmbracelet/soft-serve/releases/tag/v0.7.2), today) - The mighty, self-hostable Git server for the command line🍦
+- [golang/tools](https://github.com/golang/tools) ([gopls/v0.14.2](https://github.com/golang/tools/releases/tag/gopls/v0.14.2), 1 day ago) - [mirror] Go Tools
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.7.2](https://github.com/charmbracelet/soft-serve/releases/tag/v0.7.2), 1 day ago) - The mighty, self-hostable Git server for the command line🍦
 - [charmbracelet/log](https://github.com/charmbracelet/log) ([v0.3.0](https://github.com/charmbracelet/log/releases/tag/v0.3.0), 1 week ago) - A minimal, colorful Go logging library 🪵
 - [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v10.8.0](https://github.com/LazyVim/LazyVim/releases/tag/v10.8.0), 1 week ago) - Neovim config for the lazy
-- [caarlos0/env](https://github.com/caarlos0/env) ([v10.0.0](https://github.com/caarlos0/env/releases/tag/v10.0.0), 2 weeks ago) - A simple and zero-dependencies library to parse environment variables into structs
+- [caarlos0/env](https://github.com/caarlos0/env) ([v10.0.0](https://github.com/caarlos0/env/releases/tag/v10.0.0), 3 weeks ago) - A simple and zero-dependencies library to parse environment variables into structs
 
 #### 🔨 My recent Pull Requests
 
-- [Refactor plumbing/transport command](https://github.com/go-git/go-git/pull/934) on [go-git/go-git](https://github.com/go-git/go-git) (today)
-- [plumbing: fix empty uploadpack request error](https://github.com/go-git/go-git/pull/932) on [go-git/go-git](https://github.com/go-git/go-git) (today)
-- [utils: move trace to utils](https://github.com/go-git/go-git/pull/931) on [go-git/go-git](https://github.com/go-git/go-git) (today)
-- [fix(http): times out on large repositories](https://github.com/charmbracelet/soft-serve/pull/428) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 day ago)
-- [utils: remove ioutil.Pipe and use std library io.Pipe](https://github.com/go-git/go-git/pull/922) on [go-git/go-git](https://github.com/go-git/go-git) (3 days ago)
+- [Refactor plumbing/transport command](https://github.com/go-git/go-git/pull/934) on [go-git/go-git](https://github.com/go-git/go-git) (1 day ago)
+- [plumbing: fix empty uploadpack request error](https://github.com/go-git/go-git/pull/932) on [go-git/go-git](https://github.com/go-git/go-git) (1 day ago)
+- [utils: move trace to utils](https://github.com/go-git/go-git/pull/931) on [go-git/go-git](https://github.com/go-git/go-git) (1 day ago)
+- [fix(http): times out on large repositories](https://github.com/charmbracelet/soft-serve/pull/428) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (2 days ago)
+- [utils: remove ioutil.Pipe and use std library io.Pipe](https://github.com/go-git/go-git/pull/922) on [go-git/go-git](https://github.com/go-git/go-git) (4 days ago)
 
 #### 📜 My recent blog posts
 
