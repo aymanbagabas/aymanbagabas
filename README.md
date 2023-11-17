@@ -20,11 +20,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/mods](https://github.com/charmbracelet/mods) ([v1.1.0](https://github.com/charmbracelet/mods/releases/tag/v1.1.0), today) - AI on the command line
 - [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.14.1](https://github.com/charmbracelet/wishlist/releases/tag/v0.14.1), today) - The SSH directory ✨
 - [golang/tools](https://github.com/golang/tools) ([gopls/v0.14.2](https://github.com/golang/tools/releases/tag/gopls/v0.14.2), 1 day ago) - [mirror] Go Tools
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.7.2](https://github.com/charmbracelet/soft-serve/releases/tag/v0.7.2), 1 day ago) - The mighty, self-hostable Git server for the command line🍦
 - [charmbracelet/log](https://github.com/charmbracelet/log) ([v0.3.0](https://github.com/charmbracelet/log/releases/tag/v0.3.0), 1 week ago) - A minimal, colorful Go logging library 🪵
-- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v10.8.0](https://github.com/LazyVim/LazyVim/releases/tag/v10.8.0), 1 week ago) - Neovim config for the lazy
 
 #### 🔨 My recent Pull Requests
 
