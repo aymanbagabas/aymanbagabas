@@ -4,10 +4,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket) - Charmbracelet Scoop Bucket (2 days ago)
-- [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺 (2 days ago)
-- [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go. (2 days ago)
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦 (2 days ago)
+- [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket) - Charmbracelet Scoop Bucket (3 days ago)
+- [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺 (3 days ago)
+- [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go. (3 days ago)
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦 (3 days ago)
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (1 week ago)
 
 #### 🌱 My latest projects
@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/mods](https://github.com/charmbracelet/mods) ([v1.1.0](https://github.com/charmbracelet/mods/releases/tag/v1.1.0), 1 day ago) - AI on the command line
-- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.14.1](https://github.com/charmbracelet/wishlist/releases/tag/v0.14.1), 1 day ago) - The SSH directory ✨
-- [golang/tools](https://github.com/golang/tools) ([gopls/v0.14.2](https://github.com/golang/tools/releases/tag/gopls/v0.14.2), 2 days ago) - [mirror] Go Tools
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.7.2](https://github.com/charmbracelet/soft-serve/releases/tag/v0.7.2), 2 days ago) - The mighty, self-hostable Git server for the command line🍦
+- [charmbracelet/mods](https://github.com/charmbracelet/mods) ([v1.1.0](https://github.com/charmbracelet/mods/releases/tag/v1.1.0), 2 days ago) - AI on the command line
+- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.14.1](https://github.com/charmbracelet/wishlist/releases/tag/v0.14.1), 2 days ago) - The SSH directory ✨
+- [golang/tools](https://github.com/golang/tools) ([gopls/v0.14.2](https://github.com/golang/tools/releases/tag/gopls/v0.14.2), 3 days ago) - [mirror] Go Tools
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.7.2](https://github.com/charmbracelet/soft-serve/releases/tag/v0.7.2), 3 days ago) - The mighty, self-hostable Git server for the command line🍦
 - [charmbracelet/log](https://github.com/charmbracelet/log) ([v0.3.0](https://github.com/charmbracelet/log/releases/tag/v0.3.0), 1 week ago) - A minimal, colorful Go logging library 🪵
 
 #### 🔨 My recent Pull Requests
 
-- [Respect pktline error-line errors](https://github.com/go-git/go-git/pull/936) on [go-git/go-git](https://github.com/go-git/go-git) (1 day ago)
-- [Refactor plumbing/transport command](https://github.com/go-git/go-git/pull/934) on [go-git/go-git](https://github.com/go-git/go-git) (2 days ago)
-- [plumbing: fix empty uploadpack request error](https://github.com/go-git/go-git/pull/932) on [go-git/go-git](https://github.com/go-git/go-git) (2 days ago)
-- [utils: move trace to utils](https://github.com/go-git/go-git/pull/931) on [go-git/go-git](https://github.com/go-git/go-git) (2 days ago)
-- [fix(http): times out on large repositories](https://github.com/charmbracelet/soft-serve/pull/428) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (3 days ago)
+- [Respect pktline error-line errors](https://github.com/go-git/go-git/pull/936) on [go-git/go-git](https://github.com/go-git/go-git) (2 days ago)
+- [Refactor plumbing/transport command](https://github.com/go-git/go-git/pull/934) on [go-git/go-git](https://github.com/go-git/go-git) (3 days ago)
+- [plumbing: fix empty uploadpack request error](https://github.com/go-git/go-git/pull/932) on [go-git/go-git](https://github.com/go-git/go-git) (3 days ago)
+- [utils: move trace to utils](https://github.com/go-git/go-git/pull/931) on [go-git/go-git](https://github.com/go-git/go-git) (3 days ago)
+- [fix(http): times out on large repositories](https://github.com/charmbracelet/soft-serve/pull/428) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (4 days ago)
 
 #### 📜 My recent blog posts
 
@@ -47,7 +47,7 @@
 - [rivo/uniseg](https://github.com/rivo/uniseg) - Unicode Text Segmentation, Word Wrapping, and String Width Calculation in Go (1 month ago)
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system. (1 month ago)
 - [aymanbagabas/go-pty](https://github.com/aymanbagabas/go-pty) - Cross platform Go Pty interface (1 month ago)
-- [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better &#39;df&#39; alternative (1 month ago)
+- [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better &#39;df&#39; alternative (2 months ago)
 - [xo/terminfo](https://github.com/xo/terminfo) - A terminfo package in pure go! (2 months ago)
 
 #### 📫 How to reach me
