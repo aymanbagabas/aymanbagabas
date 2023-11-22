@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Refactor transport and cleanup](https://github.com/go-git/go-git/pull/938) on [go-git/go-git](https://github.com/go-git/go-git) (today)
 - [fix: use const colors to skip reading querying for the terminal bg color](https://github.com/charmbracelet/log/pull/93) on [charmbracelet/log](https://github.com/charmbracelet/log) (today)
 - [Respect pktline error-line errors](https://github.com/go-git/go-git/pull/936) on [go-git/go-git](https://github.com/go-git/go-git) (5 days ago)
 - [Refactor plumbing/transport command](https://github.com/go-git/go-git/pull/934) on [go-git/go-git](https://github.com/go-git/go-git) (6 days ago)
 - [plumbing: fix empty uploadpack request error](https://github.com/go-git/go-git/pull/932) on [go-git/go-git](https://github.com/go-git/go-git) (6 days ago)
-- [utils: move trace to utils](https://github.com/go-git/go-git/pull/931) on [go-git/go-git](https://github.com/go-git/go-git) (6 days ago)
 
 #### 📜 My recent blog posts
 
