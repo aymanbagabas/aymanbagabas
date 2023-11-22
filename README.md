@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦 (6 days ago)
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦 (3 days ago)
 - [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go. (6 days ago)
 - [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺 (6 days ago)
 - [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket) - Charmbracelet Scoop Bucket (6 days ago)
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: use const colors to skip reading querying for the terminal bg color](https://github.com/charmbracelet/log/pull/93) on [charmbracelet/log](https://github.com/charmbracelet/log) (today)
 - [Respect pktline error-line errors](https://github.com/go-git/go-git/pull/936) on [go-git/go-git](https://github.com/go-git/go-git) (5 days ago)
 - [Refactor plumbing/transport command](https://github.com/go-git/go-git/pull/934) on [go-git/go-git](https://github.com/go-git/go-git) (6 days ago)
 - [plumbing: fix empty uploadpack request error](https://github.com/go-git/go-git/pull/932) on [go-git/go-git](https://github.com/go-git/go-git) (6 days ago)
 - [utils: move trace to utils](https://github.com/go-git/go-git/pull/931) on [go-git/go-git](https://github.com/go-git/go-git) (6 days ago)
-- [fix(http): times out on large repositories](https://github.com/charmbracelet/soft-serve/pull/428) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 week ago)
 
 #### 📜 My recent blog posts
 
