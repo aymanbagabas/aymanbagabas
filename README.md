@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦 (5 days ago)
-- [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go. (5 days ago)
-- [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺 (5 days ago)
-- [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket) - Charmbracelet Scoop Bucket (5 days ago)
-- [charmbracelet/log](https://github.com/charmbracelet/log) - A minimal, colorful Go logging library 🪵 (1 week ago)
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦 (6 days ago)
+- [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go. (6 days ago)
+- [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺 (6 days ago)
+- [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket) - Charmbracelet Scoop Bucket (6 days ago)
+- [charmbracelet/log](https://github.com/charmbracelet/log) - A minimal, colorful Go logging library 🪵 (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/mods](https://github.com/charmbracelet/mods) ([v1.1.0](https://github.com/charmbracelet/mods/releases/tag/v1.1.0), 4 days ago) - AI on the command line
-- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.14.1](https://github.com/charmbracelet/wishlist/releases/tag/v0.14.1), 4 days ago) - The SSH directory ✨
-- [golang/tools](https://github.com/golang/tools) ([gopls/v0.14.2](https://github.com/golang/tools/releases/tag/gopls/v0.14.2), 5 days ago) - [mirror] Go Tools
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.7.2](https://github.com/charmbracelet/soft-serve/releases/tag/v0.7.2), 5 days ago) - The mighty, self-hostable Git server for the command line🍦
+- [charmbracelet/mods](https://github.com/charmbracelet/mods) ([v1.1.0](https://github.com/charmbracelet/mods/releases/tag/v1.1.0), 5 days ago) - AI on the command line
+- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.14.1](https://github.com/charmbracelet/wishlist/releases/tag/v0.14.1), 5 days ago) - The SSH directory ✨
+- [golang/tools](https://github.com/golang/tools) ([gopls/v0.14.2](https://github.com/golang/tools/releases/tag/gopls/v0.14.2), 6 days ago) - [mirror] Go Tools
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.7.2](https://github.com/charmbracelet/soft-serve/releases/tag/v0.7.2), 6 days ago) - The mighty, self-hostable Git server for the command line🍦
 - [charmbracelet/log](https://github.com/charmbracelet/log) ([v0.3.0](https://github.com/charmbracelet/log/releases/tag/v0.3.0), 2 weeks ago) - A minimal, colorful Go logging library 🪵
 
 #### 🔨 My recent Pull Requests
 
-- [Respect pktline error-line errors](https://github.com/go-git/go-git/pull/936) on [go-git/go-git](https://github.com/go-git/go-git) (4 days ago)
-- [Refactor plumbing/transport command](https://github.com/go-git/go-git/pull/934) on [go-git/go-git](https://github.com/go-git/go-git) (5 days ago)
-- [plumbing: fix empty uploadpack request error](https://github.com/go-git/go-git/pull/932) on [go-git/go-git](https://github.com/go-git/go-git) (5 days ago)
-- [utils: move trace to utils](https://github.com/go-git/go-git/pull/931) on [go-git/go-git](https://github.com/go-git/go-git) (5 days ago)
-- [fix(http): times out on large repositories](https://github.com/charmbracelet/soft-serve/pull/428) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (6 days ago)
+- [Respect pktline error-line errors](https://github.com/go-git/go-git/pull/936) on [go-git/go-git](https://github.com/go-git/go-git) (5 days ago)
+- [Refactor plumbing/transport command](https://github.com/go-git/go-git/pull/934) on [go-git/go-git](https://github.com/go-git/go-git) (6 days ago)
+- [plumbing: fix empty uploadpack request error](https://github.com/go-git/go-git/pull/932) on [go-git/go-git](https://github.com/go-git/go-git) (6 days ago)
+- [utils: move trace to utils](https://github.com/go-git/go-git/pull/931) on [go-git/go-git](https://github.com/go-git/go-git) (6 days ago)
+- [fix(http): times out on large repositories](https://github.com/charmbracelet/soft-serve/pull/428) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 week ago)
 
 #### 📜 My recent blog posts
 
