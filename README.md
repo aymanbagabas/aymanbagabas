@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦 (5 days ago)
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦 (6 days ago)
 - [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go. (1 week ago)
 - [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺 (1 week ago)
 - [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket) - Charmbracelet Scoop Bucket (1 week ago)
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Refactor transport and cleanup](https://github.com/go-git/go-git/pull/938) on [go-git/go-git](https://github.com/go-git/go-git) (2 days ago)
-- [fix: use const colors to skip reading querying for the terminal bg color](https://github.com/charmbracelet/log/pull/93) on [charmbracelet/log](https://github.com/charmbracelet/log) (2 days ago)
+- [Pktline read/writer interface](https://github.com/aymanbagabas/go-git/pull/1) on [aymanbagabas/go-git](https://github.com/aymanbagabas/go-git) (today)
+- [Refactor transport and cleanup](https://github.com/go-git/go-git/pull/938) on [go-git/go-git](https://github.com/go-git/go-git) (3 days ago)
+- [fix: use const colors to skip reading querying for the terminal bg color](https://github.com/charmbracelet/log/pull/93) on [charmbracelet/log](https://github.com/charmbracelet/log) (3 days ago)
 - [Respect pktline error-line errors](https://github.com/go-git/go-git/pull/936) on [go-git/go-git](https://github.com/go-git/go-git) (1 week ago)
 - [Refactor plumbing/transport command](https://github.com/go-git/go-git/pull/934) on [go-git/go-git](https://github.com/go-git/go-git) (1 week ago)
-- [plumbing: fix empty uploadpack request error](https://github.com/go-git/go-git/pull/932) on [go-git/go-git](https://github.com/go-git/go-git) (1 week ago)
 
 #### 📜 My recent blog posts
 
