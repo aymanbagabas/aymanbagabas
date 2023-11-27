@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [charmbracelet/log](https://github.com/charmbracelet/log) - A minimal, colorful Go logging library 🪵 (today)
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦 (1 week ago)
 - [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go. (1 week ago)
 - [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺 (1 week ago)
 - [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket) - Charmbracelet Scoop Bucket (1 week ago)
-- [charmbracelet/log](https://github.com/charmbracelet/log) - A minimal, colorful Go logging library 🪵 (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -20,11 +20,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [go-git/go-git](https://github.com/go-git/go-git) ([v5.10.1](https://github.com/go-git/go-git/releases/tag/v5.10.1), today) - A highly extensible Git implementation in pure Go.
 - [charmbracelet/mods](https://github.com/charmbracelet/mods) ([v1.1.0](https://github.com/charmbracelet/mods/releases/tag/v1.1.0), 1 week ago) - AI on the command line
 - [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.14.1](https://github.com/charmbracelet/wishlist/releases/tag/v0.14.1), 1 week ago) - The SSH directory ✨
 - [golang/tools](https://github.com/golang/tools) ([gopls/v0.14.2](https://github.com/golang/tools/releases/tag/gopls/v0.14.2), 1 week ago) - [mirror] Go Tools
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.7.2](https://github.com/charmbracelet/soft-serve/releases/tag/v0.7.2), 1 week ago) - The mighty, self-hostable Git server for the command line🍦
-- [charmbracelet/log](https://github.com/charmbracelet/log) ([v0.3.0](https://github.com/charmbracelet/log/releases/tag/v0.3.0), 2 weeks ago) - A minimal, colorful Go logging library 🪵
 
 #### 🔨 My recent Pull Requests
 
