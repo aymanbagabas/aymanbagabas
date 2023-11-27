@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/log](https://github.com/charmbracelet/log) ([v0.3.1](https://github.com/charmbracelet/log/releases/tag/v0.3.1), today) - A minimal, colorful Go logging library 🪵
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.7.3](https://github.com/charmbracelet/soft-serve/releases/tag/v0.7.3), today) - The mighty, self-hostable Git server for the command line🍦
 - [go-git/go-git](https://github.com/go-git/go-git) ([v5.10.1](https://github.com/go-git/go-git/releases/tag/v5.10.1), today) - A highly extensible Git implementation in pure Go.
 - [charmbracelet/mods](https://github.com/charmbracelet/mods) ([v1.1.0](https://github.com/charmbracelet/mods/releases/tag/v1.1.0), 1 week ago) - AI on the command line
 - [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.14.1](https://github.com/charmbracelet/wishlist/releases/tag/v0.14.1), 1 week ago) - The SSH directory ✨
-- [golang/tools](https://github.com/golang/tools) ([gopls/v0.14.2](https://github.com/golang/tools/releases/tag/gopls/v0.14.2), 1 week ago) - [mirror] Go Tools
 
 #### 🔨 My recent Pull Requests
 
+- [feat: expose log function](https://github.com/charmbracelet/log/pull/95) on [charmbracelet/log](https://github.com/charmbracelet/log) (today)
 - [Pktline rewrite](https://github.com/aymanbagabas/go-git/pull/1) on [aymanbagabas/go-git](https://github.com/aymanbagabas/go-git) (2 days ago)
 - [Refactor transport and cleanup](https://github.com/go-git/go-git/pull/938) on [go-git/go-git](https://github.com/go-git/go-git) (5 days ago)
 - [fix: use const colors to skip reading querying for the terminal bg color](https://github.com/charmbracelet/log/pull/93) on [charmbracelet/log](https://github.com/charmbracelet/log) (5 days ago)
 - [Respect pktline error-line errors](https://github.com/go-git/go-git/pull/936) on [go-git/go-git](https://github.com/go-git/go-git) (1 week ago)
-- [Refactor plumbing/transport command](https://github.com/go-git/go-git/pull/934) on [go-git/go-git](https://github.com/go-git/go-git) (1 week ago)
 
 #### 📜 My recent blog posts
 
