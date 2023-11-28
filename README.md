@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [git: validate reference names (#929)](https://github.com/go-git/go-git/pull/950) on [go-git/go-git](https://github.com/go-git/go-git) (today)
 - [git: error on empty tag name (#929)](https://github.com/go-git/go-git/pull/949) on [go-git/go-git](https://github.com/go-git/go-git) (today)
 - [feat: expose log function](https://github.com/charmbracelet/log/pull/95) on [charmbracelet/log](https://github.com/charmbracelet/log) (1 day ago)
 - [Pktline rewrite](https://github.com/aymanbagabas/go-git/pull/1) on [aymanbagabas/go-git](https://github.com/aymanbagabas/go-git) (3 days ago)
 - [Refactor transport and cleanup](https://github.com/go-git/go-git/pull/938) on [go-git/go-git](https://github.com/go-git/go-git) (6 days ago)
-- [fix: use const colors to skip reading querying for the terminal bg color](https://github.com/charmbracelet/log/pull/93) on [charmbracelet/log](https://github.com/charmbracelet/log) (6 days ago)
 
 #### 📜 My recent blog posts
 
