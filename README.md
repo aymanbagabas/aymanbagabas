@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: allocate real pty](https://github.com/charmbracelet/ssh/pull/8) on [charmbracelet/ssh](https://github.com/charmbracelet/ssh) (today)
 - [git: validate reference names (#929)](https://github.com/go-git/go-git/pull/950) on [go-git/go-git](https://github.com/go-git/go-git) (1 day ago)
 - [git: error on empty tag name (#929)](https://github.com/go-git/go-git/pull/949) on [go-git/go-git](https://github.com/go-git/go-git) (1 day ago)
 - [feat: expose log function](https://github.com/charmbracelet/log/pull/95) on [charmbracelet/log](https://github.com/charmbracelet/log) (2 days ago)
 - [Pktline rewrite](https://github.com/aymanbagabas/go-git/pull/1) on [aymanbagabas/go-git](https://github.com/aymanbagabas/go-git) (4 days ago)
-- [Refactor transport and cleanup](https://github.com/go-git/go-git/pull/938) on [go-git/go-git](https://github.com/go-git/go-git) (1 week ago)
 
 #### 📜 My recent blog posts
 
