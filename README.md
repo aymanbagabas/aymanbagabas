@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v10.8.1](https://github.com/LazyVim/LazyVim/releases/tag/v10.8.1), today) - Neovim config for the lazy
+- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v10.8.2](https://github.com/LazyVim/LazyVim/releases/tag/v10.8.2), today) - Neovim config for the lazy
 - [charmbracelet/log](https://github.com/charmbracelet/log) ([v0.3.1](https://github.com/charmbracelet/log/releases/tag/v0.3.1), 3 days ago) - A minimal, colorful Go logging library 🪵
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.7.3](https://github.com/charmbracelet/soft-serve/releases/tag/v0.7.3), 3 days ago) - The mighty, self-hostable Git server for the command line🍦
 - [go-git/go-git](https://github.com/go-git/go-git) ([v5.10.1](https://github.com/go-git/go-git/releases/tag/v5.10.1), 3 days ago) - A highly extensible Git implementation in pure Go.
