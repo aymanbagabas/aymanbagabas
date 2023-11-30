@@ -4,10 +4,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦 (1 day ago)
-- [charmbracelet/log](https://github.com/charmbracelet/log) - A minimal, colorful Go logging library 🪵 (2 days ago)
-- [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺 (2 days ago)
-- [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket) - Charmbracelet Scoop Bucket (2 days ago)
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦 (2 days ago)
+- [charmbracelet/log](https://github.com/charmbracelet/log) - A minimal, colorful Go logging library 🪵 (3 days ago)
+- [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺 (3 days ago)
+- [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket) - Charmbracelet Scoop Bucket (3 days ago)
 - [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go. (1 week ago)
 
 #### 🌱 My latest projects
@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/log](https://github.com/charmbracelet/log) ([v0.3.1](https://github.com/charmbracelet/log/releases/tag/v0.3.1), 2 days ago) - A minimal, colorful Go logging library 🪵
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.7.3](https://github.com/charmbracelet/soft-serve/releases/tag/v0.7.3), 2 days ago) - The mighty, self-hostable Git server for the command line🍦
-- [go-git/go-git](https://github.com/go-git/go-git) ([v5.10.1](https://github.com/go-git/go-git/releases/tag/v5.10.1), 2 days ago) - A highly extensible Git implementation in pure Go.
+- [charmbracelet/log](https://github.com/charmbracelet/log) ([v0.3.1](https://github.com/charmbracelet/log/releases/tag/v0.3.1), 3 days ago) - A minimal, colorful Go logging library 🪵
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.7.3](https://github.com/charmbracelet/soft-serve/releases/tag/v0.7.3), 3 days ago) - The mighty, self-hostable Git server for the command line🍦
+- [go-git/go-git](https://github.com/go-git/go-git) ([v5.10.1](https://github.com/go-git/go-git/releases/tag/v5.10.1), 3 days ago) - A highly extensible Git implementation in pure Go.
 - [charmbracelet/mods](https://github.com/charmbracelet/mods) ([v1.1.0](https://github.com/charmbracelet/mods/releases/tag/v1.1.0), 1 week ago) - AI on the command line
 - [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.14.1](https://github.com/charmbracelet/wishlist/releases/tag/v0.14.1), 1 week ago) - The SSH directory ✨
 
 #### 🔨 My recent Pull Requests
 
-- [feat: allocate real pty](https://github.com/charmbracelet/ssh/pull/8) on [charmbracelet/ssh](https://github.com/charmbracelet/ssh) (today)
-- [git: validate reference names (#929)](https://github.com/go-git/go-git/pull/950) on [go-git/go-git](https://github.com/go-git/go-git) (1 day ago)
-- [git: error on empty tag name (#929)](https://github.com/go-git/go-git/pull/949) on [go-git/go-git](https://github.com/go-git/go-git) (1 day ago)
-- [feat: expose log function](https://github.com/charmbracelet/log/pull/95) on [charmbracelet/log](https://github.com/charmbracelet/log) (2 days ago)
-- [Pktline rewrite](https://github.com/aymanbagabas/go-git/pull/1) on [aymanbagabas/go-git](https://github.com/aymanbagabas/go-git) (4 days ago)
+- [feat: allocate real pty](https://github.com/charmbracelet/ssh/pull/8) on [charmbracelet/ssh](https://github.com/charmbracelet/ssh) (1 day ago)
+- [git: validate reference names (#929)](https://github.com/go-git/go-git/pull/950) on [go-git/go-git](https://github.com/go-git/go-git) (2 days ago)
+- [git: error on empty tag name (#929)](https://github.com/go-git/go-git/pull/949) on [go-git/go-git](https://github.com/go-git/go-git) (2 days ago)
+- [feat: expose log function](https://github.com/charmbracelet/log/pull/95) on [charmbracelet/log](https://github.com/charmbracelet/log) (3 days ago)
+- [Pktline rewrite](https://github.com/aymanbagabas/go-git/pull/1) on [aymanbagabas/go-git](https://github.com/aymanbagabas/go-git) (5 days ago)
 
 #### 📜 My recent blog posts
 
@@ -44,7 +44,7 @@
 
 #### ⭐ Recent Stars
 
-- [angelofallars/htmx-go](https://github.com/angelofallars/htmx-go) - &lt;/&gt; Build awesome HTMX &#43; Go projects faster. (today)
+- [angelofallars/htmx-go](https://github.com/angelofallars/htmx-go) - &lt;/&gt; Build awesome HTMX &#43; Go projects faster. (1 day ago)
 - [rivo/uniseg](https://github.com/rivo/uniseg) - Unicode Text Segmentation, Word Wrapping, and String Width Calculation in Go (1 month ago)
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system. (1 month ago)
 - [aymanbagabas/go-pty](https://github.com/aymanbagabas/go-pty) - Cross platform Go Pty interface (2 months ago)
