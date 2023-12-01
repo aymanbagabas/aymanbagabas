@@ -28,7 +28,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [feat: add more unittests](https://github.com/charmbracelet/soft-serve/pull/434) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (today)
+- [Update integration tests](https://github.com/charmbracelet/soft-serve/pull/434) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (today)
 - [feat: allocate real pty](https://github.com/charmbracelet/ssh/pull/8) on [charmbracelet/ssh](https://github.com/charmbracelet/ssh) (2 days ago)
 - [git: validate reference names (#929)](https://github.com/go-git/go-git/pull/950) on [go-git/go-git](https://github.com/go-git/go-git) (3 days ago)
 - [git: error on empty tag name (#929)](https://github.com/go-git/go-git/pull/949) on [go-git/go-git](https://github.com/go-git/go-git) (3 days ago)
