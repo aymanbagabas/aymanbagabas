@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺 (today)
+- [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket) - Charmbracelet Scoop Bucket (today)
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦 (2 days ago)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (3 days ago)
 - [aymanbagabas/go-pty](https://github.com/aymanbagabas/go-pty) - Cross platform Go Pty interface (5 days ago)
-- [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go. (1 week ago)
-- [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket) - Charmbracelet Scoop Bucket (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -20,10 +20,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.7.4](https://github.com/charmbracelet/soft-serve/releases/tag/v0.7.4), today) - The mighty, self-hostable Git server for the command line🍦
 - [aymanbagabas/go-pty](https://github.com/aymanbagabas/go-pty) ([v0.2.1](https://github.com/aymanbagabas/go-pty/releases/tag/v0.2.1), 5 days ago) - Cross platform Go Pty interface
 - [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v10.8.2](https://github.com/LazyVim/LazyVim/releases/tag/v10.8.2), 1 week ago) - Neovim config for the lazy
 - [charmbracelet/log](https://github.com/charmbracelet/log) ([v0.3.1](https://github.com/charmbracelet/log/releases/tag/v0.3.1), 1 week ago) - A minimal, colorful Go logging library 🪵
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.7.3](https://github.com/charmbracelet/soft-serve/releases/tag/v0.7.3), 1 week ago) - The mighty, self-hostable Git server for the command line🍦
 - [go-git/go-git](https://github.com/go-git/go-git) ([v5.10.1](https://github.com/go-git/go-git/releases/tag/v5.10.1), 1 week ago) - A highly extensible Git implementation in pure Go.
 
 #### 🔨 My recent Pull Requests
