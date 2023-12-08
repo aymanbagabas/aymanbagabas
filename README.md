@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦 (today)
-- [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺 (today)
-- [charmbracelet/log](https://github.com/charmbracelet/log) - A minimal, colorful Go logging library 🪵 (today)
-- [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket) - Charmbracelet Scoop Bucket (today)
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (3 days ago)
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦 (1 day ago)
+- [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺 (1 day ago)
+- [charmbracelet/log](https://github.com/charmbracelet/log) - A minimal, colorful Go logging library 🪵 (1 day ago)
+- [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket) - Charmbracelet Scoop Bucket (1 day ago)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -20,17 +20,17 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.7.4](https://github.com/charmbracelet/soft-serve/releases/tag/v0.7.4), today) - The mighty, self-hostable Git server for the command line🍦
-- [aymanbagabas/go-pty](https://github.com/aymanbagabas/go-pty) ([v0.2.1](https://github.com/aymanbagabas/go-pty/releases/tag/v0.2.1), 5 days ago) - Cross platform Go Pty interface
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.7.4](https://github.com/charmbracelet/soft-serve/releases/tag/v0.7.4), 1 day ago) - The mighty, self-hostable Git server for the command line🍦
+- [aymanbagabas/go-pty](https://github.com/aymanbagabas/go-pty) ([v0.2.1](https://github.com/aymanbagabas/go-pty/releases/tag/v0.2.1), 6 days ago) - Cross platform Go Pty interface
 - [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v10.8.2](https://github.com/LazyVim/LazyVim/releases/tag/v10.8.2), 1 week ago) - Neovim config for the lazy
 - [charmbracelet/log](https://github.com/charmbracelet/log) ([v0.3.1](https://github.com/charmbracelet/log/releases/tag/v0.3.1), 1 week ago) - A minimal, colorful Go logging library 🪵
 - [go-git/go-git](https://github.com/go-git/go-git) ([v5.10.1](https://github.com/go-git/go-git/releases/tag/v5.10.1), 1 week ago) - A highly extensible Git implementation in pure Go.
 
 #### 🔨 My recent Pull Requests
 
-- [Add more integration tests](https://github.com/charmbracelet/soft-serve/pull/441) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (today)
-- [feat: support windows console input buffer](https://github.com/charmbracelet/bubbletea/pull/878) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (4 days ago)
-- [Update integration tests](https://github.com/charmbracelet/soft-serve/pull/434) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (6 days ago)
+- [Add more integration tests](https://github.com/charmbracelet/soft-serve/pull/441) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 day ago)
+- [feat: support windows console input buffer](https://github.com/charmbracelet/bubbletea/pull/878) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (5 days ago)
+- [Update integration tests](https://github.com/charmbracelet/soft-serve/pull/434) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 week ago)
 - [feat: allocate real pty](https://github.com/charmbracelet/ssh/pull/8) on [charmbracelet/ssh](https://github.com/charmbracelet/ssh) (1 week ago)
 - [git: validate reference names (#929)](https://github.com/go-git/go-git/pull/950) on [go-git/go-git](https://github.com/go-git/go-git) (1 week ago)
 
