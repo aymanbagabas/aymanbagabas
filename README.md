@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦 (1 day ago)
-- [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺 (1 day ago)
-- [charmbracelet/log](https://github.com/charmbracelet/log) - A minimal, colorful Go logging library 🪵 (1 day ago)
-- [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket) - Charmbracelet Scoop Bucket (1 day ago)
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (4 days ago)
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦 (2 days ago)
+- [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺 (2 days ago)
+- [charmbracelet/log](https://github.com/charmbracelet/log) - A minimal, colorful Go logging library 🪵 (2 days ago)
+- [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket) - Charmbracelet Scoop Bucket (2 days ago)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -20,16 +20,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.7.4](https://github.com/charmbracelet/soft-serve/releases/tag/v0.7.4), 1 day ago) - The mighty, self-hostable Git server for the command line🍦
-- [aymanbagabas/go-pty](https://github.com/aymanbagabas/go-pty) ([v0.2.1](https://github.com/aymanbagabas/go-pty/releases/tag/v0.2.1), 6 days ago) - Cross platform Go Pty interface
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.7.4](https://github.com/charmbracelet/soft-serve/releases/tag/v0.7.4), 2 days ago) - The mighty, self-hostable Git server for the command line🍦
+- [aymanbagabas/go-pty](https://github.com/aymanbagabas/go-pty) ([v0.2.1](https://github.com/aymanbagabas/go-pty/releases/tag/v0.2.1), 1 week ago) - Cross platform Go Pty interface
 - [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v10.8.2](https://github.com/LazyVim/LazyVim/releases/tag/v10.8.2), 1 week ago) - Neovim config for the lazy
 - [charmbracelet/log](https://github.com/charmbracelet/log) ([v0.3.1](https://github.com/charmbracelet/log/releases/tag/v0.3.1), 1 week ago) - A minimal, colorful Go logging library 🪵
 - [go-git/go-git](https://github.com/go-git/go-git) ([v5.10.1](https://github.com/go-git/go-git/releases/tag/v5.10.1), 1 week ago) - A highly extensible Git implementation in pure Go.
 
 #### 🔨 My recent Pull Requests
 
-- [Add more integration tests](https://github.com/charmbracelet/soft-serve/pull/441) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 day ago)
-- [feat: support windows console input buffer](https://github.com/charmbracelet/bubbletea/pull/878) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (5 days ago)
+- [Add more integration tests](https://github.com/charmbracelet/soft-serve/pull/441) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (2 days ago)
+- [feat: support windows console input buffer](https://github.com/charmbracelet/bubbletea/pull/878) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (6 days ago)
 - [Update integration tests](https://github.com/charmbracelet/soft-serve/pull/434) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 week ago)
 - [feat: allocate real pty](https://github.com/charmbracelet/ssh/pull/8) on [charmbracelet/ssh](https://github.com/charmbracelet/ssh) (1 week ago)
 - [git: validate reference names (#929)](https://github.com/go-git/go-git/pull/950) on [go-git/go-git](https://github.com/go-git/go-git) (1 week ago)
@@ -37,7 +37,7 @@
 #### 📜 My recent blog posts
 
 - [Self-hosted Soft Serve](https://aymanbagabas.com/blog/2023/04/28/self-hosted-soft-serve.html) (7 months ago)
-- [Simple Vim Session Management](https://aymanbagabas.com/blog/2023/04/13/simple-vim-session-management.html) (7 months ago)
+- [Simple Vim Session Management](https://aymanbagabas.com/blog/2023/04/13/simple-vim-session-management.html) (8 months ago)
 - [Blue Mountain](https://aymanbagabas.com/blog/2022/06/02/blue-mountain.html) (2 years ago)
 - [Import Notion Pages to Jekyll](https://aymanbagabas.com/blog/2022/03/29/import-notion-pages-to-jekyll.html) (2 years ago)
 - [Nyan Cat Over SSH](https://aymanbagabas.com/blog/2022/03/25/nyan-cat-over-ssh.html) (2 years ago)
