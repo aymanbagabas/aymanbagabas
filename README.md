@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: initial orgs &amp; teams support](https://github.com/charmbracelet/soft-serve/pull/443) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (today)
 - [Add more integration tests](https://github.com/charmbracelet/soft-serve/pull/441) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (4 days ago)
 - [feat: support windows console input buffer](https://github.com/charmbracelet/bubbletea/pull/878) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 week ago)
 - [Update integration tests](https://github.com/charmbracelet/soft-serve/pull/434) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 week ago)
 - [feat: allocate real pty](https://github.com/charmbracelet/ssh/pull/8) on [charmbracelet/ssh](https://github.com/charmbracelet/ssh) (1 week ago)
-- [git: validate reference names (#929)](https://github.com/go-git/go-git/pull/950) on [go-git/go-git](https://github.com/go-git/go-git) (1 week ago)
 
 #### 📜 My recent blog posts
 
@@ -44,11 +44,11 @@
 
 #### ⭐ Recent Stars
 
+- [a-h/templ](https://github.com/a-h/templ) - A language for writing HTML user interfaces in Go. (today)
 - [charmbracelet/huh](https://github.com/charmbracelet/huh) - A simple, powerful library for forms and prompts in the terminal 🤷🏻‍♀️ (today)
 - [angelofallars/htmx-go](https://github.com/angelofallars/htmx-go) - &lt;/&gt; Build awesome HTMX &#43; Go projects faster. (1 week ago)
 - [rivo/uniseg](https://github.com/rivo/uniseg) - Unicode Text Segmentation, Word Wrapping, and String Width Calculation in Go (2 months ago)
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system. (2 months ago)
-- [aymanbagabas/go-pty](https://github.com/aymanbagabas/go-pty) - Cross platform Go Pty interface (2 months ago)
 
 #### 📫 How to reach me
 
