@@ -20,11 +20,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.13.0](https://github.com/charmbracelet/gum/releases/tag/v0.13.0), today) - A tool for glamorous shell scripts 🎀
 - [go-git/go-git](https://github.com/go-git/go-git) ([v5.11.0](https://github.com/go-git/go-git/releases/tag/v5.11.0), 3 days ago) - A highly extensible Git implementation in pure Go.
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.7.4](https://github.com/charmbracelet/soft-serve/releases/tag/v0.7.4), 5 days ago) - The mighty, self-hostable Git server for the command line🍦
 - [aymanbagabas/go-pty](https://github.com/aymanbagabas/go-pty) ([v0.2.1](https://github.com/aymanbagabas/go-pty/releases/tag/v0.2.1), 1 week ago) - Cross platform Go Pty interface
 - [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v10.8.2](https://github.com/LazyVim/LazyVim/releases/tag/v10.8.2), 1 week ago) - Neovim config for the lazy
-- [charmbracelet/log](https://github.com/charmbracelet/log) ([v0.3.1](https://github.com/charmbracelet/log/releases/tag/v0.3.1), 2 weeks ago) - A minimal, colorful Go logging library 🪵
 
 #### 🔨 My recent Pull Requests
 
