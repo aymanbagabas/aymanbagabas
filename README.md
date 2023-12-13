@@ -20,11 +20,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.17.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.17.0), today) - TUI components for Bubble Tea 🫧
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.25.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.25.0), 1 day ago) - A powerful little TUI framework 🏗
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) ([v0.7.1](https://github.com/charmbracelet/vhs/releases/tag/v0.7.1), 1 day ago) - Your CLI home video recorder 📼
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.13.0](https://github.com/charmbracelet/gum/releases/tag/v0.13.0), 1 day ago) - A tool for glamorous shell scripts 🎀
 - [go-git/go-git](https://github.com/go-git/go-git) ([v5.11.0](https://github.com/go-git/go-git/releases/tag/v5.11.0), 4 days ago) - A highly extensible Git implementation in pure Go.
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.7.4](https://github.com/charmbracelet/soft-serve/releases/tag/v0.7.4), 6 days ago) - The mighty, self-hostable Git server for the command line🍦
 
 #### 🔨 My recent Pull Requests
 
