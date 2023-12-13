@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [aymanbagabas/go-pty](https://github.com/aymanbagabas/go-pty) - Cross platform Go Pty interface (today)
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦 (5 days ago)
-- [charmbracelet/log](https://github.com/charmbracelet/log) - A minimal, colorful Go logging library 🪵 (5 days ago)
-- [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺 (5 days ago)
-- [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket) - Charmbracelet Scoop Bucket (5 days ago)
+- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (1 day ago)
+- [aymanbagabas/go-pty](https://github.com/aymanbagabas/go-pty) - Cross platform Go Pty interface (1 day ago)
+- [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket) - Charmbracelet Scoop Bucket (6 days ago)
+- [charmbracelet/log](https://github.com/charmbracelet/log) - A minimal, colorful Go logging library 🪵 (6 days ago)
+- [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺 (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -20,17 +20,17 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.25.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.25.0), today) - A powerful little TUI framework 🏗
-- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) ([v0.7.1](https://github.com/charmbracelet/vhs/releases/tag/v0.7.1), today) - Your CLI home video recorder 📼
-- [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.13.0](https://github.com/charmbracelet/gum/releases/tag/v0.13.0), today) - A tool for glamorous shell scripts 🎀
-- [go-git/go-git](https://github.com/go-git/go-git) ([v5.11.0](https://github.com/go-git/go-git/releases/tag/v5.11.0), 3 days ago) - A highly extensible Git implementation in pure Go.
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.7.4](https://github.com/charmbracelet/soft-serve/releases/tag/v0.7.4), 5 days ago) - The mighty, self-hostable Git server for the command line🍦
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.25.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.25.0), 1 day ago) - A powerful little TUI framework 🏗
+- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) ([v0.7.1](https://github.com/charmbracelet/vhs/releases/tag/v0.7.1), 1 day ago) - Your CLI home video recorder 📼
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.13.0](https://github.com/charmbracelet/gum/releases/tag/v0.13.0), 1 day ago) - A tool for glamorous shell scripts 🎀
+- [go-git/go-git](https://github.com/go-git/go-git) ([v5.11.0](https://github.com/go-git/go-git/releases/tag/v5.11.0), 4 days ago) - A highly extensible Git implementation in pure Go.
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.7.4](https://github.com/charmbracelet/soft-serve/releases/tag/v0.7.4), 6 days ago) - The mighty, self-hostable Git server for the command line🍦
 
 #### 🔨 My recent Pull Requests
 
-- [git: worktree checkout tag hash id (#959)](https://github.com/go-git/go-git/pull/966) on [go-git/go-git](https://github.com/go-git/go-git) (today)
-- [feat: initial orgs &amp; teams support](https://github.com/charmbracelet/soft-serve/pull/443) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 day ago)
-- [Add more integration tests](https://github.com/charmbracelet/soft-serve/pull/441) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (5 days ago)
+- [git: worktree checkout tag hash id (#959)](https://github.com/go-git/go-git/pull/966) on [go-git/go-git](https://github.com/go-git/go-git) (1 day ago)
+- [feat: initial orgs &amp; teams support](https://github.com/charmbracelet/soft-serve/pull/443) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (2 days ago)
+- [Add more integration tests](https://github.com/charmbracelet/soft-serve/pull/441) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (6 days ago)
 - [feat: support windows console input buffer](https://github.com/charmbracelet/bubbletea/pull/878) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 week ago)
 - [Update integration tests](https://github.com/charmbracelet/soft-serve/pull/434) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 week ago)
 
@@ -44,9 +44,9 @@
 
 #### ⭐ Recent Stars
 
-- [a-h/templ](https://github.com/a-h/templ) - A language for writing HTML user interfaces in Go. (1 day ago)
-- [charmbracelet/huh](https://github.com/charmbracelet/huh) - A simple, powerful library for forms and prompts in the terminal 🤷🏻‍♀️ (1 day ago)
-- [angelofallars/htmx-go](https://github.com/angelofallars/htmx-go) - &lt;/&gt; Build awesome HTMX &#43; Go projects faster. (1 week ago)
+- [a-h/templ](https://github.com/a-h/templ) - A language for writing HTML user interfaces in Go. (2 days ago)
+- [charmbracelet/huh](https://github.com/charmbracelet/huh) - A simple, powerful library for forms and prompts in the terminal 🤷🏻‍♀️ (2 days ago)
+- [angelofallars/htmx-go](https://github.com/angelofallars/htmx-go) - &lt;/&gt; Build awesome HTMX &#43; Go projects faster. (2 weeks ago)
 - [rivo/uniseg](https://github.com/rivo/uniseg) - Unicode Text Segmentation, Word Wrapping, and String Width Calculation in Go (2 months ago)
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system. (2 months ago)
 
