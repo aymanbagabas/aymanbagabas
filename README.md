@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [aymanbagabas/go-udiff](https://github.com/aymanbagabas/go-udiff) - µDiff - a micro Go diffing library (today)
-- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (1 day ago)
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧 (2 days ago)
-- [aymanbagabas/go-pty](https://github.com/aymanbagabas/go-pty) - Cross platform Go Pty interface (3 days ago)
-- [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go. (3 days ago)
+- [aymanbagabas/go-udiff](https://github.com/aymanbagabas/go-udiff) - µDiff - a micro Go diffing library (1 day ago)
+- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (2 days ago)
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧 (3 days ago)
+- [aymanbagabas/go-pty](https://github.com/aymanbagabas/go-pty) - Cross platform Go Pty interface (4 days ago)
+- [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go. (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -20,18 +20,18 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [git-lfs/git-lfs](https://github.com/git-lfs/git-lfs) ([v3.4.1](https://github.com/git-lfs/git-lfs/releases/tag/v3.4.1), 2 days ago) - Git extension for versioning large files
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.17.1](https://github.com/charmbracelet/bubbles/releases/tag/v0.17.1), 2 days ago) - TUI components for Bubble Tea 🫧
-- [aymanbagabas/go-udiff](https://github.com/aymanbagabas/go-udiff) ([v0.2.0](https://github.com/aymanbagabas/go-udiff/releases/tag/v0.2.0), 2 days ago) - µDiff - a micro Go diffing library
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.25.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.25.0), 3 days ago) - A powerful little TUI framework 🏗
-- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) ([v0.7.1](https://github.com/charmbracelet/vhs/releases/tag/v0.7.1), 3 days ago) - Your CLI home video recorder 📼
+- [git-lfs/git-lfs](https://github.com/git-lfs/git-lfs) ([v3.4.1](https://github.com/git-lfs/git-lfs/releases/tag/v3.4.1), 3 days ago) - Git extension for versioning large files
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.17.1](https://github.com/charmbracelet/bubbles/releases/tag/v0.17.1), 3 days ago) - TUI components for Bubble Tea 🫧
+- [aymanbagabas/go-udiff](https://github.com/aymanbagabas/go-udiff) ([v0.2.0](https://github.com/aymanbagabas/go-udiff/releases/tag/v0.2.0), 3 days ago) - µDiff - a micro Go diffing library
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.25.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.25.0), 4 days ago) - A powerful little TUI framework 🏗
+- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) ([v0.7.1](https://github.com/charmbracelet/vhs/releases/tag/v0.7.1), 4 days ago) - Your CLI home video recorder 📼
 
 #### 🔨 My recent Pull Requests
 
-- [feat: add udiff cmd package](https://github.com/aymanbagabas/go-udiff/pull/12) on [aymanbagabas/go-udiff](https://github.com/aymanbagabas/go-udiff) (2 days ago)
-- [feat: upgrade bubbletea and remove deprecated code](https://github.com/charmbracelet/bubbles/pull/448) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (2 days ago)
-- [git: worktree checkout tag hash id (#959)](https://github.com/go-git/go-git/pull/966) on [go-git/go-git](https://github.com/go-git/go-git) (3 days ago)
-- [feat: initial orgs &amp; teams support](https://github.com/charmbracelet/soft-serve/pull/443) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (4 days ago)
+- [feat: add udiff cmd package](https://github.com/aymanbagabas/go-udiff/pull/12) on [aymanbagabas/go-udiff](https://github.com/aymanbagabas/go-udiff) (3 days ago)
+- [feat: upgrade bubbletea and remove deprecated code](https://github.com/charmbracelet/bubbles/pull/448) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (3 days ago)
+- [git: worktree checkout tag hash id (#959)](https://github.com/go-git/go-git/pull/966) on [go-git/go-git](https://github.com/go-git/go-git) (4 days ago)
+- [feat: initial orgs &amp; teams support](https://github.com/charmbracelet/soft-serve/pull/443) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (5 days ago)
 - [Add more integration tests](https://github.com/charmbracelet/soft-serve/pull/441) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 week ago)
 
 #### 📜 My recent blog posts
@@ -44,9 +44,9 @@
 
 #### ⭐ Recent Stars
 
-- [go-co-op/gocron](https://github.com/go-co-op/gocron) - Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron (1 day ago)
-- [a-h/templ](https://github.com/a-h/templ) - A language for writing HTML user interfaces in Go. (4 days ago)
-- [charmbracelet/huh](https://github.com/charmbracelet/huh) - A simple, powerful library for forms and prompts in the terminal 🤷🏻‍♀️ (4 days ago)
+- [go-co-op/gocron](https://github.com/go-co-op/gocron) - Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron (2 days ago)
+- [a-h/templ](https://github.com/a-h/templ) - A language for writing HTML user interfaces in Go. (5 days ago)
+- [charmbracelet/huh](https://github.com/charmbracelet/huh) - A simple, powerful library for forms and prompts in the terminal 🤷🏻‍♀️ (5 days ago)
 - [angelofallars/htmx-go](https://github.com/angelofallars/htmx-go) - &lt;/&gt; Build awesome HTMX &#43; Go projects faster. (2 weeks ago)
 - [rivo/uniseg](https://github.com/rivo/uniseg) - Unicode Text Segmentation, Word Wrapping, and String Width Calculation in Go (2 months ago)
 
