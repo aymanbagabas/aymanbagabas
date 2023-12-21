@@ -4,8 +4,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [aymanbagabas/go-udiff](https://github.com/aymanbagabas/go-udiff) - µDiff - a micro Go diffing library (4 days ago)
-- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (6 days ago)
+- [aymanbagabas/go-udiff](https://github.com/aymanbagabas/go-udiff) - µDiff - a micro Go diffing library (5 days ago)
+- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (1 week ago)
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧 (1 week ago)
 - [aymanbagabas/go-pty](https://github.com/aymanbagabas/go-pty) - Cross platform Go Pty interface (1 week ago)
 - [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go. (1 week ago)
@@ -28,7 +28,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [feat(deps): add dependabot](https://github.com/charmbracelet/ssh/pull/9) on [charmbracelet/ssh](https://github.com/charmbracelet/ssh) (1 day ago)
+- [feat(deps): add dependabot](https://github.com/charmbracelet/ssh/pull/9) on [charmbracelet/ssh](https://github.com/charmbracelet/ssh) (2 days ago)
 - [feat: add udiff cmd package](https://github.com/aymanbagabas/go-udiff/pull/12) on [aymanbagabas/go-udiff](https://github.com/aymanbagabas/go-udiff) (1 week ago)
 - [feat: upgrade bubbletea and remove deprecated code](https://github.com/charmbracelet/bubbles/pull/448) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (1 week ago)
 - [git: worktree checkout tag hash id (#959)](https://github.com/go-git/go-git/pull/966) on [go-git/go-git](https://github.com/go-git/go-git) (1 week ago)
@@ -44,7 +44,7 @@
 
 #### ⭐ Recent Stars
 
-- [go-co-op/gocron](https://github.com/go-co-op/gocron) - Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron (6 days ago)
+- [go-co-op/gocron](https://github.com/go-co-op/gocron) - Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron (1 week ago)
 - [a-h/templ](https://github.com/a-h/templ) - A language for writing HTML user interfaces in Go. (1 week ago)
 - [charmbracelet/huh](https://github.com/charmbracelet/huh) - Build terminal forms and prompts 🤷🏻‍♀️ (1 week ago)
 - [angelofallars/htmx-go](https://github.com/angelofallars/htmx-go) - &lt;/&gt; Build awesome HTMX &#43; Go projects faster. (3 weeks ago)
