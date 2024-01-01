@@ -45,8 +45,8 @@
 #### ⭐ Recent Stars
 
 - [go-co-op/gocron](https://github.com/go-co-op/gocron) - Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron (2 weeks ago)
-- [a-h/templ](https://github.com/a-h/templ) - A language for writing HTML user interfaces in Go. (2 weeks ago)
-- [charmbracelet/huh](https://github.com/charmbracelet/huh) - Build terminal forms and prompts 🤷🏻‍♀️ (2 weeks ago)
+- [a-h/templ](https://github.com/a-h/templ) - A language for writing HTML user interfaces in Go. (3 weeks ago)
+- [charmbracelet/huh](https://github.com/charmbracelet/huh) - Build terminal forms and prompts 🤷🏻‍♀️ (3 weeks ago)
 - [angelofallars/htmx-go](https://github.com/angelofallars/htmx-go) - &lt;/&gt; Build awesome HTMX &#43; Go projects faster. (1 month ago)
 - [rivo/uniseg](https://github.com/rivo/uniseg) - Unicode Text Segmentation, Word Wrapping, and String Width Calculation in Go (2 months ago)
 
