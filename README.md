@@ -5,7 +5,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (1 week ago)
-- [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go. (1 week ago)
+- [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go. (2 weeks ago)
 - [aymanbagabas/go-udiff](https://github.com/aymanbagabas/go-udiff) - µDiff - a micro Go diffing library (2 weeks ago)
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧 (3 weeks ago)
 - [aymanbagabas/go-pty](https://github.com/aymanbagabas/go-pty) - Cross platform Go Pty interface (3 weeks ago)
@@ -28,7 +28,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [git: cli, fix module name](https://github.com/go-git/go-git/pull/979) on [go-git/go-git](https://github.com/go-git/go-git) (1 week ago)
+- [git: cli, fix module name](https://github.com/go-git/go-git/pull/979) on [go-git/go-git](https://github.com/go-git/go-git) (2 weeks ago)
 - [feat(deps): add dependabot](https://github.com/charmbracelet/ssh/pull/9) on [charmbracelet/ssh](https://github.com/charmbracelet/ssh) (2 weeks ago)
 - [feat: add udiff cmd package](https://github.com/aymanbagabas/go-udiff/pull/12) on [aymanbagabas/go-udiff](https://github.com/aymanbagabas/go-udiff) (3 weeks ago)
 - [feat: upgrade bubbletea and remove deprecated code](https://github.com/charmbracelet/bubbles/pull/448) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (3 weeks ago)
@@ -44,8 +44,8 @@
 
 #### ⭐ Recent Stars
 
-- [docusealco/docuseal](https://github.com/docusealco/docuseal) - Open source DocuSign alternative. Create, fill, and sign digital documents ✍️ (1 day ago)
-- [go-co-op/gocron](https://github.com/go-co-op/gocron) - Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron (2 weeks ago)
+- [docusealco/docuseal](https://github.com/docusealco/docuseal) - Open source DocuSign alternative. Create, fill, and sign digital documents ✍️ (2 days ago)
+- [go-co-op/gocron](https://github.com/go-co-op/gocron) - Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron (3 weeks ago)
 - [a-h/templ](https://github.com/a-h/templ) - A language for writing HTML user interfaces in Go. (3 weeks ago)
 - [charmbracelet/huh](https://github.com/charmbracelet/huh) - Build terminal forms and prompts 🤷🏻‍♀️ (3 weeks ago)
 - [angelofallars/htmx-go](https://github.com/angelofallars/htmx-go) - &lt;/&gt; Build awesome HTMX &#43; Go projects faster. (1 month ago)
