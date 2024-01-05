@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: remove ioutil deprecations](https://github.com/gliderlabs/ssh/pull/222) on [gliderlabs/ssh](https://github.com/gliderlabs/ssh) (today)
 - [git: cli, fix module name](https://github.com/go-git/go-git/pull/979) on [go-git/go-git](https://github.com/go-git/go-git) (2 weeks ago)
 - [feat(deps): add dependabot](https://github.com/charmbracelet/ssh/pull/9) on [charmbracelet/ssh](https://github.com/charmbracelet/ssh) (2 weeks ago)
 - [feat: add udiff cmd package](https://github.com/aymanbagabas/go-udiff/pull/12) on [aymanbagabas/go-udiff](https://github.com/aymanbagabas/go-udiff) (3 weeks ago)
 - [feat: upgrade bubbletea and remove deprecated code](https://github.com/charmbracelet/bubbles/pull/448) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (3 weeks ago)
-- [git: worktree checkout tag hash id (#959)](https://github.com/go-git/go-git/pull/966) on [go-git/go-git](https://github.com/go-git/go-git) (3 weeks ago)
 
 #### 📜 My recent blog posts
 
