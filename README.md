@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (1 day ago)
+- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (today)
 - [aymanbagabas/go-pty](https://github.com/aymanbagabas/go-pty) - Cross platform Go Pty interface (5 days ago)
 - [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go. (2 weeks ago)
 - [aymanbagabas/go-udiff](https://github.com/aymanbagabas/go-udiff) - µDiff - a micro Go diffing library (3 weeks ago)
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat(term): add term/conpty](https://github.com/charmbracelet/x/pull/28) on [charmbracelet/x](https://github.com/charmbracelet/x) (today)
 - [feat: separate conpty into its own package](https://github.com/aymanbagabas/go-pty/pull/20) on [aymanbagabas/go-pty](https://github.com/aymanbagabas/go-pty) (today)
 - [fix: use pty aware charmbracelet/ssh](https://github.com/charmbracelet/wish/pull/219) on [charmbracelet/wish](https://github.com/charmbracelet/wish) (1 day ago)
 - [fix: remove ioutil deprecations](https://github.com/gliderlabs/ssh/pull/222) on [gliderlabs/ssh](https://github.com/gliderlabs/ssh) (4 days ago)
 - [git: cli, fix module name](https://github.com/go-git/go-git/pull/979) on [go-git/go-git](https://github.com/go-git/go-git) (2 weeks ago)
-- [feat(deps): add dependabot](https://github.com/charmbracelet/ssh/pull/9) on [charmbracelet/ssh](https://github.com/charmbracelet/ssh) (3 weeks ago)
 
 #### 📜 My recent blog posts
 
