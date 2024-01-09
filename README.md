@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: ensure session envs are available to renderer](https://github.com/charmbracelet/wish/pull/223) on [charmbracelet/wish](https://github.com/charmbracelet/wish) (today)
 - [feat(term): add term/conpty](https://github.com/charmbracelet/x/pull/28) on [charmbracelet/x](https://github.com/charmbracelet/x) (today)
 - [feat: separate conpty into its own package](https://github.com/aymanbagabas/go-pty/pull/20) on [aymanbagabas/go-pty](https://github.com/aymanbagabas/go-pty) (today)
 - [fix: use pty aware charmbracelet/ssh](https://github.com/charmbracelet/wish/pull/219) on [charmbracelet/wish](https://github.com/charmbracelet/wish) (1 day ago)
 - [fix: remove ioutil deprecations](https://github.com/gliderlabs/ssh/pull/222) on [gliderlabs/ssh](https://github.com/gliderlabs/ssh) (4 days ago)
-- [git: cli, fix module name](https://github.com/go-git/go-git/pull/979) on [go-git/go-git](https://github.com/go-git/go-git) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
