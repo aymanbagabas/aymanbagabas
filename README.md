@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (today)
-- [aymanbagabas/go-pty](https://github.com/aymanbagabas/go-pty) - Cross platform Go Pty interface (5 days ago)
+- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (1 day ago)
+- [aymanbagabas/go-pty](https://github.com/aymanbagabas/go-pty) - Cross platform Go Pty interface (6 days ago)
 - [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go. (2 weeks ago)
 - [aymanbagabas/go-udiff](https://github.com/aymanbagabas/go-udiff) - µDiff - a micro Go diffing library (3 weeks ago)
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧 (3 weeks ago)
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧 (4 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [aymanbagabas/go-pty](https://github.com/aymanbagabas/go-pty) ([v0.2.2](https://github.com/aymanbagabas/go-pty/releases/tag/v0.2.2), 4 days ago) - Cross platform Go Pty interface
-- [git-lfs/git-lfs](https://github.com/git-lfs/git-lfs) ([v3.4.1](https://github.com/git-lfs/git-lfs/releases/tag/v3.4.1), 3 weeks ago) - Git extension for versioning large files
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.17.1](https://github.com/charmbracelet/bubbles/releases/tag/v0.17.1), 3 weeks ago) - TUI components for Bubble Tea 🫧
-- [aymanbagabas/go-udiff](https://github.com/aymanbagabas/go-udiff) ([v0.2.0](https://github.com/aymanbagabas/go-udiff/releases/tag/v0.2.0), 3 weeks ago) - µDiff - a micro Go diffing library
+- [aymanbagabas/go-pty](https://github.com/aymanbagabas/go-pty) ([v0.2.2](https://github.com/aymanbagabas/go-pty/releases/tag/v0.2.2), 5 days ago) - Cross platform Go Pty interface
+- [git-lfs/git-lfs](https://github.com/git-lfs/git-lfs) ([v3.4.1](https://github.com/git-lfs/git-lfs/releases/tag/v3.4.1), 4 weeks ago) - Git extension for versioning large files
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.17.1](https://github.com/charmbracelet/bubbles/releases/tag/v0.17.1), 4 weeks ago) - TUI components for Bubble Tea 🫧
+- [aymanbagabas/go-udiff](https://github.com/aymanbagabas/go-udiff) ([v0.2.0](https://github.com/aymanbagabas/go-udiff/releases/tag/v0.2.0), 4 weeks ago) - µDiff - a micro Go diffing library
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.25.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.25.0), 4 weeks ago) - A powerful little TUI framework 🏗
 
 #### 🔨 My recent Pull Requests
 
-- [fix: ensure session envs are available to renderer](https://github.com/charmbracelet/wish/pull/223) on [charmbracelet/wish](https://github.com/charmbracelet/wish) (today)
-- [feat(term): add term/conpty](https://github.com/charmbracelet/x/pull/28) on [charmbracelet/x](https://github.com/charmbracelet/x) (today)
-- [feat: separate conpty into its own package](https://github.com/aymanbagabas/go-pty/pull/20) on [aymanbagabas/go-pty](https://github.com/aymanbagabas/go-pty) (today)
-- [fix: use pty aware charmbracelet/ssh](https://github.com/charmbracelet/wish/pull/219) on [charmbracelet/wish](https://github.com/charmbracelet/wish) (1 day ago)
-- [fix: remove ioutil deprecations](https://github.com/gliderlabs/ssh/pull/222) on [gliderlabs/ssh](https://github.com/gliderlabs/ssh) (4 days ago)
+- [fix: ensure session envs are available to renderer](https://github.com/charmbracelet/wish/pull/223) on [charmbracelet/wish](https://github.com/charmbracelet/wish) (1 day ago)
+- [feat(term): add term/conpty](https://github.com/charmbracelet/x/pull/28) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 day ago)
+- [feat: separate conpty into its own package](https://github.com/aymanbagabas/go-pty/pull/20) on [aymanbagabas/go-pty](https://github.com/aymanbagabas/go-pty) (1 day ago)
+- [fix: use pty aware charmbracelet/ssh](https://github.com/charmbracelet/wish/pull/219) on [charmbracelet/wish](https://github.com/charmbracelet/wish) (2 days ago)
+- [fix: remove ioutil deprecations](https://github.com/gliderlabs/ssh/pull/222) on [gliderlabs/ssh](https://github.com/gliderlabs/ssh) (5 days ago)
 
 #### 📜 My recent blog posts
 
@@ -44,11 +44,11 @@
 
 #### ⭐ Recent Stars
 
-- [creack/pty](https://github.com/creack/pty) - PTY interface for Go (5 days ago)
+- [creack/pty](https://github.com/creack/pty) - PTY interface for Go (6 days ago)
 - [docusealco/docuseal](https://github.com/docusealco/docuseal) - Open source DocuSign alternative. Create, fill, and sign digital documents ✍️ (1 week ago)
 - [go-co-op/gocron](https://github.com/go-co-op/gocron) - Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron (3 weeks ago)
-- [a-h/templ](https://github.com/a-h/templ) - A language for writing HTML user interfaces in Go. (4 weeks ago)
-- [charmbracelet/huh](https://github.com/charmbracelet/huh) - Build terminal forms and prompts 🤷🏻‍♀️ (4 weeks ago)
+- [a-h/templ](https://github.com/a-h/templ) - A language for writing HTML user interfaces in Go. (1 month ago)
+- [charmbracelet/huh](https://github.com/charmbracelet/huh) - Build terminal forms and prompts 🤷🏻‍♀️ (1 month ago)
 
 #### 📫 How to reach me
 
