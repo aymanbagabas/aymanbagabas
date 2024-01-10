@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [aymanbagabas/Huawei-WMI](https://github.com/aymanbagabas/Huawei-WMI) - Huawei WMI laptop extras linux driver (today)
 - [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages. (today)
 - [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (1 day ago)
 - [aymanbagabas/go-pty](https://github.com/aymanbagabas/go-pty) - Cross platform Go Pty interface (6 days ago)
 - [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go. (2 weeks ago)
-- [aymanbagabas/go-udiff](https://github.com/aymanbagabas/go-udiff) - µDiff - a micro Go diffing library (3 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat(term): add cross-platform console state-aware support](https://github.com/charmbracelet/x/pull/29) on [charmbracelet/x](https://github.com/charmbracelet/x) (today)
 - [feat: reduce console/term dependencies](https://github.com/charmbracelet/bubbletea/pull/897) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [fix: ensure session envs are available to renderer](https://github.com/charmbracelet/wish/pull/223) on [charmbracelet/wish](https://github.com/charmbracelet/wish) (1 day ago)
 - [feat(term): add term/conpty](https://github.com/charmbracelet/x/pull/28) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 day ago)
 - [feat: separate conpty into its own package](https://github.com/aymanbagabas/go-pty/pull/20) on [aymanbagabas/go-pty](https://github.com/aymanbagabas/go-pty) (1 day ago)
-- [fix: use pty aware charmbracelet/ssh](https://github.com/charmbracelet/wish/pull/219) on [charmbracelet/wish](https://github.com/charmbracelet/wish) (2 days ago)
 
 #### 📜 My recent blog posts
 
