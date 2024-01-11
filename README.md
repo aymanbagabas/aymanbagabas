@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [refactor: move term into exp](https://github.com/charmbracelet/x/pull/31) on [charmbracelet/x](https://github.com/charmbracelet/x) (today)
 - [feat(term): support setting terminal state](https://github.com/charmbracelet/x/pull/30) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 day ago)
 - [feat(term): add cross-platform console state-aware support](https://github.com/charmbracelet/x/pull/29) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 day ago)
 - [feat: reduce console/term dependencies](https://github.com/charmbracelet/bubbletea/pull/897) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
 - [fix: ensure session envs are available to renderer](https://github.com/charmbracelet/wish/pull/223) on [charmbracelet/wish](https://github.com/charmbracelet/wish) (2 days ago)
-- [feat(term): add term/conpty](https://github.com/charmbracelet/x/pull/28) on [charmbracelet/x](https://github.com/charmbracelet/x) (2 days ago)
 
 #### 📜 My recent blog posts
 
