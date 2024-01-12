@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat(term): add ansi sequences support](https://github.com/charmbracelet/x/pull/32) on [charmbracelet/x](https://github.com/charmbracelet/x) (today)
 - [refactor: move term into exp](https://github.com/charmbracelet/x/pull/31) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 day ago)
 - [feat(term): support setting terminal state](https://github.com/charmbracelet/x/pull/30) on [charmbracelet/x](https://github.com/charmbracelet/x) (2 days ago)
 - [feat(term): add cross-platform console state-aware support](https://github.com/charmbracelet/x/pull/29) on [charmbracelet/x](https://github.com/charmbracelet/x) (2 days ago)
 - [feat: reduce console/term dependencies](https://github.com/charmbracelet/bubbletea/pull/897) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 days ago)
-- [fix: ensure session envs are available to renderer](https://github.com/charmbracelet/wish/pull/223) on [charmbracelet/wish](https://github.com/charmbracelet/wish) (3 days ago)
 
 #### 📜 My recent blog posts
 
