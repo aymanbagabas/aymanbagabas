@@ -4,9 +4,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages. (2 days ago)
-- [aymanbagabas/Huawei-WMI](https://github.com/aymanbagabas/Huawei-WMI) - Huawei WMI laptop extras linux driver (4 days ago)
-- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (5 days ago)
+- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages. (3 days ago)
+- [aymanbagabas/Huawei-WMI](https://github.com/aymanbagabas/Huawei-WMI) - Huawei WMI laptop extras linux driver (5 days ago)
+- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (6 days ago)
 - [aymanbagabas/go-pty](https://github.com/aymanbagabas/go-pty) - Cross platform Go Pty interface (1 week ago)
 - [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go. (3 weeks ago)
 
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
-- [feat(term): add ansi sequences support](https://github.com/charmbracelet/x/pull/32) on [charmbracelet/x](https://github.com/charmbracelet/x) (2 days ago)
-- [refactor: move term into exp](https://github.com/charmbracelet/x/pull/31) on [charmbracelet/x](https://github.com/charmbracelet/x) (3 days ago)
-- [feat(term): support setting terminal state](https://github.com/charmbracelet/x/pull/30) on [charmbracelet/x](https://github.com/charmbracelet/x) (4 days ago)
-- [feat(term): add cross-platform console state-aware support](https://github.com/charmbracelet/x/pull/29) on [charmbracelet/x](https://github.com/charmbracelet/x) (4 days ago)
-- [feat: reduce console/term dependencies](https://github.com/charmbracelet/bubbletea/pull/897) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (4 days ago)
+- [feat(term): add ansi sequences support](https://github.com/charmbracelet/x/pull/32) on [charmbracelet/x](https://github.com/charmbracelet/x) (3 days ago)
+- [refactor: move term into exp](https://github.com/charmbracelet/x/pull/31) on [charmbracelet/x](https://github.com/charmbracelet/x) (4 days ago)
+- [feat(term): support setting terminal state](https://github.com/charmbracelet/x/pull/30) on [charmbracelet/x](https://github.com/charmbracelet/x) (5 days ago)
+- [feat(term): add cross-platform console state-aware support](https://github.com/charmbracelet/x/pull/29) on [charmbracelet/x](https://github.com/charmbracelet/x) (5 days ago)
+- [feat: reduce console/term dependencies](https://github.com/charmbracelet/bubbletea/pull/897) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (5 days ago)
 
 #### 📜 My recent blog posts
 
