@@ -4,10 +4,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (1 day ago)
-- [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (2 days ago)
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦 (2 days ago)
-- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages. (2 days ago)
+- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (2 days ago)
+- [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (3 days ago)
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦 (3 days ago)
+- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages. (3 days ago)
 - [aymanbagabas/Huawei-WMI](https://github.com/aymanbagabas/Huawei-WMI) - Huawei WMI laptop extras linux driver (1 week ago)
 
 #### 🌱 My latest projects
@@ -28,8 +28,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [fix: check whether pty is zero](https://github.com/charmbracelet/ssh/pull/16) on [charmbracelet/ssh](https://github.com/charmbracelet/ssh) (2 days ago)
-- [fix(pty): cast handles to appropriate type](https://github.com/charmbracelet/ssh/pull/14) on [charmbracelet/ssh](https://github.com/charmbracelet/ssh) (2 days ago)
+- [fix: check whether pty is zero](https://github.com/charmbracelet/ssh/pull/16) on [charmbracelet/ssh](https://github.com/charmbracelet/ssh) (3 days ago)
+- [fix(pty): cast handles to appropriate type](https://github.com/charmbracelet/ssh/pull/14) on [charmbracelet/ssh](https://github.com/charmbracelet/ssh) (3 days ago)
 - [feat(term): add ansi sequences support](https://github.com/charmbracelet/x/pull/32) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 week ago)
 - [refactor: move term into exp](https://github.com/charmbracelet/x/pull/31) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 week ago)
 - [feat(term): support setting terminal state](https://github.com/charmbracelet/x/pull/30) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 week ago)
