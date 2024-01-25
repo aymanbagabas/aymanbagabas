@@ -4,10 +4,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (5 days ago)
-- [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (6 days ago)
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦 (6 days ago)
-- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages. (6 days ago)
+- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (6 days ago)
+- [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (1 week ago)
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦 (1 week ago)
+- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages. (1 week ago)
 - [aymanbagabas/Huawei-WMI](https://github.com/aymanbagabas/Huawei-WMI) - Huawei WMI laptop extras linux driver (2 weeks ago)
 
 #### 🌱 My latest projects
@@ -20,18 +20,18 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/mods](https://github.com/charmbracelet/mods) ([v1.2.0](https://github.com/charmbracelet/mods/releases/tag/v1.2.0), 1 day ago) - AI on the command line
-- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v10.9.1](https://github.com/LazyVim/LazyVim/releases/tag/v10.9.1), 3 days ago) - Neovim config for the lazy
+- [charmbracelet/mods](https://github.com/charmbracelet/mods) ([v1.2.0](https://github.com/charmbracelet/mods/releases/tag/v1.2.0), 2 days ago) - AI on the command line
+- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v10.9.1](https://github.com/LazyVim/LazyVim/releases/tag/v10.9.1), 4 days ago) - Neovim config for the lazy
 - [aymanbagabas/go-pty](https://github.com/aymanbagabas/go-pty) ([v0.2.2](https://github.com/aymanbagabas/go-pty/releases/tag/v0.2.2), 2 weeks ago) - Cross platform Go Pty interface
 - [git-lfs/git-lfs](https://github.com/git-lfs/git-lfs) ([v3.4.1](https://github.com/git-lfs/git-lfs/releases/tag/v3.4.1), 1 month ago) - Git extension for versioning large files
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.17.1](https://github.com/charmbracelet/bubbles/releases/tag/v0.17.1), 1 month ago) - TUI components for Bubble Tea 🫧
 
 #### 🔨 My recent Pull Requests
 
-- [fix: check whether pty is zero](https://github.com/charmbracelet/ssh/pull/16) on [charmbracelet/ssh](https://github.com/charmbracelet/ssh) (6 days ago)
-- [fix(pty): cast handles to appropriate type](https://github.com/charmbracelet/ssh/pull/14) on [charmbracelet/ssh](https://github.com/charmbracelet/ssh) (6 days ago)
+- [fix: check whether pty is zero](https://github.com/charmbracelet/ssh/pull/16) on [charmbracelet/ssh](https://github.com/charmbracelet/ssh) (1 week ago)
+- [fix(pty): cast handles to appropriate type](https://github.com/charmbracelet/ssh/pull/14) on [charmbracelet/ssh](https://github.com/charmbracelet/ssh) (1 week ago)
 - [feat(term): add ansi sequences support](https://github.com/charmbracelet/x/pull/32) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 week ago)
-- [refactor: move term into exp](https://github.com/charmbracelet/x/pull/31) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 week ago)
+- [refactor: move term into exp](https://github.com/charmbracelet/x/pull/31) on [charmbracelet/x](https://github.com/charmbracelet/x) (2 weeks ago)
 - [feat(term): support setting terminal state](https://github.com/charmbracelet/x/pull/30) on [charmbracelet/x](https://github.com/charmbracelet/x) (2 weeks ago)
 
 #### 📜 My recent blog posts
@@ -44,7 +44,7 @@
 
 #### ⭐ Recent Stars
 
-- [creack/pty](https://github.com/creack/pty) - PTY interface for Go (2 weeks ago)
+- [creack/pty](https://github.com/creack/pty) - PTY interface for Go (3 weeks ago)
 - [docusealco/docuseal](https://github.com/docusealco/docuseal) - Open source DocuSign alternative. Create, fill, and sign digital documents ✍️ (3 weeks ago)
 - [go-co-op/gocron](https://github.com/go-co-op/gocron) - Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron (1 month ago)
 - [a-h/templ](https://github.com/a-h/templ) - A language for writing HTML user interfaces in Go. (1 month ago)
