@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: only use glamour for mk files](https://github.com/charmbracelet/soft-serve/pull/467) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (today)
+- [fix: invalid error on empty repo collabs](https://github.com/charmbracelet/soft-serve/pull/466) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (today)
 - [fix: check whether pty is zero](https://github.com/charmbracelet/ssh/pull/16) on [charmbracelet/ssh](https://github.com/charmbracelet/ssh) (1 week ago)
 - [fix(pty): cast handles to appropriate type](https://github.com/charmbracelet/ssh/pull/14) on [charmbracelet/ssh](https://github.com/charmbracelet/ssh) (1 week ago)
 - [feat(term): add ansi sequences support](https://github.com/charmbracelet/x/pull/32) on [charmbracelet/x](https://github.com/charmbracelet/x) (2 weeks ago)
-- [refactor: move term into exp](https://github.com/charmbracelet/x/pull/31) on [charmbracelet/x](https://github.com/charmbracelet/x) (2 weeks ago)
-- [feat(term): support setting terminal state](https://github.com/charmbracelet/x/pull/30) on [charmbracelet/x](https://github.com/charmbracelet/x) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
