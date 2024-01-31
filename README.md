@@ -20,11 +20,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v1.3.0](https://github.com/charmbracelet/wish/releases/tag/v1.3.0), today) - Make SSH apps, just like that! 💫
 - [danielgatis/go-vte](https://github.com/danielgatis/go-vte) ([v1.0.7](https://github.com/danielgatis/go-vte/releases/tag/v1.0.7), 3 days ago) - A library to parse terminal escape sequences (almost) exactly how the real hardware does.
 - [charmbracelet/mods](https://github.com/charmbracelet/mods) ([v1.2.1](https://github.com/charmbracelet/mods/releases/tag/v1.2.1), 6 days ago) - AI on the command line
 - [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v10.9.1](https://github.com/LazyVim/LazyVim/releases/tag/v10.9.1), 1 week ago) - Neovim config for the lazy
 - [aymanbagabas/go-pty](https://github.com/aymanbagabas/go-pty) ([v0.2.2](https://github.com/aymanbagabas/go-pty/releases/tag/v0.2.2), 3 weeks ago) - Cross platform Go Pty interface
-- [git-lfs/git-lfs](https://github.com/git-lfs/git-lfs) ([v3.4.1](https://github.com/git-lfs/git-lfs/releases/tag/v3.4.1), 1 month ago) - Git extension for versioning large files
 
 #### 🔨 My recent Pull Requests
 
