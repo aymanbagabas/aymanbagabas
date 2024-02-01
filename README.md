@@ -20,11 +20,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.18.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.18.0), today) - TUI components for Bubble Tea 🫧
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v1.3.0](https://github.com/charmbracelet/wish/releases/tag/v1.3.0), 1 day ago) - Make SSH apps, just like that! 💫
 - [danielgatis/go-vte](https://github.com/danielgatis/go-vte) ([v1.0.7](https://github.com/danielgatis/go-vte/releases/tag/v1.0.7), 4 days ago) - A library to parse terminal escape sequences (almost) exactly how the real hardware does.
 - [charmbracelet/mods](https://github.com/charmbracelet/mods) ([v1.2.1](https://github.com/charmbracelet/mods/releases/tag/v1.2.1), 1 week ago) - AI on the command line
 - [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v10.9.1](https://github.com/LazyVim/LazyVim/releases/tag/v10.9.1), 1 week ago) - Neovim config for the lazy
-- [aymanbagabas/go-pty](https://github.com/aymanbagabas/go-pty) ([v0.2.2](https://github.com/aymanbagabas/go-pty/releases/tag/v0.2.2), 3 weeks ago) - Cross platform Go Pty interface
 
 #### 🔨 My recent Pull Requests
 
