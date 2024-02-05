@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦 (6 days ago)
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦 (1 week ago)
 - [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (2 weeks ago)
 - [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages. (2 weeks ago)
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (2 weeks ago)
@@ -20,16 +20,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.18.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.18.0), 3 days ago) - TUI components for Bubble Tea 🫧
-- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v1.3.0](https://github.com/charmbracelet/wish/releases/tag/v1.3.0), 4 days ago) - Make SSH apps, just like that! 💫
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.18.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.18.0), 4 days ago) - TUI components for Bubble Tea 🫧
+- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v1.3.0](https://github.com/charmbracelet/wish/releases/tag/v1.3.0), 5 days ago) - Make SSH apps, just like that! 💫
 - [danielgatis/go-vte](https://github.com/danielgatis/go-vte) ([v1.0.7](https://github.com/danielgatis/go-vte/releases/tag/v1.0.7), 1 week ago) - A library to parse terminal escape sequences (almost) exactly how the real hardware does.
 - [charmbracelet/mods](https://github.com/charmbracelet/mods) ([v1.2.1](https://github.com/charmbracelet/mods/releases/tag/v1.2.1), 1 week ago) - AI on the command line
 - [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v10.9.1](https://github.com/LazyVim/LazyVim/releases/tag/v10.9.1), 2 weeks ago) - Neovim config for the lazy
 
 #### 🔨 My recent Pull Requests
 
-- [fix: only use glamour for mk files](https://github.com/charmbracelet/soft-serve/pull/467) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (6 days ago)
-- [fix: invalid error on empty repo collabs](https://github.com/charmbracelet/soft-serve/pull/466) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (6 days ago)
+- [fix: only use glamour for mk files](https://github.com/charmbracelet/soft-serve/pull/467) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 week ago)
+- [fix: invalid error on empty repo collabs](https://github.com/charmbracelet/soft-serve/pull/466) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 week ago)
 - [fix: check whether pty is zero](https://github.com/charmbracelet/ssh/pull/16) on [charmbracelet/ssh](https://github.com/charmbracelet/ssh) (2 weeks ago)
 - [fix(pty): cast handles to appropriate type](https://github.com/charmbracelet/ssh/pull/14) on [charmbracelet/ssh](https://github.com/charmbracelet/ssh) (2 weeks ago)
 - [feat(term): add ansi sequences support](https://github.com/charmbracelet/x/pull/32) on [charmbracelet/x](https://github.com/charmbracelet/x) (3 weeks ago)
