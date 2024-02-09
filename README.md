@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [term: remove duplicate flag and add comment on windows](https://github.com/golang/term/pull/14) on [golang/term](https://github.com/golang/term) (today)
 - [fix: only use glamour for mk files](https://github.com/charmbracelet/soft-serve/pull/467) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 week ago)
 - [fix: invalid error on empty repo collabs](https://github.com/charmbracelet/soft-serve/pull/466) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 week ago)
 - [fix: check whether pty is zero](https://github.com/charmbracelet/ssh/pull/16) on [charmbracelet/ssh](https://github.com/charmbracelet/ssh) (3 weeks ago)
 - [fix(pty): cast handles to appropriate type](https://github.com/charmbracelet/ssh/pull/14) on [charmbracelet/ssh](https://github.com/charmbracelet/ssh) (3 weeks ago)
-- [feat(term): add ansi sequences support](https://github.com/charmbracelet/x/pull/32) on [charmbracelet/x](https://github.com/charmbracelet/x) (4 weeks ago)
 
 #### 📜 My recent blog posts
 
@@ -44,11 +44,11 @@
 
 #### ⭐ Recent Stars
 
+- [erikgeiser/coninput](https://github.com/erikgeiser/coninput) - Go library for input handling using Windows Console API (today)
 - [creack/pty](https://github.com/creack/pty) - PTY interface for Go (1 month ago)
 - [docusealco/docuseal](https://github.com/docusealco/docuseal) - Open source DocuSign alternative. Create, fill, and sign digital documents ✍️ (1 month ago)
 - [go-co-op/gocron](https://github.com/go-co-op/gocron) - Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron (1 month ago)
 - [a-h/templ](https://github.com/a-h/templ) - A language for writing HTML user interfaces in Go. (2 months ago)
-- [charmbracelet/huh](https://github.com/charmbracelet/huh) - Build terminal forms and prompts 🤷🏻‍♀️ (2 months ago)
 
 #### 📫 How to reach me
 
