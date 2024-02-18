@@ -4,10 +4,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/log](https://github.com/charmbracelet/log) - A minimal, colorful Go logging library 🪵 (1 day ago)
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (4 days ago)
-- [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (4 days ago)
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (4 days ago)
+- [charmbracelet/log](https://github.com/charmbracelet/log) - A minimal, colorful Go logging library 🪵 (2 days ago)
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (5 days ago)
+- [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (5 days ago)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (5 days ago)
 - [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages. (1 week ago)
 
 #### 🌱 My latest projects
@@ -20,10 +20,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [golang/tools](https://github.com/golang/tools) ([gopls/v0.15.0-pre.3](https://github.com/golang/tools/releases/tag/gopls/v0.15.0-pre.3), 4 days ago) - [mirror] Go Tools
+- [golang/tools](https://github.com/golang/tools) ([gopls/v0.15.0-pre.3](https://github.com/golang/tools/releases/tag/gopls/v0.15.0-pre.3), 5 days ago) - [mirror] Go Tools
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v1.3.1](https://github.com/charmbracelet/wish/releases/tag/v1.3.1), 1 week ago) - Make SSH apps, just like that! 💫
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.18.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.18.0), 2 weeks ago) - TUI components for Bubble Tea 🫧
-- [danielgatis/go-vte](https://github.com/danielgatis/go-vte) ([v1.0.7](https://github.com/danielgatis/go-vte/releases/tag/v1.0.7), 2 weeks ago) - A library to parse terminal escape sequences (almost) exactly how the real hardware does.
+- [danielgatis/go-vte](https://github.com/danielgatis/go-vte) ([v1.0.7](https://github.com/danielgatis/go-vte/releases/tag/v1.0.7), 3 weeks ago) - A library to parse terminal escape sequences (almost) exactly how the real hardware does.
 - [charmbracelet/mods](https://github.com/charmbracelet/mods) ([v1.2.1](https://github.com/charmbracelet/mods/releases/tag/v1.2.1), 3 weeks ago) - AI on the command line
 
 #### 🔨 My recent Pull Requests
