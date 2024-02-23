@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/log](https://github.com/charmbracelet/log) - A minimal, colorful Go logging library 🪵 (6 days ago)
+- [charmbracelet/log](https://github.com/charmbracelet/log) - A minimal, colorful Go logging library 🪵 (1 week ago)
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (1 week ago)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 week ago)
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (1 week ago)
@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v10.10.0](https://github.com/LazyVim/LazyVim/releases/tag/v10.10.0), 1 day ago) - Neovim config for the lazy
+- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v10.10.0](https://github.com/LazyVim/LazyVim/releases/tag/v10.10.0), 2 days ago) - Neovim config for the lazy
 - [golang/tools](https://github.com/golang/tools) ([gopls/v0.15.0-pre.3](https://github.com/golang/tools/releases/tag/gopls/v0.15.0-pre.3), 1 week ago) - [mirror] Go Tools
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v1.3.1](https://github.com/charmbracelet/wish/releases/tag/v1.3.1), 2 weeks ago) - Make SSH apps, just like that! 💫
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.18.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.18.0), 3 weeks ago) - TUI components for Bubble Tea 🫧
@@ -28,7 +28,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [term: remove duplicate flag and add comment on windows](https://github.com/golang/term/pull/14) on [golang/term](https://github.com/golang/term) (1 week ago)
+- [term: remove duplicate flag and add comment on windows](https://github.com/golang/term/pull/14) on [golang/term](https://github.com/golang/term) (2 weeks ago)
 - [fix: only use glamour for mk files](https://github.com/charmbracelet/soft-serve/pull/467) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (3 weeks ago)
 - [fix: invalid error on empty repo collabs](https://github.com/charmbracelet/soft-serve/pull/466) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (3 weeks ago)
 - [fix: check whether pty is zero](https://github.com/charmbracelet/ssh/pull/16) on [charmbracelet/ssh](https://github.com/charmbracelet/ssh) (1 month ago)
@@ -44,7 +44,7 @@
 
 #### ⭐ Recent Stars
 
-- [erikgeiser/coninput](https://github.com/erikgeiser/coninput) - Go library for input handling using Windows Console API (1 week ago)
+- [erikgeiser/coninput](https://github.com/erikgeiser/coninput) - Go library for input handling using Windows Console API (2 weeks ago)
 - [creack/pty](https://github.com/creack/pty) - PTY interface for Go (1 month ago)
 - [docusealco/docuseal](https://github.com/docusealco/docuseal) - Open source DocuSign alternative. Create, fill, and sign digital documents ✍️ (1 month ago)
 - [go-co-op/gocron](https://github.com/go-co-op/gocron) - Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron (2 months ago)
