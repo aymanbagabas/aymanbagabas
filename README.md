@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️ (today)
 - [charmbracelet/log](https://github.com/charmbracelet/log) - A minimal, colorful Go logging library 🪵 (1 week ago)
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (1 week ago)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 week ago)
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (1 week ago)
-- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages. (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [golang/tools](https://github.com/golang/tools) ([gopls/v0.15.0](https://github.com/golang/tools/releases/tag/gopls/v0.15.0), today) - [mirror] Go Tools
 - [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v10.10.0](https://github.com/LazyVim/LazyVim/releases/tag/v10.10.0), 5 days ago) - Neovim config for the lazy
-- [golang/tools](https://github.com/golang/tools) ([gopls/v0.15.0-pre.3](https://github.com/golang/tools/releases/tag/gopls/v0.15.0-pre.3), 1 week ago) - [mirror] Go Tools
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v1.3.1](https://github.com/charmbracelet/wish/releases/tag/v1.3.1), 2 weeks ago) - Make SSH apps, just like that! 💫
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.18.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.18.0), 3 weeks ago) - TUI components for Bubble Tea 🫧
 - [danielgatis/go-vte](https://github.com/danielgatis/go-vte) ([v1.0.7](https://github.com/danielgatis/go-vte/releases/tag/v1.0.7), 4 weeks ago) - A library to parse terminal escape sequences (almost) exactly how the real hardware does.
 
 #### 🔨 My recent Pull Requests
 
+- [refactor(term): move conpty out of windows](https://github.com/charmbracelet/x/pull/43) on [charmbracelet/x](https://github.com/charmbracelet/x) (today)
+- [term/ansi: update docs, implement sequence parsing, and add more control functions](https://github.com/charmbracelet/x/pull/42) on [charmbracelet/x](https://github.com/charmbracelet/x) (today)
 - [term: remove duplicate flag and add comment on windows](https://github.com/golang/term/pull/14) on [golang/term](https://github.com/golang/term) (2 weeks ago)
 - [fix: only use glamour for mk files](https://github.com/charmbracelet/soft-serve/pull/467) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (4 weeks ago)
 - [fix: invalid error on empty repo collabs](https://github.com/charmbracelet/soft-serve/pull/466) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (4 weeks ago)
-- [fix: check whether pty is zero](https://github.com/charmbracelet/ssh/pull/16) on [charmbracelet/ssh](https://github.com/charmbracelet/ssh) (1 month ago)
-- [fix(pty): cast handles to appropriate type](https://github.com/charmbracelet/ssh/pull/14) on [charmbracelet/ssh](https://github.com/charmbracelet/ssh) (1 month ago)
 
 #### 📜 My recent blog posts
 
