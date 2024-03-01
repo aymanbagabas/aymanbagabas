@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/git-lfs-transfer](https://github.com/charmbracelet/git-lfs-transfer) - Server-side implementation of the Git LFS pure-SSH protocol (today)
-- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages. (1 day ago)
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 day ago)
-- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (1 day ago)
-- [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️ (3 days ago)
+- [charmbracelet/git-lfs-transfer](https://github.com/charmbracelet/git-lfs-transfer) - Server-side implementation of the Git LFS pure-SSH protocol (1 day ago)
+- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages. (2 days ago)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (2 days ago)
+- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (2 days ago)
+- [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️ (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [golang/tools](https://github.com/golang/tools) ([gopls/v0.15.1](https://github.com/golang/tools/releases/tag/gopls/v0.15.1), 1 day ago) - [mirror] Go Tools
+- [golang/tools](https://github.com/golang/tools) ([gopls/v0.15.1](https://github.com/golang/tools/releases/tag/gopls/v0.15.1), 2 days ago) - [mirror] Go Tools
 - [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v10.10.0](https://github.com/LazyVim/LazyVim/releases/tag/v10.10.0), 1 week ago) - Neovim config for the lazy
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v1.3.1](https://github.com/charmbracelet/wish/releases/tag/v1.3.1), 3 weeks ago) - Make SSH apps, just like that! 💫
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.18.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.18.0), 4 weeks ago) - TUI components for Bubble Tea 🫧
@@ -28,10 +28,10 @@
 
 #### 🔨 My recent Pull Requests
 
-- [docker: link docker-compose completions](https://github.com/Homebrew/homebrew-cask/pull/167821) on [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) (1 day ago)
-- [refactor(term): move conpty out of windows](https://github.com/charmbracelet/x/pull/43) on [charmbracelet/x](https://github.com/charmbracelet/x) (3 days ago)
-- [term/ansi: update docs, implement sequence parsing, and add more control functions](https://github.com/charmbracelet/x/pull/42) on [charmbracelet/x](https://github.com/charmbracelet/x) (3 days ago)
-- [term: remove duplicate flag and add comment on windows](https://github.com/golang/term/pull/14) on [golang/term](https://github.com/golang/term) (2 weeks ago)
+- [docker: link docker-compose completions](https://github.com/Homebrew/homebrew-cask/pull/167821) on [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) (2 days ago)
+- [refactor(term): move conpty out of windows](https://github.com/charmbracelet/x/pull/43) on [charmbracelet/x](https://github.com/charmbracelet/x) (4 days ago)
+- [term/ansi: update docs, implement sequence parsing, and add more control functions](https://github.com/charmbracelet/x/pull/42) on [charmbracelet/x](https://github.com/charmbracelet/x) (4 days ago)
+- [term: remove duplicate flag and add comment on windows](https://github.com/golang/term/pull/14) on [golang/term](https://github.com/golang/term) (3 weeks ago)
 - [fix: only use glamour for mk files](https://github.com/charmbracelet/soft-serve/pull/467) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 month ago)
 
 #### 📜 My recent blog posts
@@ -44,7 +44,7 @@
 
 #### ⭐ Recent Stars
 
-- [erikgeiser/coninput](https://github.com/erikgeiser/coninput) - Go library for input handling using Windows Console API (2 weeks ago)
+- [erikgeiser/coninput](https://github.com/erikgeiser/coninput) - Go library for input handling using Windows Console API (3 weeks ago)
 - [creack/pty](https://github.com/creack/pty) - PTY interface for Go (1 month ago)
 - [docusealco/docuseal](https://github.com/docusealco/docuseal) - Open source DocuSign alternative. Create, fill, and sign digital documents ✍️ (1 month ago)
 - [go-co-op/gocron](https://github.com/go-co-op/gocron) - Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron (2 months ago)
