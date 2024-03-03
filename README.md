@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (today)
-- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (1 day ago)
-- [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (1 day ago)
-- [charmbracelet/git-lfs-transfer](https://github.com/charmbracelet/git-lfs-transfer) - Server-side implementation of the Git LFS pure-SSH protocol (2 days ago)
-- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages. (3 days ago)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 day ago)
+- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (2 days ago)
+- [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (2 days ago)
+- [charmbracelet/git-lfs-transfer](https://github.com/charmbracelet/git-lfs-transfer) - Server-side implementation of the Git LFS pure-SSH protocol (3 days ago)
+- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages. (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [golang/tools](https://github.com/golang/tools) ([gopls/v0.15.1](https://github.com/golang/tools/releases/tag/gopls/v0.15.1), 3 days ago) - [mirror] Go Tools
+- [golang/tools](https://github.com/golang/tools) ([gopls/v0.15.1](https://github.com/golang/tools/releases/tag/gopls/v0.15.1), 4 days ago) - [mirror] Go Tools
 - [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v10.10.0](https://github.com/LazyVim/LazyVim/releases/tag/v10.10.0), 1 week ago) - Neovim config for the lazy
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v1.3.1](https://github.com/charmbracelet/wish/releases/tag/v1.3.1), 3 weeks ago) - Make SSH apps, just like that! 💫
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.18.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.18.0), 1 month ago) - TUI components for Bubble Tea 🫧
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
-- [fix(tests): single batch cmd](https://github.com/charmbracelet/bubbletea/pull/935) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
-- [fix: drop windows 386 from goreleaser-semi](https://github.com/charmbracelet/meta/pull/138) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (1 day ago)
-- [docker: link docker-compose completions](https://github.com/Homebrew/homebrew-cask/pull/167821) on [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) (3 days ago)
-- [refactor(term): move conpty out of windows](https://github.com/charmbracelet/x/pull/43) on [charmbracelet/x](https://github.com/charmbracelet/x) (5 days ago)
-- [term/ansi: update docs, implement sequence parsing, and add more control functions](https://github.com/charmbracelet/x/pull/42) on [charmbracelet/x](https://github.com/charmbracelet/x) (5 days ago)
+- [fix(tests): single batch cmd](https://github.com/charmbracelet/bubbletea/pull/935) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 days ago)
+- [fix: drop windows 386 from goreleaser-semi](https://github.com/charmbracelet/meta/pull/138) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (2 days ago)
+- [docker: link docker-compose completions](https://github.com/Homebrew/homebrew-cask/pull/167821) on [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) (4 days ago)
+- [refactor(term): move conpty out of windows](https://github.com/charmbracelet/x/pull/43) on [charmbracelet/x](https://github.com/charmbracelet/x) (6 days ago)
+- [term/ansi: update docs, implement sequence parsing, and add more control functions](https://github.com/charmbracelet/x/pull/42) on [charmbracelet/x](https://github.com/charmbracelet/x) (6 days ago)
 
 #### 📜 My recent blog posts
 
