@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat(term): new input package](https://github.com/charmbracelet/x/pull/47) on [charmbracelet/x](https://github.com/charmbracelet/x) (today)
 - [fix(tests): single batch cmd](https://github.com/charmbracelet/bubbletea/pull/935) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (3 days ago)
 - [fix: drop windows 386 from goreleaser-semi](https://github.com/charmbracelet/meta/pull/138) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (3 days ago)
 - [docker: link docker-compose completions](https://github.com/Homebrew/homebrew-cask/pull/167821) on [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) (5 days ago)
 - [refactor(term): move conpty out of windows](https://github.com/charmbracelet/x/pull/43) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 week ago)
-- [term/ansi: update docs, implement sequence parsing, and add more control functions](https://github.com/charmbracelet/x/pull/42) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 week ago)
 
 #### 📜 My recent blog posts
 
