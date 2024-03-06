@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (3 days ago)
-- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (4 days ago)
-- [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (4 days ago)
-- [charmbracelet/git-lfs-transfer](https://github.com/charmbracelet/git-lfs-transfer) - Server-side implementation of the Git LFS pure-SSH protocol (5 days ago)
-- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages. (6 days ago)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (4 days ago)
+- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (5 days ago)
+- [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (5 days ago)
+- [charmbracelet/git-lfs-transfer](https://github.com/charmbracelet/git-lfs-transfer) - Server-side implementation of the Git LFS pure-SSH protocol (6 days ago)
+- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages. (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -20,18 +20,18 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.10.0](https://github.com/charmbracelet/lipgloss/releases/tag/v0.10.0), today) - Style definitions for nice terminal layouts 👄
-- [golang/tools](https://github.com/golang/tools) ([gopls/v0.15.1](https://github.com/golang/tools/releases/tag/gopls/v0.15.1), 6 days ago) - [mirror] Go Tools
-- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v10.10.0](https://github.com/LazyVim/LazyVim/releases/tag/v10.10.0), 1 week ago) - Neovim config for the lazy
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.10.0](https://github.com/charmbracelet/lipgloss/releases/tag/v0.10.0), 1 day ago) - Style definitions for nice terminal layouts 👄
+- [golang/tools](https://github.com/golang/tools) ([gopls/v0.15.1](https://github.com/golang/tools/releases/tag/gopls/v0.15.1), 1 week ago) - [mirror] Go Tools
+- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v10.10.0](https://github.com/LazyVim/LazyVim/releases/tag/v10.10.0), 2 weeks ago) - Neovim config for the lazy
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v1.3.1](https://github.com/charmbracelet/wish/releases/tag/v1.3.1), 4 weeks ago) - Make SSH apps, just like that! 💫
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.18.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.18.0), 1 month ago) - TUI components for Bubble Tea 🫧
 
 #### 🔨 My recent Pull Requests
 
-- [feat(term): new input package](https://github.com/charmbracelet/x/pull/47) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 day ago)
-- [fix(tests): single batch cmd](https://github.com/charmbracelet/bubbletea/pull/935) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (4 days ago)
-- [fix: drop windows 386 from goreleaser-semi](https://github.com/charmbracelet/meta/pull/138) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (4 days ago)
-- [docker: link docker-compose completions](https://github.com/Homebrew/homebrew-cask/pull/167821) on [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) (6 days ago)
+- [feat(term): new input package](https://github.com/charmbracelet/x/pull/47) on [charmbracelet/x](https://github.com/charmbracelet/x) (2 days ago)
+- [fix(tests): single batch cmd](https://github.com/charmbracelet/bubbletea/pull/935) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (5 days ago)
+- [fix: drop windows 386 from goreleaser-semi](https://github.com/charmbracelet/meta/pull/138) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (5 days ago)
+- [docker: link docker-compose completions](https://github.com/Homebrew/homebrew-cask/pull/167821) on [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) (1 week ago)
 - [refactor(term): move conpty out of windows](https://github.com/charmbracelet/x/pull/43) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 week ago)
 
 #### 📜 My recent blog posts
