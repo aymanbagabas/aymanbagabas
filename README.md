@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [git-lfs/git-lfs](https://github.com/git-lfs/git-lfs) ([v3.5.1](https://github.com/git-lfs/git-lfs/releases/tag/v3.5.1), today) - Git extension for versioning large files
 - [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v10.12.0](https://github.com/LazyVim/LazyVim/releases/tag/v10.12.0), today) - Neovim config for the lazy
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.10.0](https://github.com/charmbracelet/lipgloss/releases/tag/v0.10.0), 2 days ago) - Style definitions for nice terminal layouts 👄
 - [golang/tools](https://github.com/golang/tools) ([gopls/v0.15.1](https://github.com/golang/tools/releases/tag/gopls/v0.15.1), 1 week ago) - [mirror] Go Tools
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v1.3.1](https://github.com/charmbracelet/wish/releases/tag/v1.3.1), 1 month ago) - Make SSH apps, just like that! 💫
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.18.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.18.0), 1 month ago) - TUI components for Bubble Tea 🫧
 
 #### 🔨 My recent Pull Requests
 
+- [feat(term): query terminal features](https://github.com/charmbracelet/x/pull/48) on [charmbracelet/x](https://github.com/charmbracelet/x) (today)
 - [feat(term): new input package](https://github.com/charmbracelet/x/pull/47) on [charmbracelet/x](https://github.com/charmbracelet/x) (3 days ago)
 - [fix(tests): single batch cmd](https://github.com/charmbracelet/bubbletea/pull/935) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (6 days ago)
 - [fix: drop windows 386 from goreleaser-semi](https://github.com/charmbracelet/meta/pull/138) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (6 days ago)
 - [docker: link docker-compose completions](https://github.com/Homebrew/homebrew-cask/pull/167821) on [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) (1 week ago)
-- [refactor(term): move conpty out of windows](https://github.com/charmbracelet/x/pull/43) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 week ago)
 
 #### 📜 My recent blog posts
 
