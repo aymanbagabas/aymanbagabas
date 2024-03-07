@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v10.11.1](https://github.com/LazyVim/LazyVim/releases/tag/v10.11.1), today) - Neovim config for the lazy
+- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v10.12.0](https://github.com/LazyVim/LazyVim/releases/tag/v10.12.0), today) - Neovim config for the lazy
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.10.0](https://github.com/charmbracelet/lipgloss/releases/tag/v0.10.0), 2 days ago) - Style definitions for nice terminal layouts 👄
 - [golang/tools](https://github.com/golang/tools) ([gopls/v0.15.1](https://github.com/golang/tools/releases/tag/gopls/v0.15.1), 1 week ago) - [mirror] Go Tools
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v1.3.1](https://github.com/charmbracelet/wish/releases/tag/v1.3.1), 1 month ago) - Make SSH apps, just like that! 💫
