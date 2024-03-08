@@ -6,9 +6,9 @@
 
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦 (today)
 - [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (today)
+- [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (today)
 - [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages. (1 day ago)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (6 days ago)
-- [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v1.3.2](https://github.com/charmbracelet/wish/releases/tag/v1.3.2), today) - Make SSH apps, just like that! 💫
 - [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v10.12.1](https://github.com/LazyVim/LazyVim/releases/tag/v10.12.1), today) - Neovim config for the lazy
 - [charmbracelet/mods](https://github.com/charmbracelet/mods) ([v1.2.2](https://github.com/charmbracelet/mods/releases/tag/v1.2.2), 1 day ago) - AI on the command line
 - [git-lfs/git-lfs](https://github.com/git-lfs/git-lfs) ([v3.5.1](https://github.com/git-lfs/git-lfs/releases/tag/v3.5.1), 1 day ago) - Git extension for versioning large files
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.10.0](https://github.com/charmbracelet/lipgloss/releases/tag/v0.10.0), 3 days ago) - Style definitions for nice terminal layouts 👄
-- [golang/tools](https://github.com/golang/tools) ([gopls/v0.15.1](https://github.com/golang/tools/releases/tag/gopls/v0.15.1), 1 week ago) - [mirror] Go Tools
 
 #### 🔨 My recent Pull Requests
 
+- [fix: remove ssh server version](https://github.com/charmbracelet/wish/pull/249) on [charmbracelet/wish](https://github.com/charmbracelet/wish) (today)
 - [fix: unquote git quoted filenames](https://github.com/charmbracelet/soft-serve/pull/492) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (today)
 - [chore(deps): update dependencies and go to 1.21](https://github.com/charmbracelet/soft-serve/pull/491) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (today)
 - [feat(term): query terminal features](https://github.com/charmbracelet/x/pull/48) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 day ago)
 - [feat(term): new input package](https://github.com/charmbracelet/x/pull/47) on [charmbracelet/x](https://github.com/charmbracelet/x) (4 days ago)
-- [fix(tests): single batch cmd](https://github.com/charmbracelet/bubbletea/pull/935) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 week ago)
 
 #### 📜 My recent blog posts
 
