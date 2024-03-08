@@ -44,11 +44,11 @@
 
 #### ⭐ Recent Stars
 
+- [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file (today)
 - [erikgeiser/coninput](https://github.com/erikgeiser/coninput) - Go library for input handling using Windows Console API (4 weeks ago)
 - [creack/pty](https://github.com/creack/pty) - PTY interface for Go (2 months ago)
 - [docusealco/docuseal](https://github.com/docusealco/docuseal) - Open source DocuSign alternative. Create, fill, and sign digital documents ✍️ (2 months ago)
 - [go-co-op/gocron](https://github.com/go-co-op/gocron) - Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron (2 months ago)
-- [a-h/templ](https://github.com/a-h/templ) - A language for writing HTML user interfaces in Go. (2 months ago)
 
 #### 📫 How to reach me
 
