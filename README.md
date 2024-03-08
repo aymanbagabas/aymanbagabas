@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦 (today)
 - [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (today)
 - [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages. (1 day ago)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (6 days ago)
 - [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (1 week ago)
-- [charmbracelet/git-lfs-transfer](https://github.com/charmbracelet/git-lfs-transfer) - Server-side implementation of the Git LFS pure-SSH protocol (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: unquote git quoted filenames](https://github.com/charmbracelet/soft-serve/pull/492) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (today)
 - [chore(deps): update dependencies and go to 1.21](https://github.com/charmbracelet/soft-serve/pull/491) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (today)
 - [feat(term): query terminal features](https://github.com/charmbracelet/x/pull/48) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 day ago)
 - [feat(term): new input package](https://github.com/charmbracelet/x/pull/47) on [charmbracelet/x](https://github.com/charmbracelet/x) (4 days ago)
 - [fix(tests): single batch cmd](https://github.com/charmbracelet/bubbletea/pull/935) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 week ago)
-- [fix: drop windows 386 from goreleaser-semi](https://github.com/charmbracelet/meta/pull/138) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (1 week ago)
 
 #### 📜 My recent blog posts
 
