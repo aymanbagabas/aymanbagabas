@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [chore(deps): update dependencies and go to 1.21](https://github.com/charmbracelet/soft-serve/pull/491) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (today)
 - [feat(term): query terminal features](https://github.com/charmbracelet/x/pull/48) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 day ago)
 - [feat(term): new input package](https://github.com/charmbracelet/x/pull/47) on [charmbracelet/x](https://github.com/charmbracelet/x) (4 days ago)
 - [fix(tests): single batch cmd](https://github.com/charmbracelet/bubbletea/pull/935) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 week ago)
 - [fix: drop windows 386 from goreleaser-semi](https://github.com/charmbracelet/meta/pull/138) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (1 week ago)
-- [docker: link docker-compose completions](https://github.com/Homebrew/homebrew-cask/pull/167821) on [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) (1 week ago)
 
 #### 📜 My recent blog posts
 
