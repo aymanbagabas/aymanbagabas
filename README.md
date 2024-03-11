@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Term: update ANSI parser](https://github.com/charmbracelet/x/pull/49) on [charmbracelet/x](https://github.com/charmbracelet/x) (today)
 - [fix: remove ssh server version](https://github.com/charmbracelet/wish/pull/249) on [charmbracelet/wish](https://github.com/charmbracelet/wish) (3 days ago)
 - [fix: unquote git quoted filenames](https://github.com/charmbracelet/soft-serve/pull/492) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (3 days ago)
 - [chore(deps): update dependencies and go to 1.21](https://github.com/charmbracelet/soft-serve/pull/491) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (3 days ago)
 - [feat(term): query terminal features](https://github.com/charmbracelet/x/pull/48) on [charmbracelet/x](https://github.com/charmbracelet/x) (4 days ago)
-- [feat(term): new input package](https://github.com/charmbracelet/x/pull/47) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 week ago)
 
 #### 📜 My recent blog posts
 
