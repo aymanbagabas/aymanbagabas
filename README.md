@@ -20,11 +20,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [golang/tools](https://github.com/golang/tools) ([gopls/v0.15.2](https://github.com/golang/tools/releases/tag/gopls/v0.15.2), today) - [mirror] Go Tools
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v1.3.2](https://github.com/charmbracelet/wish/releases/tag/v1.3.2), 4 days ago) - Make SSH apps, just like that! 💫
 - [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v10.12.1](https://github.com/LazyVim/LazyVim/releases/tag/v10.12.1), 4 days ago) - Neovim config for the lazy
 - [charmbracelet/mods](https://github.com/charmbracelet/mods) ([v1.2.2](https://github.com/charmbracelet/mods/releases/tag/v1.2.2), 5 days ago) - AI on the command line
 - [git-lfs/git-lfs](https://github.com/git-lfs/git-lfs) ([v3.5.1](https://github.com/git-lfs/git-lfs/releases/tag/v3.5.1), 5 days ago) - Git extension for versioning large files
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.10.0](https://github.com/charmbracelet/lipgloss/releases/tag/v0.10.0), 1 week ago) - Style definitions for nice terminal layouts 👄
 
 #### 🔨 My recent Pull Requests
 
