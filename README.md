@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat(term): ansi: implement ANSI aware truncation](https://github.com/charmbracelet/x/pull/50) on [charmbracelet/x](https://github.com/charmbracelet/x) (today)
 - [Term: update ANSI parser](https://github.com/charmbracelet/x/pull/49) on [charmbracelet/x](https://github.com/charmbracelet/x) (2 days ago)
 - [fix: remove ssh server version](https://github.com/charmbracelet/wish/pull/249) on [charmbracelet/wish](https://github.com/charmbracelet/wish) (5 days ago)
 - [fix: unquote git quoted filenames](https://github.com/charmbracelet/soft-serve/pull/492) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (5 days ago)
 - [chore(deps): update dependencies and go to 1.21](https://github.com/charmbracelet/soft-serve/pull/491) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (5 days ago)
-- [feat(term): query terminal features](https://github.com/charmbracelet/x/pull/48) on [charmbracelet/x](https://github.com/charmbracelet/x) (6 days ago)
 
 #### 📜 My recent blog posts
 
