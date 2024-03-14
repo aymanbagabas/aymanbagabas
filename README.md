@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v10.13.0](https://github.com/LazyVim/LazyVim/releases/tag/v10.13.0), today) - Neovim config for the lazy
 - [golang/tools](https://github.com/golang/tools) ([gopls/v0.15.2](https://github.com/golang/tools/releases/tag/gopls/v0.15.2), 2 days ago) - [mirror] Go Tools
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v1.3.2](https://github.com/charmbracelet/wish/releases/tag/v1.3.2), 6 days ago) - Make SSH apps, just like that! 💫
-- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v10.12.1](https://github.com/LazyVim/LazyVim/releases/tag/v10.12.1), 6 days ago) - Neovim config for the lazy
 - [charmbracelet/mods](https://github.com/charmbracelet/mods) ([v1.2.2](https://github.com/charmbracelet/mods/releases/tag/v1.2.2), 1 week ago) - AI on the command line
 - [git-lfs/git-lfs](https://github.com/git-lfs/git-lfs) ([v3.5.1](https://github.com/git-lfs/git-lfs/releases/tag/v3.5.1), 1 week ago) - Git extension for versioning large files
 
 #### 🔨 My recent Pull Requests
 
+- [feat: switch to term/ansi for text manipulation](https://github.com/charmbracelet/lipgloss/pull/268) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (today)
 - [feat(term): ansi: implement wrap and wordwrap](https://github.com/charmbracelet/x/pull/51) on [charmbracelet/x](https://github.com/charmbracelet/x) (today)
 - [feat(term): ansi: implement ANSI aware truncation](https://github.com/charmbracelet/x/pull/50) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 day ago)
 - [Term: update ANSI parser](https://github.com/charmbracelet/x/pull/49) on [charmbracelet/x](https://github.com/charmbracelet/x) (3 days ago)
 - [fix: remove ssh server version](https://github.com/charmbracelet/wish/pull/249) on [charmbracelet/wish](https://github.com/charmbracelet/wish) (6 days ago)
-- [fix: unquote git quoted filenames](https://github.com/charmbracelet/soft-serve/pull/492) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (6 days ago)
 
 #### 📜 My recent blog posts
 
