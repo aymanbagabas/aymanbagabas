@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat(table): replace stripansi with ansi.Strip](https://github.com/charmbracelet/lipgloss/pull/271) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (today)
 - [feat: support inferring the color profile from terminfo dbs](https://github.com/charmbracelet/lipgloss/pull/270) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (today)
 - [feat!: introduce color profiles and use term/ansi for styles](https://github.com/charmbracelet/lipgloss/pull/269) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (today)
 - [feat: switch to term/ansi for text manipulation](https://github.com/charmbracelet/lipgloss/pull/268) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (1 day ago)
 - [feat(term): ansi: implement wrap and wordwrap](https://github.com/charmbracelet/x/pull/51) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 day ago)
-- [feat(term): ansi: implement ANSI aware truncation](https://github.com/charmbracelet/x/pull/50) on [charmbracelet/x](https://github.com/charmbracelet/x) (2 days ago)
 
 #### 📜 My recent blog posts
 
