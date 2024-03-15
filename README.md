@@ -20,11 +20,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/melt](https://github.com/charmbracelet/melt) ([v0.6.1](https://github.com/charmbracelet/melt/releases/tag/v0.6.1), today) - 🧊 Backup and restore Ed25519 SSH keys with seed words.
 - [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v10.13.0](https://github.com/LazyVim/LazyVim/releases/tag/v10.13.0), 1 day ago) - Neovim config for the lazy
 - [golang/tools](https://github.com/golang/tools) ([gopls/v0.15.2](https://github.com/golang/tools/releases/tag/gopls/v0.15.2), 3 days ago) - [mirror] Go Tools
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v1.3.2](https://github.com/charmbracelet/wish/releases/tag/v1.3.2), 1 week ago) - Make SSH apps, just like that! 💫
 - [charmbracelet/mods](https://github.com/charmbracelet/mods) ([v1.2.2](https://github.com/charmbracelet/mods/releases/tag/v1.2.2), 1 week ago) - AI on the command line
-- [git-lfs/git-lfs](https://github.com/git-lfs/git-lfs) ([v3.5.1](https://github.com/git-lfs/git-lfs/releases/tag/v3.5.1), 1 week ago) - Git extension for versioning large files
 
 #### 🔨 My recent Pull Requests
 
