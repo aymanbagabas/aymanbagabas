@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (today)
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦 (2 days ago)
-- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages. (3 days ago)
+- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (1 day ago)
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦 (3 days ago)
+- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages. (4 days ago)
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (1 week ago)
-- [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries (1 week ago)
+- [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/melt](https://github.com/charmbracelet/melt) ([v0.6.1](https://github.com/charmbracelet/melt/releases/tag/v0.6.1), 2 days ago) - 🧊 Backup and restore Ed25519 SSH keys with seed words.
-- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v10.13.0](https://github.com/LazyVim/LazyVim/releases/tag/v10.13.0), 3 days ago) - Neovim config for the lazy
-- [golang/tools](https://github.com/golang/tools) ([gopls/v0.15.2](https://github.com/golang/tools/releases/tag/gopls/v0.15.2), 5 days ago) - [mirror] Go Tools
+- [charmbracelet/melt](https://github.com/charmbracelet/melt) ([v0.6.1](https://github.com/charmbracelet/melt/releases/tag/v0.6.1), 3 days ago) - 🧊 Backup and restore Ed25519 SSH keys with seed words.
+- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v10.13.0](https://github.com/LazyVim/LazyVim/releases/tag/v10.13.0), 4 days ago) - Neovim config for the lazy
+- [golang/tools](https://github.com/golang/tools) ([gopls/v0.15.2](https://github.com/golang/tools/releases/tag/gopls/v0.15.2), 6 days ago) - [mirror] Go Tools
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v1.3.2](https://github.com/charmbracelet/wish/releases/tag/v1.3.2), 1 week ago) - Make SSH apps, just like that! 💫
 - [charmbracelet/mods](https://github.com/charmbracelet/mods) ([v1.2.2](https://github.com/charmbracelet/mods/releases/tag/v1.2.2), 1 week ago) - AI on the command line
 
 #### 🔨 My recent Pull Requests
 
-- [feat(table): replace stripansi with ansi.Strip](https://github.com/charmbracelet/lipgloss/pull/271) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (2 days ago)
-- [feat: support inferring the color profile from terminfo dbs](https://github.com/charmbracelet/lipgloss/pull/270) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (2 days ago)
-- [feat!: introduce color profiles and use term/ansi for styles](https://github.com/charmbracelet/lipgloss/pull/269) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (2 days ago)
-- [feat: switch to term/ansi for text manipulation](https://github.com/charmbracelet/lipgloss/pull/268) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (3 days ago)
-- [feat(term): ansi: implement wrap and wordwrap](https://github.com/charmbracelet/x/pull/51) on [charmbracelet/x](https://github.com/charmbracelet/x) (3 days ago)
+- [feat(table): replace stripansi with ansi.Strip](https://github.com/charmbracelet/lipgloss/pull/271) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (3 days ago)
+- [feat: support inferring the color profile from terminfo dbs](https://github.com/charmbracelet/lipgloss/pull/270) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (3 days ago)
+- [feat!: introduce color profiles and use term/ansi for styles](https://github.com/charmbracelet/lipgloss/pull/269) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (3 days ago)
+- [feat: switch to term/ansi for text manipulation](https://github.com/charmbracelet/lipgloss/pull/268) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (4 days ago)
+- [feat(term): ansi: implement wrap and wordwrap](https://github.com/charmbracelet/x/pull/51) on [charmbracelet/x](https://github.com/charmbracelet/x) (4 days ago)
 
 #### 📜 My recent blog posts
 
