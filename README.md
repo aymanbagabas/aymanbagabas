@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v10.14.0](https://github.com/LazyVim/LazyVim/releases/tag/v10.14.0), today) - Neovim config for the lazy
 - [gliderlabs/ssh](https://github.com/gliderlabs/ssh) ([v0.3.7](https://github.com/gliderlabs/ssh/releases/tag/v0.3.7), 1 day ago) - Easy SSH servers in Golang
 - [charmbracelet/melt](https://github.com/charmbracelet/melt) ([v0.6.1](https://github.com/charmbracelet/melt/releases/tag/v0.6.1), 4 days ago) - 🧊 Backup and restore Ed25519 SSH keys with seed words.
-- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v10.13.0](https://github.com/LazyVim/LazyVim/releases/tag/v10.13.0), 5 days ago) - Neovim config for the lazy
 - [golang/tools](https://github.com/golang/tools) ([gopls/v0.15.2](https://github.com/golang/tools/releases/tag/gopls/v0.15.2), 1 week ago) - [mirror] Go Tools
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v1.3.2](https://github.com/charmbracelet/wish/releases/tag/v1.3.2), 1 week ago) - Make SSH apps, just like that! 💫
 
 #### 🔨 My recent Pull Requests
 
+- [fix!: respect time function](https://github.com/charmbracelet/log/pull/115) on [charmbracelet/log](https://github.com/charmbracelet/log) (today)
 - [fix(ts): add treesitter diff highlights](https://github.com/navarasu/onedark.nvim/pull/212) on [navarasu/onedark.nvim](https://github.com/navarasu/onedark.nvim) (today)
 - [feat(table): replace stripansi with ansi.Strip](https://github.com/charmbracelet/lipgloss/pull/271) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (4 days ago)
 - [feat: support inferring the color profile from terminfo dbs](https://github.com/charmbracelet/lipgloss/pull/270) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (4 days ago)
 - [feat!: introduce color profiles and use term/ansi for styles](https://github.com/charmbracelet/lipgloss/pull/269) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (4 days ago)
-- [feat: switch to term/ansi for text manipulation](https://github.com/charmbracelet/lipgloss/pull/268) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (5 days ago)
 
 #### 📜 My recent blog posts
 
