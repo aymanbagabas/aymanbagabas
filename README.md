@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v10.14.0](https://github.com/LazyVim/LazyVim/releases/tag/v10.14.0), 1 day ago) - Neovim config for the lazy
+- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v10.15.0](https://github.com/LazyVim/LazyVim/releases/tag/v10.15.0), today) - Neovim config for the lazy
 - [gliderlabs/ssh](https://github.com/gliderlabs/ssh) ([v0.3.7](https://github.com/gliderlabs/ssh/releases/tag/v0.3.7), 2 days ago) - Easy SSH servers in Golang
 - [charmbracelet/melt](https://github.com/charmbracelet/melt) ([v0.6.1](https://github.com/charmbracelet/melt/releases/tag/v0.6.1), 5 days ago) - 🧊 Backup and restore Ed25519 SSH keys with seed words.
 - [golang/tools](https://github.com/golang/tools) ([gopls/v0.15.2](https://github.com/golang/tools/releases/tag/gopls/v0.15.2), 1 week ago) - [mirror] Go Tools
