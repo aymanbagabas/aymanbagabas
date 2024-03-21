@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Term/fix tests](https://github.com/charmbracelet/x/pull/52) on [charmbracelet/x](https://github.com/charmbracelet/x) (today)
 - [fix!: respect time function](https://github.com/charmbracelet/log/pull/115) on [charmbracelet/log](https://github.com/charmbracelet/log) (2 days ago)
 - [fix(ts): add treesitter diff highlights](https://github.com/navarasu/onedark.nvim/pull/212) on [navarasu/onedark.nvim](https://github.com/navarasu/onedark.nvim) (2 days ago)
 - [feat(table): replace stripansi with ansi.Strip](https://github.com/charmbracelet/lipgloss/pull/271) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (6 days ago)
 - [feat: support inferring the color profile from terminfo dbs](https://github.com/charmbracelet/lipgloss/pull/270) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (6 days ago)
-- [feat!: introduce color profiles and use term/ansi for styles](https://github.com/charmbracelet/lipgloss/pull/269) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (6 days ago)
 
 #### 📜 My recent blog posts
 
