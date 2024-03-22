@@ -6,9 +6,9 @@
 
 - [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (today)
 - [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages. (today)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (today)
 - [charmbracelet/log](https://github.com/charmbracelet/log) - A minimal, colorful Go logging library 🪵 (2 days ago)
 - [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (3 days ago)
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦 (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [chore(examples): use lipgloss everywhere possible](https://github.com/charmbracelet/bubbletea/pull/963) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
+- [refactor: use x/exp/term for renderer sequences](https://github.com/charmbracelet/bubbletea/pull/962) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [Term/fix tests](https://github.com/charmbracelet/x/pull/52) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 day ago)
 - [fix!: respect time function](https://github.com/charmbracelet/log/pull/115) on [charmbracelet/log](https://github.com/charmbracelet/log) (3 days ago)
 - [fix(ts): add treesitter diff highlights](https://github.com/navarasu/onedark.nvim/pull/212) on [navarasu/onedark.nvim](https://github.com/navarasu/onedark.nvim) (3 days ago)
-- [feat(table): replace stripansi with ansi.Strip](https://github.com/charmbracelet/lipgloss/pull/271) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (1 week ago)
-- [feat: support inferring the color profile from terminfo dbs](https://github.com/charmbracelet/lipgloss/pull/270) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (1 week ago)
 
 #### 📜 My recent blog posts
 
