@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (today)
-- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages. (today)
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (today)
-- [charmbracelet/log](https://github.com/charmbracelet/log) - A minimal, colorful Go logging library 🪵 (2 days ago)
-- [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (3 days ago)
+- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (1 day ago)
+- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages. (1 day ago)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 day ago)
+- [charmbracelet/log](https://github.com/charmbracelet/log) - A minimal, colorful Go logging library 🪵 (3 days ago)
+- [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -20,23 +20,23 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v10.16.0](https://github.com/LazyVim/LazyVim/releases/tag/v10.16.0), today) - Neovim config for the lazy
-- [charmbracelet/log](https://github.com/charmbracelet/log) ([v0.4.0](https://github.com/charmbracelet/log/releases/tag/v0.4.0), 1 day ago) - A minimal, colorful Go logging library 🪵
-- [gliderlabs/ssh](https://github.com/gliderlabs/ssh) ([v0.3.7](https://github.com/gliderlabs/ssh/releases/tag/v0.3.7), 4 days ago) - Easy SSH servers in Golang
+- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v10.16.0](https://github.com/LazyVim/LazyVim/releases/tag/v10.16.0), 1 day ago) - Neovim config for the lazy
+- [charmbracelet/log](https://github.com/charmbracelet/log) ([v0.4.0](https://github.com/charmbracelet/log/releases/tag/v0.4.0), 2 days ago) - A minimal, colorful Go logging library 🪵
+- [gliderlabs/ssh](https://github.com/gliderlabs/ssh) ([v0.3.7](https://github.com/gliderlabs/ssh/releases/tag/v0.3.7), 5 days ago) - Easy SSH servers in Golang
 - [charmbracelet/melt](https://github.com/charmbracelet/melt) ([v0.6.1](https://github.com/charmbracelet/melt/releases/tag/v0.6.1), 1 week ago) - 🧊 Backup and restore Ed25519 SSH keys with seed words.
 - [golang/tools](https://github.com/golang/tools) ([gopls/v0.15.2](https://github.com/golang/tools/releases/tag/gopls/v0.15.2), 1 week ago) - [mirror] Go Tools
 
 #### 🔨 My recent Pull Requests
 
-- [chore(examples): use lipgloss everywhere possible](https://github.com/charmbracelet/bubbletea/pull/963) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
-- [refactor: use x/exp/term for renderer sequences](https://github.com/charmbracelet/bubbletea/pull/962) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
-- [Term/fix tests](https://github.com/charmbracelet/x/pull/52) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 day ago)
-- [fix!: respect time function](https://github.com/charmbracelet/log/pull/115) on [charmbracelet/log](https://github.com/charmbracelet/log) (3 days ago)
-- [fix(ts): add treesitter diff highlights](https://github.com/navarasu/onedark.nvim/pull/212) on [navarasu/onedark.nvim](https://github.com/navarasu/onedark.nvim) (3 days ago)
+- [chore(examples): use lipgloss everywhere possible](https://github.com/charmbracelet/bubbletea/pull/963) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
+- [refactor: use x/exp/term for renderer sequences](https://github.com/charmbracelet/bubbletea/pull/962) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
+- [Term/fix tests](https://github.com/charmbracelet/x/pull/52) on [charmbracelet/x](https://github.com/charmbracelet/x) (2 days ago)
+- [fix!: respect time function](https://github.com/charmbracelet/log/pull/115) on [charmbracelet/log](https://github.com/charmbracelet/log) (4 days ago)
+- [fix(ts): add treesitter diff highlights](https://github.com/navarasu/onedark.nvim/pull/212) on [navarasu/onedark.nvim](https://github.com/navarasu/onedark.nvim) (4 days ago)
 
 #### 📜 My recent blog posts
 
-- [Self-hosted Soft Serve](https://aymanbagabas.com/blog/2023/04/28/self-hosted-soft-serve.html) (10 months ago)
+- [Self-hosted Soft Serve](https://aymanbagabas.com/blog/2023/04/28/self-hosted-soft-serve.html) (11 months ago)
 - [Simple Vim Session Management](https://aymanbagabas.com/blog/2023/04/13/simple-vim-session-management.html) (11 months ago)
 - [Blue Mountain](https://aymanbagabas.com/blog/2022/06/02/blue-mountain.html) (2 years ago)
 - [Import Notion Pages to Jekyll](https://aymanbagabas.com/blog/2022/03/29/import-notion-pages-to-jekyll.html) (2 years ago)
