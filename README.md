@@ -4,9 +4,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages. (today)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (3 days ago)
 - [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (3 days ago)
-- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages. (3 days ago)
 - [charmbracelet/log](https://github.com/charmbracelet/log) - A minimal, colorful Go logging library 🪵 (5 days ago)
 - [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (6 days ago)
 
