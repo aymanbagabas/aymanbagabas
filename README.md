@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [refactor!: remove deprecated](https://github.com/charmbracelet/bubbletea/pull/965) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [chore(examples): use lipgloss everywhere possible](https://github.com/charmbracelet/bubbletea/pull/963) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (3 days ago)
 - [refactor: use x/exp/term for renderer sequences](https://github.com/charmbracelet/bubbletea/pull/962) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (3 days ago)
 - [Term/fix tests](https://github.com/charmbracelet/x/pull/52) on [charmbracelet/x](https://github.com/charmbracelet/x) (4 days ago)
 - [fix!: respect time function](https://github.com/charmbracelet/log/pull/115) on [charmbracelet/log](https://github.com/charmbracelet/log) (6 days ago)
-- [fix(ts): add treesitter diff highlights](https://github.com/navarasu/onedark.nvim/pull/212) on [navarasu/onedark.nvim](https://github.com/navarasu/onedark.nvim) (6 days ago)
 
 #### 📜 My recent blog posts
 
