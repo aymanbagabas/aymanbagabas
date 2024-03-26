@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages. (today)
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (3 days ago)
-- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (3 days ago)
-- [charmbracelet/log](https://github.com/charmbracelet/log) - A minimal, colorful Go logging library 🪵 (5 days ago)
-- [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (6 days ago)
+- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages. (1 day ago)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (4 days ago)
+- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (4 days ago)
+- [charmbracelet/log](https://github.com/charmbracelet/log) - A minimal, colorful Go logging library 🪵 (6 days ago)
+- [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v10.16.0](https://github.com/LazyVim/LazyVim/releases/tag/v10.16.0), 3 days ago) - Neovim config for the lazy
-- [charmbracelet/log](https://github.com/charmbracelet/log) ([v0.4.0](https://github.com/charmbracelet/log/releases/tag/v0.4.0), 4 days ago) - A minimal, colorful Go logging library 🪵
+- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v10.16.0](https://github.com/LazyVim/LazyVim/releases/tag/v10.16.0), 4 days ago) - Neovim config for the lazy
+- [charmbracelet/log](https://github.com/charmbracelet/log) ([v0.4.0](https://github.com/charmbracelet/log/releases/tag/v0.4.0), 5 days ago) - A minimal, colorful Go logging library 🪵
 - [gliderlabs/ssh](https://github.com/gliderlabs/ssh) ([v0.3.7](https://github.com/gliderlabs/ssh/releases/tag/v0.3.7), 1 week ago) - Easy SSH servers in Golang
 - [charmbracelet/melt](https://github.com/charmbracelet/melt) ([v0.6.1](https://github.com/charmbracelet/melt/releases/tag/v0.6.1), 1 week ago) - 🧊 Backup and restore Ed25519 SSH keys with seed words.
-- [golang/tools](https://github.com/golang/tools) ([gopls/v0.15.2](https://github.com/golang/tools/releases/tag/gopls/v0.15.2), 1 week ago) - [mirror] Go Tools
+- [golang/tools](https://github.com/golang/tools) ([gopls/v0.15.2](https://github.com/golang/tools/releases/tag/gopls/v0.15.2), 2 weeks ago) - [mirror] Go Tools
 
 #### 🔨 My recent Pull Requests
 
-- [refactor!: remove deprecated](https://github.com/charmbracelet/bubbletea/pull/965) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
-- [chore(examples): use lipgloss everywhere possible](https://github.com/charmbracelet/bubbletea/pull/963) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (3 days ago)
-- [refactor: use x/exp/term for renderer sequences](https://github.com/charmbracelet/bubbletea/pull/962) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (3 days ago)
-- [Term/fix tests](https://github.com/charmbracelet/x/pull/52) on [charmbracelet/x](https://github.com/charmbracelet/x) (4 days ago)
-- [fix!: respect time function](https://github.com/charmbracelet/log/pull/115) on [charmbracelet/log](https://github.com/charmbracelet/log) (6 days ago)
+- [refactor!: remove deprecated](https://github.com/charmbracelet/bubbletea/pull/965) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
+- [chore(examples): use lipgloss everywhere possible](https://github.com/charmbracelet/bubbletea/pull/963) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (4 days ago)
+- [refactor: use x/exp/term for renderer sequences](https://github.com/charmbracelet/bubbletea/pull/962) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (4 days ago)
+- [Term/fix tests](https://github.com/charmbracelet/x/pull/52) on [charmbracelet/x](https://github.com/charmbracelet/x) (5 days ago)
+- [fix!: respect time function](https://github.com/charmbracelet/log/pull/115) on [charmbracelet/log](https://github.com/charmbracelet/log) (1 week ago)
 
 #### 📜 My recent blog posts
 
