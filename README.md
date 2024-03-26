@@ -5,8 +5,8 @@
 #### 👷 Check out what I'm currently working on
 
 - [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages. (1 day ago)
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (4 days ago)
 - [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (4 days ago)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (4 days ago)
 - [charmbracelet/log](https://github.com/charmbracelet/log) - A minimal, colorful Go logging library 🪵 (6 days ago)
 - [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (1 week ago)
 
@@ -20,11 +20,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/glamour](https://github.com/charmbracelet/glamour) ([v0.7.0](https://github.com/charmbracelet/glamour/releases/tag/v0.7.0), today) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️
+- [charmbracelet/freeze](https://github.com/charmbracelet/freeze) ([v0.1.3](https://github.com/charmbracelet/freeze/releases/tag/v0.1.3), today) - Generate images of code and terminal output 📸
 - [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v10.17.1](https://github.com/LazyVim/LazyVim/releases/tag/v10.17.1), today) - Neovim config for the lazy
 - [charmbracelet/log](https://github.com/charmbracelet/log) ([v0.4.0](https://github.com/charmbracelet/log/releases/tag/v0.4.0), 5 days ago) - A minimal, colorful Go logging library 🪵
 - [gliderlabs/ssh](https://github.com/gliderlabs/ssh) ([v0.3.7](https://github.com/gliderlabs/ssh/releases/tag/v0.3.7), 1 week ago) - Easy SSH servers in Golang
-- [charmbracelet/melt](https://github.com/charmbracelet/melt) ([v0.6.1](https://github.com/charmbracelet/melt/releases/tag/v0.6.1), 1 week ago) - 🧊 Backup and restore Ed25519 SSH keys with seed words.
-- [golang/tools](https://github.com/golang/tools) ([gopls/v0.15.2](https://github.com/golang/tools/releases/tag/gopls/v0.15.2), 2 weeks ago) - [mirror] Go Tools
 
 #### 🔨 My recent Pull Requests
 
@@ -44,11 +44,11 @@
 
 #### ⭐ Recent Stars
 
+- [charmbracelet/freeze](https://github.com/charmbracelet/freeze) - Generate images of code and terminal output 📸 (today)
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file (2 weeks ago)
 - [erikgeiser/coninput](https://github.com/erikgeiser/coninput) - Go library for input handling using Windows Console API (1 month ago)
 - [creack/pty](https://github.com/creack/pty) - PTY interface for Go (2 months ago)
 - [docusealco/docuseal](https://github.com/docusealco/docuseal) - Open source DocuSign alternative. Create, fill, and sign digital documents ✍️ (2 months ago)
-- [go-co-op/gocron](https://github.com/go-co-op/gocron) - Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron (3 months ago)
 
 #### 📫 How to reach me
 
