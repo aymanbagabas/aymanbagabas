@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [windows: add GetKeyboardLayout &amp; ToUnicodeEx](https://github.com/golang/sys/pull/188) on [golang/sys](https://github.com/golang/sys) (today)
 - [refactor!: remove deprecated](https://github.com/charmbracelet/bubbletea/pull/965) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 days ago)
 - [chore(examples): use lipgloss everywhere possible](https://github.com/charmbracelet/bubbletea/pull/963) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (5 days ago)
 - [refactor: use x/exp/term for renderer sequences](https://github.com/charmbracelet/bubbletea/pull/962) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (5 days ago)
 - [Term/fix tests](https://github.com/charmbracelet/x/pull/52) on [charmbracelet/x](https://github.com/charmbracelet/x) (6 days ago)
-- [fix!: respect time function](https://github.com/charmbracelet/log/pull/115) on [charmbracelet/log](https://github.com/charmbracelet/log) (1 week ago)
 
 #### 📜 My recent blog posts
 
