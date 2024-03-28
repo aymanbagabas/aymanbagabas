@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat(term): ansi: add SmartWrap](https://github.com/charmbracelet/x/pull/57) on [charmbracelet/x](https://github.com/charmbracelet/x) (today)
 - [feat(term): export QueryTerminal](https://github.com/charmbracelet/x/pull/56) on [charmbracelet/x](https://github.com/charmbracelet/x) (today)
 - [refactor(term): ansi: dry &amp; improve perf of ansi.Parser](https://github.com/charmbracelet/x/pull/55) on [charmbracelet/x](https://github.com/charmbracelet/x) (today)
 - [fix: combining both conditional and unconditional wrapping](https://github.com/charmbracelet/lipgloss/pull/275) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (today)
 - [windows: add GetKeyboardLayout &amp; ToUnicodeEx](https://github.com/golang/sys/pull/188) on [golang/sys](https://github.com/golang/sys) (1 day ago)
-- [refactor!: remove deprecated](https://github.com/charmbracelet/bubbletea/pull/965) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (3 days ago)
 
 #### 📜 My recent blog posts
 
