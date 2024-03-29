@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v10.21.0](https://github.com/LazyVim/LazyVim/releases/tag/v10.21.0), today) - Neovim config for the lazy
+- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v10.21.1](https://github.com/LazyVim/LazyVim/releases/tag/v10.21.1), today) - Neovim config for the lazy
 - [charmbracelet/freeze](https://github.com/charmbracelet/freeze) ([v0.1.4](https://github.com/charmbracelet/freeze/releases/tag/v0.1.4), 3 days ago) - Generate images of code and terminal output 📸
 - [charmbracelet/glamour](https://github.com/charmbracelet/glamour) ([v0.7.0](https://github.com/charmbracelet/glamour/releases/tag/v0.7.0), 3 days ago) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️
 - [charmbracelet/log](https://github.com/charmbracelet/log) ([v0.4.0](https://github.com/charmbracelet/log/releases/tag/v0.4.0), 1 week ago) - A minimal, colorful Go logging library 🪵
