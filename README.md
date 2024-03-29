@@ -4,10 +4,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages. (today)
-- [aymanbagabas/go-udiff](https://github.com/aymanbagabas/go-udiff) - µDiff - a micro Go diffing library (2 days ago)
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (6 days ago)
-- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (6 days ago)
+- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages. (1 day ago)
+- [aymanbagabas/go-udiff](https://github.com/aymanbagabas/go-udiff) - µDiff - a micro Go diffing library (3 days ago)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 week ago)
+- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (1 week ago)
 - [charmbracelet/log](https://github.com/charmbracelet/log) - A minimal, colorful Go logging library 🪵 (1 week ago)
 
 #### 🌱 My latest projects
@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v10.20.1](https://github.com/LazyVim/LazyVim/releases/tag/v10.20.1), today) - Neovim config for the lazy
-- [charmbracelet/freeze](https://github.com/charmbracelet/freeze) ([v0.1.4](https://github.com/charmbracelet/freeze/releases/tag/v0.1.4), 2 days ago) - Generate images of code and terminal output 📸
-- [charmbracelet/glamour](https://github.com/charmbracelet/glamour) ([v0.7.0](https://github.com/charmbracelet/glamour/releases/tag/v0.7.0), 2 days ago) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️
+- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v10.20.1](https://github.com/LazyVim/LazyVim/releases/tag/v10.20.1), 1 day ago) - Neovim config for the lazy
+- [charmbracelet/freeze](https://github.com/charmbracelet/freeze) ([v0.1.4](https://github.com/charmbracelet/freeze/releases/tag/v0.1.4), 3 days ago) - Generate images of code and terminal output 📸
+- [charmbracelet/glamour](https://github.com/charmbracelet/glamour) ([v0.7.0](https://github.com/charmbracelet/glamour/releases/tag/v0.7.0), 3 days ago) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️
 - [charmbracelet/log](https://github.com/charmbracelet/log) ([v0.4.0](https://github.com/charmbracelet/log/releases/tag/v0.4.0), 1 week ago) - A minimal, colorful Go logging library 🪵
 - [gliderlabs/ssh](https://github.com/gliderlabs/ssh) ([v0.3.7](https://github.com/gliderlabs/ssh/releases/tag/v0.3.7), 1 week ago) - Easy SSH servers in Golang
 
 #### 🔨 My recent Pull Requests
 
-- [refactor: replace props map with struct fields](https://github.com/charmbracelet/lipgloss/pull/276) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (today)
-- [feat(term): ansi: add SmartWrap](https://github.com/charmbracelet/x/pull/57) on [charmbracelet/x](https://github.com/charmbracelet/x) (today)
-- [feat(term): export QueryTerminal](https://github.com/charmbracelet/x/pull/56) on [charmbracelet/x](https://github.com/charmbracelet/x) (today)
-- [refactor(term): ansi: dry &amp; improve perf of ansi.Parser](https://github.com/charmbracelet/x/pull/55) on [charmbracelet/x](https://github.com/charmbracelet/x) (today)
-- [fix: combining both conditional and unconditional wrapping](https://github.com/charmbracelet/lipgloss/pull/275) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (today)
+- [refactor: replace props map with struct fields](https://github.com/charmbracelet/lipgloss/pull/276) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (1 day ago)
+- [feat(term): ansi: add SmartWrap](https://github.com/charmbracelet/x/pull/57) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 day ago)
+- [feat(term): export QueryTerminal](https://github.com/charmbracelet/x/pull/56) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 day ago)
+- [refactor(term): ansi: dry &amp; improve perf of ansi.Parser](https://github.com/charmbracelet/x/pull/55) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 day ago)
+- [fix: combining both conditional and unconditional wrapping](https://github.com/charmbracelet/lipgloss/pull/275) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (1 day ago)
 
 #### 📜 My recent blog posts
 
@@ -44,8 +44,8 @@
 
 #### ⭐ Recent Stars
 
-- [charmbracelet/freeze](https://github.com/charmbracelet/freeze) - Generate images of code and terminal output 📸 (2 days ago)
-- [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file (2 weeks ago)
+- [charmbracelet/freeze](https://github.com/charmbracelet/freeze) - Generate images of code and terminal output 📸 (3 days ago)
+- [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file (3 weeks ago)
 - [erikgeiser/coninput](https://github.com/erikgeiser/coninput) - Go library for input handling using Windows Console API (1 month ago)
 - [creack/pty](https://github.com/creack/pty) - PTY interface for Go (2 months ago)
 - [docusealco/docuseal](https://github.com/docusealco/docuseal) - Open source DocuSign alternative. Create, fill, and sign digital documents ✍️ (2 months ago)
