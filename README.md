@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages. (1 day ago)
+- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages. (today)
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (today)
 - [aymanbagabas/go-udiff](https://github.com/aymanbagabas/go-udiff) - µDiff - a micro Go diffing library (3 days ago)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 week ago)
 - [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (1 week ago)
-- [charmbracelet/log](https://github.com/charmbracelet/log) - A minimal, colorful Go logging library 🪵 (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -29,7 +29,7 @@
 #### 🔨 My recent Pull Requests
 
 - [refactor: replace props map with struct fields](https://github.com/charmbracelet/lipgloss/pull/276) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (1 day ago)
-- [feat(term): ansi: add SmartWrap](https://github.com/charmbracelet/x/pull/57) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 day ago)
+- [feat(term): ansi: move Wrap to Hardwrap and introduce Wrap](https://github.com/charmbracelet/x/pull/57) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 day ago)
 - [feat(term): export QueryTerminal](https://github.com/charmbracelet/x/pull/56) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 day ago)
 - [refactor(term): ansi: dry &amp; improve perf of ansi.Parser](https://github.com/charmbracelet/x/pull/55) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 day ago)
 - [fix: combining both conditional and unconditional wrapping](https://github.com/charmbracelet/lipgloss/pull/275) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (1 day ago)
