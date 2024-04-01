@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix(term): ansi: account for some wrap edge cases](https://github.com/charmbracelet/x/pull/59) on [charmbracelet/x](https://github.com/charmbracelet/x) (today)
 - [refactor: replace props map with struct fields](https://github.com/charmbracelet/lipgloss/pull/276) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (4 days ago)
 - [feat(term): ansi: move Wrap to Hardwrap and introduce Wrap](https://github.com/charmbracelet/x/pull/57) on [charmbracelet/x](https://github.com/charmbracelet/x) (4 days ago)
 - [feat(term): export QueryTerminal](https://github.com/charmbracelet/x/pull/56) on [charmbracelet/x](https://github.com/charmbracelet/x) (4 days ago)
 - [refactor(term): ansi: dry &amp; improve perf of ansi.Parser](https://github.com/charmbracelet/x/pull/55) on [charmbracelet/x](https://github.com/charmbracelet/x) (4 days ago)
-- [fix: combining both conditional and unconditional wrapping](https://github.com/charmbracelet/lipgloss/pull/275) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (4 days ago)
 
 #### 📜 My recent blog posts
 
