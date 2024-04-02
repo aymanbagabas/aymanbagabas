@@ -4,9 +4,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (3 days ago)
-- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages. (3 days ago)
-- [aymanbagabas/go-udiff](https://github.com/aymanbagabas/go-udiff) - µDiff - a micro Go diffing library (6 days ago)
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (4 days ago)
+- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages. (4 days ago)
+- [aymanbagabas/go-udiff](https://github.com/aymanbagabas/go-udiff) - µDiff - a micro Go diffing library (1 week ago)
 - [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (1 week ago)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 week ago)
 
@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [go-git/go-git](https://github.com/go-git/go-git) ([v5.12.0](https://github.com/go-git/go-git/releases/tag/v5.12.0), 1 day ago) - A highly extensible Git implementation in pure Go.
-- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v10.21.1](https://github.com/LazyVim/LazyVim/releases/tag/v10.21.1), 3 days ago) - Neovim config for the lazy
-- [charmbracelet/freeze](https://github.com/charmbracelet/freeze) ([v0.1.4](https://github.com/charmbracelet/freeze/releases/tag/v0.1.4), 6 days ago) - Generate images of code and terminal output 📸
-- [charmbracelet/glamour](https://github.com/charmbracelet/glamour) ([v0.7.0](https://github.com/charmbracelet/glamour/releases/tag/v0.7.0), 6 days ago) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️
+- [go-git/go-git](https://github.com/go-git/go-git) ([v5.12.0](https://github.com/go-git/go-git/releases/tag/v5.12.0), 2 days ago) - A highly extensible Git implementation in pure Go.
+- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v10.21.1](https://github.com/LazyVim/LazyVim/releases/tag/v10.21.1), 4 days ago) - Neovim config for the lazy
+- [charmbracelet/freeze](https://github.com/charmbracelet/freeze) ([v0.1.4](https://github.com/charmbracelet/freeze/releases/tag/v0.1.4), 1 week ago) - Generate images of code and terminal output 📸
+- [charmbracelet/glamour](https://github.com/charmbracelet/glamour) ([v0.7.0](https://github.com/charmbracelet/glamour/releases/tag/v0.7.0), 1 week ago) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️
 - [charmbracelet/log](https://github.com/charmbracelet/log) ([v0.4.0](https://github.com/charmbracelet/log/releases/tag/v0.4.0), 1 week ago) - A minimal, colorful Go logging library 🪵
 
 #### 🔨 My recent Pull Requests
 
-- [fix(term): ansi: account for some wrap edge cases](https://github.com/charmbracelet/x/pull/59) on [charmbracelet/x](https://github.com/charmbracelet/x) (today)
-- [refactor: replace props map with struct fields](https://github.com/charmbracelet/lipgloss/pull/276) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (4 days ago)
-- [feat(term): ansi: move Wrap to Hardwrap and introduce Wrap](https://github.com/charmbracelet/x/pull/57) on [charmbracelet/x](https://github.com/charmbracelet/x) (4 days ago)
-- [feat(term): export QueryTerminal](https://github.com/charmbracelet/x/pull/56) on [charmbracelet/x](https://github.com/charmbracelet/x) (4 days ago)
-- [refactor(term): ansi: dry &amp; improve perf of ansi.Parser](https://github.com/charmbracelet/x/pull/55) on [charmbracelet/x](https://github.com/charmbracelet/x) (4 days ago)
+- [fix(term): ansi: account for some wrap edge cases](https://github.com/charmbracelet/x/pull/59) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 day ago)
+- [refactor: replace props map with struct fields](https://github.com/charmbracelet/lipgloss/pull/276) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (5 days ago)
+- [feat(term): ansi: move Wrap to Hardwrap and introduce Wrap](https://github.com/charmbracelet/x/pull/57) on [charmbracelet/x](https://github.com/charmbracelet/x) (5 days ago)
+- [feat(term): export QueryTerminal](https://github.com/charmbracelet/x/pull/56) on [charmbracelet/x](https://github.com/charmbracelet/x) (5 days ago)
+- [refactor(term): ansi: dry &amp; improve perf of ansi.Parser](https://github.com/charmbracelet/x/pull/55) on [charmbracelet/x](https://github.com/charmbracelet/x) (5 days ago)
 
 #### 📜 My recent blog posts
 
@@ -44,8 +44,8 @@
 
 #### ⭐ Recent Stars
 
-- [NimbleMarkets/ntcharts](https://github.com/NimbleMarkets/ntcharts) - Nimble Terminal Charts for the Golang BubbleTea framework and your TUIs (3 days ago)
-- [charmbracelet/freeze](https://github.com/charmbracelet/freeze) - Generate images of code and terminal output 📸 (6 days ago)
+- [NimbleMarkets/ntcharts](https://github.com/NimbleMarkets/ntcharts) - Nimble Terminal Charts for the Golang BubbleTea framework and your TUIs (4 days ago)
+- [charmbracelet/freeze](https://github.com/charmbracelet/freeze) - Generate images of code and terminal output 📸 (1 week ago)
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file (3 weeks ago)
 - [erikgeiser/coninput](https://github.com/erikgeiser/coninput) - Go library for input handling using Windows Console API (1 month ago)
 - [creack/pty](https://github.com/creack/pty) - PTY interface for Go (2 months ago)
