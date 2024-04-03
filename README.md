@@ -20,11 +20,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/freeze](https://github.com/charmbracelet/freeze) ([v0.1.6](https://github.com/charmbracelet/freeze/releases/tag/v0.1.6), today) - Generate images of code and terminal output 📸
 - [go-git/go-git](https://github.com/go-git/go-git) ([v5.12.0](https://github.com/go-git/go-git/releases/tag/v5.12.0), 3 days ago) - A highly extensible Git implementation in pure Go.
 - [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v10.21.1](https://github.com/LazyVim/LazyVim/releases/tag/v10.21.1), 5 days ago) - Neovim config for the lazy
 - [charmbracelet/glamour](https://github.com/charmbracelet/glamour) ([v0.7.0](https://github.com/charmbracelet/glamour/releases/tag/v0.7.0), 1 week ago) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️
 - [charmbracelet/log](https://github.com/charmbracelet/log) ([v0.4.0](https://github.com/charmbracelet/log/releases/tag/v0.4.0), 1 week ago) - A minimal, colorful Go logging library 🪵
-- [gliderlabs/ssh](https://github.com/gliderlabs/ssh) ([v0.3.7](https://github.com/gliderlabs/ssh/releases/tag/v0.3.7), 2 weeks ago) - Easy SSH servers in Golang
 
 #### 🔨 My recent Pull Requests
 
