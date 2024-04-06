@@ -4,8 +4,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages. (2 days ago)
-- [charmbracelet/freeze](https://github.com/charmbracelet/freeze) - Generate images of code and terminal output 📸 (3 days ago)
+- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages. (3 days ago)
+- [charmbracelet/freeze](https://github.com/charmbracelet/freeze) - Generate images of code and terminal output 📸 (4 days ago)
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (1 week ago)
 - [aymanbagabas/go-udiff](https://github.com/aymanbagabas/go-udiff) - µDiff - a micro Go diffing library (1 week ago)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (2 weeks ago)
@@ -20,16 +20,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v1.4.0](https://github.com/charmbracelet/wish/releases/tag/v1.4.0), 2 days ago) - Make SSH apps, just like that! 💫
-- [charmbracelet/freeze](https://github.com/charmbracelet/freeze) ([v0.1.6](https://github.com/charmbracelet/freeze/releases/tag/v0.1.6), 2 days ago) - Generate images of code and terminal output 📸
-- [go-git/go-git](https://github.com/go-git/go-git) ([v5.12.0](https://github.com/go-git/go-git/releases/tag/v5.12.0), 5 days ago) - A highly extensible Git implementation in pure Go.
+- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v1.4.0](https://github.com/charmbracelet/wish/releases/tag/v1.4.0), 3 days ago) - Make SSH apps, just like that! 💫
+- [charmbracelet/freeze](https://github.com/charmbracelet/freeze) ([v0.1.6](https://github.com/charmbracelet/freeze/releases/tag/v0.1.6), 3 days ago) - Generate images of code and terminal output 📸
+- [go-git/go-git](https://github.com/go-git/go-git) ([v5.12.0](https://github.com/go-git/go-git/releases/tag/v5.12.0), 6 days ago) - A highly extensible Git implementation in pure Go.
 - [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ([v10.21.1](https://github.com/LazyVim/LazyVim/releases/tag/v10.21.1), 1 week ago) - Neovim config for the lazy
 - [charmbracelet/glamour](https://github.com/charmbracelet/glamour) ([v0.7.0](https://github.com/charmbracelet/glamour/releases/tag/v0.7.0), 1 week ago) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️
 
 #### 🔨 My recent Pull Requests
 
-- [chore: upgrade x/exp/term and use the latest ansi parser](https://github.com/charmbracelet/freeze/pull/68) on [charmbracelet/freeze](https://github.com/charmbracelet/freeze) (2 days ago)
-- [fix(term): ansi: account for some wrap edge cases](https://github.com/charmbracelet/x/pull/59) on [charmbracelet/x](https://github.com/charmbracelet/x) (4 days ago)
+- [chore: upgrade x/exp/term and use the latest ansi parser](https://github.com/charmbracelet/freeze/pull/68) on [charmbracelet/freeze](https://github.com/charmbracelet/freeze) (3 days ago)
+- [fix(term): ansi: account for some wrap edge cases](https://github.com/charmbracelet/x/pull/59) on [charmbracelet/x](https://github.com/charmbracelet/x) (5 days ago)
 - [refactor: replace props map with struct fields](https://github.com/charmbracelet/lipgloss/pull/276) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (1 week ago)
 - [feat(term): ansi: move Wrap to Hardwrap and introduce Wrap](https://github.com/charmbracelet/x/pull/57) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 week ago)
 - [feat(term): export QueryTerminal](https://github.com/charmbracelet/x/pull/56) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 week ago)
@@ -44,7 +44,7 @@
 
 #### ⭐ Recent Stars
 
-- [MihailJP/Inconsolata-LGC](https://github.com/MihailJP/Inconsolata-LGC) - Inconsolata LGC extension (today)
+- [MihailJP/Inconsolata-LGC](https://github.com/MihailJP/Inconsolata-LGC) - Inconsolata LGC extension (1 day ago)
 - [NimbleMarkets/ntcharts](https://github.com/NimbleMarkets/ntcharts) - Nimble Terminal Charts for the Golang BubbleTea framework and your TUIs (1 week ago)
 - [charmbracelet/freeze](https://github.com/charmbracelet/freeze) - Generate images of code and terminal output 📸 (1 week ago)
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file (4 weeks ago)
