@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Term/ansi passthrough](https://github.com/charmbracelet/x/pull/63) on [charmbracelet/x](https://github.com/charmbracelet/x) (today)
 - [Switch to MihailJP/Inconsolata-LGC](https://github.com/Homebrew/homebrew-cask-fonts/pull/9230) on [Homebrew/homebrew-cask-fonts](https://github.com/Homebrew/homebrew-cask-fonts) (2 days ago)
 - [chore: upgrade x/exp/term and use the latest ansi parser](https://github.com/charmbracelet/freeze/pull/68) on [charmbracelet/freeze](https://github.com/charmbracelet/freeze) (5 days ago)
 - [fix(term): ansi: account for some wrap edge cases](https://github.com/charmbracelet/x/pull/59) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 week ago)
 - [refactor: replace props map with struct fields](https://github.com/charmbracelet/lipgloss/pull/276) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (1 week ago)
-- [feat(term): ansi: move Wrap to Hardwrap and introduce Wrap](https://github.com/charmbracelet/x/pull/57) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 week ago)
 
 #### 📜 My recent blog posts
 
