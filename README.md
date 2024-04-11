@@ -44,11 +44,11 @@
 
 #### ⭐ Recent Stars
 
+- [jayharris/dotfiles-windows](https://github.com/jayharris/dotfiles-windows) - dotfiles for Windows, including Developer-minded system defaults. Built in PowerShell (today)
 - [meowgorithm/dotfiles](https://github.com/meowgorithm/dotfiles) - The Meowgorithm Dotfiles, Collectors’ Edition (2 days ago)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles) - dotfiles (home-manager), nixOS, and nix-darwin configurations (2 days ago)
 - [LongerHV/nixos-configuration](https://github.com/LongerHV/nixos-configuration) -  (2 days ago)
 - [MihailJP/Inconsolata-LGC](https://github.com/MihailJP/Inconsolata-LGC) - Inconsolata LGC extension (6 days ago)
-- [NimbleMarkets/ntcharts](https://github.com/NimbleMarkets/ntcharts) - Nimble Terminal Charts for the Golang BubbleTea framework and your TUIs (1 week ago)
 
 #### 📫 How to reach me
 
