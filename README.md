@@ -4,9 +4,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (1 day ago)
-- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages. (2 days ago)
-- [Homebrew/homebrew-cask-fonts](https://github.com/Homebrew/homebrew-cask-fonts) - 🖋 Casks of Ｆ🅾𝓝𝐓𝚂 (4 days ago)
+- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (2 days ago)
+- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages. (3 days ago)
+- [Homebrew/homebrew-cask-fonts](https://github.com/Homebrew/homebrew-cask-fonts) - 🖋 Casks of Ｆ🅾𝓝𝐓𝚂 (5 days ago)
 - [charmbracelet/freeze](https://github.com/charmbracelet/freeze) - Generate images of code and terminal output 📸 (1 week ago)
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (1 week ago)
 
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Term/ansi passthrough](https://github.com/charmbracelet/x/pull/63) on [charmbracelet/x](https://github.com/charmbracelet/x) (2 days ago)
-- [Switch to MihailJP/Inconsolata-LGC](https://github.com/Homebrew/homebrew-cask-fonts/pull/9230) on [Homebrew/homebrew-cask-fonts](https://github.com/Homebrew/homebrew-cask-fonts) (4 days ago)
+- [Term/ansi passthrough](https://github.com/charmbracelet/x/pull/63) on [charmbracelet/x](https://github.com/charmbracelet/x) (3 days ago)
+- [Switch to MihailJP/Inconsolata-LGC](https://github.com/Homebrew/homebrew-cask-fonts/pull/9230) on [Homebrew/homebrew-cask-fonts](https://github.com/Homebrew/homebrew-cask-fonts) (5 days ago)
 - [chore: upgrade x/exp/term and use the latest ansi parser](https://github.com/charmbracelet/freeze/pull/68) on [charmbracelet/freeze](https://github.com/charmbracelet/freeze) (1 week ago)
 - [fix(term): ansi: account for some wrap edge cases](https://github.com/charmbracelet/x/pull/59) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 week ago)
-- [refactor: replace props map with struct fields](https://github.com/charmbracelet/lipgloss/pull/276) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (1 week ago)
+- [refactor: replace props map with struct fields](https://github.com/charmbracelet/lipgloss/pull/276) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
@@ -44,10 +44,10 @@
 
 #### ⭐ Recent Stars
 
-- [meowgorithm/dotfiles](https://github.com/meowgorithm/dotfiles) - The Meowgorithm Dotfiles, Collectors’ Edition (1 day ago)
-- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles) - dotfiles (home-manager), nixOS, and nix-darwin configurations (1 day ago)
-- [LongerHV/nixos-configuration](https://github.com/LongerHV/nixos-configuration) -  (1 day ago)
-- [MihailJP/Inconsolata-LGC](https://github.com/MihailJP/Inconsolata-LGC) - Inconsolata LGC extension (5 days ago)
+- [meowgorithm/dotfiles](https://github.com/meowgorithm/dotfiles) - The Meowgorithm Dotfiles, Collectors’ Edition (2 days ago)
+- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles) - dotfiles (home-manager), nixOS, and nix-darwin configurations (2 days ago)
+- [LongerHV/nixos-configuration](https://github.com/LongerHV/nixos-configuration) -  (2 days ago)
+- [MihailJP/Inconsolata-LGC](https://github.com/MihailJP/Inconsolata-LGC) - Inconsolata LGC extension (6 days ago)
 - [NimbleMarkets/ntcharts](https://github.com/NimbleMarkets/ntcharts) - Nimble Terminal Charts for the Golang BubbleTea framework and your TUIs (1 week ago)
 
 #### 📫 How to reach me
