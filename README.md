@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Reset RPS1 on setup](https://github.com/sindresorhus/pure/pull/675) on [sindresorhus/pure](https://github.com/sindresorhus/pure) (today)
 - [chore: switch to x/exp/term for text manipulation](https://github.com/charmbracelet/bubbles/pull/505) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (1 day ago)
 - [Term/ansi passthrough](https://github.com/charmbracelet/x/pull/63) on [charmbracelet/x](https://github.com/charmbracelet/x) (6 days ago)
 - [Switch to MihailJP/Inconsolata-LGC](https://github.com/Homebrew/homebrew-cask-fonts/pull/9230) on [Homebrew/homebrew-cask-fonts](https://github.com/Homebrew/homebrew-cask-fonts) (1 week ago)
 - [chore: upgrade x/exp/term and use the latest ansi parser](https://github.com/charmbracelet/freeze/pull/68) on [charmbracelet/freeze](https://github.com/charmbracelet/freeze) (1 week ago)
-- [fix(term): ansi: account for some wrap edge cases](https://github.com/charmbracelet/x/pull/59) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 week ago)
 
 #### 📜 My recent blog posts
 
