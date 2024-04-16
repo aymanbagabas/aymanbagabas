@@ -20,11 +20,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [caarlos0/env](https://github.com/caarlos0/env) ([v11.0.0](https://github.com/caarlos0/env/releases/tag/v11.0.0), today) - A simple and zero-dependencies library to parse environment variables into structs
 - [golang/tools](https://github.com/golang/tools) ([gopls/v0.15.3](https://github.com/golang/tools/releases/tag/gopls/v0.15.3), 1 day ago) - [mirror] Go Tools
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) ([v0.7.2](https://github.com/charmbracelet/vhs/releases/tag/v0.7.2), 1 day ago) - Your CLI home video recorder 📼
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v1.4.0](https://github.com/charmbracelet/wish/releases/tag/v1.4.0), 1 week ago) - Make SSH apps, just like that! 💫
 - [charmbracelet/freeze](https://github.com/charmbracelet/freeze) ([v0.1.6](https://github.com/charmbracelet/freeze/releases/tag/v0.1.6), 1 week ago) - Generate images of code and terminal output 📸
-- [go-git/go-git](https://github.com/go-git/go-git) ([v5.12.0](https://github.com/go-git/go-git/releases/tag/v5.12.0), 2 weeks ago) - A highly extensible Git implementation in pure Go.
 
 #### 🔨 My recent Pull Requests
 
