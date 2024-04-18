@@ -20,11 +20,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [aymanbagabas/Huawei-WMI](https://github.com/aymanbagabas/Huawei-WMI) ([v4.0](https://github.com/aymanbagabas/Huawei-WMI/releases/tag/v4.0), today) - Huawei WMI laptop extras linux driver
 - [caarlos0/env](https://github.com/caarlos0/env) ([v11.0.0](https://github.com/caarlos0/env/releases/tag/v11.0.0), 2 days ago) - A simple and zero-dependencies library to parse environment variables into structs
 - [golang/tools](https://github.com/golang/tools) ([gopls/v0.15.3](https://github.com/golang/tools/releases/tag/gopls/v0.15.3), 3 days ago) - [mirror] Go Tools
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) ([v0.7.2](https://github.com/charmbracelet/vhs/releases/tag/v0.7.2), 3 days ago) - Your CLI home video recorder 📼
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v1.4.0](https://github.com/charmbracelet/wish/releases/tag/v1.4.0), 2 weeks ago) - Make SSH apps, just like that! 💫
-- [charmbracelet/freeze](https://github.com/charmbracelet/freeze) ([v0.1.6](https://github.com/charmbracelet/freeze/releases/tag/v0.1.6), 2 weeks ago) - Generate images of code and terminal output 📸
 
 #### 🔨 My recent Pull Requests
 
