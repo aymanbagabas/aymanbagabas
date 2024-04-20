@@ -4,9 +4,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (6 days ago)
+- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (1 week ago)
 - [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages. (1 week ago)
-- [Homebrew/homebrew-cask-fonts](https://github.com/Homebrew/homebrew-cask-fonts) - 🖋 Casks of Ｆ🅾𝓝𝐓𝚂 (1 week ago)
+- [Homebrew/homebrew-cask-fonts](https://github.com/Homebrew/homebrew-cask-fonts) - 🖋 Casks of Ｆ🅾𝓝𝐓𝚂 (2 weeks ago)
 - [charmbracelet/freeze](https://github.com/charmbracelet/freeze) - Generate images of code and terminal output 📸 (2 weeks ago)
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (3 weeks ago)
 
@@ -20,18 +20,18 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [aymanbagabas/Huawei-WMI](https://github.com/aymanbagabas/Huawei-WMI) ([v4.0](https://github.com/aymanbagabas/Huawei-WMI/releases/tag/v4.0), 1 day ago) - Huawei WMI laptop extras linux driver
-- [caarlos0/env](https://github.com/caarlos0/env) ([v11.0.0](https://github.com/caarlos0/env/releases/tag/v11.0.0), 3 days ago) - A simple and zero-dependencies library to parse environment variables into structs
-- [golang/tools](https://github.com/golang/tools) ([gopls/v0.15.3](https://github.com/golang/tools/releases/tag/gopls/v0.15.3), 4 days ago) - [mirror] Go Tools
-- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) ([v0.7.2](https://github.com/charmbracelet/vhs/releases/tag/v0.7.2), 4 days ago) - Your CLI home video recorder 📼
+- [aymanbagabas/Huawei-WMI](https://github.com/aymanbagabas/Huawei-WMI) ([v4.0](https://github.com/aymanbagabas/Huawei-WMI/releases/tag/v4.0), 2 days ago) - Huawei WMI laptop extras linux driver
+- [caarlos0/env](https://github.com/caarlos0/env) ([v11.0.0](https://github.com/caarlos0/env/releases/tag/v11.0.0), 4 days ago) - A simple and zero-dependencies library to parse environment variables into structs
+- [golang/tools](https://github.com/golang/tools) ([gopls/v0.15.3](https://github.com/golang/tools/releases/tag/gopls/v0.15.3), 5 days ago) - [mirror] Go Tools
+- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) ([v0.7.2](https://github.com/charmbracelet/vhs/releases/tag/v0.7.2), 5 days ago) - Your CLI home video recorder 📼
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v1.4.0](https://github.com/charmbracelet/wish/releases/tag/v1.4.0), 2 weeks ago) - Make SSH apps, just like that! 💫
 
 #### 🔨 My recent Pull Requests
 
-- [Reset RPS1 on setup](https://github.com/sindresorhus/pure/pull/675) on [sindresorhus/pure](https://github.com/sindresorhus/pure) (5 days ago)
-- [chore: switch to x/exp/term for text manipulation](https://github.com/charmbracelet/bubbles/pull/505) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (6 days ago)
+- [Reset RPS1 on setup](https://github.com/sindresorhus/pure/pull/675) on [sindresorhus/pure](https://github.com/sindresorhus/pure) (6 days ago)
+- [chore: switch to x/exp/term for text manipulation](https://github.com/charmbracelet/bubbles/pull/505) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (1 week ago)
 - [Term/ansi passthrough](https://github.com/charmbracelet/x/pull/63) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 week ago)
-- [Switch to MihailJP/Inconsolata-LGC](https://github.com/Homebrew/homebrew-cask-fonts/pull/9230) on [Homebrew/homebrew-cask-fonts](https://github.com/Homebrew/homebrew-cask-fonts) (1 week ago)
+- [Switch to MihailJP/Inconsolata-LGC](https://github.com/Homebrew/homebrew-cask-fonts/pull/9230) on [Homebrew/homebrew-cask-fonts](https://github.com/Homebrew/homebrew-cask-fonts) (2 weeks ago)
 - [chore: upgrade x/exp/term and use the latest ansi parser](https://github.com/charmbracelet/freeze/pull/68) on [charmbracelet/freeze](https://github.com/charmbracelet/freeze) (2 weeks ago)
 
 #### 📜 My recent blog posts
