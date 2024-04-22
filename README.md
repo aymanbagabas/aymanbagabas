@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web (1 day ago)
 - [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (1 week ago)
 - [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages. (2 weeks ago)
 - [Homebrew/homebrew-cask-fonts](https://github.com/Homebrew/homebrew-cask-fonts) - 🖋 Casks of Ｆ🅾𝓝𝐓𝚂 (2 weeks ago)
 - [charmbracelet/freeze](https://github.com/charmbracelet/freeze) - Generate images of code and terminal output 📸 (2 weeks ago)
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (3 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -23,8 +23,8 @@
 - [aymanbagabas/Huawei-WMI](https://github.com/aymanbagabas/Huawei-WMI) ([v4.0](https://github.com/aymanbagabas/Huawei-WMI/releases/tag/v4.0), 4 days ago) - Huawei WMI laptop extras linux driver
 - [caarlos0/env](https://github.com/caarlos0/env) ([v11.0.0](https://github.com/caarlos0/env/releases/tag/v11.0.0), 6 days ago) - A simple and zero-dependencies library to parse environment variables into structs
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) ([v0.7.2](https://github.com/charmbracelet/vhs/releases/tag/v0.7.2), 1 week ago) - Your CLI home video recorder 📼
+- [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) ([5.5.0](https://github.com/xtermjs/xterm.js/releases/tag/5.5.0), 2 weeks ago) - A terminal for the web
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v1.4.0](https://github.com/charmbracelet/wish/releases/tag/v1.4.0), 2 weeks ago) - Make SSH apps, just like that! 💫
-- [charmbracelet/freeze](https://github.com/charmbracelet/freeze) ([v0.1.6](https://github.com/charmbracelet/freeze/releases/tag/v0.1.6), 2 weeks ago) - Generate images of code and terminal output 📸
 
 #### 🔨 My recent Pull Requests
 
