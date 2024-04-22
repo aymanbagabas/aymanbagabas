@@ -5,7 +5,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (1 week ago)
-- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages. (1 week ago)
+- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages. (2 weeks ago)
 - [Homebrew/homebrew-cask-fonts](https://github.com/Homebrew/homebrew-cask-fonts) - 🖋 Casks of Ｆ🅾𝓝𝐓𝚂 (2 weeks ago)
 - [charmbracelet/freeze](https://github.com/charmbracelet/freeze) - Generate images of code and terminal output 📸 (2 weeks ago)
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (3 weeks ago)
@@ -20,9 +20,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [aymanbagabas/Huawei-WMI](https://github.com/aymanbagabas/Huawei-WMI) ([v4.0](https://github.com/aymanbagabas/Huawei-WMI/releases/tag/v4.0), 3 days ago) - Huawei WMI laptop extras linux driver
-- [caarlos0/env](https://github.com/caarlos0/env) ([v11.0.0](https://github.com/caarlos0/env/releases/tag/v11.0.0), 5 days ago) - A simple and zero-dependencies library to parse environment variables into structs
-- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) ([v0.7.2](https://github.com/charmbracelet/vhs/releases/tag/v0.7.2), 6 days ago) - Your CLI home video recorder 📼
+- [aymanbagabas/Huawei-WMI](https://github.com/aymanbagabas/Huawei-WMI) ([v4.0](https://github.com/aymanbagabas/Huawei-WMI/releases/tag/v4.0), 4 days ago) - Huawei WMI laptop extras linux driver
+- [caarlos0/env](https://github.com/caarlos0/env) ([v11.0.0](https://github.com/caarlos0/env/releases/tag/v11.0.0), 6 days ago) - A simple and zero-dependencies library to parse environment variables into structs
+- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) ([v0.7.2](https://github.com/charmbracelet/vhs/releases/tag/v0.7.2), 1 week ago) - Your CLI home video recorder 📼
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v1.4.0](https://github.com/charmbracelet/wish/releases/tag/v1.4.0), 2 weeks ago) - Make SSH apps, just like that! 💫
 - [charmbracelet/freeze](https://github.com/charmbracelet/freeze) ([v0.1.6](https://github.com/charmbracelet/freeze/releases/tag/v0.1.6), 2 weeks ago) - Generate images of code and terminal output 📸
 
@@ -30,13 +30,13 @@
 
 - [Reset RPS1 on setup](https://github.com/sindresorhus/pure/pull/675) on [sindresorhus/pure](https://github.com/sindresorhus/pure) (1 week ago)
 - [chore: switch to x/exp/term for text manipulation](https://github.com/charmbracelet/bubbles/pull/505) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (1 week ago)
-- [Term/ansi passthrough](https://github.com/charmbracelet/x/pull/63) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 week ago)
+- [Term/ansi passthrough](https://github.com/charmbracelet/x/pull/63) on [charmbracelet/x](https://github.com/charmbracelet/x) (2 weeks ago)
 - [Switch to MihailJP/Inconsolata-LGC](https://github.com/Homebrew/homebrew-cask-fonts/pull/9230) on [Homebrew/homebrew-cask-fonts](https://github.com/Homebrew/homebrew-cask-fonts) (2 weeks ago)
 - [chore: upgrade x/exp/term and use the latest ansi parser](https://github.com/charmbracelet/freeze/pull/68) on [charmbracelet/freeze](https://github.com/charmbracelet/freeze) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
-- [Self-hosted Soft Serve](https://aymanbagabas.com/blog/2023/04/28/self-hosted-soft-serve.html) (11 months ago)
+- [Self-hosted Soft Serve](https://aymanbagabas.com/blog/2023/04/28/self-hosted-soft-serve.html) (1 year ago)
 - [Simple Vim Session Management](https://aymanbagabas.com/blog/2023/04/13/simple-vim-session-management.html) (1 year ago)
 - [Blue Mountain](https://aymanbagabas.com/blog/2022/06/02/blue-mountain.html) (2 years ago)
 - [Import Notion Pages to Jekyll](https://aymanbagabas.com/blog/2022/03/29/import-notion-pages-to-jekyll.html) (2 years ago)
