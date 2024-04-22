@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages. (today)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (today)
 - [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web (1 day ago)
 - [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (1 week ago)
-- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages. (2 weeks ago)
 - [Homebrew/homebrew-cask-fonts](https://github.com/Homebrew/homebrew-cask-fonts) - 🖋 Casks of Ｆ🅾𝓝𝐓𝚂 (2 weeks ago)
-- [charmbracelet/freeze](https://github.com/charmbracelet/freeze) - Generate images of code and terminal output 📸 (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: add a cmd to request window size](https://github.com/charmbracelet/bubbletea/pull/988) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [Reset RPS1 on setup](https://github.com/sindresorhus/pure/pull/675) on [sindresorhus/pure](https://github.com/sindresorhus/pure) (1 week ago)
 - [chore: switch to x/exp/term for text manipulation](https://github.com/charmbracelet/bubbles/pull/505) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (1 week ago)
 - [Term/ansi passthrough](https://github.com/charmbracelet/x/pull/63) on [charmbracelet/x](https://github.com/charmbracelet/x) (2 weeks ago)
 - [Switch to MihailJP/Inconsolata-LGC](https://github.com/Homebrew/homebrew-cask-fonts/pull/9230) on [Homebrew/homebrew-cask-fonts](https://github.com/Homebrew/homebrew-cask-fonts) (2 weeks ago)
-- [chore: upgrade x/exp/term and use the latest ansi parser](https://github.com/charmbracelet/freeze/pull/68) on [charmbracelet/freeze](https://github.com/charmbracelet/freeze) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
