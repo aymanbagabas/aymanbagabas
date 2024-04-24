@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Refactor pktline](https://github.com/go-git/go-git/pull/1082) on [go-git/go-git](https://github.com/go-git/go-git) (today)
 - [feat: add a cmd to request window size](https://github.com/charmbracelet/bubbletea/pull/988) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 days ago)
 - [Reset RPS1 on setup](https://github.com/sindresorhus/pure/pull/675) on [sindresorhus/pure](https://github.com/sindresorhus/pure) (1 week ago)
 - [chore: switch to x/exp/term for text manipulation](https://github.com/charmbracelet/bubbles/pull/505) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (1 week ago)
 - [Term/ansi passthrough](https://github.com/charmbracelet/x/pull/63) on [charmbracelet/x](https://github.com/charmbracelet/x) (2 weeks ago)
-- [Switch to MihailJP/Inconsolata-LGC](https://github.com/Homebrew/homebrew-cask-fonts/pull/9230) on [Homebrew/homebrew-cask-fonts](https://github.com/Homebrew/homebrew-cask-fonts) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
