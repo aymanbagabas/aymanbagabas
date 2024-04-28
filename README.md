@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (today)
-- [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go. (1 day ago)
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (5 days ago)
-- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages. (5 days ago)
-- [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web (6 days ago)
+- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (1 day ago)
+- [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go. (2 days ago)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (6 days ago)
+- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages. (6 days ago)
+- [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
-- [storage: dotgit, head reference usually comes first](https://github.com/go-git/go-git/pull/1085) on [go-git/go-git](https://github.com/go-git/go-git) (1 day ago)
-- [plumbing: fix sideband demux on flush](https://github.com/go-git/go-git/pull/1084) on [go-git/go-git](https://github.com/go-git/go-git) (1 day ago)
-- [Refactor transport API](https://github.com/aymanbagabas/go-git/pull/2) on [aymanbagabas/go-git](https://github.com/aymanbagabas/go-git) (1 day ago)
-- [Refactor pktline](https://github.com/go-git/go-git/pull/1082) on [go-git/go-git](https://github.com/go-git/go-git) (3 days ago)
-- [feat: add a cmd to request window size](https://github.com/charmbracelet/bubbletea/pull/988) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (5 days ago)
+- [storage: dotgit, head reference usually comes first](https://github.com/go-git/go-git/pull/1085) on [go-git/go-git](https://github.com/go-git/go-git) (2 days ago)
+- [plumbing: fix sideband demux on flush](https://github.com/go-git/go-git/pull/1084) on [go-git/go-git](https://github.com/go-git/go-git) (2 days ago)
+- [Refactor transport API](https://github.com/aymanbagabas/go-git/pull/2) on [aymanbagabas/go-git](https://github.com/aymanbagabas/go-git) (2 days ago)
+- [Refactor pktline](https://github.com/go-git/go-git/pull/1082) on [go-git/go-git](https://github.com/go-git/go-git) (4 days ago)
+- [feat: add a cmd to request window size](https://github.com/charmbracelet/bubbletea/pull/988) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (6 days ago)
 
 #### 📜 My recent blog posts
 
