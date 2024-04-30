@@ -4,8 +4,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go. (2 days ago)
-- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (2 days ago)
+- [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go. (3 days ago)
+- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (3 days ago)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 week ago)
 - [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages. (1 week ago)
 - [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web (1 week ago)
@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.14.0](https://github.com/charmbracelet/gum/releases/tag/v0.14.0), today) - A tool for glamorous shell scripts 🎀
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.14.0](https://github.com/charmbracelet/gum/releases/tag/v0.14.0), 1 day ago) - A tool for glamorous shell scripts 🎀
 - [aymanbagabas/Huawei-WMI](https://github.com/aymanbagabas/Huawei-WMI) ([v4.0](https://github.com/aymanbagabas/Huawei-WMI/releases/tag/v4.0), 1 week ago) - Huawei WMI laptop extras linux driver
-- [caarlos0/env](https://github.com/caarlos0/env) ([v11.0.0](https://github.com/caarlos0/env/releases/tag/v11.0.0), 1 week ago) - A simple and zero-dependencies library to parse environment variables into structs
+- [caarlos0/env](https://github.com/caarlos0/env) ([v11.0.0](https://github.com/caarlos0/env/releases/tag/v11.0.0), 2 weeks ago) - A simple and zero-dependencies library to parse environment variables into structs
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) ([v0.7.2](https://github.com/charmbracelet/vhs/releases/tag/v0.7.2), 2 weeks ago) - Your CLI home video recorder 📼
 - [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) ([5.5.0](https://github.com/xtermjs/xterm.js/releases/tag/5.5.0), 3 weeks ago) - A terminal for the web
 
 #### 🔨 My recent Pull Requests
 
-- [feat: support inferring the color profile from terminfo dbs](https://github.com/charmbracelet/lipgloss/pull/285) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (today)
-- [storage: dotgit, head reference usually comes first](https://github.com/go-git/go-git/pull/1085) on [go-git/go-git](https://github.com/go-git/go-git) (3 days ago)
-- [plumbing: fix sideband demux on flush](https://github.com/go-git/go-git/pull/1084) on [go-git/go-git](https://github.com/go-git/go-git) (3 days ago)
-- [Refactor transport API](https://github.com/aymanbagabas/go-git/pull/2) on [aymanbagabas/go-git](https://github.com/aymanbagabas/go-git) (3 days ago)
-- [Refactor pktline](https://github.com/go-git/go-git/pull/1082) on [go-git/go-git](https://github.com/go-git/go-git) (5 days ago)
+- [feat: support inferring the color profile from terminfo dbs](https://github.com/charmbracelet/lipgloss/pull/285) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (1 day ago)
+- [storage: dotgit, head reference usually comes first](https://github.com/go-git/go-git/pull/1085) on [go-git/go-git](https://github.com/go-git/go-git) (4 days ago)
+- [plumbing: fix sideband demux on flush](https://github.com/go-git/go-git/pull/1084) on [go-git/go-git](https://github.com/go-git/go-git) (4 days ago)
+- [Refactor transport API](https://github.com/aymanbagabas/go-git/pull/2) on [aymanbagabas/go-git](https://github.com/aymanbagabas/go-git) (4 days ago)
+- [Refactor pktline](https://github.com/go-git/go-git/pull/1082) on [go-git/go-git](https://github.com/go-git/go-git) (6 days ago)
 
 #### 📜 My recent blog posts
 
@@ -45,9 +45,9 @@
 #### ⭐ Recent Stars
 
 - [jayharris/dotfiles-windows](https://github.com/jayharris/dotfiles-windows) - dotfiles for Windows, including Developer-minded system defaults. Built in PowerShell (2 weeks ago)
-- [meowgorithm/dotfiles](https://github.com/meowgorithm/dotfiles) - The Meowgorithm Dotfiles, Collectors’ Edition (2 weeks ago)
-- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles) - dotfiles (home-manager), nixOS, and nix-darwin configurations (2 weeks ago)
-- [LongerHV/nixos-configuration](https://github.com/LongerHV/nixos-configuration) -  (2 weeks ago)
+- [meowgorithm/dotfiles](https://github.com/meowgorithm/dotfiles) - The Meowgorithm Dotfiles, Collectors’ Edition (3 weeks ago)
+- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles) - dotfiles (home-manager), nixOS, and nix-darwin configurations (3 weeks ago)
+- [LongerHV/nixos-configuration](https://github.com/LongerHV/nixos-configuration) -  (3 weeks ago)
 - [MihailJP/Inconsolata-LGC](https://github.com/MihailJP/Inconsolata-LGC) - Inconsolata LGC extension (3 weeks ago)
 
 #### 📫 How to reach me
