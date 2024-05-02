@@ -20,11 +20,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.26.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.26.0), today) - A powerful little TUI framework 🏗
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.14.0](https://github.com/charmbracelet/gum/releases/tag/v0.14.0), 3 days ago) - A tool for glamorous shell scripts 🎀
 - [aymanbagabas/Huawei-WMI](https://github.com/aymanbagabas/Huawei-WMI) ([v4.0](https://github.com/aymanbagabas/Huawei-WMI/releases/tag/v4.0), 2 weeks ago) - Huawei WMI laptop extras linux driver
 - [caarlos0/env](https://github.com/caarlos0/env) ([v11.0.0](https://github.com/caarlos0/env/releases/tag/v11.0.0), 2 weeks ago) - A simple and zero-dependencies library to parse environment variables into structs
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) ([v0.7.2](https://github.com/charmbracelet/vhs/releases/tag/v0.7.2), 2 weeks ago) - Your CLI home video recorder 📼
-- [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) ([5.5.0](https://github.com/xtermjs/xterm.js/releases/tag/5.5.0), 3 weeks ago) - A terminal for the web
 
 #### 🔨 My recent Pull Requests
 
