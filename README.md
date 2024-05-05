@@ -4,8 +4,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (2 days ago)
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦 (3 days ago)
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (3 days ago)
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦 (4 days ago)
 - [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (1 week ago)
 - [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go. (1 week ago)
 - [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages. (1 week ago)
@@ -20,16 +20,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/mods](https://github.com/charmbracelet/mods) ([v1.3.0](https://github.com/charmbracelet/mods/releases/tag/v1.3.0), 1 day ago) - AI on the command line
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.26.1](https://github.com/charmbracelet/bubbletea/releases/tag/v0.26.1), 2 days ago) - A powerful little TUI framework 🏗
-- [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.14.0](https://github.com/charmbracelet/gum/releases/tag/v0.14.0), 5 days ago) - A tool for glamorous shell scripts 🎀
+- [charmbracelet/mods](https://github.com/charmbracelet/mods) ([v1.3.0](https://github.com/charmbracelet/mods/releases/tag/v1.3.0), 2 days ago) - AI on the command line
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.26.1](https://github.com/charmbracelet/bubbletea/releases/tag/v0.26.1), 3 days ago) - A powerful little TUI framework 🏗
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.14.0](https://github.com/charmbracelet/gum/releases/tag/v0.14.0), 6 days ago) - A tool for glamorous shell scripts 🎀
 - [aymanbagabas/Huawei-WMI](https://github.com/aymanbagabas/Huawei-WMI) ([v4.0](https://github.com/aymanbagabas/Huawei-WMI/releases/tag/v4.0), 2 weeks ago) - Huawei WMI laptop extras linux driver
 - [caarlos0/env](https://github.com/caarlos0/env) ([v11.0.0](https://github.com/caarlos0/env/releases/tag/v11.0.0), 2 weeks ago) - A simple and zero-dependencies library to parse environment variables into structs
 
 #### 🔨 My recent Pull Requests
 
-- [Move BT status position in view](https://github.com/jayofelony/pwnagotchi/pull/149) on [jayofelony/pwnagotchi](https://github.com/jayofelony/pwnagotchi) (3 days ago)
-- [feat: support inferring the color profile from terminfo dbs](https://github.com/charmbracelet/lipgloss/pull/285) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (5 days ago)
+- [Move BT status position in view](https://github.com/jayofelony/pwnagotchi/pull/149) on [jayofelony/pwnagotchi](https://github.com/jayofelony/pwnagotchi) (4 days ago)
+- [feat: support inferring the color profile from terminfo dbs](https://github.com/charmbracelet/lipgloss/pull/285) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (6 days ago)
 - [storage: dotgit, head reference usually comes first](https://github.com/go-git/go-git/pull/1085) on [go-git/go-git](https://github.com/go-git/go-git) (1 week ago)
 - [plumbing: fix sideband demux on flush](https://github.com/go-git/go-git/pull/1084) on [go-git/go-git](https://github.com/go-git/go-git) (1 week ago)
 - [Refactor transport API](https://github.com/aymanbagabas/go-git/pull/2) on [aymanbagabas/go-git](https://github.com/aymanbagabas/go-git) (1 week ago)
@@ -48,7 +48,7 @@
 - [meowgorithm/dotfiles](https://github.com/meowgorithm/dotfiles) - The Meowgorithm Dotfiles, Collectors’ Edition (3 weeks ago)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles) - dotfiles (home-manager), nixOS, and nix-darwin configurations (3 weeks ago)
 - [LongerHV/nixos-configuration](https://github.com/LongerHV/nixos-configuration) -  (3 weeks ago)
-- [MihailJP/Inconsolata-LGC](https://github.com/MihailJP/Inconsolata-LGC) - Inconsolata LGC extension (4 weeks ago)
+- [MihailJP/Inconsolata-LGC](https://github.com/MihailJP/Inconsolata-LGC) - Inconsolata LGC extension (1 month ago)
 
 #### 📫 How to reach me
 
