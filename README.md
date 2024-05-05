@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: nix config](https://github.com/aymanbagabas/dotfiles/pull/2) on [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) (today)
 - [Move BT status position in view](https://github.com/jayofelony/pwnagotchi/pull/149) on [jayofelony/pwnagotchi](https://github.com/jayofelony/pwnagotchi) (4 days ago)
 - [feat: support inferring the color profile from terminfo dbs](https://github.com/charmbracelet/lipgloss/pull/285) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (6 days ago)
 - [storage: dotgit, head reference usually comes first](https://github.com/go-git/go-git/pull/1085) on [go-git/go-git](https://github.com/go-git/go-git) (1 week ago)
 - [plumbing: fix sideband demux on flush](https://github.com/go-git/go-git/pull/1084) on [go-git/go-git](https://github.com/go-git/go-git) (1 week ago)
-- [Refactor transport API](https://github.com/aymanbagabas/go-git/pull/2) on [aymanbagabas/go-git](https://github.com/aymanbagabas/go-git) (1 week ago)
 
 #### 📜 My recent blog posts
 
