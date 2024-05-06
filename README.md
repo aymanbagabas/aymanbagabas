@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Merge upstream](https://github.com/charmbracelet/ssh/pull/26) on [charmbracelet/ssh](https://github.com/charmbracelet/ssh) (today)
 - [Simplify term query features](https://github.com/charmbracelet/x/pull/70) on [charmbracelet/x](https://github.com/charmbracelet/x) (today)
 - [inconsolata-lgc: 1.3 -&gt; 1.6.1](https://github.com/NixOS/nixpkgs/pull/309381) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 day ago)
 - [feat: nix config](https://github.com/aymanbagabas/dotfiles/pull/2) on [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) (1 day ago)
 - [Move BT status position in view](https://github.com/jayofelony/pwnagotchi/pull/149) on [jayofelony/pwnagotchi](https://github.com/jayofelony/pwnagotchi) (5 days ago)
-- [feat: support inferring the color profile from terminfo dbs](https://github.com/charmbracelet/lipgloss/pull/285) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (1 week ago)
 
 #### 📜 My recent blog posts
 
