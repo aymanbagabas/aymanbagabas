@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/mods](https://github.com/charmbracelet/mods) ([v1.3.0](https://github.com/charmbracelet/mods/releases/tag/v1.3.0), 3 days ago) - AI on the command line
+- [charmbracelet/mods](https://github.com/charmbracelet/mods) ([v1.3.1](https://github.com/charmbracelet/mods/releases/tag/v1.3.1), today) - AI on the command line
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.26.1](https://github.com/charmbracelet/bubbletea/releases/tag/v0.26.1), 4 days ago) - A powerful little TUI framework 🏗
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.14.0](https://github.com/charmbracelet/gum/releases/tag/v0.14.0), 1 week ago) - A tool for glamorous shell scripts 🎀
 - [aymanbagabas/Huawei-WMI](https://github.com/aymanbagabas/Huawei-WMI) ([v4.0](https://github.com/aymanbagabas/Huawei-WMI/releases/tag/v4.0), 2 weeks ago) - Huawei WMI laptop extras linux driver
