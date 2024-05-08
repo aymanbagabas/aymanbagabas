@@ -4,8 +4,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages. (1 day ago)
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (2 days ago)
-- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages. (2 days ago)
 - [charmbracelet/git-lfs-transfer](https://github.com/charmbracelet/git-lfs-transfer) - Server-side implementation of the Git LFS pure-SSH protocol (2 days ago)
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦 (1 week ago)
 - [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (1 week ago)
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: renderer: reset the cursor on the first line](https://github.com/charmbracelet/bubbletea/pull/1008) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [fix: enable OPOST when initializing the terminal](https://github.com/charmbracelet/bubbletea/pull/1006) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [XPty: cross-platform Pty support](https://github.com/charmbracelet/x/pull/71) on [charmbracelet/x](https://github.com/charmbracelet/x) (2 days ago)
 - [Merge upstream](https://github.com/charmbracelet/ssh/pull/26) on [charmbracelet/ssh](https://github.com/charmbracelet/ssh) (2 days ago)
 - [Simplify term query features](https://github.com/charmbracelet/x/pull/70) on [charmbracelet/x](https://github.com/charmbracelet/x) (2 days ago)
-- [inconsolata-lgc: 1.3 -&gt; 1.6.1](https://github.com/NixOS/nixpkgs/pull/309381) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (3 days ago)
 
 #### 📜 My recent blog posts
 
