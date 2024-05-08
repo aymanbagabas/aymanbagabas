@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: enable OPOST when initializing the terminal](https://github.com/charmbracelet/bubbletea/pull/1006) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [XPty: cross-platform Pty support](https://github.com/charmbracelet/x/pull/71) on [charmbracelet/x](https://github.com/charmbracelet/x) (2 days ago)
 - [Merge upstream](https://github.com/charmbracelet/ssh/pull/26) on [charmbracelet/ssh](https://github.com/charmbracelet/ssh) (2 days ago)
 - [Simplify term query features](https://github.com/charmbracelet/x/pull/70) on [charmbracelet/x](https://github.com/charmbracelet/x) (2 days ago)
 - [inconsolata-lgc: 1.3 -&gt; 1.6.1](https://github.com/NixOS/nixpkgs/pull/309381) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (3 days ago)
-- [feat: nix config](https://github.com/aymanbagabas/dotfiles/pull/2) on [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) (3 days ago)
 
 #### 📜 My recent blog posts
 
