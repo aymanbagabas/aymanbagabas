@@ -4,10 +4,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages. (today)
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (today)
-- [charmbracelet/git-lfs-transfer](https://github.com/charmbracelet/git-lfs-transfer) - Server-side implementation of the Git LFS pure-SSH protocol (2 days ago)
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (2 days ago)
+- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages. (1 day ago)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 day ago)
+- [charmbracelet/git-lfs-transfer](https://github.com/charmbracelet/git-lfs-transfer) - Server-side implementation of the Git LFS pure-SSH protocol (3 days ago)
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (3 days ago)
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦 (1 week ago)
 
 #### 🌱 My latest projects
@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.26.2](https://github.com/charmbracelet/bubbletea/releases/tag/v0.26.2), today) - A powerful little TUI framework 🏗
-- [charmbracelet/mods](https://github.com/charmbracelet/mods) ([v1.3.1](https://github.com/charmbracelet/mods/releases/tag/v1.3.1), 2 days ago) - AI on the command line
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.26.2](https://github.com/charmbracelet/bubbletea/releases/tag/v0.26.2), 1 day ago) - A powerful little TUI framework 🏗
+- [charmbracelet/mods](https://github.com/charmbracelet/mods) ([v1.3.1](https://github.com/charmbracelet/mods/releases/tag/v1.3.1), 3 days ago) - AI on the command line
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.14.0](https://github.com/charmbracelet/gum/releases/tag/v0.14.0), 1 week ago) - A tool for glamorous shell scripts 🎀
-- [aymanbagabas/Huawei-WMI](https://github.com/aymanbagabas/Huawei-WMI) ([v4.0](https://github.com/aymanbagabas/Huawei-WMI/releases/tag/v4.0), 2 weeks ago) - Huawei WMI laptop extras linux driver
+- [aymanbagabas/Huawei-WMI](https://github.com/aymanbagabas/Huawei-WMI) ([v4.0](https://github.com/aymanbagabas/Huawei-WMI/releases/tag/v4.0), 3 weeks ago) - Huawei WMI laptop extras linux driver
 - [caarlos0/env](https://github.com/caarlos0/env) ([v11.0.0](https://github.com/caarlos0/env/releases/tag/v11.0.0), 3 weeks ago) - A simple and zero-dependencies library to parse environment variables into structs
 
 #### 🔨 My recent Pull Requests
 
-- [chore: add ci for new packages](https://github.com/charmbracelet/x/pull/73) on [charmbracelet/x](https://github.com/charmbracelet/x) (today)
-- [fix: renderer: reset the cursor on the first line](https://github.com/charmbracelet/bubbletea/pull/1008) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
-- [fix: enable OPOST when initializing the terminal](https://github.com/charmbracelet/bubbletea/pull/1006) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
-- [XPty: cross-platform Pty support](https://github.com/charmbracelet/x/pull/71) on [charmbracelet/x](https://github.com/charmbracelet/x) (2 days ago)
-- [Merge upstream](https://github.com/charmbracelet/ssh/pull/26) on [charmbracelet/ssh](https://github.com/charmbracelet/ssh) (2 days ago)
+- [chore: add ci for new packages](https://github.com/charmbracelet/x/pull/73) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 day ago)
+- [fix: renderer: reset the cursor on the first line](https://github.com/charmbracelet/bubbletea/pull/1008) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
+- [fix: enable OPOST when initializing the terminal](https://github.com/charmbracelet/bubbletea/pull/1006) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
+- [XPty: cross-platform Pty support](https://github.com/charmbracelet/x/pull/71) on [charmbracelet/x](https://github.com/charmbracelet/x) (3 days ago)
+- [Merge upstream](https://github.com/charmbracelet/ssh/pull/26) on [charmbracelet/ssh](https://github.com/charmbracelet/ssh) (3 days ago)
 
 #### 📜 My recent blog posts
 
@@ -44,10 +44,10 @@
 
 #### ⭐ Recent Stars
 
-- [jayharris/dotfiles-windows](https://github.com/jayharris/dotfiles-windows) - dotfiles for Windows, including Developer-minded system defaults. Built in PowerShell (3 weeks ago)
-- [meowgorithm/dotfiles](https://github.com/meowgorithm/dotfiles) - The Meowgorithm Dotfiles, Collectors’ Edition (4 weeks ago)
-- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles) - dotfiles (home-manager), nixOS, and nix-darwin configurations (4 weeks ago)
-- [LongerHV/nixos-configuration](https://github.com/LongerHV/nixos-configuration) -  (4 weeks ago)
+- [jayharris/dotfiles-windows](https://github.com/jayharris/dotfiles-windows) - dotfiles for Windows, including Developer-minded system defaults. Built in PowerShell (4 weeks ago)
+- [meowgorithm/dotfiles](https://github.com/meowgorithm/dotfiles) - The Meowgorithm Dotfiles, Collectors’ Edition (1 month ago)
+- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles) - dotfiles (home-manager), nixOS, and nix-darwin configurations (1 month ago)
+- [LongerHV/nixos-configuration](https://github.com/LongerHV/nixos-configuration) -  (1 month ago)
 - [MihailJP/Inconsolata-LGC](https://github.com/MihailJP/Inconsolata-LGC) - Inconsolata LGC extension (1 month ago)
 
 #### 📫 How to reach me
