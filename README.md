@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [chore(ci): test for different GOOS &amp; GOARCH](https://github.com/charmbracelet/lipgloss/pull/292) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (today)
 - [chore: add ci for new packages](https://github.com/charmbracelet/x/pull/73) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 day ago)
 - [fix: renderer: reset the cursor on the first line](https://github.com/charmbracelet/bubbletea/pull/1008) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
 - [fix: enable OPOST when initializing the terminal](https://github.com/charmbracelet/bubbletea/pull/1006) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
 - [XPty: cross-platform Pty support](https://github.com/charmbracelet/x/pull/71) on [charmbracelet/x](https://github.com/charmbracelet/x) (3 days ago)
-- [Merge upstream](https://github.com/charmbracelet/ssh/pull/26) on [charmbracelet/ssh](https://github.com/charmbracelet/ssh) (3 days ago)
 
 #### 📜 My recent blog posts
 
