@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages. (1 day ago)
+- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages. (today)
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (5 days ago)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (6 days ago)
 - [charmbracelet/git-lfs-transfer](https://github.com/charmbracelet/git-lfs-transfer) - Server-side implementation of the Git LFS pure-SSH protocol (1 week ago)
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Merge upstream](https://github.com/charmbracelet/ssh/pull/27) on [charmbracelet/ssh](https://github.com/charmbracelet/ssh) (today)
 - [fix(ci): windows generate ci](https://github.com/charmbracelet/x/pull/78) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 day ago)
 - [Generate windows api syscalls](https://github.com/charmbracelet/x/pull/75) on [charmbracelet/x](https://github.com/charmbracelet/x) (4 days ago)
 - [chore(ci): test for different GOOS &amp; GOARCH](https://github.com/charmbracelet/lipgloss/pull/292) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (5 days ago)
 - [chore: add ci for new packages](https://github.com/charmbracelet/x/pull/73) on [charmbracelet/x](https://github.com/charmbracelet/x) (6 days ago)
-- [fix: renderer: reset the cursor on the first line](https://github.com/charmbracelet/bubbletea/pull/1008) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (6 days ago)
 
 #### 📜 My recent blog posts
 
