@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [windows: add console input handling api](https://github.com/golang/sys/pull/196) on [golang/sys](https://github.com/golang/sys) (today)
 - [Merge upstream](https://github.com/charmbracelet/ssh/pull/27) on [charmbracelet/ssh](https://github.com/charmbracelet/ssh) (today)
 - [fix(ci): windows generate ci](https://github.com/charmbracelet/x/pull/78) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 day ago)
 - [Generate windows api syscalls](https://github.com/charmbracelet/x/pull/75) on [charmbracelet/x](https://github.com/charmbracelet/x) (4 days ago)
 - [chore(ci): test for different GOOS &amp; GOARCH](https://github.com/charmbracelet/lipgloss/pull/292) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (5 days ago)
-- [chore: add ci for new packages](https://github.com/charmbracelet/x/pull/73) on [charmbracelet/x](https://github.com/charmbracelet/x) (6 days ago)
 
 #### 📜 My recent blog posts
 
