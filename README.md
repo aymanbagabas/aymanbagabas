@@ -4,9 +4,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages. (today)
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (4 days ago)
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (5 days ago)
+- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages. (1 day ago)
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (5 days ago)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (6 days ago)
 - [charmbracelet/git-lfs-transfer](https://github.com/charmbracelet/git-lfs-transfer) - Server-side implementation of the Git LFS pure-SSH protocol (1 week ago)
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦 (1 week ago)
 
@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.26.2](https://github.com/charmbracelet/bubbletea/releases/tag/v0.26.2), 5 days ago) - A powerful little TUI framework 🏗
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.26.2](https://github.com/charmbracelet/bubbletea/releases/tag/v0.26.2), 6 days ago) - A powerful little TUI framework 🏗
 - [charmbracelet/mods](https://github.com/charmbracelet/mods) ([v1.3.1](https://github.com/charmbracelet/mods/releases/tag/v1.3.1), 1 week ago) - AI on the command line
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.14.0](https://github.com/charmbracelet/gum/releases/tag/v0.14.0), 2 weeks ago) - A tool for glamorous shell scripts 🎀
 - [aymanbagabas/Huawei-WMI](https://github.com/aymanbagabas/Huawei-WMI) ([v4.0](https://github.com/aymanbagabas/Huawei-WMI/releases/tag/v4.0), 3 weeks ago) - Huawei WMI laptop extras linux driver
-- [caarlos0/env](https://github.com/caarlos0/env) ([v11.0.0](https://github.com/caarlos0/env/releases/tag/v11.0.0), 3 weeks ago) - A simple and zero-dependencies library to parse environment variables into structs
+- [caarlos0/env](https://github.com/caarlos0/env) ([v11.0.0](https://github.com/caarlos0/env/releases/tag/v11.0.0), 4 weeks ago) - A simple and zero-dependencies library to parse environment variables into structs
 
 #### 🔨 My recent Pull Requests
 
-- [fix(ci): windows generate ci](https://github.com/charmbracelet/x/pull/78) on [charmbracelet/x](https://github.com/charmbracelet/x) (today)
-- [Generate windows api syscalls](https://github.com/charmbracelet/x/pull/75) on [charmbracelet/x](https://github.com/charmbracelet/x) (3 days ago)
-- [chore(ci): test for different GOOS &amp; GOARCH](https://github.com/charmbracelet/lipgloss/pull/292) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (4 days ago)
-- [chore: add ci for new packages](https://github.com/charmbracelet/x/pull/73) on [charmbracelet/x](https://github.com/charmbracelet/x) (5 days ago)
-- [fix: renderer: reset the cursor on the first line](https://github.com/charmbracelet/bubbletea/pull/1008) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (5 days ago)
+- [fix(ci): windows generate ci](https://github.com/charmbracelet/x/pull/78) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 day ago)
+- [Generate windows api syscalls](https://github.com/charmbracelet/x/pull/75) on [charmbracelet/x](https://github.com/charmbracelet/x) (4 days ago)
+- [chore(ci): test for different GOOS &amp; GOARCH](https://github.com/charmbracelet/lipgloss/pull/292) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (5 days ago)
+- [chore: add ci for new packages](https://github.com/charmbracelet/x/pull/73) on [charmbracelet/x](https://github.com/charmbracelet/x) (6 days ago)
+- [fix: renderer: reset the cursor on the first line](https://github.com/charmbracelet/bubbletea/pull/1008) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (6 days ago)
 
 #### 📜 My recent blog posts
 
