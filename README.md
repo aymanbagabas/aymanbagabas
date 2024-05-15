@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages. (today)
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (5 days ago)
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (6 days ago)
+- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages. (1 day ago)
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (6 days ago)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 week ago)
 - [charmbracelet/git-lfs-transfer](https://github.com/charmbracelet/git-lfs-transfer) - Server-side implementation of the Git LFS pure-SSH protocol (1 week ago)
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦 (1 week ago)
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦 (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.26.2](https://github.com/charmbracelet/bubbletea/releases/tag/v0.26.2), 6 days ago) - A powerful little TUI framework 🏗
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.26.2](https://github.com/charmbracelet/bubbletea/releases/tag/v0.26.2), 1 week ago) - A powerful little TUI framework 🏗
 - [charmbracelet/mods](https://github.com/charmbracelet/mods) ([v1.3.1](https://github.com/charmbracelet/mods/releases/tag/v1.3.1), 1 week ago) - AI on the command line
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.14.0](https://github.com/charmbracelet/gum/releases/tag/v0.14.0), 2 weeks ago) - A tool for glamorous shell scripts 🎀
 - [aymanbagabas/Huawei-WMI](https://github.com/aymanbagabas/Huawei-WMI) ([v4.0](https://github.com/aymanbagabas/Huawei-WMI/releases/tag/v4.0), 3 weeks ago) - Huawei WMI laptop extras linux driver
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
-- [windows: add console input handling api](https://github.com/golang/sys/pull/196) on [golang/sys](https://github.com/golang/sys) (today)
-- [Merge upstream](https://github.com/charmbracelet/ssh/pull/27) on [charmbracelet/ssh](https://github.com/charmbracelet/ssh) (today)
-- [fix(ci): windows generate ci](https://github.com/charmbracelet/x/pull/78) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 day ago)
-- [Generate windows api syscalls](https://github.com/charmbracelet/x/pull/75) on [charmbracelet/x](https://github.com/charmbracelet/x) (4 days ago)
-- [chore(ci): test for different GOOS &amp; GOARCH](https://github.com/charmbracelet/lipgloss/pull/292) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (5 days ago)
+- [windows: add console input handling api](https://github.com/golang/sys/pull/196) on [golang/sys](https://github.com/golang/sys) (1 day ago)
+- [Merge upstream](https://github.com/charmbracelet/ssh/pull/27) on [charmbracelet/ssh](https://github.com/charmbracelet/ssh) (1 day ago)
+- [fix(ci): windows generate ci](https://github.com/charmbracelet/x/pull/78) on [charmbracelet/x](https://github.com/charmbracelet/x) (2 days ago)
+- [Generate windows api syscalls](https://github.com/charmbracelet/x/pull/75) on [charmbracelet/x](https://github.com/charmbracelet/x) (5 days ago)
+- [chore(ci): test for different GOOS &amp; GOARCH](https://github.com/charmbracelet/lipgloss/pull/292) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (6 days ago)
 
 #### 📜 My recent blog posts
 
@@ -44,7 +44,7 @@
 
 #### ⭐ Recent Stars
 
-- [nmasur/dotfiles](https://github.com/nmasur/dotfiles) - Nix configuration and settings (today)
+- [nmasur/dotfiles](https://github.com/nmasur/dotfiles) - Nix configuration and settings (1 day ago)
 - [jayharris/dotfiles-windows](https://github.com/jayharris/dotfiles-windows) - dotfiles for Windows, including Developer-minded system defaults. Built in PowerShell (1 month ago)
 - [meowgorithm/dotfiles](https://github.com/meowgorithm/dotfiles) - The Meowgorithm Dotfiles, Collectors’ Edition (1 month ago)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles) - dotfiles (home-manager), nixOS, and nix-darwin configurations (1 month ago)
