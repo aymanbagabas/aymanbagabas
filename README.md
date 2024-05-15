@@ -5,8 +5,8 @@
 #### 👷 Check out what I'm currently working on
 
 - [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages. (today)
-- [aymanbagabas/neovim-config](https://github.com/aymanbagabas/neovim-config) - Ayman&#39;s Neovim (today)
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (today)
+- [aymanbagabas/neovim-config](https://github.com/aymanbagabas/neovim-config) - Ayman&#39;s Neovim (today)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 week ago)
 - [charmbracelet/git-lfs-transfer](https://github.com/charmbracelet/git-lfs-transfer) - Server-side implementation of the Git LFS pure-SSH protocol (1 week ago)
 
