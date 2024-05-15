@@ -4,19 +4,19 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages. (1 day ago)
+- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages. (today)
+- [aymanbagabas/neovim-config](https://github.com/aymanbagabas/neovim-config) - Ayman&#39;s Neovim (today)
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (6 days ago)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 week ago)
 - [charmbracelet/git-lfs-transfer](https://github.com/charmbracelet/git-lfs-transfer) - Server-side implementation of the Git LFS pure-SSH protocol (1 week ago)
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦 (2 weeks ago)
 
 #### 🌱 My latest projects
 
+- [aymanbagabas/neovim-config](https://github.com/aymanbagabas/neovim-config) - Ayman&#39;s Neovim
 - [aymanbagabas/go-pty](https://github.com/aymanbagabas/go-pty) - Cross platform Go Pty interface
 - [aymanbagabas/go-git-daemon](https://github.com/aymanbagabas/go-git-daemon) - git-daemon implementation in golang
 - [aymanbagabas/go-udiff](https://github.com/aymanbagabas/go-udiff) - µDiff - a micro Go diffing library
 - [aymanbagabas/scoop-bucket](https://github.com/aymanbagabas/scoop-bucket) - Scoop Bucket
-- [aymanbagabas/shcopy](https://github.com/aymanbagabas/shcopy) - 📋 Copy text to your system clipboard locally and remotely using ANSI OSC52 sequence
 
 #### 🔭 Latest releases I've contributed to
 
