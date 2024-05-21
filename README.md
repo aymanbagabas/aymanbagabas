@@ -4,9 +4,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages. (3 days ago)
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (4 days ago)
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (5 days ago)
+- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages. (4 days ago)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (5 days ago)
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (6 days ago)
 - [charmbracelet/git-lfs-transfer](https://github.com/charmbracelet/git-lfs-transfer) - Server-side implementation of the Git LFS pure-SSH protocol (2 weeks ago)
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦 (2 weeks ago)
 
@@ -28,10 +28,10 @@
 
 #### 🔨 My recent Pull Requests
 
-- [fix(input): multiple window-size-events](https://github.com/charmbracelet/x/pull/82) on [charmbracelet/x](https://github.com/charmbracelet/x) (4 days ago)
-- [Prevent multiple window-size-events from firing on Windows](https://github.com/charmbracelet/bubbletea/pull/1021) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (4 days ago)
-- [windows: add console input handling api](https://github.com/golang/sys/pull/196) on [golang/sys](https://github.com/golang/sys) (6 days ago)
-- [Merge upstream](https://github.com/charmbracelet/ssh/pull/27) on [charmbracelet/ssh](https://github.com/charmbracelet/ssh) (6 days ago)
+- [fix(input): multiple window-size-events](https://github.com/charmbracelet/x/pull/82) on [charmbracelet/x](https://github.com/charmbracelet/x) (5 days ago)
+- [Prevent multiple window-size-events from firing on Windows](https://github.com/charmbracelet/bubbletea/pull/1021) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (5 days ago)
+- [windows: add console input handling api](https://github.com/golang/sys/pull/196) on [golang/sys](https://github.com/golang/sys) (1 week ago)
+- [Merge upstream](https://github.com/charmbracelet/ssh/pull/27) on [charmbracelet/ssh](https://github.com/charmbracelet/ssh) (1 week ago)
 - [fix(ci): windows generate ci](https://github.com/charmbracelet/x/pull/78) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 week ago)
 
 #### 📜 My recent blog posts
@@ -44,7 +44,7 @@
 
 #### ⭐ Recent Stars
 
-- [nmasur/dotfiles](https://github.com/nmasur/dotfiles) - Nix configuration and settings (6 days ago)
+- [nmasur/dotfiles](https://github.com/nmasur/dotfiles) - Nix configuration and settings (1 week ago)
 - [jayharris/dotfiles-windows](https://github.com/jayharris/dotfiles-windows) - dotfiles for Windows, including Developer-minded system defaults. Built in PowerShell (1 month ago)
 - [meowgorithm/dotfiles](https://github.com/meowgorithm/dotfiles) - The Meowgorithm Dotfiles, Collectors’ Edition (1 month ago)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles) - dotfiles (home-manager), nixOS, and nix-darwin configurations (1 month ago)
