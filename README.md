@@ -47,7 +47,7 @@
 - [nmasur/dotfiles](https://github.com/nmasur/dotfiles) - Nix configuration and settings (1 week ago)
 - [jayharris/dotfiles-windows](https://github.com/jayharris/dotfiles-windows) - dotfiles for Windows, including Developer-minded system defaults. Built in PowerShell (1 month ago)
 - [meowgorithm/dotfiles](https://github.com/meowgorithm/dotfiles) - The Meowgorithm Dotfiles, Collectors’ Edition (1 month ago)
-- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles) - dotfiles (home-manager), nixOS, and nix-darwin configurations (1 month ago)
+- [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles) - ❄️ home-manager, nixOS, and nix-darwin configurations (1 month ago)
 - [LongerHV/nixos-configuration](https://github.com/LongerHV/nixos-configuration) -  (1 month ago)
 
 #### 📫 How to reach me
