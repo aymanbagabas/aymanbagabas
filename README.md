@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: use list_runtime_paths api](https://github.com/garymjr/nvim-snippets/pull/19) on [garymjr/nvim-snippets](https://github.com/garymjr/nvim-snippets) (today)
 - [feat(golden): escapse sequences](https://github.com/charmbracelet/x/pull/85) on [charmbracelet/x](https://github.com/charmbracelet/x) (2 days ago)
 - [fix(input): multiple window-size-events](https://github.com/charmbracelet/x/pull/82) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 week ago)
 - [Prevent multiple window-size-events from firing on Windows](https://github.com/charmbracelet/bubbletea/pull/1021) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 week ago)
 - [windows: add console input handling api](https://github.com/golang/sys/pull/196) on [golang/sys](https://github.com/golang/sys) (1 week ago)
-- [Merge upstream](https://github.com/charmbracelet/ssh/pull/27) on [charmbracelet/ssh](https://github.com/charmbracelet/ssh) (1 week ago)
 
 #### 📜 My recent blog posts
 
