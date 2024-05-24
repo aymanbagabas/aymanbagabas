@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧 (today)
-- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages. (today)
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦 (1 day ago)
-- [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (1 day ago)
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 day ago)
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧 (1 day ago)
+- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages. (1 day ago)
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦 (2 days ago)
+- [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (2 days ago)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.26.3](https://github.com/charmbracelet/bubbletea/releases/tag/v0.26.3), today) - A powerful little TUI framework 🏗
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.11.0](https://github.com/charmbracelet/lipgloss/releases/tag/v0.11.0), today) - Style definitions for nice terminal layouts 👄
-- [caarlos0/env](https://github.com/caarlos0/env) ([v11.0.1](https://github.com/caarlos0/env/releases/tag/v11.0.1), 1 day ago) - A simple and zero-dependencies library to parse environment variables into structs
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.26.3](https://github.com/charmbracelet/bubbletea/releases/tag/v0.26.3), 1 day ago) - A powerful little TUI framework 🏗
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.11.0](https://github.com/charmbracelet/lipgloss/releases/tag/v0.11.0), 1 day ago) - Style definitions for nice terminal layouts 👄
+- [caarlos0/env](https://github.com/caarlos0/env) ([v11.0.1](https://github.com/caarlos0/env/releases/tag/v11.0.1), 2 days ago) - A simple and zero-dependencies library to parse environment variables into structs
 - [charmbracelet/mods](https://github.com/charmbracelet/mods) ([v1.3.1](https://github.com/charmbracelet/mods/releases/tag/v1.3.1), 2 weeks ago) - AI on the command line
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.14.0](https://github.com/charmbracelet/gum/releases/tag/v0.14.0), 3 weeks ago) - A tool for glamorous shell scripts 🎀
 
 #### 🔨 My recent Pull Requests
 
-- [feat(ci): use goreleaser for releases](https://github.com/charmbracelet/bubbles/pull/526) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (today)
-- [feat(ci): use goreleaser for releases](https://github.com/charmbracelet/lipgloss/pull/301) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (today)
-- [feat(ci): use goreleaser for releases](https://github.com/charmbracelet/bubbletea/pull/1023) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
-- [fix: use list_runtime_paths api](https://github.com/garymjr/nvim-snippets/pull/19) on [garymjr/nvim-snippets](https://github.com/garymjr/nvim-snippets) (today)
-- [feat(golden): escapse sequences](https://github.com/charmbracelet/x/pull/85) on [charmbracelet/x](https://github.com/charmbracelet/x) (2 days ago)
+- [feat(ci): use goreleaser for releases](https://github.com/charmbracelet/bubbles/pull/526) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (1 day ago)
+- [feat(ci): use goreleaser for releases](https://github.com/charmbracelet/lipgloss/pull/301) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (1 day ago)
+- [feat(ci): use goreleaser for releases](https://github.com/charmbracelet/bubbletea/pull/1023) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
+- [fix: use list_runtime_paths api](https://github.com/garymjr/nvim-snippets/pull/19) on [garymjr/nvim-snippets](https://github.com/garymjr/nvim-snippets) (1 day ago)
+- [feat(golden): escapse sequences](https://github.com/charmbracelet/x/pull/85) on [charmbracelet/x](https://github.com/charmbracelet/x) (3 days ago)
 
 #### 📜 My recent blog posts
 
