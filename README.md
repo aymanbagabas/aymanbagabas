@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: properly follow the CLICOLOR standards](https://github.com/charmbracelet/lipgloss/pull/303) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (today)
 - [feat(ci): use goreleaser for releases](https://github.com/charmbracelet/bubbles/pull/526) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (1 day ago)
 - [feat(ci): use goreleaser for releases](https://github.com/charmbracelet/lipgloss/pull/301) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (1 day ago)
 - [feat(ci): use goreleaser for releases](https://github.com/charmbracelet/bubbletea/pull/1023) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
 - [fix: use list_runtime_paths api](https://github.com/garymjr/nvim-snippets/pull/19) on [garymjr/nvim-snippets](https://github.com/garymjr/nvim-snippets) (1 day ago)
-- [feat(golden): escapse sequences](https://github.com/charmbracelet/x/pull/85) on [charmbracelet/x](https://github.com/charmbracelet/x) (3 days ago)
 
 #### 📜 My recent blog posts
 
