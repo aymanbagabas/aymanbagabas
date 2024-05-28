@@ -5,10 +5,10 @@
 #### 👷 Check out what I'm currently working on
 
 - [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) - Keep your GIFs up to date with VHS &#43; GitHub actions 📽️ (today)
-- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (4 days ago)
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (4 days ago)
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧 (5 days ago)
+- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (4 days ago)
 - [garymjr/nvim-snippets](https://github.com/garymjr/nvim-snippets) - Snippet support using native neovim snippets (5 days ago)
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧 (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: installing extra google fonts](https://github.com/charmbracelet/vhs-action/pull/272) on [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) (today)
+- [chore: upgrade node version to node20](https://github.com/charmbracelet/vhs-action/pull/271) on [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) (today)
 - [Fix vhs path](https://github.com/charmbracelet/vhs-action/pull/270) on [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) (today)
 - [fix: respect $TERM and force colors](https://github.com/charmbracelet/wish/pull/281) on [charmbracelet/wish](https://github.com/charmbracelet/wish) (4 days ago)
 - [fix: properly follow the CLICOLOR standards](https://github.com/charmbracelet/lipgloss/pull/303) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (4 days ago)
-- [feat(ci): use goreleaser for releases](https://github.com/charmbracelet/bubbles/pull/526) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (5 days ago)
-- [feat(ci): use goreleaser for releases](https://github.com/charmbracelet/lipgloss/pull/301) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (5 days ago)
 
 #### 📜 My recent blog posts
 
