@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (1 day ago)
-- [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) - Keep your GIFs up to date with VHS &#43; GitHub actions 📽️ (1 day ago)
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (5 days ago)
-- [garymjr/nvim-snippets](https://github.com/garymjr/nvim-snippets) - Snippet support using native neovim snippets (6 days ago)
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧 (6 days ago)
+- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (2 days ago)
+- [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) - Keep your GIFs up to date with VHS &#43; GitHub actions 📽️ (2 days ago)
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (6 days ago)
+- [garymjr/nvim-snippets](https://github.com/garymjr/nvim-snippets) - Snippet support using native neovim snippets (1 week ago)
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧 (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) ([v2.1](https://github.com/charmbracelet/vhs-action/releases/tag/v2.1), 1 day ago) - Keep your GIFs up to date with VHS &#43; GitHub actions 📽️
-- [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.14.1](https://github.com/charmbracelet/gum/releases/tag/v0.14.1), 4 days ago) - A tool for glamorous shell scripts 🎀
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.26.3](https://github.com/charmbracelet/bubbletea/releases/tag/v0.26.3), 6 days ago) - A powerful little TUI framework 🏗
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.11.0](https://github.com/charmbracelet/lipgloss/releases/tag/v0.11.0), 6 days ago) - Style definitions for nice terminal layouts 👄
+- [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) ([v2.1](https://github.com/charmbracelet/vhs-action/releases/tag/v2.1), 2 days ago) - Keep your GIFs up to date with VHS &#43; GitHub actions 📽️
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.14.1](https://github.com/charmbracelet/gum/releases/tag/v0.14.1), 5 days ago) - A tool for glamorous shell scripts 🎀
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.26.3](https://github.com/charmbracelet/bubbletea/releases/tag/v0.26.3), 1 week ago) - A powerful little TUI framework 🏗
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.11.0](https://github.com/charmbracelet/lipgloss/releases/tag/v0.11.0), 1 week ago) - Style definitions for nice terminal layouts 👄
 - [caarlos0/env](https://github.com/caarlos0/env) ([v11.0.1](https://github.com/caarlos0/env/releases/tag/v11.0.1), 1 week ago) - A simple and zero-dependencies library to parse environment variables into structs
 
 #### 🔨 My recent Pull Requests
 
-- [fix: installing extra google fonts](https://github.com/charmbracelet/vhs-action/pull/272) on [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) (1 day ago)
-- [chore: upgrade node version to node20](https://github.com/charmbracelet/vhs-action/pull/271) on [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) (1 day ago)
-- [Fix vhs path](https://github.com/charmbracelet/vhs-action/pull/270) on [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) (1 day ago)
-- [fix: respect $TERM and force colors](https://github.com/charmbracelet/wish/pull/281) on [charmbracelet/wish](https://github.com/charmbracelet/wish) (5 days ago)
-- [fix: properly follow the CLICOLOR standards](https://github.com/charmbracelet/lipgloss/pull/303) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (5 days ago)
+- [fix: installing extra google fonts](https://github.com/charmbracelet/vhs-action/pull/272) on [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) (2 days ago)
+- [chore: upgrade node version to node20](https://github.com/charmbracelet/vhs-action/pull/271) on [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) (2 days ago)
+- [Fix vhs path](https://github.com/charmbracelet/vhs-action/pull/270) on [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) (2 days ago)
+- [fix: respect $TERM and force colors](https://github.com/charmbracelet/wish/pull/281) on [charmbracelet/wish](https://github.com/charmbracelet/wish) (6 days ago)
+- [fix: properly follow the CLICOLOR standards](https://github.com/charmbracelet/lipgloss/pull/303) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (6 days ago)
 
 #### 📜 My recent blog posts
 
