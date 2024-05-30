@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Detect if grapheme is an emoji](https://github.com/rivo/uniseg/pull/55) on [rivo/uniseg](https://github.com/rivo/uniseg) (today)
 - [fix: program renderer commands](https://github.com/charmbracelet/bubbletea/pull/1030) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [fix: installing extra google fonts](https://github.com/charmbracelet/vhs-action/pull/272) on [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) (2 days ago)
 - [chore: upgrade node version to node20](https://github.com/charmbracelet/vhs-action/pull/271) on [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) (2 days ago)
 - [Fix vhs path](https://github.com/charmbracelet/vhs-action/pull/270) on [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) (2 days ago)
-- [fix: respect $TERM and force colors](https://github.com/charmbracelet/wish/pull/281) on [charmbracelet/wish](https://github.com/charmbracelet/wish) (6 days ago)
 
 #### 📜 My recent blog posts
 
