@@ -5,10 +5,10 @@
 #### 👷 Check out what I'm currently working on
 
 - [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (today)
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧 (today)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 day ago)
 - [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) - Keep your GIFs up to date with VHS &#43; GitHub actions 📽️ (3 days ago)
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (1 week ago)
-- [garymjr/nvim-snippets](https://github.com/garymjr/nvim-snippets) - Snippet support using native neovim snippets (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [chore: fix lint issues](https://github.com/charmbracelet/bubbles/pull/534) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (today)
+- [chore: upgrade conpty dep](https://github.com/charmbracelet/ssh/pull/30) on [charmbracelet/ssh](https://github.com/charmbracelet/ssh) (today)
+- [Use conpty](https://github.com/gliderlabs/ssh/pull/232) on [gliderlabs/ssh](https://github.com/gliderlabs/ssh) (today)
 - [Detect if grapheme is an emoji](https://github.com/rivo/uniseg/pull/55) on [rivo/uniseg](https://github.com/rivo/uniseg) (1 day ago)
 - [fix: program renderer commands](https://github.com/charmbracelet/bubbletea/pull/1030) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
-- [fix: installing extra google fonts](https://github.com/charmbracelet/vhs-action/pull/272) on [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) (3 days ago)
-- [chore: upgrade node version to node20](https://github.com/charmbracelet/vhs-action/pull/271) on [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) (3 days ago)
-- [Fix vhs path](https://github.com/charmbracelet/vhs-action/pull/270) on [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) (3 days ago)
 
 #### 📜 My recent blog posts
 
