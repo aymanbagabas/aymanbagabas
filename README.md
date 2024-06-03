@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix(input): rename keyMod modifier functions](https://github.com/charmbracelet/x/pull/90) on [charmbracelet/x](https://github.com/charmbracelet/x) (today)
 - [chore: fix lint issues](https://github.com/charmbracelet/bubbles/pull/534) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (3 days ago)
 - [chore: upgrade conpty dep](https://github.com/charmbracelet/ssh/pull/30) on [charmbracelet/ssh](https://github.com/charmbracelet/ssh) (3 days ago)
 - [Use conpty](https://github.com/gliderlabs/ssh/pull/232) on [gliderlabs/ssh](https://github.com/gliderlabs/ssh) (3 days ago)
 - [Detect if grapheme is an emoji](https://github.com/rivo/uniseg/pull/55) on [rivo/uniseg](https://github.com/rivo/uniseg) (4 days ago)
-- [fix: program renderer commands](https://github.com/charmbracelet/bubbletea/pull/1030) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (4 days ago)
 
 #### 📜 My recent blog posts
 
