@@ -20,11 +20,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/mods](https://github.com/charmbracelet/mods) ([v1.4.0](https://github.com/charmbracelet/mods/releases/tag/v1.4.0), today) - AI on the command line
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.26.4](https://github.com/charmbracelet/bubbletea/releases/tag/v0.26.4), 4 days ago) - A powerful little TUI framework 🏗
 - [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) ([v2.1](https://github.com/charmbracelet/vhs-action/releases/tag/v2.1), 6 days ago) - Keep your GIFs up to date with VHS &#43; GitHub actions 📽️
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.14.1](https://github.com/charmbracelet/gum/releases/tag/v0.14.1), 1 week ago) - A tool for glamorous shell scripts 🎀
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.11.0](https://github.com/charmbracelet/lipgloss/releases/tag/v0.11.0), 1 week ago) - Style definitions for nice terminal layouts 👄
-- [caarlos0/env](https://github.com/caarlos0/env) ([v11.0.1](https://github.com/caarlos0/env/releases/tag/v11.0.1), 1 week ago) - A simple and zero-dependencies library to parse environment variables into structs
 
 #### 🔨 My recent Pull Requests
 
