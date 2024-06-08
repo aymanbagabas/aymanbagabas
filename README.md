@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Refactor transport and drop git binary dependency](https://github.com/go-git/go-git/pull/1111) on [go-git/go-git](https://github.com/go-git/go-git) (today)
 - [fix(input): rename keyMod modifier functions](https://github.com/charmbracelet/x/pull/90) on [charmbracelet/x](https://github.com/charmbracelet/x) (5 days ago)
 - [chore: fix lint issues](https://github.com/charmbracelet/bubbles/pull/534) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (1 week ago)
 - [chore: upgrade conpty dep](https://github.com/charmbracelet/ssh/pull/30) on [charmbracelet/ssh](https://github.com/charmbracelet/ssh) (1 week ago)
 - [Use conpty](https://github.com/gliderlabs/ssh/pull/232) on [gliderlabs/ssh](https://github.com/gliderlabs/ssh) (1 week ago)
-- [Detect if grapheme is an emoji](https://github.com/rivo/uniseg/pull/55) on [rivo/uniseg](https://github.com/rivo/uniseg) (1 week ago)
 
 #### 📜 My recent blog posts
 
