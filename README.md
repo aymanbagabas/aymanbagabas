@@ -44,11 +44,11 @@
 
 #### ⭐ Recent Stars
 
+- [galdor/go-thumbhash](https://github.com/galdor/go-thumbhash) - A Go implementation of the Thumbhash image placeholder generation algorithm. (today)
 - [nmasur/dotfiles](https://github.com/nmasur/dotfiles) - Nix configuration and settings (3 weeks ago)
 - [jayharris/dotfiles-windows](https://github.com/jayharris/dotfiles-windows) - dotfiles for Windows, including Developer-minded system defaults. Built in PowerShell (2 months ago)
 - [meowgorithm/dotfiles](https://github.com/meowgorithm/dotfiles) - The Meowgorithm Dotfiles, Collectors’ Edition (2 months ago)
 - [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles) - ❄️ home-manager, nixOS, and nix-darwin configurations (2 months ago)
-- [LongerHV/nixos-configuration](https://github.com/LongerHV/nixos-configuration) -  (2 months ago)
 
 #### 📫 How to reach me
 
