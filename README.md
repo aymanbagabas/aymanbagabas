@@ -28,7 +28,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Refactor transport and drop git binary dependency](https://github.com/go-git/go-git/pull/1111) on [go-git/go-git](https://github.com/go-git/go-git) (3 days ago)
+- [Refactor transport and drop git binary dependency](https://github.com/go-git/go-git/pull/1111) on [go-git/go-git](https://github.com/go-git/go-git) (4 days ago)
 - [fix(input): rename keyMod modifier functions](https://github.com/charmbracelet/x/pull/90) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 week ago)
 - [chore: fix lint issues](https://github.com/charmbracelet/bubbles/pull/534) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (1 week ago)
 - [chore: upgrade conpty dep](https://github.com/charmbracelet/ssh/pull/30) on [charmbracelet/ssh](https://github.com/charmbracelet/ssh) (1 week ago)
@@ -44,7 +44,7 @@
 
 #### ⭐ Recent Stars
 
-- [galdor/go-thumbhash](https://github.com/galdor/go-thumbhash) - A Go implementation of the Thumbhash image placeholder generation algorithm. (1 day ago)
+- [galdor/go-thumbhash](https://github.com/galdor/go-thumbhash) - A Go implementation of the Thumbhash image placeholder generation algorithm. (2 days ago)
 - [nmasur/dotfiles](https://github.com/nmasur/dotfiles) - Nix configuration and settings (4 weeks ago)
 - [jayharris/dotfiles-windows](https://github.com/jayharris/dotfiles-windows) - dotfiles for Windows, including Developer-minded system defaults. Built in PowerShell (2 months ago)
 - [meowgorithm/dotfiles](https://github.com/meowgorithm/dotfiles) - The Meowgorithm Dotfiles, Collectors’ Edition (2 months ago)
