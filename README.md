@@ -5,7 +5,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (1 week ago)
-- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (1 week ago)
+- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (2 weeks ago)
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧 (2 weeks ago)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (2 weeks ago)
 - [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) - Keep your GIFs up to date with VHS &#43; GitHub actions 📽️ (2 weeks ago)
@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/mods](https://github.com/charmbracelet/mods) ([v1.4.0](https://github.com/charmbracelet/mods/releases/tag/v1.4.0), 1 week ago) - AI on the command line
+- [charmbracelet/mods](https://github.com/charmbracelet/mods) ([v1.4.0](https://github.com/charmbracelet/mods/releases/tag/v1.4.0), 2 weeks ago) - AI on the command line
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.26.4](https://github.com/charmbracelet/bubbletea/releases/tag/v0.26.4), 2 weeks ago) - A powerful little TUI framework 🏗
 - [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) ([v2.1](https://github.com/charmbracelet/vhs-action/releases/tag/v2.1), 2 weeks ago) - Keep your GIFs up to date with VHS &#43; GitHub actions 📽️
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.14.1](https://github.com/charmbracelet/gum/releases/tag/v0.14.1), 3 weeks ago) - A tool for glamorous shell scripts 🎀
@@ -29,7 +29,7 @@
 #### 🔨 My recent Pull Requests
 
 - [Refactor transport and drop git binary dependency](https://github.com/go-git/go-git/pull/1111) on [go-git/go-git](https://github.com/go-git/go-git) (1 week ago)
-- [fix(input): rename keyMod modifier functions](https://github.com/charmbracelet/x/pull/90) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 week ago)
+- [fix(input): rename keyMod modifier functions](https://github.com/charmbracelet/x/pull/90) on [charmbracelet/x](https://github.com/charmbracelet/x) (2 weeks ago)
 - [chore: fix lint issues](https://github.com/charmbracelet/bubbles/pull/534) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (2 weeks ago)
 - [chore: upgrade conpty dep](https://github.com/charmbracelet/ssh/pull/30) on [charmbracelet/ssh](https://github.com/charmbracelet/ssh) (2 weeks ago)
 - [Use conpty](https://github.com/gliderlabs/ssh/pull/232) on [gliderlabs/ssh](https://github.com/gliderlabs/ssh) (2 weeks ago)
@@ -44,7 +44,7 @@
 
 #### ⭐ Recent Stars
 
-- [galdor/go-thumbhash](https://github.com/galdor/go-thumbhash) - A Go implementation of the Thumbhash image placeholder generation algorithm. (6 days ago)
+- [galdor/go-thumbhash](https://github.com/galdor/go-thumbhash) - A Go implementation of the Thumbhash image placeholder generation algorithm. (1 week ago)
 - [nmasur/dotfiles](https://github.com/nmasur/dotfiles) - Nix configuration and settings (1 month ago)
 - [jayharris/dotfiles-windows](https://github.com/jayharris/dotfiles-windows) - dotfiles for Windows, including Developer-minded system defaults. Built in PowerShell (2 months ago)
 - [meowgorithm/dotfiles](https://github.com/meowgorithm/dotfiles) - The Meowgorithm Dotfiles, Collectors’ Edition (2 months ago)
