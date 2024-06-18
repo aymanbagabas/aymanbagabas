@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (1 week ago)
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (2 weeks ago)
 - [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (2 weeks ago)
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧 (2 weeks ago)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (2 weeks ago)
-- [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) - Keep your GIFs up to date with VHS &#43; GitHub actions 📽️ (2 weeks ago)
+- [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) - Keep your GIFs up to date with VHS &#43; GitHub actions 📽️ (3 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -22,7 +22,7 @@
 
 - [charmbracelet/mods](https://github.com/charmbracelet/mods) ([v1.4.0](https://github.com/charmbracelet/mods/releases/tag/v1.4.0), 2 weeks ago) - AI on the command line
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.26.4](https://github.com/charmbracelet/bubbletea/releases/tag/v0.26.4), 2 weeks ago) - A powerful little TUI framework 🏗
-- [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) ([v2.1](https://github.com/charmbracelet/vhs-action/releases/tag/v2.1), 2 weeks ago) - Keep your GIFs up to date with VHS &#43; GitHub actions 📽️
+- [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) ([v2.1](https://github.com/charmbracelet/vhs-action/releases/tag/v2.1), 3 weeks ago) - Keep your GIFs up to date with VHS &#43; GitHub actions 📽️
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.14.1](https://github.com/charmbracelet/gum/releases/tag/v0.14.1), 3 weeks ago) - A tool for glamorous shell scripts 🎀
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.11.0](https://github.com/charmbracelet/lipgloss/releases/tag/v0.11.0), 3 weeks ago) - Style definitions for nice terminal layouts 👄
 
