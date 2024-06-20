@@ -7,7 +7,7 @@
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (2 weeks ago)
 - [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (2 weeks ago)
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧 (2 weeks ago)
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (2 weeks ago)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (3 weeks ago)
 - [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) - Keep your GIFs up to date with VHS &#43; GitHub actions 📽️ (3 weeks ago)
 
 #### 🌱 My latest projects
@@ -20,9 +20,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [caarlos0/env](https://github.com/caarlos0/env) ([v11.1.0](https://github.com/caarlos0/env/releases/tag/v11.1.0), today) - A simple and zero-dependencies library to parse environment variables into structs
-- [charmbracelet/mods](https://github.com/charmbracelet/mods) ([v1.4.1](https://github.com/charmbracelet/mods/releases/tag/v1.4.1), 1 day ago) - AI on the command line
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.26.4](https://github.com/charmbracelet/bubbletea/releases/tag/v0.26.4), 2 weeks ago) - A powerful little TUI framework 🏗
+- [caarlos0/env](https://github.com/caarlos0/env) ([v11.1.0](https://github.com/caarlos0/env/releases/tag/v11.1.0), 1 day ago) - A simple and zero-dependencies library to parse environment variables into structs
+- [charmbracelet/mods](https://github.com/charmbracelet/mods) ([v1.4.1](https://github.com/charmbracelet/mods/releases/tag/v1.4.1), 2 days ago) - AI on the command line
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.26.4](https://github.com/charmbracelet/bubbletea/releases/tag/v0.26.4), 3 weeks ago) - A powerful little TUI framework 🏗
 - [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) ([v2.1](https://github.com/charmbracelet/vhs-action/releases/tag/v2.1), 3 weeks ago) - Keep your GIFs up to date with VHS &#43; GitHub actions 📽️
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.14.1](https://github.com/charmbracelet/gum/releases/tag/v0.14.1), 3 weeks ago) - A tool for glamorous shell scripts 🎀
 
