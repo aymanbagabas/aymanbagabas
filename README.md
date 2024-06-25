@@ -6,8 +6,8 @@
 
 - [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (1 day ago)
 - [caddy-dns/route53](https://github.com/caddy-dns/route53) - Caddy module: dns.providers.route53 (1 day ago)
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 day ago)
 - [libdns/route53](https://github.com/libdns/route53) - AWS Route53 provider implementation for libdns (1 day ago)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 day ago)
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (3 weeks ago)
 
 #### 🌱 My latest projects
