@@ -4,10 +4,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (today)
-- [caddy-dns/route53](https://github.com/caddy-dns/route53) - Caddy module: dns.providers.route53 (1 day ago)
-- [libdns/route53](https://github.com/libdns/route53) - AWS Route53 provider implementation for libdns (1 day ago)
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 day ago)
+- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (1 day ago)
+- [caddy-dns/route53](https://github.com/caddy-dns/route53) - Caddy module: dns.providers.route53 (2 days ago)
+- [libdns/route53](https://github.com/libdns/route53) - AWS Route53 provider implementation for libdns (2 days ago)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (2 days ago)
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (3 weeks ago)
 
 #### 🌱 My latest projects
@@ -20,16 +20,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.26.6](https://github.com/charmbracelet/bubbletea/releases/tag/v0.26.6), 1 day ago) - A powerful little TUI framework 🏗
-- [libdns/route53](https://github.com/libdns/route53) ([v1.4.0](https://github.com/libdns/route53/releases/tag/v1.4.0), 1 day ago) - AWS Route53 provider implementation for libdns
-- [caddy-dns/route53](https://github.com/caddy-dns/route53) ([v1.4.0](https://github.com/caddy-dns/route53/releases/tag/v1.4.0), 1 day ago) - Caddy module: dns.providers.route53
-- [caarlos0/env](https://github.com/caarlos0/env) ([v11.1.0](https://github.com/caarlos0/env/releases/tag/v11.1.0), 6 days ago) - A simple and zero-dependencies library to parse environment variables into structs
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.26.6](https://github.com/charmbracelet/bubbletea/releases/tag/v0.26.6), 2 days ago) - A powerful little TUI framework 🏗
+- [libdns/route53](https://github.com/libdns/route53) ([v1.4.0](https://github.com/libdns/route53/releases/tag/v1.4.0), 2 days ago) - AWS Route53 provider implementation for libdns
+- [caddy-dns/route53](https://github.com/caddy-dns/route53) ([v1.4.0](https://github.com/caddy-dns/route53/releases/tag/v1.4.0), 2 days ago) - Caddy module: dns.providers.route53
+- [caarlos0/env](https://github.com/caarlos0/env) ([v11.1.0](https://github.com/caarlos0/env/releases/tag/v11.1.0), 1 week ago) - A simple and zero-dependencies library to parse environment variables into structs
 - [charmbracelet/mods](https://github.com/charmbracelet/mods) ([v1.4.1](https://github.com/charmbracelet/mods/releases/tag/v1.4.1), 1 week ago) - AI on the command line
 
 #### 🔨 My recent Pull Requests
 
-- [Revert &#34;feat: Ansi slice function&#34;](https://github.com/charmbracelet/x/pull/104) on [charmbracelet/x](https://github.com/charmbracelet/x) (today)
-- [refactor(input): rename types and consts](https://github.com/charmbracelet/x/pull/102) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 day ago)
+- [Revert &#34;feat: Ansi slice function&#34;](https://github.com/charmbracelet/x/pull/104) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 day ago)
+- [refactor(input): rename types and consts](https://github.com/charmbracelet/x/pull/102) on [charmbracelet/x](https://github.com/charmbracelet/x) (2 days ago)
 - [Refactor transport and drop git binary dependency](https://github.com/go-git/go-git/pull/1111) on [go-git/go-git](https://github.com/go-git/go-git) (2 weeks ago)
 - [fix(input): rename keyMod modifier functions](https://github.com/charmbracelet/x/pull/90) on [charmbracelet/x](https://github.com/charmbracelet/x) (3 weeks ago)
 - [chore: fix lint issues](https://github.com/charmbracelet/bubbles/pull/534) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (3 weeks ago)
