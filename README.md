@@ -23,8 +23,8 @@
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.26.6](https://github.com/charmbracelet/bubbletea/releases/tag/v0.26.6), 5 days ago) - A powerful little TUI framework 🏗
 - [libdns/route53](https://github.com/libdns/route53) ([v1.4.0](https://github.com/libdns/route53/releases/tag/v1.4.0), 5 days ago) - AWS Route53 provider implementation for libdns
 - [caddy-dns/route53](https://github.com/caddy-dns/route53) ([v1.4.0](https://github.com/caddy-dns/route53/releases/tag/v1.4.0), 5 days ago) - Caddy module: dns.providers.route53
-- [caarlos0/env](https://github.com/caarlos0/env) ([v11.1.0](https://github.com/caarlos0/env/releases/tag/v11.1.0), 1 week ago) - A simple and zero-dependencies library to parse environment variables into structs
 - [charmbracelet/mods](https://github.com/charmbracelet/mods) ([v1.4.1](https://github.com/charmbracelet/mods/releases/tag/v1.4.1), 1 week ago) - AI on the command line
+- [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) ([v2.1](https://github.com/charmbracelet/vhs-action/releases/tag/v2.1), 1 month ago) - Keep your GIFs up to date with VHS &#43; GitHub actions 📽️
 
 #### 🔨 My recent Pull Requests
 
