@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Add go-sprout and update CI](https://github.com/charmbracelet/markscribe/pull/1) on [charmbracelet/markscribe](https://github.com/charmbracelet/markscribe) (today)
 - [fix(ansi): truncate: truncate string when input length is equal to output](https://github.com/charmbracelet/x/pull/115) on [charmbracelet/x](https://github.com/charmbracelet/x) (today)
 - [feat: use sprout funcMap](https://github.com/muesli/markscribe/pull/92) on [muesli/markscribe](https://github.com/muesli/markscribe) (today)
 - [Revert &#34;feat: Ansi slice function&#34;](https://github.com/charmbracelet/x/pull/104) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 week ago)
 - [refactor(input): rename types and consts](https://github.com/charmbracelet/x/pull/102) on [charmbracelet/x](https://github.com/charmbracelet/x) (2 weeks ago)
-- [Refactor transport and drop git binary dependency](https://github.com/go-git/go-git/pull/1111) on [go-git/go-git](https://github.com/go-git/go-git) (1 month ago)
 
 #### 📜 My recent blog posts
 
