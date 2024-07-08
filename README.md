@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [charmbracelet/git-lfs-transfer](https://github.com/charmbracelet/git-lfs-transfer) - Server-side implementation of the Git LFS pure-SSH protocol (today)
 - [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (1 week ago)
-- [libdns/route53](https://github.com/libdns/route53) - AWS Route53 provider implementation for libdns (2 weeks ago)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (2 weeks ago)
+- [libdns/route53](https://github.com/libdns/route53) - AWS Route53 provider implementation for libdns (2 weeks ago)
 - [caddy-dns/route53](https://github.com/caddy-dns/route53) - Caddy module: dns.providers.route53 (2 weeks ago)
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (1 month ago)
 
 #### 🌱 My latest projects
 
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix(ansi): truncate: truncate string when input length is equal to output](https://github.com/charmbracelet/x/pull/115) on [charmbracelet/x](https://github.com/charmbracelet/x) (today)
 - [feat: use sprout funcMap](https://github.com/muesli/markscribe/pull/92) on [muesli/markscribe](https://github.com/muesli/markscribe) (today)
 - [Revert &#34;feat: Ansi slice function&#34;](https://github.com/charmbracelet/x/pull/104) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 week ago)
 - [refactor(input): rename types and consts](https://github.com/charmbracelet/x/pull/102) on [charmbracelet/x](https://github.com/charmbracelet/x) (2 weeks ago)
 - [Refactor transport and drop git binary dependency](https://github.com/go-git/go-git/pull/1111) on [go-git/go-git](https://github.com/go-git/go-git) (1 month ago)
-- [fix(input): rename keyMod modifier functions](https://github.com/charmbracelet/x/pull/90) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 month ago)
 
 #### 📜 My recent blog posts
 
