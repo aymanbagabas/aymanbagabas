@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat(ci): use charm meta workflows and goreleaser config](https://github.com/charmbracelet/markscribe/pull/2) on [charmbracelet/markscribe](https://github.com/charmbracelet/markscribe) (today)
+- [Charm ci](https://github.com/muesli/markscribe/pull/93) on [muesli/markscribe](https://github.com/muesli/markscribe) (today)
 - [Add go-sprout and update CI](https://github.com/charmbracelet/markscribe/pull/1) on [charmbracelet/markscribe](https://github.com/charmbracelet/markscribe) (1 day ago)
 - [fix(ansi): truncate: truncate string when input length is equal to output](https://github.com/charmbracelet/x/pull/115) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 day ago)
 - [feat: use sprout funcMap](https://github.com/muesli/markscribe/pull/92) on [muesli/markscribe](https://github.com/muesli/markscribe) (1 day ago)
-- [Revert &#34;feat: Ansi slice function&#34;](https://github.com/charmbracelet/x/pull/104) on [charmbracelet/x](https://github.com/charmbracelet/x) (2 weeks ago)
-- [refactor(input): rename types and consts](https://github.com/charmbracelet/x/pull/102) on [charmbracelet/x](https://github.com/charmbracelet/x) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
