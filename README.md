@@ -5,9 +5,9 @@
 #### 👷 Check out what I'm currently working on
 
 - [aymanbagabas/nur](https://github.com/aymanbagabas/nur) - Ayman&#39;s own Nix User Repository (today)
-- [charmbracelet/git-lfs-transfer](https://github.com/charmbracelet/git-lfs-transfer) - Server-side implementation of the Git LFS pure-SSH protocol (1 day ago)
 - [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (1 day ago)
-- [caddy-dns/route53](https://github.com/caddy-dns/route53) - Caddy module: dns.providers.route53 (2 weeks ago)
+- [charmbracelet/git-lfs-transfer](https://github.com/charmbracelet/git-lfs-transfer) - Server-side implementation of the Git LFS pure-SSH protocol (1 day ago)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (2 weeks ago)
 - [libdns/route53](https://github.com/libdns/route53) - AWS Route53 provider implementation for libdns (2 weeks ago)
 
 #### 🌱 My latest projects
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [add aymanbagabas repository](https://github.com/nix-community/NUR/pull/739) on [nix-community/NUR](https://github.com/nix-community/NUR) (today)
 - [feat: add repoRecentReleases](https://github.com/charmbracelet/markscribe/pull/4) on [charmbracelet/markscribe](https://github.com/charmbracelet/markscribe) (today)
 - [refactor: return split name/owner](https://github.com/charmbracelet/markscribe/pull/3) on [charmbracelet/markscribe](https://github.com/charmbracelet/markscribe) (today)
 - [feat(ci): use charm meta workflows and goreleaser config](https://github.com/charmbracelet/markscribe/pull/2) on [charmbracelet/markscribe](https://github.com/charmbracelet/markscribe) (today)
 - [Charm ci](https://github.com/muesli/markscribe/pull/93) on [muesli/markscribe](https://github.com/muesli/markscribe) (today)
-- [Add go-sprout and update CI](https://github.com/charmbracelet/markscribe/pull/1) on [charmbracelet/markscribe](https://github.com/charmbracelet/markscribe) (1 day ago)
 
 #### 📜 My recent blog posts
 
