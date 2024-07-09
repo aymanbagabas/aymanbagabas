@@ -4,8 +4,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/git-lfs-transfer](https://github.com/charmbracelet/git-lfs-transfer) - Server-side implementation of the Git LFS pure-SSH protocol (today)
-- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (1 week ago)
+- [charmbracelet/git-lfs-transfer](https://github.com/charmbracelet/git-lfs-transfer) - Server-side implementation of the Git LFS pure-SSH protocol (1 day ago)
+- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (2 weeks ago)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (2 weeks ago)
 - [libdns/route53](https://github.com/libdns/route53) - AWS Route53 provider implementation for libdns (2 weeks ago)
 - [caddy-dns/route53](https://github.com/caddy-dns/route53) - Caddy module: dns.providers.route53 (2 weeks ago)
@@ -23,15 +23,15 @@
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.26.6](https://github.com/charmbracelet/bubbletea/releases/tag/v0.26.6), 2 weeks ago) - A powerful little TUI framework 🏗
 - [libdns/route53](https://github.com/libdns/route53) ([v1.4.0](https://github.com/libdns/route53/releases/tag/v1.4.0), 2 weeks ago) - AWS Route53 provider implementation for libdns
 - [caddy-dns/route53](https://github.com/caddy-dns/route53) ([v1.4.0](https://github.com/caddy-dns/route53/releases/tag/v1.4.0), 2 weeks ago) - Caddy module: dns.providers.route53
-- [charmbracelet/mods](https://github.com/charmbracelet/mods) ([v1.4.1](https://github.com/charmbracelet/mods/releases/tag/v1.4.1), 2 weeks ago) - AI on the command line
+- [charmbracelet/mods](https://github.com/charmbracelet/mods) ([v1.4.1](https://github.com/charmbracelet/mods/releases/tag/v1.4.1), 3 weeks ago) - AI on the command line
 - [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) ([v2.1](https://github.com/charmbracelet/vhs-action/releases/tag/v2.1), 1 month ago) - Keep your GIFs up to date with VHS &#43; GitHub actions 📽️
 
 #### 🔨 My recent Pull Requests
 
-- [Add go-sprout and update CI](https://github.com/charmbracelet/markscribe/pull/1) on [charmbracelet/markscribe](https://github.com/charmbracelet/markscribe) (today)
-- [fix(ansi): truncate: truncate string when input length is equal to output](https://github.com/charmbracelet/x/pull/115) on [charmbracelet/x](https://github.com/charmbracelet/x) (today)
-- [feat: use sprout funcMap](https://github.com/muesli/markscribe/pull/92) on [muesli/markscribe](https://github.com/muesli/markscribe) (today)
-- [Revert &#34;feat: Ansi slice function&#34;](https://github.com/charmbracelet/x/pull/104) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 week ago)
+- [Add go-sprout and update CI](https://github.com/charmbracelet/markscribe/pull/1) on [charmbracelet/markscribe](https://github.com/charmbracelet/markscribe) (1 day ago)
+- [fix(ansi): truncate: truncate string when input length is equal to output](https://github.com/charmbracelet/x/pull/115) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 day ago)
+- [feat: use sprout funcMap](https://github.com/muesli/markscribe/pull/92) on [muesli/markscribe](https://github.com/muesli/markscribe) (1 day ago)
+- [Revert &#34;feat: Ansi slice function&#34;](https://github.com/charmbracelet/x/pull/104) on [charmbracelet/x](https://github.com/charmbracelet/x) (2 weeks ago)
 - [refactor(input): rename types and consts](https://github.com/charmbracelet/x/pull/102) on [charmbracelet/x](https://github.com/charmbracelet/x) (2 weeks ago)
 
 #### 📜 My recent blog posts
@@ -44,7 +44,7 @@
 
 #### ⭐ Recent Stars
 
-- [go-sprout/sprout](https://github.com/go-sprout/sprout) - From sprig to sprout - Useful template functions for Go templates with steroids (today)
+- [go-sprout/sprout](https://github.com/go-sprout/sprout) - From sprig to sprout - Useful template functions for Go templates with steroids (1 day ago)
 - [galdor/go-thumbhash](https://github.com/galdor/go-thumbhash) - A Go implementation of the Thumbhash image placeholder generation algorithm. (4 weeks ago)
 - [nmasur/dotfiles](https://github.com/nmasur/dotfiles) - Nix configuration and settings (1 month ago)
 - [jayharris/dotfiles-windows](https://github.com/jayharris/dotfiles-windows) - dotfiles for Windows, including Developer-minded system defaults. Built in PowerShell (2 months ago)
