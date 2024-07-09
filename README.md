@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: try to infer sub-package tag](https://github.com/caarlos0/svu/pull/161) on [caarlos0/svu](https://github.com/caarlos0/svu) (today)
 - [add aymanbagabas repository](https://github.com/nix-community/NUR/pull/739) on [nix-community/NUR](https://github.com/nix-community/NUR) (today)
 - [feat: add repoRecentReleases](https://github.com/charmbracelet/markscribe/pull/4) on [charmbracelet/markscribe](https://github.com/charmbracelet/markscribe) (today)
 - [refactor: return split name/owner](https://github.com/charmbracelet/markscribe/pull/3) on [charmbracelet/markscribe](https://github.com/charmbracelet/markscribe) (today)
 - [feat(ci): use charm meta workflows and goreleaser config](https://github.com/charmbracelet/markscribe/pull/2) on [charmbracelet/markscribe](https://github.com/charmbracelet/markscribe) (today)
-- [Charm ci](https://github.com/muesli/markscribe/pull/93) on [muesli/markscribe](https://github.com/muesli/markscribe) (today)
 
 #### 📜 My recent blog posts
 
