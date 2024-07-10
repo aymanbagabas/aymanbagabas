@@ -5,10 +5,10 @@
 #### 👷 Check out what I'm currently working on
 
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (today)
+- [caarlos0/svu](https://github.com/caarlos0/svu) - Semantic Version Util (today)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (today)
-- [aymanbagabas/nur](https://github.com/aymanbagabas/nur) - Ayman&#39;s own Nix User Repository (1 day ago)
 - [aymanbagabas/shcopy](https://github.com/aymanbagabas/shcopy) - 📋 Copy text to your system clipboard locally and remotely using ANSI OSC52 sequence (1 day ago)
-- [charmbracelet/git-lfs-transfer](https://github.com/charmbracelet/git-lfs-transfer) - Server-side implementation of the Git LFS pure-SSH protocol (2 days ago)
+- [aymanbagabas/nur](https://github.com/aymanbagabas/nur) - Ayman&#39;s own Nix User Repository (1 day ago)
 
 #### 🌱 My latest projects
 
