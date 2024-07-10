@@ -4,10 +4,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [aymanbagabas/shcopy](https://github.com/aymanbagabas/shcopy) - 📋 Copy text to your system clipboard locally and remotely using ANSI OSC52 sequence (today)
-- [aymanbagabas/nur](https://github.com/aymanbagabas/nur) - Ayman&#39;s own Nix User Repository (today)
-- [charmbracelet/git-lfs-transfer](https://github.com/charmbracelet/git-lfs-transfer) - Server-side implementation of the Git LFS pure-SSH protocol (1 day ago)
-- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (1 day ago)
+- [aymanbagabas/shcopy](https://github.com/aymanbagabas/shcopy) - 📋 Copy text to your system clipboard locally and remotely using ANSI OSC52 sequence (1 day ago)
+- [aymanbagabas/nur](https://github.com/aymanbagabas/nur) - Ayman&#39;s own Nix User Repository (1 day ago)
+- [charmbracelet/git-lfs-transfer](https://github.com/charmbracelet/git-lfs-transfer) - Server-side implementation of the Git LFS pure-SSH protocol (2 days ago)
+- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (2 days ago)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (2 weeks ago)
 
 #### 🌱 My latest projects
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
-- [feat: try to infer sub-package tag](https://github.com/caarlos0/svu/pull/161) on [caarlos0/svu](https://github.com/caarlos0/svu) (today)
-- [add aymanbagabas repository](https://github.com/nix-community/NUR/pull/739) on [nix-community/NUR](https://github.com/nix-community/NUR) (today)
-- [feat: add repoRecentReleases](https://github.com/charmbracelet/markscribe/pull/4) on [charmbracelet/markscribe](https://github.com/charmbracelet/markscribe) (today)
-- [refactor: return split name/owner](https://github.com/charmbracelet/markscribe/pull/3) on [charmbracelet/markscribe](https://github.com/charmbracelet/markscribe) (today)
-- [feat(ci): use charm meta workflows and goreleaser config](https://github.com/charmbracelet/markscribe/pull/2) on [charmbracelet/markscribe](https://github.com/charmbracelet/markscribe) (today)
+- [feat: try to infer sub-package tag](https://github.com/caarlos0/svu/pull/161) on [caarlos0/svu](https://github.com/caarlos0/svu) (1 day ago)
+- [add aymanbagabas repository](https://github.com/nix-community/NUR/pull/739) on [nix-community/NUR](https://github.com/nix-community/NUR) (1 day ago)
+- [feat: add repoRecentReleases](https://github.com/charmbracelet/markscribe/pull/4) on [charmbracelet/markscribe](https://github.com/charmbracelet/markscribe) (1 day ago)
+- [refactor: return split name/owner](https://github.com/charmbracelet/markscribe/pull/3) on [charmbracelet/markscribe](https://github.com/charmbracelet/markscribe) (1 day ago)
+- [feat(ci): use charm meta workflows and goreleaser config](https://github.com/charmbracelet/markscribe/pull/2) on [charmbracelet/markscribe](https://github.com/charmbracelet/markscribe) (1 day ago)
 
 #### 📜 My recent blog posts
 
@@ -44,10 +44,10 @@
 
 #### ⭐ Recent Stars
 
-- [go-sprout/sprout](https://github.com/go-sprout/sprout) - From sprig to sprout - Useful template functions for Go templates with steroids (1 day ago)
-- [galdor/go-thumbhash](https://github.com/galdor/go-thumbhash) - A Go implementation of the Thumbhash image placeholder generation algorithm. (4 weeks ago)
+- [go-sprout/sprout](https://github.com/go-sprout/sprout) - From sprig to sprout - Useful template functions for Go templates with steroids (2 days ago)
+- [galdor/go-thumbhash](https://github.com/galdor/go-thumbhash) - A Go implementation of the Thumbhash image placeholder generation algorithm. (1 month ago)
 - [nmasur/dotfiles](https://github.com/nmasur/dotfiles) - Nix configuration and settings (1 month ago)
-- [jayharris/dotfiles-windows](https://github.com/jayharris/dotfiles-windows) - dotfiles for Windows, including Developer-minded system defaults. Built in PowerShell (2 months ago)
+- [jayharris/dotfiles-windows](https://github.com/jayharris/dotfiles-windows) - dotfiles for Windows, including Developer-minded system defaults. Built in PowerShell (3 months ago)
 - [meowgorithm/dotfiles](https://github.com/meowgorithm/dotfiles) - The Meowgorithm Dotfiles, Collectors’ Edition (3 months ago)
 
 #### 📫 How to reach me
