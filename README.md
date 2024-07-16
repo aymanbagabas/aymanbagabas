@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (3 days ago)
-- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (3 days ago)
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (5 days ago)
-- [caarlos0/svu](https://github.com/caarlos0/svu) - Semantic Version Util (5 days ago)
-- [nix-community/NUR](https://github.com/nix-community/NUR) - Nix User Repository: User contributed nix packages [maintainer=@Mic92] (6 days ago)
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (4 days ago)
+- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (4 days ago)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (6 days ago)
+- [caarlos0/svu](https://github.com/caarlos0/svu) - Semantic Version Util (6 days ago)
+- [nix-community/NUR](https://github.com/nix-community/NUR) - Nix User Repository: User contributed nix packages [maintainer=@Mic92] (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.12.1](https://github.com/charmbracelet/lipgloss/releases/tag/v0.12.1), 3 days ago) - Style definitions for nice terminal layouts 👄
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.12.1](https://github.com/charmbracelet/lipgloss/releases/tag/v0.12.1), 4 days ago) - Style definitions for nice terminal layouts 👄
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.26.6](https://github.com/charmbracelet/bubbletea/releases/tag/v0.26.6), 3 weeks ago) - A powerful little TUI framework 🏗
 - [libdns/route53](https://github.com/libdns/route53) ([v1.4.0](https://github.com/libdns/route53/releases/tag/v1.4.0), 3 weeks ago) - AWS Route53 provider implementation for libdns
 - [caddy-dns/route53](https://github.com/caddy-dns/route53) ([v1.4.0](https://github.com/caddy-dns/route53/releases/tag/v1.4.0), 3 weeks ago) - Caddy module: dns.providers.route53
-- [charmbracelet/mods](https://github.com/charmbracelet/mods) ([v1.4.1](https://github.com/charmbracelet/mods/releases/tag/v1.4.1), 3 weeks ago) - AI on the command line
+- [charmbracelet/mods](https://github.com/charmbracelet/mods) ([v1.4.1](https://github.com/charmbracelet/mods/releases/tag/v1.4.1), 4 weeks ago) - AI on the command line
 
 #### 🔨 My recent Pull Requests
 
-- [fix(ansi): reset uniseq grapheme state after](https://github.com/charmbracelet/x/pull/125) on [charmbracelet/x](https://github.com/charmbracelet/x) (3 days ago)
-- [Use in-house packages](https://github.com/charmbracelet/gum/pull/616) on [charmbracelet/gum](https://github.com/charmbracelet/gum) (5 days ago)
-- [feat: try to infer sub-package tag](https://github.com/caarlos0/svu/pull/161) on [caarlos0/svu](https://github.com/caarlos0/svu) (6 days ago)
-- [add aymanbagabas repository](https://github.com/nix-community/NUR/pull/739) on [nix-community/NUR](https://github.com/nix-community/NUR) (6 days ago)
-- [feat: add repoRecentReleases](https://github.com/charmbracelet/markscribe/pull/4) on [charmbracelet/markscribe](https://github.com/charmbracelet/markscribe) (6 days ago)
+- [fix(ansi): reset uniseq grapheme state after](https://github.com/charmbracelet/x/pull/125) on [charmbracelet/x](https://github.com/charmbracelet/x) (4 days ago)
+- [Use in-house packages](https://github.com/charmbracelet/gum/pull/616) on [charmbracelet/gum](https://github.com/charmbracelet/gum) (6 days ago)
+- [feat: try to infer sub-package tag](https://github.com/caarlos0/svu/pull/161) on [caarlos0/svu](https://github.com/caarlos0/svu) (1 week ago)
+- [add aymanbagabas repository](https://github.com/nix-community/NUR/pull/739) on [nix-community/NUR](https://github.com/nix-community/NUR) (1 week ago)
+- [feat: add repoRecentReleases](https://github.com/charmbracelet/markscribe/pull/4) on [charmbracelet/markscribe](https://github.com/charmbracelet/markscribe) (1 week ago)
 
 #### 📜 My recent blog posts
 
