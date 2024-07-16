@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (4 days ago)
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (today)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (today)
 - [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (4 days ago)
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (6 days ago)
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (4 days ago)
 - [caarlos0/svu](https://github.com/caarlos0/svu) - Semantic Version Util (6 days ago)
-- [nix-community/NUR](https://github.com/nix-community/NUR) - Nix User Repository: User contributed nix packages [maintainer=@Mic92] (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: reset cursor position on renderer exit](https://github.com/charmbracelet/bubbletea/pull/1058) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
+- [fix(spin): pause tea before running the sub-process](https://github.com/charmbracelet/gum/pull/621) on [charmbracelet/gum](https://github.com/charmbracelet/gum) (today)
 - [fix(ansi): reset uniseq grapheme state after](https://github.com/charmbracelet/x/pull/125) on [charmbracelet/x](https://github.com/charmbracelet/x) (4 days ago)
 - [Use in-house packages](https://github.com/charmbracelet/gum/pull/616) on [charmbracelet/gum](https://github.com/charmbracelet/gum) (6 days ago)
 - [feat: try to infer sub-package tag](https://github.com/caarlos0/svu/pull/161) on [caarlos0/svu](https://github.com/caarlos0/svu) (1 week ago)
-- [add aymanbagabas repository](https://github.com/nix-community/NUR/pull/739) on [nix-community/NUR](https://github.com/nix-community/NUR) (1 week ago)
-- [feat: add repoRecentReleases](https://github.com/charmbracelet/markscribe/pull/4) on [charmbracelet/markscribe](https://github.com/charmbracelet/markscribe) (1 week ago)
 
 #### 📜 My recent blog posts
 
