@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: query window-size in a goroutine](https://github.com/charmbracelet/bubbletea/pull/1059) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [fix: reset cursor position on renderer exit](https://github.com/charmbracelet/bubbletea/pull/1058) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [fix(spin): pause tea before running the sub-process](https://github.com/charmbracelet/gum/pull/621) on [charmbracelet/gum](https://github.com/charmbracelet/gum) (today)
 - [fix(ansi): reset uniseq grapheme state after](https://github.com/charmbracelet/x/pull/125) on [charmbracelet/x](https://github.com/charmbracelet/x) (4 days ago)
 - [Use in-house packages](https://github.com/charmbracelet/gum/pull/616) on [charmbracelet/gum](https://github.com/charmbracelet/gum) (6 days ago)
-- [feat: try to infer sub-package tag](https://github.com/caarlos0/svu/pull/161) on [caarlos0/svu](https://github.com/caarlos0/svu) (1 week ago)
 
 #### 📜 My recent blog posts
 
