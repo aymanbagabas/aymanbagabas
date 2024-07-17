@@ -6,9 +6,9 @@
 
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (1 day ago)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 day ago)
+- [golang/sys](https://github.com/golang/sys) - [mirror] Go packages for low-level interaction with the operating system (4 days ago)
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (5 days ago)
 - [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (5 days ago)
-- [caarlos0/svu](https://github.com/caarlos0/svu) - Semantic Version Util (1 week ago)
 
 #### 🌱 My latest projects
 
