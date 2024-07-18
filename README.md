@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: set the program environment variables](https://github.com/charmbracelet/bubbletea/pull/1063) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [windows: correctly generate GetAce syscall](https://github.com/golang/sys/pull/205) on [golang/sys](https://github.com/golang/sys) (today)
 - [fix: query window-size in a goroutine](https://github.com/charmbracelet/bubbletea/pull/1059) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 days ago)
 - [fix: reset cursor position on renderer exit](https://github.com/charmbracelet/bubbletea/pull/1058) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 days ago)
 - [fix(spin): pause tea before running the sub-process](https://github.com/charmbracelet/gum/pull/621) on [charmbracelet/gum](https://github.com/charmbracelet/gum) (2 days ago)
-- [fix(ansi): reset uniseq grapheme state after](https://github.com/charmbracelet/x/pull/125) on [charmbracelet/x](https://github.com/charmbracelet/x) (6 days ago)
 
 #### 📜 My recent blog posts
 
