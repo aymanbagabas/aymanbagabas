@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Windows: ensure output is UTF16 encoded when output is not a terminal](https://github.com/charmbracelet/bubbletea/pull/1064) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [windows: add console codepage api](https://github.com/golang/sys/pull/206) on [golang/sys](https://github.com/golang/sys) (today)
 - [feat: set the program environment variables](https://github.com/charmbracelet/bubbletea/pull/1063) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [windows: correctly generate GetAce syscall](https://github.com/golang/sys/pull/205) on [golang/sys](https://github.com/golang/sys) (today)
 - [fix: query window-size in a goroutine](https://github.com/charmbracelet/bubbletea/pull/1059) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 days ago)
-- [fix: reset cursor position on renderer exit](https://github.com/charmbracelet/bubbletea/pull/1058) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 days ago)
 
 #### 📜 My recent blog posts
 
