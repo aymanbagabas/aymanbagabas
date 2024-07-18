@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (1 day ago)
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 day ago)
-- [golang/sys](https://github.com/golang/sys) - [mirror] Go packages for low-level interaction with the operating system (4 days ago)
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (5 days ago)
-- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (5 days ago)
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (2 days ago)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (2 days ago)
+- [golang/sys](https://github.com/golang/sys) - [mirror] Go packages for low-level interaction with the operating system (5 days ago)
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (6 days ago)
+- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -20,18 +20,18 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.12.1](https://github.com/charmbracelet/lipgloss/releases/tag/v0.12.1), 5 days ago) - Style definitions for nice terminal layouts 👄
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.12.1](https://github.com/charmbracelet/lipgloss/releases/tag/v0.12.1), 6 days ago) - Style definitions for nice terminal layouts 👄
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.26.6](https://github.com/charmbracelet/bubbletea/releases/tag/v0.26.6), 3 weeks ago) - A powerful little TUI framework 🏗
 - [libdns/route53](https://github.com/libdns/route53) ([v1.4.0](https://github.com/libdns/route53/releases/tag/v1.4.0), 3 weeks ago) - AWS Route53 provider implementation for libdns
 - [caddy-dns/route53](https://github.com/caddy-dns/route53) ([v1.4.0](https://github.com/caddy-dns/route53/releases/tag/v1.4.0), 3 weeks ago) - Caddy module: dns.providers.route53
-- [charmbracelet/mods](https://github.com/charmbracelet/mods) ([v1.4.1](https://github.com/charmbracelet/mods/releases/tag/v1.4.1), 4 weeks ago) - AI on the command line
+- [charmbracelet/mods](https://github.com/charmbracelet/mods) ([v1.4.1](https://github.com/charmbracelet/mods/releases/tag/v1.4.1), 1 month ago) - AI on the command line
 
 #### 🔨 My recent Pull Requests
 
-- [fix: query window-size in a goroutine](https://github.com/charmbracelet/bubbletea/pull/1059) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
-- [fix: reset cursor position on renderer exit](https://github.com/charmbracelet/bubbletea/pull/1058) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
-- [fix(spin): pause tea before running the sub-process](https://github.com/charmbracelet/gum/pull/621) on [charmbracelet/gum](https://github.com/charmbracelet/gum) (1 day ago)
-- [fix(ansi): reset uniseq grapheme state after](https://github.com/charmbracelet/x/pull/125) on [charmbracelet/x](https://github.com/charmbracelet/x) (5 days ago)
+- [fix: query window-size in a goroutine](https://github.com/charmbracelet/bubbletea/pull/1059) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 days ago)
+- [fix: reset cursor position on renderer exit](https://github.com/charmbracelet/bubbletea/pull/1058) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 days ago)
+- [fix(spin): pause tea before running the sub-process](https://github.com/charmbracelet/gum/pull/621) on [charmbracelet/gum](https://github.com/charmbracelet/gum) (2 days ago)
+- [fix(ansi): reset uniseq grapheme state after](https://github.com/charmbracelet/x/pull/125) on [charmbracelet/x](https://github.com/charmbracelet/x) (6 days ago)
 - [Use in-house packages](https://github.com/charmbracelet/gum/pull/616) on [charmbracelet/gum](https://github.com/charmbracelet/gum) (1 week ago)
 
 #### 📜 My recent blog posts
