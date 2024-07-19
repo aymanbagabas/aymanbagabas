@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (today)
-- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (2 days ago)
-- [golang/sys](https://github.com/golang/sys) - [mirror] Go packages for low-level interaction with the operating system (5 days ago)
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (6 days ago)
-- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (6 days ago)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 day ago)
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (3 days ago)
+- [golang/sys](https://github.com/golang/sys) - [mirror] Go packages for low-level interaction with the operating system (6 days ago)
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (1 week ago)
+- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.12.1](https://github.com/charmbracelet/lipgloss/releases/tag/v0.12.1), 6 days ago) - Style definitions for nice terminal layouts 👄
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.12.1](https://github.com/charmbracelet/lipgloss/releases/tag/v0.12.1), 1 week ago) - Style definitions for nice terminal layouts 👄
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.26.6](https://github.com/charmbracelet/bubbletea/releases/tag/v0.26.6), 3 weeks ago) - A powerful little TUI framework 🏗
 - [libdns/route53](https://github.com/libdns/route53) ([v1.4.0](https://github.com/libdns/route53/releases/tag/v1.4.0), 3 weeks ago) - AWS Route53 provider implementation for libdns
 - [caddy-dns/route53](https://github.com/caddy-dns/route53) ([v1.4.0](https://github.com/caddy-dns/route53/releases/tag/v1.4.0), 3 weeks ago) - Caddy module: dns.providers.route53
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Windows: ensure output is UTF16 encoded when output is not a terminal](https://github.com/charmbracelet/bubbletea/pull/1064) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
-- [windows: add console codepage api](https://github.com/golang/sys/pull/206) on [golang/sys](https://github.com/golang/sys) (today)
-- [feat: set the program environment variables](https://github.com/charmbracelet/bubbletea/pull/1063) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
-- [windows: correctly generate GetAce syscall](https://github.com/golang/sys/pull/205) on [golang/sys](https://github.com/golang/sys) (today)
-- [fix: query window-size in a goroutine](https://github.com/charmbracelet/bubbletea/pull/1059) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 days ago)
+- [Windows: ensure output is UTF16 encoded when output is not a terminal](https://github.com/charmbracelet/bubbletea/pull/1064) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
+- [windows: add console codepage api](https://github.com/golang/sys/pull/206) on [golang/sys](https://github.com/golang/sys) (1 day ago)
+- [feat: set the program environment variables](https://github.com/charmbracelet/bubbletea/pull/1063) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
+- [windows: correctly generate GetAce syscall](https://github.com/golang/sys/pull/205) on [golang/sys](https://github.com/golang/sys) (1 day ago)
+- [fix: query window-size in a goroutine](https://github.com/charmbracelet/bubbletea/pull/1059) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (3 days ago)
 
 #### 📜 My recent blog posts
 
