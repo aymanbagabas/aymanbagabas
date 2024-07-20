@@ -4,10 +4,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [caddy-dns/route53](https://github.com/caddy-dns/route53) - Caddy module: dns.providers.route53 (today)
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 day ago)
-- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (3 days ago)
-- [golang/sys](https://github.com/golang/sys) - [mirror] Go packages for low-level interaction with the operating system (6 days ago)
+- [caddy-dns/route53](https://github.com/caddy-dns/route53) - Caddy module: dns.providers.route53 (1 day ago)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (2 days ago)
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (4 days ago)
+- [golang/sys](https://github.com/golang/sys) - [mirror] Go packages for low-level interaction with the operating system (1 week ago)
 - [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (1 week ago)
 
 #### 🌱 My latest projects
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Windows: ensure output is UTF16 encoded when output is not a terminal](https://github.com/charmbracelet/bubbletea/pull/1064) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
-- [windows: add console codepage api](https://github.com/golang/sys/pull/206) on [golang/sys](https://github.com/golang/sys) (1 day ago)
-- [feat: set the program environment variables](https://github.com/charmbracelet/bubbletea/pull/1063) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
-- [windows: correctly generate GetAce syscall](https://github.com/golang/sys/pull/205) on [golang/sys](https://github.com/golang/sys) (1 day ago)
-- [fix: query window-size in a goroutine](https://github.com/charmbracelet/bubbletea/pull/1059) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (3 days ago)
+- [Windows: ensure output is UTF16 encoded when output is not a terminal](https://github.com/charmbracelet/bubbletea/pull/1064) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 days ago)
+- [windows: add console codepage api](https://github.com/golang/sys/pull/206) on [golang/sys](https://github.com/golang/sys) (2 days ago)
+- [feat: set the program environment variables](https://github.com/charmbracelet/bubbletea/pull/1063) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 days ago)
+- [windows: correctly generate GetAce syscall](https://github.com/golang/sys/pull/205) on [golang/sys](https://github.com/golang/sys) (2 days ago)
+- [fix: query window-size in a goroutine](https://github.com/charmbracelet/bubbletea/pull/1059) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (4 days ago)
 
 #### 📜 My recent blog posts
 
