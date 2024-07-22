@@ -4,10 +4,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [aymanbagabas/aymanbagabas.github.io](https://github.com/aymanbagabas/aymanbagabas.github.io) - A personal website built using Jekyll (today)
-- [caddy-dns/route53](https://github.com/caddy-dns/route53) - Caddy module: dns.providers.route53 (2 days ago)
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (3 days ago)
-- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (5 days ago)
+- [aymanbagabas/aymanbagabas.github.io](https://github.com/aymanbagabas/aymanbagabas.github.io) - A personal website built using Jekyll (1 day ago)
+- [caddy-dns/route53](https://github.com/caddy-dns/route53) - Caddy module: dns.providers.route53 (3 days ago)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (4 days ago)
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (6 days ago)
 - [golang/sys](https://github.com/golang/sys) - [mirror] Go packages for low-level interaction with the operating system (1 week ago)
 
 #### 🌱 My latest projects
@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [caarlos0/svu](https://github.com/caarlos0/svu) ([v2.1.0](https://github.com/caarlos0/svu/releases/tag/v2.1.0), today) - Semantic Version Util
+- [caarlos0/svu](https://github.com/caarlos0/svu) ([v2.1.0](https://github.com/caarlos0/svu/releases/tag/v2.1.0), 1 day ago) - Semantic Version Util
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.12.1](https://github.com/charmbracelet/lipgloss/releases/tag/v0.12.1), 1 week ago) - Style definitions for nice terminal layouts 👄
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.26.6](https://github.com/charmbracelet/bubbletea/releases/tag/v0.26.6), 3 weeks ago) - A powerful little TUI framework 🏗
-- [libdns/route53](https://github.com/libdns/route53) ([v1.4.0](https://github.com/libdns/route53/releases/tag/v1.4.0), 3 weeks ago) - AWS Route53 provider implementation for libdns
-- [caddy-dns/route53](https://github.com/caddy-dns/route53) ([v1.4.0](https://github.com/caddy-dns/route53/releases/tag/v1.4.0), 3 weeks ago) - Caddy module: dns.providers.route53
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.26.6](https://github.com/charmbracelet/bubbletea/releases/tag/v0.26.6), 4 weeks ago) - A powerful little TUI framework 🏗
+- [libdns/route53](https://github.com/libdns/route53) ([v1.4.0](https://github.com/libdns/route53/releases/tag/v1.4.0), 4 weeks ago) - AWS Route53 provider implementation for libdns
+- [caddy-dns/route53](https://github.com/caddy-dns/route53) ([v1.4.0](https://github.com/caddy-dns/route53/releases/tag/v1.4.0), 4 weeks ago) - Caddy module: dns.providers.route53
 
 #### 🔨 My recent Pull Requests
 
-- [Windows: ensure output is UTF16 encoded when output is not a terminal](https://github.com/charmbracelet/bubbletea/pull/1064) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (3 days ago)
-- [windows: add console codepage api](https://github.com/golang/sys/pull/206) on [golang/sys](https://github.com/golang/sys) (3 days ago)
-- [feat: set the program environment variables](https://github.com/charmbracelet/bubbletea/pull/1063) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (3 days ago)
-- [windows: correctly generate GetAce syscall](https://github.com/golang/sys/pull/205) on [golang/sys](https://github.com/golang/sys) (3 days ago)
-- [fix: query window-size in a goroutine](https://github.com/charmbracelet/bubbletea/pull/1059) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (5 days ago)
+- [Windows: ensure output is UTF16 encoded when output is not a terminal](https://github.com/charmbracelet/bubbletea/pull/1064) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (4 days ago)
+- [windows: add console codepage api](https://github.com/golang/sys/pull/206) on [golang/sys](https://github.com/golang/sys) (4 days ago)
+- [feat: set the program environment variables](https://github.com/charmbracelet/bubbletea/pull/1063) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (4 days ago)
+- [windows: correctly generate GetAce syscall](https://github.com/golang/sys/pull/205) on [golang/sys](https://github.com/golang/sys) (4 days ago)
+- [fix: query window-size in a goroutine](https://github.com/charmbracelet/bubbletea/pull/1059) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (6 days ago)
 
 #### 📜 My recent blog posts
 
@@ -44,7 +44,7 @@
 
 #### ⭐ Recent Stars
 
-- [go-sprout/sprout](https://github.com/go-sprout/sprout) - From sprig to sprout - Useful template functions for Go templates with steroids (1 week ago)
+- [go-sprout/sprout](https://github.com/go-sprout/sprout) - From sprig to sprout - Useful template functions for Go templates with steroids (2 weeks ago)
 - [galdor/go-thumbhash](https://github.com/galdor/go-thumbhash) - A Go implementation of the Thumbhash image placeholder generation algorithm. (1 month ago)
 - [nmasur/dotfiles](https://github.com/nmasur/dotfiles) - Nix configuration and settings (2 months ago)
 - [jayharris/dotfiles-windows](https://github.com/jayharris/dotfiles-windows) - dotfiles for Windows, including Developer-minded system defaults. Built in PowerShell (3 months ago)
