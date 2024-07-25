@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: session environ should return $TERM](https://github.com/charmbracelet/ssh/pull/31) on [charmbracelet/ssh](https://github.com/charmbracelet/ssh) (today)
 - [fix(spin): indenting lines when command is piped](https://github.com/charmbracelet/gum/pull/636) on [charmbracelet/gum](https://github.com/charmbracelet/gum) (1 day ago)
 - [chore: revert &#34;fix(spin): pause tea before running the sub-process (#…](https://github.com/charmbracelet/gum/pull/635) on [charmbracelet/gum](https://github.com/charmbracelet/gum) (1 day ago)
 - [fix: catch huh timeout error](https://github.com/charmbracelet/gum/pull/632) on [charmbracelet/gum](https://github.com/charmbracelet/gum) (1 day ago)
 - [Windows: ensure output is UTF16 encoded when output is not a terminal](https://github.com/charmbracelet/bubbletea/pull/1064) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 week ago)
-- [windows: add console codepage api](https://github.com/golang/sys/pull/206) on [golang/sys](https://github.com/golang/sys) (1 week ago)
 
 #### 📜 My recent blog posts
 
