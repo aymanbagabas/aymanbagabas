@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: make item selector into a slice container](https://github.com/charmbracelet/huh/pull/329) on [charmbracelet/huh](https://github.com/charmbracelet/huh) (today)
 - [refactor: use a selector type to select items](https://github.com/charmbracelet/huh/pull/328) on [charmbracelet/huh](https://github.com/charmbracelet/huh) (today)
 - [fix: session environ should return $TERM](https://github.com/charmbracelet/ssh/pull/31) on [charmbracelet/ssh](https://github.com/charmbracelet/ssh) (today)
 - [fix(spin): indenting lines when command is piped](https://github.com/charmbracelet/gum/pull/636) on [charmbracelet/gum](https://github.com/charmbracelet/gum) (1 day ago)
 - [chore: revert &#34;fix(spin): pause tea before running the sub-process (#…](https://github.com/charmbracelet/gum/pull/635) on [charmbracelet/gum](https://github.com/charmbracelet/gum) (1 day ago)
-- [fix: catch huh timeout error](https://github.com/charmbracelet/gum/pull/632) on [charmbracelet/gum](https://github.com/charmbracelet/gum) (1 day ago)
 
 #### 📜 My recent blog posts
 
