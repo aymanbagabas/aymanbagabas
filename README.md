@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/huh](https://github.com/charmbracelet/huh) - Build terminal forms and prompts 🤷🏻‍♀️ (1 day ago)
-- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (2 days ago)
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (3 days ago)
-- [golang/sys](https://github.com/golang/sys) - [mirror] Go packages for low-level interaction with the operating system (4 days ago)
-- [aymanbagabas/aymanbagabas.github.io](https://github.com/aymanbagabas/aymanbagabas.github.io) - A personal website built using Jekyll (5 days ago)
+- [charmbracelet/huh](https://github.com/charmbracelet/huh) - Build terminal forms and prompts 🤷🏻‍♀️ (2 days ago)
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (3 days ago)
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (4 days ago)
+- [golang/sys](https://github.com/golang/sys) - [mirror] Go packages for low-level interaction with the operating system (5 days ago)
+- [aymanbagabas/aymanbagabas.github.io](https://github.com/aymanbagabas/aymanbagabas.github.io) - A personal website built using Jekyll (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.14.3](https://github.com/charmbracelet/gum/releases/tag/v0.14.3), 2 days ago) - A tool for glamorous shell scripts 🎀
-- [charmbracelet/huh](https://github.com/charmbracelet/huh) ([v0.5.2](https://github.com/charmbracelet/huh/releases/tag/v0.5.2), 2 days ago) - Build terminal forms and prompts 🤷🏻‍♀️
-- [caarlos0/svu](https://github.com/caarlos0/svu) ([v2.1.0](https://github.com/caarlos0/svu/releases/tag/v2.1.0), 5 days ago) - Semantic Version Util
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.14.3](https://github.com/charmbracelet/gum/releases/tag/v0.14.3), 3 days ago) - A tool for glamorous shell scripts 🎀
+- [charmbracelet/huh](https://github.com/charmbracelet/huh) ([v0.5.2](https://github.com/charmbracelet/huh/releases/tag/v0.5.2), 3 days ago) - Build terminal forms and prompts 🤷🏻‍♀️
+- [caarlos0/svu](https://github.com/caarlos0/svu) ([v2.1.0](https://github.com/caarlos0/svu/releases/tag/v2.1.0), 6 days ago) - Semantic Version Util
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.12.1](https://github.com/charmbracelet/lipgloss/releases/tag/v0.12.1), 2 weeks ago) - Style definitions for nice terminal layouts 👄
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.26.6](https://github.com/charmbracelet/bubbletea/releases/tag/v0.26.6), 1 month ago) - A powerful little TUI framework 🏗
 
 #### 🔨 My recent Pull Requests
 
-- [feat: make item selector into a slice container](https://github.com/charmbracelet/huh/pull/334) on [charmbracelet/huh](https://github.com/charmbracelet/huh) (1 day ago)
-- [Selector](https://github.com/charmbracelet/huh/pull/333) on [charmbracelet/huh](https://github.com/charmbracelet/huh) (1 day ago)
-- [feat: make item selector into a slice container](https://github.com/charmbracelet/huh/pull/329) on [charmbracelet/huh](https://github.com/charmbracelet/huh) (1 day ago)
-- [refactor: use a selector type to select items](https://github.com/charmbracelet/huh/pull/328) on [charmbracelet/huh](https://github.com/charmbracelet/huh) (1 day ago)
-- [fix: session environ should return $TERM](https://github.com/charmbracelet/ssh/pull/31) on [charmbracelet/ssh](https://github.com/charmbracelet/ssh) (1 day ago)
+- [feat: make item selector into a slice container](https://github.com/charmbracelet/huh/pull/334) on [charmbracelet/huh](https://github.com/charmbracelet/huh) (2 days ago)
+- [Selector](https://github.com/charmbracelet/huh/pull/333) on [charmbracelet/huh](https://github.com/charmbracelet/huh) (2 days ago)
+- [feat: make item selector into a slice container](https://github.com/charmbracelet/huh/pull/329) on [charmbracelet/huh](https://github.com/charmbracelet/huh) (2 days ago)
+- [refactor: use a selector type to select items](https://github.com/charmbracelet/huh/pull/328) on [charmbracelet/huh](https://github.com/charmbracelet/huh) (2 days ago)
+- [fix: session environ should return $TERM](https://github.com/charmbracelet/ssh/pull/31) on [charmbracelet/ssh](https://github.com/charmbracelet/ssh) (2 days ago)
 
 #### 📜 My recent blog posts
 
