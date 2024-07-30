@@ -4,10 +4,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [aymanbagabas/ca66r3](https://github.com/aymanbagabas/ca66r3) -  (today)
-- [charmbracelet/huh](https://github.com/charmbracelet/huh) - Build terminal forms and prompts 🤷🏻‍♀️ (4 days ago)
-- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (5 days ago)
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (6 days ago)
+- [aymanbagabas/ca66r3](https://github.com/aymanbagabas/ca66r3) -  (1 day ago)
+- [charmbracelet/huh](https://github.com/charmbracelet/huh) - Build terminal forms and prompts 🤷🏻‍♀️ (5 days ago)
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (6 days ago)
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (1 week ago)
 - [golang/sys](https://github.com/golang/sys) - [mirror] Go packages for low-level interaction with the operating system (1 week ago)
 
 #### 🌱 My latest projects
@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.14.3](https://github.com/charmbracelet/gum/releases/tag/v0.14.3), 5 days ago) - A tool for glamorous shell scripts 🎀
-- [charmbracelet/huh](https://github.com/charmbracelet/huh) ([v0.5.2](https://github.com/charmbracelet/huh/releases/tag/v0.5.2), 5 days ago) - Build terminal forms and prompts 🤷🏻‍♀️
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.14.3](https://github.com/charmbracelet/gum/releases/tag/v0.14.3), 6 days ago) - A tool for glamorous shell scripts 🎀
+- [charmbracelet/huh](https://github.com/charmbracelet/huh) ([v0.5.2](https://github.com/charmbracelet/huh/releases/tag/v0.5.2), 6 days ago) - Build terminal forms and prompts 🤷🏻‍♀️
 - [caarlos0/svu](https://github.com/caarlos0/svu) ([v2.1.0](https://github.com/caarlos0/svu/releases/tag/v2.1.0), 1 week ago) - Semantic Version Util
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.12.1](https://github.com/charmbracelet/lipgloss/releases/tag/v0.12.1), 2 weeks ago) - Style definitions for nice terminal layouts 👄
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.26.6](https://github.com/charmbracelet/bubbletea/releases/tag/v0.26.6), 1 month ago) - A powerful little TUI framework 🏗
 
 #### 🔨 My recent Pull Requests
 
-- [feat: make item selector into a slice container](https://github.com/charmbracelet/huh/pull/334) on [charmbracelet/huh](https://github.com/charmbracelet/huh) (4 days ago)
-- [Selector](https://github.com/charmbracelet/huh/pull/333) on [charmbracelet/huh](https://github.com/charmbracelet/huh) (4 days ago)
-- [feat: make item selector into a slice container](https://github.com/charmbracelet/huh/pull/329) on [charmbracelet/huh](https://github.com/charmbracelet/huh) (4 days ago)
-- [refactor: use a selector type to select items](https://github.com/charmbracelet/huh/pull/328) on [charmbracelet/huh](https://github.com/charmbracelet/huh) (4 days ago)
-- [fix: session environ should return $TERM](https://github.com/charmbracelet/ssh/pull/31) on [charmbracelet/ssh](https://github.com/charmbracelet/ssh) (4 days ago)
+- [feat: make item selector into a slice container](https://github.com/charmbracelet/huh/pull/334) on [charmbracelet/huh](https://github.com/charmbracelet/huh) (5 days ago)
+- [Selector](https://github.com/charmbracelet/huh/pull/333) on [charmbracelet/huh](https://github.com/charmbracelet/huh) (5 days ago)
+- [feat: make item selector into a slice container](https://github.com/charmbracelet/huh/pull/329) on [charmbracelet/huh](https://github.com/charmbracelet/huh) (5 days ago)
+- [refactor: use a selector type to select items](https://github.com/charmbracelet/huh/pull/328) on [charmbracelet/huh](https://github.com/charmbracelet/huh) (5 days ago)
+- [fix: session environ should return $TERM](https://github.com/charmbracelet/ssh/pull/31) on [charmbracelet/ssh](https://github.com/charmbracelet/ssh) (5 days ago)
 
 #### 📜 My recent blog posts
 
