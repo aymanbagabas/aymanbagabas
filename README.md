@@ -5,10 +5,10 @@
 #### 👷 Check out what I'm currently working on
 
 - [caddy-dns/route53](https://github.com/caddy-dns/route53) - Caddy module: dns.providers.route53 (today)
+- [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (1 day ago)
 - [aymanbagabas/ca66r3](https://github.com/aymanbagabas/ca66r3) -  (2 days ago)
 - [charmbracelet/huh](https://github.com/charmbracelet/huh) - Build terminal forms and prompts 🤷🏻‍♀️ (6 days ago)
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (1 week ago)
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -20,11 +20,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v1.4.1](https://github.com/charmbracelet/wish/releases/tag/v1.4.1), today) - Make SSH apps, just like that! 💫
 - [caddy-dns/route53](https://github.com/caddy-dns/route53) ([v1.4.1](https://github.com/caddy-dns/route53/releases/tag/v1.4.1), today) - Caddy module: dns.providers.route53
 - [charmbracelet/mods](https://github.com/charmbracelet/mods) ([v1.5.0](https://github.com/charmbracelet/mods/releases/tag/v1.5.0), 1 day ago) - AI on the command line
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.14.3](https://github.com/charmbracelet/gum/releases/tag/v0.14.3), 1 week ago) - A tool for glamorous shell scripts 🎀
 - [charmbracelet/huh](https://github.com/charmbracelet/huh) ([v0.5.2](https://github.com/charmbracelet/huh/releases/tag/v0.5.2), 1 week ago) - Build terminal forms and prompts 🤷🏻‍♀️
-- [caarlos0/svu](https://github.com/caarlos0/svu) ([v2.1.0](https://github.com/caarlos0/svu/releases/tag/v2.1.0), 1 week ago) - Semantic Version Util
 
 #### 🔨 My recent Pull Requests
 
