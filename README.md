@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [caddy-dns/route53](https://github.com/caddy-dns/route53) - Caddy module: dns.providers.route53 (today)
 - [aymanbagabas/ca66r3](https://github.com/aymanbagabas/ca66r3) -  (2 days ago)
 - [charmbracelet/huh](https://github.com/charmbracelet/huh) - Build terminal forms and prompts 🤷🏻‍♀️ (6 days ago)
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (1 week ago)
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (1 week ago)
-- [golang/sys](https://github.com/golang/sys) - [mirror] Go packages for low-level interaction with the operating system (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [caddy-dns/route53](https://github.com/caddy-dns/route53) ([v1.4.1](https://github.com/caddy-dns/route53/releases/tag/v1.4.1), today) - Caddy module: dns.providers.route53
 - [charmbracelet/mods](https://github.com/charmbracelet/mods) ([v1.5.0](https://github.com/charmbracelet/mods/releases/tag/v1.5.0), 1 day ago) - AI on the command line
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.14.3](https://github.com/charmbracelet/gum/releases/tag/v0.14.3), 1 week ago) - A tool for glamorous shell scripts 🎀
 - [charmbracelet/huh](https://github.com/charmbracelet/huh) ([v0.5.2](https://github.com/charmbracelet/huh/releases/tag/v0.5.2), 1 week ago) - Build terminal forms and prompts 🤷🏻‍♀️
 - [caarlos0/svu](https://github.com/caarlos0/svu) ([v2.1.0](https://github.com/caarlos0/svu/releases/tag/v2.1.0), 1 week ago) - Semantic Version Util
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.12.1](https://github.com/charmbracelet/lipgloss/releases/tag/v0.12.1), 2 weeks ago) - Style definitions for nice terminal layouts 👄
 
 #### 🔨 My recent Pull Requests
 
+- [fix: respect caddyfile provider config](https://github.com/caddy-dns/route53/pull/50) on [caddy-dns/route53](https://github.com/caddy-dns/route53) (today)
 - [Fix tests, skip ssh-ifs test, update git-lfs-transfer, and other dependencies](https://github.com/charmbracelet/soft-serve/pull/547) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (today)
 - [Skip tea middleware when no program is returned](https://github.com/charmbracelet/wish/pull/300) on [charmbracelet/wish](https://github.com/charmbracelet/wish) (today)
 - [feat: make item selector into a slice container](https://github.com/charmbracelet/huh/pull/334) on [charmbracelet/huh](https://github.com/charmbracelet/huh) (6 days ago)
 - [Selector](https://github.com/charmbracelet/huh/pull/333) on [charmbracelet/huh](https://github.com/charmbracelet/huh) (6 days ago)
-- [feat: make item selector into a slice container](https://github.com/charmbracelet/huh/pull/329) on [charmbracelet/huh](https://github.com/charmbracelet/huh) (6 days ago)
 
 #### 📜 My recent blog posts
 
