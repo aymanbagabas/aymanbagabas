@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix tests, skip ssh-ifs test, update git-lfs-transfer, and other dependencies](https://github.com/charmbracelet/soft-serve/pull/547) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (today)
+- [Skip tea middleware when no program is returned](https://github.com/charmbracelet/wish/pull/300) on [charmbracelet/wish](https://github.com/charmbracelet/wish) (today)
 - [feat: make item selector into a slice container](https://github.com/charmbracelet/huh/pull/334) on [charmbracelet/huh](https://github.com/charmbracelet/huh) (6 days ago)
 - [Selector](https://github.com/charmbracelet/huh/pull/333) on [charmbracelet/huh](https://github.com/charmbracelet/huh) (6 days ago)
 - [feat: make item selector into a slice container](https://github.com/charmbracelet/huh/pull/329) on [charmbracelet/huh](https://github.com/charmbracelet/huh) (6 days ago)
-- [refactor: use a selector type to select items](https://github.com/charmbracelet/huh/pull/328) on [charmbracelet/huh](https://github.com/charmbracelet/huh) (6 days ago)
-- [fix: session environ should return $TERM](https://github.com/charmbracelet/ssh/pull/31) on [charmbracelet/ssh](https://github.com/charmbracelet/ssh) (6 days ago)
 
 #### 📜 My recent blog posts
 
