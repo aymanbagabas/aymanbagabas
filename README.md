@@ -4,10 +4,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [caddy-dns/route53](https://github.com/caddy-dns/route53) - Caddy module: dns.providers.route53 (today)
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦 (today)
-- [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺 (today)
 - [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket) - Charmbracelet Scoop Bucket (today)
+- [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺 (today)
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦 (today)
+- [caddy-dns/route53](https://github.com/caddy-dns/route53) - Caddy module: dns.providers.route53 (today)
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (1 day ago)
 
 #### 🌱 My latest projects
@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.7.5](https://github.com/charmbracelet/soft-serve/releases/tag/v0.7.5), today) - The mighty, self-hostable Git server for the command line🍦
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.7.6](https://github.com/charmbracelet/soft-serve/releases/tag/v0.7.6), today) - The mighty, self-hostable Git server for the command line🍦
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v1.4.1](https://github.com/charmbracelet/wish/releases/tag/v1.4.1), today) - Make SSH apps, just like that! 💫
 - [caddy-dns/route53](https://github.com/caddy-dns/route53) ([v1.4.1](https://github.com/caddy-dns/route53/releases/tag/v1.4.1), today) - Caddy module: dns.providers.route53
 - [charmbracelet/mods](https://github.com/charmbracelet/mods) ([v1.5.0](https://github.com/charmbracelet/mods/releases/tag/v1.5.0), 1 day ago) - AI on the command line
