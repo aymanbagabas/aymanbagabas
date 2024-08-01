@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Improve ansi.Parser performance and memory allocs](https://github.com/charmbracelet/x/pull/131) on [charmbracelet/x](https://github.com/charmbracelet/x) (today)
 - [fix: respect caddyfile provider config](https://github.com/caddy-dns/route53/pull/50) on [caddy-dns/route53](https://github.com/caddy-dns/route53) (1 day ago)
 - [Fix tests, skip ssh-ifs test, update git-lfs-transfer, and other dependencies](https://github.com/charmbracelet/soft-serve/pull/547) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 day ago)
 - [Skip tea middleware when no program is returned](https://github.com/charmbracelet/wish/pull/300) on [charmbracelet/wish](https://github.com/charmbracelet/wish) (1 day ago)
 - [feat: make item selector into a slice container](https://github.com/charmbracelet/huh/pull/334) on [charmbracelet/huh](https://github.com/charmbracelet/huh) (1 week ago)
-- [Selector](https://github.com/charmbracelet/huh/pull/333) on [charmbracelet/huh](https://github.com/charmbracelet/huh) (1 week ago)
 
 #### 📜 My recent blog posts
 
