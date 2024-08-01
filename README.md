@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket) - Charmbracelet Scoop Bucket (1 day ago)
-- [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺 (1 day ago)
+- [caddy-dns/route53](https://github.com/caddy-dns/route53) - Caddy module: dns.providers.route53 (today)
+- [libdns/route53](https://github.com/libdns/route53) - AWS Route53 provider implementation for libdns (today)
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦 (1 day ago)
-- [caddy-dns/route53](https://github.com/caddy-dns/route53) - Caddy module: dns.providers.route53 (1 day ago)
-- [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (2 days ago)
+- [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺 (1 day ago)
+- [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket) - Charmbracelet Scoop Bucket (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -20,11 +20,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [libdns/route53](https://github.com/libdns/route53) ([v1.5.0](https://github.com/libdns/route53/releases/tag/v1.5.0), today) - AWS Route53 provider implementation for libdns
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.7.6](https://github.com/charmbracelet/soft-serve/releases/tag/v0.7.6), 1 day ago) - The mighty, self-hostable Git server for the command line🍦
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v1.4.1](https://github.com/charmbracelet/wish/releases/tag/v1.4.1), 1 day ago) - Make SSH apps, just like that! 💫
 - [caddy-dns/route53](https://github.com/caddy-dns/route53) ([v1.4.1](https://github.com/caddy-dns/route53/releases/tag/v1.4.1), 1 day ago) - Caddy module: dns.providers.route53
 - [charmbracelet/mods](https://github.com/charmbracelet/mods) ([v1.5.0](https://github.com/charmbracelet/mods/releases/tag/v1.5.0), 2 days ago) - AI on the command line
-- [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.14.3](https://github.com/charmbracelet/gum/releases/tag/v0.14.3), 1 week ago) - A tool for glamorous shell scripts 🎀
 
 #### 🔨 My recent Pull Requests
 
