@@ -4,9 +4,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [caddy-dns/route53](https://github.com/caddy-dns/route53) - Caddy module: dns.providers.route53 (1 day ago)
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦 (today)
 - [libdns/route53](https://github.com/libdns/route53) - AWS Route53 provider implementation for libdns (1 day ago)
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦 (2 days ago)
+- [caddy-dns/route53](https://github.com/caddy-dns/route53) - Caddy module: dns.providers.route53 (1 day ago)
 - [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺 (2 days ago)
 - [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket) - Charmbracelet Scoop Bucket (2 days ago)
 
