@@ -12,7 +12,7 @@
 
 #### 🌱 My latest projects
 
-- [aymanbagabas/ca66r3](https://github.com/aymanbagabas/ca66r3) - 
+- [aymanbagabas/ca66r3](https://github.com/aymanbagabas/ca66r3) - CA66 R3 keyboard firmware
 - [aymanbagabas/nur](https://github.com/aymanbagabas/nur) - Ayman&#39;s own Nix User Repository
 - [aymanbagabas/go-pty](https://github.com/aymanbagabas/go-pty) - Cross platform Go Pty interface
 - [aymanbagabas/go-git-daemon](https://github.com/aymanbagabas/go-git-daemon) - git-daemon implementation in golang
