@@ -4,8 +4,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (today)
 - [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️ (1 day ago)
-- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (1 day ago)
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦 (4 days ago)
 - [libdns/route53](https://github.com/libdns/route53) - AWS Route53 provider implementation for libdns (5 days ago)
 - [caddy-dns/route53](https://github.com/caddy-dns/route53) - Caddy module: dns.providers.route53 (5 days ago)
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [refactor(ansi): parser: drop the state machine](https://github.com/charmbracelet/x/pull/140) on [charmbracelet/x](https://github.com/charmbracelet/x) (today)
 - [Introduce ansi.DecodeSequence](https://github.com/charmbracelet/x/pull/132) on [charmbracelet/x](https://github.com/charmbracelet/x) (3 days ago)
 - [Improve ansi.Parser performance and memory allocs](https://github.com/charmbracelet/x/pull/131) on [charmbracelet/x](https://github.com/charmbracelet/x) (5 days ago)
 - [fix: respect caddyfile provider config](https://github.com/caddy-dns/route53/pull/50) on [caddy-dns/route53](https://github.com/caddy-dns/route53) (6 days ago)
 - [Fix tests, skip ssh-ifs test, update git-lfs-transfer, and other dependencies](https://github.com/charmbracelet/soft-serve/pull/547) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (6 days ago)
-- [Skip tea middleware when no program is returned](https://github.com/charmbracelet/wish/pull/300) on [charmbracelet/wish](https://github.com/charmbracelet/wish) (6 days ago)
 
 #### 📜 My recent blog posts
 
