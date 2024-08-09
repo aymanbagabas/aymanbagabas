@@ -4,9 +4,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (2 days ago)
-- [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️ (3 days ago)
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦 (6 days ago)
+- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (3 days ago)
+- [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️ (4 days ago)
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦 (1 week ago)
 - [libdns/route53](https://github.com/libdns/route53) - AWS Route53 provider implementation for libdns (1 week ago)
 - [caddy-dns/route53](https://github.com/caddy-dns/route53) - Caddy module: dns.providers.route53 (1 week ago)
 
@@ -20,16 +20,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [caarlos0/svu](https://github.com/caarlos0/svu) ([v2.1.1](https://github.com/caarlos0/svu/releases/tag/v2.1.1), today) - Semantic Version Util
-- [charmbracelet/glamour](https://github.com/charmbracelet/glamour) ([v0.8.0](https://github.com/charmbracelet/glamour/releases/tag/v0.8.0), 3 days ago) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️
-- [caddy-dns/route53](https://github.com/caddy-dns/route53) ([v1.5.0](https://github.com/caddy-dns/route53/releases/tag/v1.5.0), 6 days ago) - Caddy module: dns.providers.route53
+- [caarlos0/svu](https://github.com/caarlos0/svu) ([v2.1.1](https://github.com/caarlos0/svu/releases/tag/v2.1.1), 1 day ago) - Semantic Version Util
+- [charmbracelet/glamour](https://github.com/charmbracelet/glamour) ([v0.8.0](https://github.com/charmbracelet/glamour/releases/tag/v0.8.0), 4 days ago) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️
+- [caddy-dns/route53](https://github.com/caddy-dns/route53) ([v1.5.0](https://github.com/caddy-dns/route53/releases/tag/v1.5.0), 1 week ago) - Caddy module: dns.providers.route53
 - [libdns/route53](https://github.com/libdns/route53) ([v1.5.0](https://github.com/libdns/route53/releases/tag/v1.5.0), 1 week ago) - AWS Route53 provider implementation for libdns
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.7.6](https://github.com/charmbracelet/soft-serve/releases/tag/v0.7.6), 1 week ago) - The mighty, self-hostable Git server for the command line🍦
 
 #### 🔨 My recent Pull Requests
 
-- [refactor(ansi): parser: drop the state machine](https://github.com/charmbracelet/x/pull/140) on [charmbracelet/x](https://github.com/charmbracelet/x) (2 days ago)
-- [Introduce ansi.DecodeSequence](https://github.com/charmbracelet/x/pull/132) on [charmbracelet/x](https://github.com/charmbracelet/x) (5 days ago)
+- [refactor(ansi): parser: drop the state machine](https://github.com/charmbracelet/x/pull/140) on [charmbracelet/x](https://github.com/charmbracelet/x) (3 days ago)
+- [Introduce ansi.DecodeSequence](https://github.com/charmbracelet/x/pull/132) on [charmbracelet/x](https://github.com/charmbracelet/x) (6 days ago)
 - [Improve ansi.Parser performance and memory allocs](https://github.com/charmbracelet/x/pull/131) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 week ago)
 - [fix: respect caddyfile provider config](https://github.com/caddy-dns/route53/pull/50) on [caddy-dns/route53](https://github.com/caddy-dns/route53) (1 week ago)
 - [Fix tests, skip ssh-ifs test, update git-lfs-transfer, and other dependencies](https://github.com/charmbracelet/soft-serve/pull/547) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 week ago)
@@ -45,9 +45,9 @@
 #### ⭐ Recent Stars
 
 - [go-sprout/sprout](https://github.com/go-sprout/sprout) - From sprig to sprout - Useful template functions for Go templates with steroids (1 month ago)
-- [galdor/go-thumbhash](https://github.com/galdor/go-thumbhash) - A Go implementation of the Thumbhash image placeholder generation algorithm. (1 month ago)
+- [galdor/go-thumbhash](https://github.com/galdor/go-thumbhash) - A Go implementation of the Thumbhash image placeholder generation algorithm. (2 months ago)
 - [nmasur/dotfiles](https://github.com/nmasur/dotfiles) - Nix configuration and settings (2 months ago)
-- [jayharris/dotfiles-windows](https://github.com/jayharris/dotfiles-windows) - dotfiles for Windows, including Developer-minded system defaults. Built in PowerShell (3 months ago)
+- [jayharris/dotfiles-windows](https://github.com/jayharris/dotfiles-windows) - dotfiles for Windows, including Developer-minded system defaults. Built in PowerShell (4 months ago)
 - [meowgorithm/dotfiles](https://github.com/meowgorithm/dotfiles) - The Meowgorithm Dotfiles, Collectors’ Edition (4 months ago)
 
 #### 📫 How to reach me
