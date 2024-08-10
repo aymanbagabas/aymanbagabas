@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Create default Privado servers](https://github.com/haugene/vpn-configs-contrib/pull/309) on [haugene/vpn-configs-contrib](https://github.com/haugene/vpn-configs-contrib) (today)
+- [Fix Privado update script linking default config](https://github.com/haugene/vpn-configs-contrib/pull/308) on [haugene/vpn-configs-contrib](https://github.com/haugene/vpn-configs-contrib) (today)
 - [Auto update config files workflow](https://github.com/haugene/vpn-configs-contrib/pull/307) on [haugene/vpn-configs-contrib](https://github.com/haugene/vpn-configs-contrib) (today)
 - [refactor(ansi): parser: drop the state machine](https://github.com/charmbracelet/x/pull/140) on [charmbracelet/x](https://github.com/charmbracelet/x) (4 days ago)
 - [Introduce ansi.DecodeSequence](https://github.com/charmbracelet/x/pull/132) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 week ago)
-- [Improve ansi.Parser performance and memory allocs](https://github.com/charmbracelet/x/pull/131) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 week ago)
-- [fix: respect caddyfile provider config](https://github.com/caddy-dns/route53/pull/50) on [caddy-dns/route53](https://github.com/caddy-dns/route53) (1 week ago)
 
 #### 📜 My recent blog posts
 
