@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (1 day ago)
 - [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (5 days ago)
 - [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️ (6 days ago)
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦 (1 week ago)
 - [libdns/route53](https://github.com/libdns/route53) - AWS Route53 provider implementation for libdns (1 week ago)
-- [caddy-dns/route53](https://github.com/caddy-dns/route53) - Caddy module: dns.providers.route53 (1 week ago)
 
 #### 🌱 My latest projects
 
