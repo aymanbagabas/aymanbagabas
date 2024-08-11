@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: use media proxmox vm](https://github.com/aymanbagabas/dotfiles/pull/7) on [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) (today)
 - [Add media host](https://github.com/aymanbagabas/dotfiles/pull/4) on [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) (today)
 - [Create default Privado servers](https://github.com/haugene/vpn-configs-contrib/pull/309) on [haugene/vpn-configs-contrib](https://github.com/haugene/vpn-configs-contrib) (1 day ago)
 - [Fix Privado update script linking default config](https://github.com/haugene/vpn-configs-contrib/pull/308) on [haugene/vpn-configs-contrib](https://github.com/haugene/vpn-configs-contrib) (1 day ago)
 - [Auto update config files workflow](https://github.com/haugene/vpn-configs-contrib/pull/307) on [haugene/vpn-configs-contrib](https://github.com/haugene/vpn-configs-contrib) (1 day ago)
-- [refactor(ansi): parser: drop the state machine](https://github.com/charmbracelet/x/pull/140) on [charmbracelet/x](https://github.com/charmbracelet/x) (5 days ago)
 
 #### 📜 My recent blog posts
 
