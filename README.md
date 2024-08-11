@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (1 day ago)
+- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (today)
 - [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (5 days ago)
 - [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️ (6 days ago)
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦 (1 week ago)
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Add media host](https://github.com/aymanbagabas/dotfiles/pull/4) on [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) (today)
 - [Create default Privado servers](https://github.com/haugene/vpn-configs-contrib/pull/309) on [haugene/vpn-configs-contrib](https://github.com/haugene/vpn-configs-contrib) (1 day ago)
 - [Fix Privado update script linking default config](https://github.com/haugene/vpn-configs-contrib/pull/308) on [haugene/vpn-configs-contrib](https://github.com/haugene/vpn-configs-contrib) (1 day ago)
 - [Auto update config files workflow](https://github.com/haugene/vpn-configs-contrib/pull/307) on [haugene/vpn-configs-contrib](https://github.com/haugene/vpn-configs-contrib) (1 day ago)
 - [refactor(ansi): parser: drop the state machine](https://github.com/charmbracelet/x/pull/140) on [charmbracelet/x](https://github.com/charmbracelet/x) (5 days ago)
-- [Introduce ansi.DecodeSequence](https://github.com/charmbracelet/x/pull/132) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 week ago)
 
 #### 📜 My recent blog posts
 
