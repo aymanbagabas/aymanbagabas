@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [refactor: reimplement the event loop with a sequence parser](https://github.com/charmbracelet/bubbletea/pull/1080) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [feat: use media proxmox vm](https://github.com/aymanbagabas/dotfiles/pull/7) on [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) (1 day ago)
 - [Add media host](https://github.com/aymanbagabas/dotfiles/pull/4) on [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) (1 day ago)
 - [Create default Privado servers](https://github.com/haugene/vpn-configs-contrib/pull/309) on [haugene/vpn-configs-contrib](https://github.com/haugene/vpn-configs-contrib) (2 days ago)
 - [Fix Privado update script linking default config](https://github.com/haugene/vpn-configs-contrib/pull/308) on [haugene/vpn-configs-contrib](https://github.com/haugene/vpn-configs-contrib) (2 days ago)
-- [Auto update config files workflow](https://github.com/haugene/vpn-configs-contrib/pull/307) on [haugene/vpn-configs-contrib](https://github.com/haugene/vpn-configs-contrib) (2 days ago)
 
 #### 📜 My recent blog posts
 
