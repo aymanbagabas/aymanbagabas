@@ -4,9 +4,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (today)
-- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (1 day ago)
-- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (6 days ago)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 day ago)
+- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (2 days ago)
+- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (1 week ago)
 - [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️ (1 week ago)
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦 (1 week ago)
 
@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [caarlos0/svu](https://github.com/caarlos0/svu) ([v2.1.1](https://github.com/caarlos0/svu/releases/tag/v2.1.1), 4 days ago) - Semantic Version Util
+- [caarlos0/svu](https://github.com/caarlos0/svu) ([v2.1.1](https://github.com/caarlos0/svu/releases/tag/v2.1.1), 5 days ago) - Semantic Version Util
 - [charmbracelet/glamour](https://github.com/charmbracelet/glamour) ([v0.8.0](https://github.com/charmbracelet/glamour/releases/tag/v0.8.0), 1 week ago) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️
 - [caddy-dns/route53](https://github.com/caddy-dns/route53) ([v1.5.0](https://github.com/caddy-dns/route53/releases/tag/v1.5.0), 1 week ago) - Caddy module: dns.providers.route53
 - [libdns/route53](https://github.com/libdns/route53) ([v1.5.0](https://github.com/libdns/route53/releases/tag/v1.5.0), 1 week ago) - AWS Route53 provider implementation for libdns
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
-- [refactor: reimplement the event loop with a sequence parser](https://github.com/charmbracelet/bubbletea/pull/1080) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
-- [feat: use media proxmox vm](https://github.com/aymanbagabas/dotfiles/pull/7) on [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) (1 day ago)
-- [Add media host](https://github.com/aymanbagabas/dotfiles/pull/4) on [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) (1 day ago)
-- [Create default Privado servers](https://github.com/haugene/vpn-configs-contrib/pull/309) on [haugene/vpn-configs-contrib](https://github.com/haugene/vpn-configs-contrib) (2 days ago)
-- [Fix Privado update script linking default config](https://github.com/haugene/vpn-configs-contrib/pull/308) on [haugene/vpn-configs-contrib](https://github.com/haugene/vpn-configs-contrib) (2 days ago)
+- [refactor: reimplement the event loop with a sequence parser](https://github.com/charmbracelet/bubbletea/pull/1080) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
+- [feat: use media proxmox vm](https://github.com/aymanbagabas/dotfiles/pull/7) on [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) (2 days ago)
+- [Add media host](https://github.com/aymanbagabas/dotfiles/pull/4) on [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) (2 days ago)
+- [Create default Privado servers](https://github.com/haugene/vpn-configs-contrib/pull/309) on [haugene/vpn-configs-contrib](https://github.com/haugene/vpn-configs-contrib) (3 days ago)
+- [Fix Privado update script linking default config](https://github.com/haugene/vpn-configs-contrib/pull/308) on [haugene/vpn-configs-contrib](https://github.com/haugene/vpn-configs-contrib) (3 days ago)
 
 #### 📜 My recent blog posts
 
