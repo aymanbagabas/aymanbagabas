@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: support xterm modifyOtherKeys keyboard protocol](https://github.com/charmbracelet/bubbletea/pull/1084) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [Traffic lxc](https://github.com/aymanbagabas/dotfiles/pull/8) on [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) (today)
 - [bazarr: allow overriding package in module](https://github.com/NixOS/nixpkgs/pull/334521) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (today)
 - [feat: add kitty keyboard options and settings](https://github.com/charmbracelet/bubbletea/pull/1083) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
 - [refactor: reimplement the event loop with a sequence parser](https://github.com/charmbracelet/bubbletea/pull/1080) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 days ago)
-- [feat: use media proxmox vm](https://github.com/aymanbagabas/dotfiles/pull/7) on [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) (3 days ago)
 
 #### 📜 My recent blog posts
 
