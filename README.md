@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: query and set terminal background, foreground, and cursor colors](https://github.com/charmbracelet/bubbletea/pull/1085) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [feat(key): accept any stringer interface to match keys](https://github.com/charmbracelet/bubbles/pull/584) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (today)
 - [feat: support xterm modifyOtherKeys keyboard protocol](https://github.com/charmbracelet/bubbletea/pull/1084) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [Traffic lxc](https://github.com/aymanbagabas/dotfiles/pull/8) on [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) (today)
 - [bazarr: allow overriding package in module](https://github.com/NixOS/nixpkgs/pull/334521) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (today)
-- [feat: add kitty keyboard options and settings](https://github.com/charmbracelet/bubbletea/pull/1083) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
 
 #### 📜 My recent blog posts
 
