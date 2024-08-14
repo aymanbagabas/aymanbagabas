@@ -4,9 +4,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (1 day ago)
+- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (today)
+- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (today)
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧 (1 day ago)
-- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (1 day ago)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (2 days ago)
 - [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️ (1 week ago)
 
