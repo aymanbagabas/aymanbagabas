@@ -4,10 +4,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (today)
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧 (today)
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 day ago)
-- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (2 days ago)
+- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (1 day ago)
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧 (1 day ago)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (2 days ago)
+- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (3 days ago)
 - [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️ (1 week ago)
 
 #### 🌱 My latest projects
@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [caarlos0/svu](https://github.com/caarlos0/svu) ([v2.1.1](https://github.com/caarlos0/svu/releases/tag/v2.1.1), 5 days ago) - Semantic Version Util
+- [caarlos0/svu](https://github.com/caarlos0/svu) ([v2.1.1](https://github.com/caarlos0/svu/releases/tag/v2.1.1), 6 days ago) - Semantic Version Util
 - [charmbracelet/glamour](https://github.com/charmbracelet/glamour) ([v0.8.0](https://github.com/charmbracelet/glamour/releases/tag/v0.8.0), 1 week ago) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️
 - [caddy-dns/route53](https://github.com/caddy-dns/route53) ([v1.5.0](https://github.com/caddy-dns/route53/releases/tag/v1.5.0), 1 week ago) - Caddy module: dns.providers.route53
 - [libdns/route53](https://github.com/libdns/route53) ([v1.5.0](https://github.com/libdns/route53/releases/tag/v1.5.0), 1 week ago) - AWS Route53 provider implementation for libdns
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.7.6](https://github.com/charmbracelet/soft-serve/releases/tag/v0.7.6), 1 week ago) - The mighty, self-hostable Git server for the command line🍦
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.7.6](https://github.com/charmbracelet/soft-serve/releases/tag/v0.7.6), 2 weeks ago) - The mighty, self-hostable Git server for the command line🍦
 
 #### 🔨 My recent Pull Requests
 
-- [feat: add kitty keyboard options and settings](https://github.com/charmbracelet/bubbletea/pull/1083) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
-- [refactor: reimplement the event loop with a sequence parser](https://github.com/charmbracelet/bubbletea/pull/1080) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
-- [feat: use media proxmox vm](https://github.com/aymanbagabas/dotfiles/pull/7) on [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) (2 days ago)
-- [Add media host](https://github.com/aymanbagabas/dotfiles/pull/4) on [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) (2 days ago)
-- [Create default Privado servers](https://github.com/haugene/vpn-configs-contrib/pull/309) on [haugene/vpn-configs-contrib](https://github.com/haugene/vpn-configs-contrib) (3 days ago)
+- [feat: add kitty keyboard options and settings](https://github.com/charmbracelet/bubbletea/pull/1083) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
+- [refactor: reimplement the event loop with a sequence parser](https://github.com/charmbracelet/bubbletea/pull/1080) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 days ago)
+- [feat: use media proxmox vm](https://github.com/aymanbagabas/dotfiles/pull/7) on [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) (3 days ago)
+- [Add media host](https://github.com/aymanbagabas/dotfiles/pull/4) on [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) (3 days ago)
+- [Create default Privado servers](https://github.com/haugene/vpn-configs-contrib/pull/309) on [haugene/vpn-configs-contrib](https://github.com/haugene/vpn-configs-contrib) (4 days ago)
 
 #### 📜 My recent blog posts
 
