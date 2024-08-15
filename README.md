@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: query the terminal version string and primary device attrs](https://github.com/charmbracelet/bubbletea/pull/1088) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [Fix Windows API &amp; Add support for win32-input-mode](https://github.com/charmbracelet/bubbletea/pull/1087) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [chore(term): drop input](https://github.com/charmbracelet/x/pull/158) on [charmbracelet/x](https://github.com/charmbracelet/x) (today)
 - [chore(term): drop input](https://github.com/charmbracelet/x/pull/157) on [charmbracelet/x](https://github.com/charmbracelet/x) (today)
 - [feat(windows): add windows console read api](https://github.com/charmbracelet/x/pull/156) on [charmbracelet/x](https://github.com/charmbracelet/x) (today)
-- [feat: support setting and querying the terminal clipboard using OSC52](https://github.com/charmbracelet/bubbletea/pull/1086) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 
 #### 📜 My recent blog posts
 
