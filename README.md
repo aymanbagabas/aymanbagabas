@@ -4,10 +4,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (today)
-- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (today)
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧 (1 day ago)
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (2 days ago)
+- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (1 day ago)
+- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (1 day ago)
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧 (2 days ago)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (3 days ago)
 - [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️ (1 week ago)
 
 #### 🌱 My latest projects
@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [caarlos0/svu](https://github.com/caarlos0/svu) ([v2.1.1](https://github.com/caarlos0/svu/releases/tag/v2.1.1), 6 days ago) - Semantic Version Util
+- [caarlos0/svu](https://github.com/caarlos0/svu) ([v2.1.1](https://github.com/caarlos0/svu/releases/tag/v2.1.1), 1 week ago) - Semantic Version Util
 - [charmbracelet/glamour](https://github.com/charmbracelet/glamour) ([v0.8.0](https://github.com/charmbracelet/glamour/releases/tag/v0.8.0), 1 week ago) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️
 - [caddy-dns/route53](https://github.com/caddy-dns/route53) ([v1.5.0](https://github.com/caddy-dns/route53/releases/tag/v1.5.0), 1 week ago) - Caddy module: dns.providers.route53
-- [libdns/route53](https://github.com/libdns/route53) ([v1.5.0](https://github.com/libdns/route53/releases/tag/v1.5.0), 1 week ago) - AWS Route53 provider implementation for libdns
+- [libdns/route53](https://github.com/libdns/route53) ([v1.5.0](https://github.com/libdns/route53/releases/tag/v1.5.0), 2 weeks ago) - AWS Route53 provider implementation for libdns
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.7.6](https://github.com/charmbracelet/soft-serve/releases/tag/v0.7.6), 2 weeks ago) - The mighty, self-hostable Git server for the command line🍦
 
 #### 🔨 My recent Pull Requests
 
-- [feat: query and set terminal background, foreground, and cursor colors](https://github.com/charmbracelet/bubbletea/pull/1085) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
-- [feat(key): accept any stringer interface to match keys](https://github.com/charmbracelet/bubbles/pull/584) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (today)
-- [feat: support xterm modifyOtherKeys keyboard protocol](https://github.com/charmbracelet/bubbletea/pull/1084) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
-- [Traffic lxc](https://github.com/aymanbagabas/dotfiles/pull/8) on [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) (today)
-- [bazarr: allow overriding package in module](https://github.com/NixOS/nixpkgs/pull/334521) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (today)
+- [feat: query and set terminal background, foreground, and cursor colors](https://github.com/charmbracelet/bubbletea/pull/1085) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
+- [feat(key): accept any stringer interface to match keys](https://github.com/charmbracelet/bubbles/pull/584) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (1 day ago)
+- [feat: support xterm modifyOtherKeys keyboard protocol](https://github.com/charmbracelet/bubbletea/pull/1084) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
+- [Generic LXC NixOS builder](https://github.com/aymanbagabas/dotfiles/pull/8) on [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) (1 day ago)
+- [bazarr: allow overriding package in module](https://github.com/NixOS/nixpkgs/pull/334521) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 day ago)
 
 #### 📜 My recent blog posts
 
