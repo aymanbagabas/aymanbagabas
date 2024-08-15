@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [chore(term): drop input](https://github.com/charmbracelet/x/pull/158) on [charmbracelet/x](https://github.com/charmbracelet/x) (today)
+- [chore(term): drop input](https://github.com/charmbracelet/x/pull/157) on [charmbracelet/x](https://github.com/charmbracelet/x) (today)
 - [feat(windows): add windows console read api](https://github.com/charmbracelet/x/pull/156) on [charmbracelet/x](https://github.com/charmbracelet/x) (today)
 - [feat: support setting and querying the terminal clipboard using OSC52](https://github.com/charmbracelet/bubbletea/pull/1086) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [feat: query and set terminal background, foreground, and cursor colors](https://github.com/charmbracelet/bubbletea/pull/1085) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
-- [feat(key): accept any stringer interface to match keys](https://github.com/charmbracelet/bubbles/pull/584) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (1 day ago)
-- [feat: support xterm modifyOtherKeys keyboard protocol](https://github.com/charmbracelet/bubbletea/pull/1084) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
 
 #### 📜 My recent blog posts
 
