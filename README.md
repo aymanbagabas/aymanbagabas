@@ -5,7 +5,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧 (today)
-- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (1 day ago)
+- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (today)
 - [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (1 day ago)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (3 days ago)
 - [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️ (1 week ago)
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat(windows): add windows console read api](https://github.com/charmbracelet/x/pull/156) on [charmbracelet/x](https://github.com/charmbracelet/x) (today)
+- [feat: support setting and querying the terminal clipboard using OSC52](https://github.com/charmbracelet/bubbletea/pull/1086) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [feat: query and set terminal background, foreground, and cursor colors](https://github.com/charmbracelet/bubbletea/pull/1085) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
 - [feat(key): accept any stringer interface to match keys](https://github.com/charmbracelet/bubbles/pull/584) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (1 day ago)
 - [feat: support xterm modifyOtherKeys keyboard protocol](https://github.com/charmbracelet/bubbletea/pull/1084) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
-- [Generic LXC NixOS builder](https://github.com/aymanbagabas/dotfiles/pull/8) on [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) (1 day ago)
-- [bazarr: allow overriding package in module](https://github.com/NixOS/nixpkgs/pull/334521) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 day ago)
 
 #### 📜 My recent blog posts
 
