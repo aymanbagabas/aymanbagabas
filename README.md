@@ -4,10 +4,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧 (2 days ago)
-- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (2 days ago)
-- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (3 days ago)
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (5 days ago)
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧 (3 days ago)
+- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (3 days ago)
+- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (4 days ago)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (6 days ago)
 - [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️ (1 week ago)
 
 #### 🌱 My latest projects
@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.27.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.27.0), 1 day ago) - A powerful little TUI framework 🏗
-- [charmbracelet/keygen](https://github.com/charmbracelet/keygen) ([v0.5.1](https://github.com/charmbracelet/keygen/releases/tag/v0.5.1), 2 days ago) - An SSH key pair generator 🗝️
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.27.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.27.0), 2 days ago) - A powerful little TUI framework 🏗
+- [charmbracelet/keygen](https://github.com/charmbracelet/keygen) ([v0.5.1](https://github.com/charmbracelet/keygen/releases/tag/v0.5.1), 3 days ago) - An SSH key pair generator 🗝️
 - [caarlos0/svu](https://github.com/caarlos0/svu) ([v2.1.1](https://github.com/caarlos0/svu/releases/tag/v2.1.1), 1 week ago) - Semantic Version Util
 - [charmbracelet/glamour](https://github.com/charmbracelet/glamour) ([v0.8.0](https://github.com/charmbracelet/glamour/releases/tag/v0.8.0), 1 week ago) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️
 - [caddy-dns/route53](https://github.com/caddy-dns/route53) ([v1.5.0](https://github.com/caddy-dns/route53/releases/tag/v1.5.0), 2 weeks ago) - Caddy module: dns.providers.route53
 
 #### 🔨 My recent Pull Requests
 
-- [feat: query the terminal version string and primary device attrs](https://github.com/charmbracelet/bubbletea/pull/1088) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 days ago)
-- [Fix Windows API &amp; Add support for win32-input-mode](https://github.com/charmbracelet/bubbletea/pull/1087) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 days ago)
-- [chore(term): drop input](https://github.com/charmbracelet/x/pull/158) on [charmbracelet/x](https://github.com/charmbracelet/x) (2 days ago)
-- [chore(term): drop input](https://github.com/charmbracelet/x/pull/157) on [charmbracelet/x](https://github.com/charmbracelet/x) (2 days ago)
-- [feat(windows): add windows console read api](https://github.com/charmbracelet/x/pull/156) on [charmbracelet/x](https://github.com/charmbracelet/x) (2 days ago)
+- [feat: query the terminal version string and primary device attrs](https://github.com/charmbracelet/bubbletea/pull/1088) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (3 days ago)
+- [Fix Windows API &amp; Add support for win32-input-mode](https://github.com/charmbracelet/bubbletea/pull/1087) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (3 days ago)
+- [chore(term): drop input](https://github.com/charmbracelet/x/pull/158) on [charmbracelet/x](https://github.com/charmbracelet/x) (3 days ago)
+- [chore(term): drop input](https://github.com/charmbracelet/x/pull/157) on [charmbracelet/x](https://github.com/charmbracelet/x) (3 days ago)
+- [feat(windows): add windows console read api](https://github.com/charmbracelet/x/pull/156) on [charmbracelet/x](https://github.com/charmbracelet/x) (3 days ago)
 
 #### 📜 My recent blog posts
 
