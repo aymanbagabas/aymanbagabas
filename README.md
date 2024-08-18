@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [prowlarr: allow setting data directory](https://github.com/NixOS/nixpkgs/pull/335642) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (today)
 - [feat: use unstable](https://github.com/aymanbagabas/dotfiles/pull/9) on [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) (today)
 - [feat: query the terminal version string and primary device attrs](https://github.com/charmbracelet/bubbletea/pull/1088) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (3 days ago)
 - [Fix Windows API &amp; Add support for win32-input-mode](https://github.com/charmbracelet/bubbletea/pull/1087) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (3 days ago)
 - [chore(term): drop input](https://github.com/charmbracelet/x/pull/158) on [charmbracelet/x](https://github.com/charmbracelet/x) (3 days ago)
-- [chore(term): drop input](https://github.com/charmbracelet/x/pull/157) on [charmbracelet/x](https://github.com/charmbracelet/x) (3 days ago)
 
 #### 📜 My recent blog posts
 
