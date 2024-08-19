@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: expose the renderer interface](https://github.com/charmbracelet/bubbletea/pull/1094) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [fix: lint error](https://github.com/charmbracelet/bubbletea/pull/1093) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [calibre-web: allow overriding the data directory](https://github.com/NixOS/nixpkgs/pull/335646) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 day ago)
 - [prowlarr: allow setting data directory](https://github.com/NixOS/nixpkgs/pull/335642) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 day ago)
 - [feat: use unstable](https://github.com/aymanbagabas/dotfiles/pull/9) on [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) (1 day ago)
-- [feat: query the terminal version string and primary device attrs](https://github.com/charmbracelet/bubbletea/pull/1088) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (4 days ago)
 
 #### 📜 My recent blog posts
 
