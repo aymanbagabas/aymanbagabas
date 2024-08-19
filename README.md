@@ -7,8 +7,8 @@
 - [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (today)
 - [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (today)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (today)
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧 (today)
 - [aymanbagabas/shcopy](https://github.com/aymanbagabas/shcopy) - 📋 Copy text to your system clipboard locally and remotely using ANSI OSC52 sequence (1 day ago)
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧 (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat(progress)!: model shouldn&#39;t conform to tea.Model](https://github.com/charmbracelet/bubbles/pull/589) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (today)
 - [feat: expose the renderer interface](https://github.com/charmbracelet/bubbletea/pull/1094) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [fix: lint error](https://github.com/charmbracelet/bubbletea/pull/1093) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [calibre-web: allow overriding the data directory](https://github.com/NixOS/nixpkgs/pull/335646) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 day ago)
 - [prowlarr: allow setting data directory](https://github.com/NixOS/nixpkgs/pull/335642) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 day ago)
-- [feat: use unstable](https://github.com/aymanbagabas/dotfiles/pull/9) on [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) (1 day ago)
 
 #### 📜 My recent blog posts
 
