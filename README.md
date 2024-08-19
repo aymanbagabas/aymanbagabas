@@ -5,9 +5,9 @@
 #### 👷 Check out what I'm currently working on
 
 - [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (today)
+- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (today)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (today)
 - [aymanbagabas/shcopy](https://github.com/aymanbagabas/shcopy) - 📋 Copy text to your system clipboard locally and remotely using ANSI OSC52 sequence (1 day ago)
-- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (4 days ago)
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧 (4 days ago)
 
 #### 🌱 My latest projects
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: lint error](https://github.com/charmbracelet/bubbletea/pull/1093) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [calibre-web: allow overriding the data directory](https://github.com/NixOS/nixpkgs/pull/335646) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 day ago)
 - [prowlarr: allow setting data directory](https://github.com/NixOS/nixpkgs/pull/335642) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 day ago)
 - [feat: use unstable](https://github.com/aymanbagabas/dotfiles/pull/9) on [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) (1 day ago)
 - [feat: query the terminal version string and primary device attrs](https://github.com/charmbracelet/bubbletea/pull/1088) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (4 days ago)
-- [Fix Windows API &amp; Add support for win32-input-mode](https://github.com/charmbracelet/bubbletea/pull/1087) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (4 days ago)
 
 #### 📜 My recent blog posts
 
