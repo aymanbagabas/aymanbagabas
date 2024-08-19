@@ -20,11 +20,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v1.4.2](https://github.com/charmbracelet/wish/releases/tag/v1.4.2), today) - Make SSH apps, just like that! 💫
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.27.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.27.0), 3 days ago) - A powerful little TUI framework 🏗
 - [charmbracelet/keygen](https://github.com/charmbracelet/keygen) ([v0.5.1](https://github.com/charmbracelet/keygen/releases/tag/v0.5.1), 4 days ago) - An SSH key pair generator 🗝️
 - [caarlos0/svu](https://github.com/caarlos0/svu) ([v2.1.1](https://github.com/caarlos0/svu/releases/tag/v2.1.1), 1 week ago) - Semantic Version Util
 - [charmbracelet/glamour](https://github.com/charmbracelet/glamour) ([v0.8.0](https://github.com/charmbracelet/glamour/releases/tag/v0.8.0), 2 weeks ago) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️
-- [caddy-dns/route53](https://github.com/caddy-dns/route53) ([v1.5.0](https://github.com/caddy-dns/route53/releases/tag/v1.5.0), 2 weeks ago) - Caddy module: dns.providers.route53
 
 #### 🔨 My recent Pull Requests
 
