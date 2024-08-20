@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat(ansi): add cursor and mouse pointer shape sequences](https://github.com/charmbracelet/x/pull/160) on [charmbracelet/x](https://github.com/charmbracelet/x) (today)
 - [feat(progress)!: model shouldn&#39;t conform to tea.Model](https://github.com/charmbracelet/bubbles/pull/589) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (1 day ago)
 - [feat: expose the renderer interface](https://github.com/charmbracelet/bubbletea/pull/1094) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
 - [fix: lint error](https://github.com/charmbracelet/bubbletea/pull/1093) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
 - [calibre-web: allow overriding the data directory](https://github.com/NixOS/nixpkgs/pull/335646) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (2 days ago)
-- [prowlarr: allow setting data directory](https://github.com/NixOS/nixpkgs/pull/335642) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (2 days ago)
 
 #### 📜 My recent blog posts
 
