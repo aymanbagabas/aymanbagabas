@@ -5,10 +5,10 @@
 #### 👷 Check out what I'm currently working on
 
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (today)
-- [charmbracelet/huh](https://github.com/charmbracelet/huh) - Build terminal forms and prompts 🤷🏻‍♀️ (today)
+- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (today)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (today)
+- [charmbracelet/huh](https://github.com/charmbracelet/huh) - Build terminal forms and prompts 🤷🏻‍♀️ (today)
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧 (2 days ago)
-- [aymanbagabas/shcopy](https://github.com/aymanbagabas/shcopy) - 📋 Copy text to your system clipboard locally and remotely using ANSI OSC52 sequence (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: add mode 2027 grapheme clustering stubs](https://github.com/charmbracelet/bubbletea/pull/1105) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [feat(ansi): add mode 2027](https://github.com/charmbracelet/x/pull/166) on [charmbracelet/x](https://github.com/charmbracelet/x) (today)
 - [Bump deps, fix cmd stderr, and tea middleware query bugs](https://github.com/charmbracelet/wish/pull/319) on [charmbracelet/wish](https://github.com/charmbracelet/wish) (today)
 - [chore: bump charmbracelet/x dependencies](https://github.com/charmbracelet/huh/pull/380) on [charmbracelet/huh](https://github.com/charmbracelet/huh) (today)
 - [feat(ansi): add cursor and mouse pointer shape sequences](https://github.com/charmbracelet/x/pull/160) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 day ago)
-- [feat(progress)!: model shouldn&#39;t conform to tea.Model](https://github.com/charmbracelet/bubbles/pull/589) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (2 days ago)
 
 #### 📜 My recent blog posts
 
