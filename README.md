@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (today)
-- [aymanbagabas/shcopy](https://github.com/aymanbagabas/shcopy) - 📋 Copy text to your system clipboard locally and remotely using ANSI OSC52 sequence (1 day ago)
-- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (1 day ago)
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧 (1 day ago)
-- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (1 day ago)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 day ago)
+- [aymanbagabas/shcopy](https://github.com/aymanbagabas/shcopy) - 📋 Copy text to your system clipboard locally and remotely using ANSI OSC52 sequence (2 days ago)
+- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (2 days ago)
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧 (2 days ago)
+- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.13.0](https://github.com/charmbracelet/lipgloss/releases/tag/v0.13.0), today) - Style definitions for nice terminal layouts 👄
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.19.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.19.0), today) - TUI components for Bubble Tea 🫧
-- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v1.4.2](https://github.com/charmbracelet/wish/releases/tag/v1.4.2), 1 day ago) - Make SSH apps, just like that! 💫
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.27.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.27.0), 4 days ago) - A powerful little TUI framework 🏗
-- [charmbracelet/keygen](https://github.com/charmbracelet/keygen) ([v0.5.1](https://github.com/charmbracelet/keygen/releases/tag/v0.5.1), 5 days ago) - An SSH key pair generator 🗝️
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.13.0](https://github.com/charmbracelet/lipgloss/releases/tag/v0.13.0), 1 day ago) - Style definitions for nice terminal layouts 👄
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.19.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.19.0), 1 day ago) - TUI components for Bubble Tea 🫧
+- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v1.4.2](https://github.com/charmbracelet/wish/releases/tag/v1.4.2), 2 days ago) - Make SSH apps, just like that! 💫
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.27.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.27.0), 5 days ago) - A powerful little TUI framework 🏗
+- [charmbracelet/keygen](https://github.com/charmbracelet/keygen) ([v0.5.1](https://github.com/charmbracelet/keygen/releases/tag/v0.5.1), 6 days ago) - An SSH key pair generator 🗝️
 
 #### 🔨 My recent Pull Requests
 
-- [feat(ansi): add cursor and mouse pointer shape sequences](https://github.com/charmbracelet/x/pull/160) on [charmbracelet/x](https://github.com/charmbracelet/x) (today)
-- [feat(progress)!: model shouldn&#39;t conform to tea.Model](https://github.com/charmbracelet/bubbles/pull/589) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (1 day ago)
-- [feat: expose the renderer interface](https://github.com/charmbracelet/bubbletea/pull/1094) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
-- [fix: lint error](https://github.com/charmbracelet/bubbletea/pull/1093) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
-- [calibre-web: allow overriding the data directory](https://github.com/NixOS/nixpkgs/pull/335646) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (2 days ago)
+- [feat(ansi): add cursor and mouse pointer shape sequences](https://github.com/charmbracelet/x/pull/160) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 day ago)
+- [feat(progress)!: model shouldn&#39;t conform to tea.Model](https://github.com/charmbracelet/bubbles/pull/589) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (2 days ago)
+- [feat: expose the renderer interface](https://github.com/charmbracelet/bubbletea/pull/1094) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 days ago)
+- [fix: lint error](https://github.com/charmbracelet/bubbletea/pull/1093) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 days ago)
+- [calibre-web: allow overriding the data directory](https://github.com/NixOS/nixpkgs/pull/335646) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (3 days ago)
 
 #### 📜 My recent blog posts
 
