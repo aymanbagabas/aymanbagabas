@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/huh](https://github.com/charmbracelet/huh) - Build terminal forms and prompts 🤷🏻‍♀️ (today)
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (today)
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 day ago)
+- [charmbracelet/huh](https://github.com/charmbracelet/huh) - Build terminal forms and prompts 🤷🏻‍♀️ (today)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (today)
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧 (2 days ago)
 - [aymanbagabas/shcopy](https://github.com/aymanbagabas/shcopy) - 📋 Copy text to your system clipboard locally and remotely using ANSI OSC52 sequence (2 days ago)
-- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat(ansi): add mode 2027](https://github.com/charmbracelet/x/pull/166) on [charmbracelet/x](https://github.com/charmbracelet/x) (today)
 - [Bump deps, fix cmd stderr, and tea middleware query bugs](https://github.com/charmbracelet/wish/pull/319) on [charmbracelet/wish](https://github.com/charmbracelet/wish) (today)
 - [chore: bump charmbracelet/x dependencies](https://github.com/charmbracelet/huh/pull/380) on [charmbracelet/huh](https://github.com/charmbracelet/huh) (today)
 - [feat(ansi): add cursor and mouse pointer shape sequences](https://github.com/charmbracelet/x/pull/160) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 day ago)
 - [feat(progress)!: model shouldn&#39;t conform to tea.Model](https://github.com/charmbracelet/bubbles/pull/589) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (2 days ago)
-- [feat: expose the renderer interface](https://github.com/charmbracelet/bubbletea/pull/1094) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 days ago)
 
 #### 📜 My recent blog posts
 
