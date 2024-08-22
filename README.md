@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: force query the terminal bg before running any programs](https://github.com/charmbracelet/bubbletea/pull/1107) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [feat: add mode 2027 grapheme clustering stubs](https://github.com/charmbracelet/bubbletea/pull/1105) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
 - [feat(ansi): add mode 2027](https://github.com/charmbracelet/x/pull/166) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 day ago)
 - [Bump deps, fix cmd stderr, and tea middleware query bugs](https://github.com/charmbracelet/wish/pull/319) on [charmbracelet/wish](https://github.com/charmbracelet/wish) (1 day ago)
 - [chore: bump charmbracelet/x dependencies](https://github.com/charmbracelet/huh/pull/380) on [charmbracelet/huh](https://github.com/charmbracelet/huh) (1 day ago)
-- [feat(ansi): add cursor and mouse pointer shape sequences](https://github.com/charmbracelet/x/pull/160) on [charmbracelet/x](https://github.com/charmbracelet/x) (2 days ago)
 
 #### 📜 My recent blog posts
 
