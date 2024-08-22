@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (today)
-- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (today)
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (today)
-- [charmbracelet/huh](https://github.com/charmbracelet/huh) - Build terminal forms and prompts 🤷🏻‍♀️ (today)
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧 (2 days ago)
+- [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (1 day ago)
+- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (1 day ago)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 day ago)
+- [charmbracelet/huh](https://github.com/charmbracelet/huh) - Build terminal forms and prompts 🤷🏻‍♀️ (1 day ago)
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧 (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.13.0](https://github.com/charmbracelet/lipgloss/releases/tag/v0.13.0), 1 day ago) - Style definitions for nice terminal layouts 👄
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.19.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.19.0), 1 day ago) - TUI components for Bubble Tea 🫧
-- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v1.4.2](https://github.com/charmbracelet/wish/releases/tag/v1.4.2), 2 days ago) - Make SSH apps, just like that! 💫
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.27.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.27.0), 5 days ago) - A powerful little TUI framework 🏗
-- [charmbracelet/keygen](https://github.com/charmbracelet/keygen) ([v0.5.1](https://github.com/charmbracelet/keygen/releases/tag/v0.5.1), 6 days ago) - An SSH key pair generator 🗝️
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.13.0](https://github.com/charmbracelet/lipgloss/releases/tag/v0.13.0), 2 days ago) - Style definitions for nice terminal layouts 👄
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.19.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.19.0), 2 days ago) - TUI components for Bubble Tea 🫧
+- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v1.4.2](https://github.com/charmbracelet/wish/releases/tag/v1.4.2), 3 days ago) - Make SSH apps, just like that! 💫
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.27.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.27.0), 6 days ago) - A powerful little TUI framework 🏗
+- [charmbracelet/keygen](https://github.com/charmbracelet/keygen) ([v0.5.1](https://github.com/charmbracelet/keygen/releases/tag/v0.5.1), 1 week ago) - An SSH key pair generator 🗝️
 
 #### 🔨 My recent Pull Requests
 
-- [feat: add mode 2027 grapheme clustering stubs](https://github.com/charmbracelet/bubbletea/pull/1105) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
-- [feat(ansi): add mode 2027](https://github.com/charmbracelet/x/pull/166) on [charmbracelet/x](https://github.com/charmbracelet/x) (today)
-- [Bump deps, fix cmd stderr, and tea middleware query bugs](https://github.com/charmbracelet/wish/pull/319) on [charmbracelet/wish](https://github.com/charmbracelet/wish) (today)
-- [chore: bump charmbracelet/x dependencies](https://github.com/charmbracelet/huh/pull/380) on [charmbracelet/huh](https://github.com/charmbracelet/huh) (today)
-- [feat(ansi): add cursor and mouse pointer shape sequences](https://github.com/charmbracelet/x/pull/160) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 day ago)
+- [feat: add mode 2027 grapheme clustering stubs](https://github.com/charmbracelet/bubbletea/pull/1105) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
+- [feat(ansi): add mode 2027](https://github.com/charmbracelet/x/pull/166) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 day ago)
+- [Bump deps, fix cmd stderr, and tea middleware query bugs](https://github.com/charmbracelet/wish/pull/319) on [charmbracelet/wish](https://github.com/charmbracelet/wish) (1 day ago)
+- [chore: bump charmbracelet/x dependencies](https://github.com/charmbracelet/huh/pull/380) on [charmbracelet/huh](https://github.com/charmbracelet/huh) (1 day ago)
+- [feat(ansi): add cursor and mouse pointer shape sequences](https://github.com/charmbracelet/x/pull/160) on [charmbracelet/x](https://github.com/charmbracelet/x) (2 days ago)
 
 #### 📜 My recent blog posts
 
