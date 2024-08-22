@@ -24,7 +24,7 @@
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.19.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.19.0), 2 days ago) - TUI components for Bubble Tea 🫧
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v1.4.2](https://github.com/charmbracelet/wish/releases/tag/v1.4.2), 3 days ago) - Make SSH apps, just like that! 💫
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.27.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.27.0), 6 days ago) - A powerful little TUI framework 🏗
-- [charmbracelet/keygen](https://github.com/charmbracelet/keygen) ([v0.5.1](https://github.com/charmbracelet/keygen/releases/tag/v0.5.1), 1 week ago) - An SSH key pair generator 🗝️
+- [caarlos0/svu](https://github.com/caarlos0/svu) ([v2.1.1](https://github.com/caarlos0/svu/releases/tag/v2.1.1), 2 weeks ago) - Semantic Version Util
 
 #### 🔨 My recent Pull Requests
 
