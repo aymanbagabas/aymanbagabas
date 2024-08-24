@@ -20,11 +20,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [caarlos0/svu](https://github.com/caarlos0/svu) ([v2.2.0](https://github.com/caarlos0/svu/releases/tag/v2.2.0), today) - Semantic Version Util
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) ([v2.0.0](https://github.com/charmbracelet/glow/releases/tag/v2.0.0), 1 day ago) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.14.4](https://github.com/charmbracelet/gum/releases/tag/v0.14.4), 1 day ago) - A tool for glamorous shell scripts 🎀
 - [charmbracelet/huh](https://github.com/charmbracelet/huh) ([v0.5.3](https://github.com/charmbracelet/huh/releases/tag/v0.5.3), 1 day ago) - Build terminal forms and prompts 🤷🏻‍♀️
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.27.1](https://github.com/charmbracelet/bubbletea/releases/tag/v0.27.1), 2 days ago) - A powerful little TUI framework 🏗
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.13.0](https://github.com/charmbracelet/lipgloss/releases/tag/v0.13.0), 4 days ago) - Style definitions for nice terminal layouts 👄
 
 #### 🔨 My recent Pull Requests
 
