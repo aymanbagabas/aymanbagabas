@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Revert v2 changes in master](https://github.com/charmbracelet/bubbletea/pull/1115) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [fix(ci): add nur and cachix repo names](https://github.com/charmbracelet/nur/pull/12) on [charmbracelet/nur](https://github.com/charmbracelet/nur) (1 day ago)
 - [feat!: make Init return the model](https://github.com/charmbracelet/bubbletea/pull/1112) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (4 days ago)
 - [(v2) Use KeyMsg/MouseMsg interfaces](https://github.com/charmbracelet/bubbletea/pull/1111) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (5 days ago)
 - [feat(ci): use meta build workflow](https://github.com/charmbracelet/lipgloss/pull/354) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (5 days ago)
-- [fix: lint issues](https://github.com/charmbracelet/bubbletea/pull/1109) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (5 days ago)
 
 #### 📜 My recent blog posts
 
