@@ -8,7 +8,7 @@
 - [golang/sys](https://github.com/golang/sys) - [mirror] Go packages for low-level interaction with the operating system (2 days ago)
 - [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (2 days ago)
 - [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺 (5 days ago)
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (5 days ago)
+- [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket) - Charmbracelet Scoop Bucket (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v1.0.0](https://github.com/charmbracelet/bubbletea/releases/tag/v1.0.0), today) - A powerful little TUI framework 🏗
 - [caarlos0/svu](https://github.com/caarlos0/svu) ([v2.2.0](https://github.com/caarlos0/svu/releases/tag/v2.2.0), 4 days ago) - Semantic Version Util
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) ([v2.0.0](https://github.com/charmbracelet/glow/releases/tag/v2.0.0), 5 days ago) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.14.4](https://github.com/charmbracelet/gum/releases/tag/v0.14.4), 5 days ago) - A tool for glamorous shell scripts 🎀
 - [charmbracelet/huh](https://github.com/charmbracelet/huh) ([v0.5.3](https://github.com/charmbracelet/huh/releases/tag/v0.5.3), 5 days ago) - Build terminal forms and prompts 🤷🏻‍♀️
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.27.1](https://github.com/charmbracelet/bubbletea/releases/tag/v0.27.1), 6 days ago) - A powerful little TUI framework 🏗
 
 #### 🔨 My recent Pull Requests
 
+- [(v2) Bubble Tea API](https://github.com/charmbracelet/bubbletea/pull/1118) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [Revert v2 changes in master](https://github.com/charmbracelet/bubbletea/pull/1115) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
 - [fix(ci): add nur and cachix repo names](https://github.com/charmbracelet/nur/pull/12) on [charmbracelet/nur](https://github.com/charmbracelet/nur) (2 days ago)
 - [feat!: make Init return the model](https://github.com/charmbracelet/bubbletea/pull/1112) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (5 days ago)
 - [(v2) Use KeyMsg/MouseMsg interfaces](https://github.com/charmbracelet/bubbletea/pull/1111) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (6 days ago)
-- [feat(ci): use meta build workflow](https://github.com/charmbracelet/lipgloss/pull/354) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (6 days ago)
 
 #### 📜 My recent blog posts
 
