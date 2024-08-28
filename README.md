@@ -4,9 +4,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (today)
 - [charmbracelet/nur](https://github.com/charmbracelet/nur) -  (2 days ago)
 - [golang/sys](https://github.com/golang/sys) - [mirror] Go packages for low-level interaction with the operating system (2 days ago)
-- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (2 days ago)
 - [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺 (5 days ago)
 - [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket) - Charmbracelet Scoop Bucket (5 days ago)
 
