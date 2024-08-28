@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: we don&#39;t initialize the terminal when using a nilRenderer](https://github.com/charmbracelet/bubbletea/pull/1120) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [(v2) Export different input mode commands and messages](https://github.com/charmbracelet/bubbletea/pull/1119) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [(v2) Bubble Tea API](https://github.com/charmbracelet/bubbletea/pull/1118) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [Revert v2 changes in master](https://github.com/charmbracelet/bubbletea/pull/1115) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
 - [fix(ci): add nur and cachix repo names](https://github.com/charmbracelet/nur/pull/12) on [charmbracelet/nur](https://github.com/charmbracelet/nur) (2 days ago)
-- [feat!: make Init return the model](https://github.com/charmbracelet/bubbletea/pull/1112) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (5 days ago)
 
 #### 📜 My recent blog posts
 
