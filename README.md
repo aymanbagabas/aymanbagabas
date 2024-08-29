@@ -5,10 +5,10 @@
 #### 👷 Check out what I'm currently working on
 
 - [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (today)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (today)
 - [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (1 day ago)
 - [charmbracelet/nur](https://github.com/charmbracelet/nur) -  (3 days ago)
 - [golang/sys](https://github.com/golang/sys) - [mirror] Go packages for low-level interaction with the operating system (3 days ago)
-- [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket) - Charmbracelet Scoop Bucket (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v1.0.0](https://github.com/charmbracelet/bubbletea/releases/tag/v1.0.0), 1 day ago) - A powerful little TUI framework 🏗
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v1.0.1](https://github.com/charmbracelet/bubbletea/releases/tag/v1.0.1), today) - A powerful little TUI framework 🏗
 - [caarlos0/svu](https://github.com/caarlos0/svu) ([v2.2.0](https://github.com/caarlos0/svu/releases/tag/v2.2.0), 5 days ago) - Semantic Version Util
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) ([v2.0.0](https://github.com/charmbracelet/glow/releases/tag/v2.0.0), 6 days ago) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.14.4](https://github.com/charmbracelet/gum/releases/tag/v0.14.4), 6 days ago) - A tool for glamorous shell scripts 🎀
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: add wcwidth package](https://github.com/charmbracelet/x/pull/174) on [charmbracelet/x](https://github.com/charmbracelet/x) (today)
 - [feat(ci): use meta build workflow](https://github.com/charmbracelet/bubbletea/pull/1123) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [fix(ci): deprecate build go_version in favor of go-version](https://github.com/charmbracelet/meta/pull/160) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (today)
 - [feat(ci): support using go-version-file in build workflow](https://github.com/charmbracelet/meta/pull/159) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (today)
 - [feat(ci): specify a working-directory in the build workflow](https://github.com/charmbracelet/meta/pull/158) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (today)
-- [feat: support focus-blur events](https://github.com/charmbracelet/bubbletea/pull/1122) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 
 #### 📜 My recent blog posts
 
