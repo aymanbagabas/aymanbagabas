@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat(ansi): add more style attributes](https://github.com/charmbracelet/x/pull/176) on [charmbracelet/x](https://github.com/charmbracelet/x) (today)
 - [feat: add wcwidth package](https://github.com/charmbracelet/x/pull/174) on [charmbracelet/x](https://github.com/charmbracelet/x) (today)
 - [feat(ci): use meta build workflow](https://github.com/charmbracelet/bubbletea/pull/1123) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [fix(ci): deprecate build go_version in favor of go-version](https://github.com/charmbracelet/meta/pull/160) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (today)
 - [feat(ci): support using go-version-file in build workflow](https://github.com/charmbracelet/meta/pull/159) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (today)
-- [feat(ci): specify a working-directory in the build workflow](https://github.com/charmbracelet/meta/pull/158) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (today)
 
 #### 📜 My recent blog posts
 
