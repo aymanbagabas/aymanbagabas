@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix(ci): deprecate build go_version in favor of go-version](https://github.com/charmbracelet/meta/pull/160) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (today)
+- [feat(ci): support using go-version-file in build workflow](https://github.com/charmbracelet/meta/pull/159) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (today)
+- [feat(ci): specify a working-directory in the build workflow](https://github.com/charmbracelet/meta/pull/158) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (today)
+- [feat: support focus-blur events](https://github.com/charmbracelet/bubbletea/pull/1122) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [fix: we don&#39;t initialize the terminal when using a nilRenderer](https://github.com/charmbracelet/bubbletea/pull/1120) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
-- [(v2) Export different input mode commands and messages](https://github.com/charmbracelet/bubbletea/pull/1119) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
-- [(v2) Bubble Tea API](https://github.com/charmbracelet/bubbletea/pull/1118) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
-- [Revert v2 changes in master](https://github.com/charmbracelet/bubbletea/pull/1115) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 days ago)
-- [fix(ci): add nur and cachix repo names](https://github.com/charmbracelet/nur/pull/12) on [charmbracelet/nur](https://github.com/charmbracelet/nur) (3 days ago)
 
 #### 📜 My recent blog posts
 
