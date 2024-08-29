@@ -4,10 +4,10 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (today)
 - [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (1 day ago)
 - [charmbracelet/nur](https://github.com/charmbracelet/nur) -  (3 days ago)
 - [golang/sys](https://github.com/golang/sys) - [mirror] Go packages for low-level interaction with the operating system (3 days ago)
-- [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺 (6 days ago)
 - [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket) - Charmbracelet Scoop Bucket (6 days ago)
 
 #### 🌱 My latest projects
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat(ci): use meta build workflow](https://github.com/charmbracelet/bubbletea/pull/1123) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [fix(ci): deprecate build go_version in favor of go-version](https://github.com/charmbracelet/meta/pull/160) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (today)
 - [feat(ci): support using go-version-file in build workflow](https://github.com/charmbracelet/meta/pull/159) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (today)
 - [feat(ci): specify a working-directory in the build workflow](https://github.com/charmbracelet/meta/pull/158) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (today)
 - [feat: support focus-blur events](https://github.com/charmbracelet/bubbletea/pull/1122) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
-- [fix: we don&#39;t initialize the terminal when using a nilRenderer](https://github.com/charmbracelet/bubbletea/pull/1120) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
 
 #### 📜 My recent blog posts
 
