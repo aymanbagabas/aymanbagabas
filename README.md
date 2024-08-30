@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [(v2) feat: add adaptive color package](https://github.com/charmbracelet/lipgloss/pull/359) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (today)
 - [feat: enable prerelease detection in goreleaser](https://github.com/charmbracelet/meta/pull/161) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (today)
 - [feat(ansi): add more style attributes](https://github.com/charmbracelet/x/pull/176) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 day ago)
 - [feat: add wcwidth package](https://github.com/charmbracelet/x/pull/174) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 day ago)
 - [feat(ci): use meta build workflow](https://github.com/charmbracelet/bubbletea/pull/1123) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
-- [fix(ci): deprecate build go_version in favor of go-version](https://github.com/charmbracelet/meta/pull/160) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (1 day ago)
 
 #### 📜 My recent blog posts
 
