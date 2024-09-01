@@ -4,9 +4,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (1 day ago)
 - [aymanbagabas/kalima](https://github.com/aymanbagabas/kalima) - A PWA that views and searches through FnanenDB songs database. (2 days ago)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (2 days ago)
-- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (2 days ago)
 - [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (3 days ago)
 - [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (3 days ago)
 
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: use home-manager gpg-agent configuration](https://github.com/aymanbagabas/dotfiles/pull/10) on [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) (today)
+- [gpg-agent: add launchd service agent and sockets](https://github.com/nix-community/home-manager/pull/5786) on [nix-community/home-manager](https://github.com/nix-community/home-manager) (today)
 - [(v2) feat: add adaptive color package](https://github.com/charmbracelet/lipgloss/pull/359) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (2 days ago)
 - [feat: enable prerelease detection in goreleaser](https://github.com/charmbracelet/meta/pull/161) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (2 days ago)
 - [feat(ansi): add more style attributes](https://github.com/charmbracelet/x/pull/176) on [charmbracelet/x](https://github.com/charmbracelet/x) (3 days ago)
-- [feat: add wcwidth package](https://github.com/charmbracelet/x/pull/174) on [charmbracelet/x](https://github.com/charmbracelet/x) (3 days ago)
-- [feat(ci): use meta build workflow](https://github.com/charmbracelet/bubbletea/pull/1123) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (3 days ago)
 
 #### 📜 My recent blog posts
 
