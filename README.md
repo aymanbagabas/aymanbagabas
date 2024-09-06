@@ -4,9 +4,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (4 days ago)
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (6 days ago)
-- [aymanbagabas/kalima](https://github.com/aymanbagabas/kalima) - A PWA that views and searches through FnanenDB songs database. (6 days ago)
+- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (5 days ago)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 week ago)
+- [aymanbagabas/kalima](https://github.com/aymanbagabas/kalima) - A PWA that views and searches through FnanenDB songs database. (1 week ago)
 - [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (1 week ago)
 - [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (1 week ago)
 
@@ -20,18 +20,18 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v1.4.3](https://github.com/charmbracelet/wish/releases/tag/v1.4.3), 1 day ago) - Make SSH apps, just like that! 💫
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v1.1.0](https://github.com/charmbracelet/bubbletea/releases/tag/v1.1.0), 6 days ago) - A powerful little TUI framework 🏗
+- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v1.4.3](https://github.com/charmbracelet/wish/releases/tag/v1.4.3), 2 days ago) - Make SSH apps, just like that! 💫
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v1.1.0](https://github.com/charmbracelet/bubbletea/releases/tag/v1.1.0), 1 week ago) - A powerful little TUI framework 🏗
 - [caarlos0/svu](https://github.com/caarlos0/svu) ([v2.2.0](https://github.com/caarlos0/svu/releases/tag/v2.2.0), 1 week ago) - Semantic Version Util
-- [charmbracelet/glow](https://github.com/charmbracelet/glow) ([v2.0.0](https://github.com/charmbracelet/glow/releases/tag/v2.0.0), 1 week ago) - Render markdown on the CLI, with pizzazz! 💅🏻
-- [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.14.4](https://github.com/charmbracelet/gum/releases/tag/v0.14.4), 1 week ago) - A tool for glamorous shell scripts 🎀
+- [charmbracelet/glow](https://github.com/charmbracelet/glow) ([v2.0.0](https://github.com/charmbracelet/glow/releases/tag/v2.0.0), 2 weeks ago) - Render markdown on the CLI, with pizzazz! 💅🏻
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.14.4](https://github.com/charmbracelet/gum/releases/tag/v0.14.4), 2 weeks ago) - A tool for glamorous shell scripts 🎀
 
 #### 🔨 My recent Pull Requests
 
-- [feat: use home-manager gpg-agent configuration](https://github.com/aymanbagabas/dotfiles/pull/10) on [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) (4 days ago)
-- [gpg-agent: add launchd service agent and sockets](https://github.com/nix-community/home-manager/pull/5786) on [nix-community/home-manager](https://github.com/nix-community/home-manager) (4 days ago)
-- [(v2) feat: add adaptive color package](https://github.com/charmbracelet/lipgloss/pull/359) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (6 days ago)
-- [feat: enable prerelease detection in goreleaser](https://github.com/charmbracelet/meta/pull/161) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (6 days ago)
+- [feat: use home-manager gpg-agent configuration](https://github.com/aymanbagabas/dotfiles/pull/10) on [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) (5 days ago)
+- [gpg-agent: add launchd service agent and sockets](https://github.com/nix-community/home-manager/pull/5786) on [nix-community/home-manager](https://github.com/nix-community/home-manager) (5 days ago)
+- [(v2) feat: add adaptive color package](https://github.com/charmbracelet/lipgloss/pull/359) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (1 week ago)
+- [feat: enable prerelease detection in goreleaser](https://github.com/charmbracelet/meta/pull/161) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (1 week ago)
 - [feat(ansi): add more style attributes](https://github.com/charmbracelet/x/pull/176) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 week ago)
 
 #### 📜 My recent blog posts
@@ -44,9 +44,9 @@
 
 #### ⭐ Recent Stars
 
-- [ryan4yin/nix-config](https://github.com/ryan4yin/nix-config) - ❄️ my nix config for both desktops(NixOS&#43;macOS) and homelab servers(NixOS). (5 days ago)
+- [ryan4yin/nix-config](https://github.com/ryan4yin/nix-config) - ❄️ my nix config for both desktops(NixOS&#43;macOS) and homelab servers(NixOS). (6 days ago)
 - [99designs/keyring](https://github.com/99designs/keyring) - Go library providing a uniform interface across a range of secure credential stores (1 week ago)
-- [go-sprout/sprout](https://github.com/go-sprout/sprout) - From sprig to sprout - Useful template functions for Go templates with steroids (1 month ago)
+- [go-sprout/sprout](https://github.com/go-sprout/sprout) - From sprig to sprout - Useful template functions for Go templates with steroids (2 months ago)
 - [galdor/go-thumbhash](https://github.com/galdor/go-thumbhash) - A Go implementation of the Thumbhash image placeholder generation algorithm. (2 months ago)
 - [nmasur/dotfiles](https://github.com/nmasur/dotfiles) - Nix configuration and settings (3 months ago)
 
