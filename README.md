@@ -44,7 +44,7 @@
 
 #### ⭐ Recent Stars
 
-- [ryan4yin/nix-config](https://github.com/ryan4yin/nix-config) - ❄️ my nix config for both desktops(NixOS&#43;macOS) and homelab servers(NixOS). (6 days ago)
+- [ryan4yin/nix-config](https://github.com/ryan4yin/nix-config) - ❄️ My nix config for both desktops(NixOS&#43;macOS) and homelab servers(NixOS). (6 days ago)
 - [99designs/keyring](https://github.com/99designs/keyring) - Go library providing a uniform interface across a range of secure credential stores (1 week ago)
 - [go-sprout/sprout](https://github.com/go-sprout/sprout) - From sprig to sprout - Useful template functions for Go templates with steroids (2 months ago)
 - [galdor/go-thumbhash](https://github.com/galdor/go-thumbhash) - A Go implementation of the Thumbhash image placeholder generation algorithm. (2 months ago)
