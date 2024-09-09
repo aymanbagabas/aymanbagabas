@@ -8,7 +8,7 @@
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦 (today)
 - [libdns/route53](https://github.com/libdns/route53) - AWS Route53 provider implementation for libdns (today)
 - [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (1 week ago)
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 week ago)
+- [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat(ci): use goreleaser](https://github.com/charmbracelet/glamour/pull/348) on [charmbracelet/glamour](https://github.com/charmbracelet/glamour) (today)
 - [chore(deps): bump github.com/charmbracelet/glamour from 0.7.0 to 0.8.0](https://github.com/charmbracelet/soft-serve/pull/574) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (today)
 - [feat: use home-manager gpg-agent configuration](https://github.com/aymanbagabas/dotfiles/pull/10) on [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) (1 week ago)
 - [gpg-agent: add launchd service agent and sockets](https://github.com/nix-community/home-manager/pull/5786) on [nix-community/home-manager](https://github.com/nix-community/home-manager) (1 week ago)
 - [(v2) feat: add adaptive color package](https://github.com/charmbracelet/lipgloss/pull/359) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (1 week ago)
-- [feat: enable prerelease detection in goreleaser](https://github.com/charmbracelet/meta/pull/161) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (1 week ago)
 
 #### 📜 My recent blog posts
 
