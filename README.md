@@ -4,9 +4,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [caddy-dns/route53](https://github.com/caddy-dns/route53) - Caddy module: dns.providers.route53 (today)
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦 (today)
-- [libdns/route53](https://github.com/libdns/route53) - AWS Route53 provider implementation for libdns (today)
+- [caddy-dns/route53](https://github.com/caddy-dns/route53) - Caddy module: dns.providers.route53 (1 day ago)
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦 (1 day ago)
+- [libdns/route53](https://github.com/libdns/route53) - AWS Route53 provider implementation for libdns (1 day ago)
 - [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (1 week ago)
 - [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (1 week ago)
 
@@ -20,16 +20,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.14.5](https://github.com/charmbracelet/gum/releases/tag/v0.14.5), 3 days ago) - A tool for glamorous shell scripts 🎀
-- [charmbracelet/huh](https://github.com/charmbracelet/huh) ([v0.6.0](https://github.com/charmbracelet/huh/releases/tag/v0.6.0), 3 days ago) - Build terminal forms and prompts 🤷🏻‍♀️
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.20.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.20.0), 3 days ago) - TUI components for Bubble Tea 🫧
-- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v1.4.3](https://github.com/charmbracelet/wish/releases/tag/v1.4.3), 5 days ago) - Make SSH apps, just like that! 💫
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.14.5](https://github.com/charmbracelet/gum/releases/tag/v0.14.5), 4 days ago) - A tool for glamorous shell scripts 🎀
+- [charmbracelet/huh](https://github.com/charmbracelet/huh) ([v0.6.0](https://github.com/charmbracelet/huh/releases/tag/v0.6.0), 4 days ago) - Build terminal forms and prompts 🤷🏻‍♀️
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.20.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.20.0), 4 days ago) - TUI components for Bubble Tea 🫧
+- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v1.4.3](https://github.com/charmbracelet/wish/releases/tag/v1.4.3), 6 days ago) - Make SSH apps, just like that! 💫
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v1.1.0](https://github.com/charmbracelet/bubbletea/releases/tag/v1.1.0), 1 week ago) - A powerful little TUI framework 🏗
 
 #### 🔨 My recent Pull Requests
 
-- [feat(ci): use goreleaser](https://github.com/charmbracelet/glamour/pull/348) on [charmbracelet/glamour](https://github.com/charmbracelet/glamour) (today)
-- [chore(deps): bump github.com/charmbracelet/glamour from 0.7.0 to 0.8.0](https://github.com/charmbracelet/soft-serve/pull/574) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (today)
+- [feat(ci): use goreleaser](https://github.com/charmbracelet/glamour/pull/348) on [charmbracelet/glamour](https://github.com/charmbracelet/glamour) (1 day ago)
+- [chore(deps): bump github.com/charmbracelet/glamour from 0.7.0 to 0.8.0](https://github.com/charmbracelet/soft-serve/pull/574) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 day ago)
 - [feat: use home-manager gpg-agent configuration](https://github.com/aymanbagabas/dotfiles/pull/10) on [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) (1 week ago)
 - [gpg-agent: add launchd service agent and sockets](https://github.com/nix-community/home-manager/pull/5786) on [nix-community/home-manager](https://github.com/nix-community/home-manager) (1 week ago)
 - [(v2) feat: add adaptive color package](https://github.com/charmbracelet/lipgloss/pull/359) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (1 week ago)
