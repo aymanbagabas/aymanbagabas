@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: recover from panics within cmds](https://github.com/charmbracelet/bubbletea/pull/1134) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [feat(ansi): add mode consts](https://github.com/charmbracelet/x/pull/187) on [charmbracelet/x](https://github.com/charmbracelet/x) (today)
 - [docs: update required fields](https://github.com/caddy-dns/route53/pull/54) on [caddy-dns/route53](https://github.com/caddy-dns/route53) (today)
 - [feat(ci): use goreleaser](https://github.com/charmbracelet/glamour/pull/348) on [charmbracelet/glamour](https://github.com/charmbracelet/glamour) (1 day ago)
 - [chore(deps): bump github.com/charmbracelet/glamour from 0.7.0 to 0.8.0](https://github.com/charmbracelet/soft-serve/pull/574) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 day ago)
-- [feat: use home-manager gpg-agent configuration](https://github.com/aymanbagabas/dotfiles/pull/10) on [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) (1 week ago)
 
 #### 📜 My recent blog posts
 
