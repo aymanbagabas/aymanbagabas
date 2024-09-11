@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️ (today)
-- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (today)
-- [caddy-dns/route53](https://github.com/caddy-dns/route53) - Caddy module: dns.providers.route53 (today)
-- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (today)
-- [libdns/route53](https://github.com/libdns/route53) - AWS Route53 provider implementation for libdns (1 day ago)
+- [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️ (1 day ago)
+- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (1 day ago)
+- [caddy-dns/route53](https://github.com/caddy-dns/route53) - Caddy module: dns.providers.route53 (1 day ago)
+- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (1 day ago)
+- [libdns/route53](https://github.com/libdns/route53) - AWS Route53 provider implementation for libdns (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.14.5](https://github.com/charmbracelet/gum/releases/tag/v0.14.5), 4 days ago) - A tool for glamorous shell scripts 🎀
-- [charmbracelet/huh](https://github.com/charmbracelet/huh) ([v0.6.0](https://github.com/charmbracelet/huh/releases/tag/v0.6.0), 4 days ago) - Build terminal forms and prompts 🤷🏻‍♀️
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.20.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.20.0), 4 days ago) - TUI components for Bubble Tea 🫧
-- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v1.4.3](https://github.com/charmbracelet/wish/releases/tag/v1.4.3), 6 days ago) - Make SSH apps, just like that! 💫
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.14.5](https://github.com/charmbracelet/gum/releases/tag/v0.14.5), 5 days ago) - A tool for glamorous shell scripts 🎀
+- [charmbracelet/huh](https://github.com/charmbracelet/huh) ([v0.6.0](https://github.com/charmbracelet/huh/releases/tag/v0.6.0), 5 days ago) - Build terminal forms and prompts 🤷🏻‍♀️
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.20.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.20.0), 5 days ago) - TUI components for Bubble Tea 🫧
+- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v1.4.3](https://github.com/charmbracelet/wish/releases/tag/v1.4.3), 1 week ago) - Make SSH apps, just like that! 💫
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v1.1.0](https://github.com/charmbracelet/bubbletea/releases/tag/v1.1.0), 1 week ago) - A powerful little TUI framework 🏗
 
 #### 🔨 My recent Pull Requests
 
-- [fix: recover from panics within cmds](https://github.com/charmbracelet/bubbletea/pull/1134) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
-- [feat(ansi): add mode consts](https://github.com/charmbracelet/x/pull/187) on [charmbracelet/x](https://github.com/charmbracelet/x) (today)
-- [docs: update required fields](https://github.com/caddy-dns/route53/pull/54) on [caddy-dns/route53](https://github.com/caddy-dns/route53) (today)
-- [feat(ci): use goreleaser](https://github.com/charmbracelet/glamour/pull/348) on [charmbracelet/glamour](https://github.com/charmbracelet/glamour) (1 day ago)
-- [chore(deps): bump github.com/charmbracelet/glamour from 0.7.0 to 0.8.0](https://github.com/charmbracelet/soft-serve/pull/574) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 day ago)
+- [fix: recover from panics within cmds](https://github.com/charmbracelet/bubbletea/pull/1134) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
+- [feat(ansi): add mode consts](https://github.com/charmbracelet/x/pull/187) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 day ago)
+- [docs: update required fields](https://github.com/caddy-dns/route53/pull/54) on [caddy-dns/route53](https://github.com/caddy-dns/route53) (1 day ago)
+- [feat(ci): use goreleaser](https://github.com/charmbracelet/glamour/pull/348) on [charmbracelet/glamour](https://github.com/charmbracelet/glamour) (2 days ago)
+- [chore(deps): bump github.com/charmbracelet/glamour from 0.7.0 to 0.8.0](https://github.com/charmbracelet/soft-serve/pull/574) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (2 days ago)
 
 #### 📜 My recent blog posts
 
@@ -48,7 +48,7 @@
 - [99designs/keyring](https://github.com/99designs/keyring) - Go library providing a uniform interface across a range of secure credential stores (2 weeks ago)
 - [go-sprout/sprout](https://github.com/go-sprout/sprout) - From sprig to sprout - Useful template functions for Go templates with steroids (2 months ago)
 - [galdor/go-thumbhash](https://github.com/galdor/go-thumbhash) - A Go implementation of the Thumbhash image placeholder generation algorithm. (3 months ago)
-- [nmasur/dotfiles](https://github.com/nmasur/dotfiles) - Nix configuration and settings (3 months ago)
+- [nmasur/dotfiles](https://github.com/nmasur/dotfiles) - Nix configuration and settings (4 months ago)
 
 #### 📫 How to reach me
 
