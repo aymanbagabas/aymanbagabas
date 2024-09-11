@@ -4,10 +4,10 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (today)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (today)
 - [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (today)
 - [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (1 day ago)
-- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (1 day ago)
 - [caddy-dns/route53](https://github.com/caddy-dns/route53) - Caddy module: dns.providers.route53 (1 day ago)
 
 #### 🌱 My latest projects
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: add cellbuf package](https://github.com/charmbracelet/x/pull/188) on [charmbracelet/x](https://github.com/charmbracelet/x) (today)
+- [docs: update readme badge images](https://github.com/charmbracelet/bubbletea/pull/1137) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [fix: recover from panics within cmds](https://github.com/charmbracelet/bubbletea/pull/1134) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
 - [feat(ansi): add mode consts](https://github.com/charmbracelet/x/pull/187) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 day ago)
 - [docs: update required fields](https://github.com/caddy-dns/route53/pull/54) on [caddy-dns/route53](https://github.com/caddy-dns/route53) (1 day ago)
-- [feat(ci): use goreleaser](https://github.com/charmbracelet/glamour/pull/348) on [charmbracelet/glamour](https://github.com/charmbracelet/glamour) (2 days ago)
-- [chore(deps): bump github.com/charmbracelet/glamour from 0.7.0 to 0.8.0](https://github.com/charmbracelet/soft-serve/pull/574) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (2 days ago)
 
 #### 📜 My recent blog posts
 
