@@ -5,10 +5,10 @@
 #### 👷 Check out what I'm currently working on
 
 - [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (today)
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧 (today)
+- [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (1 day ago)
 - [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (1 day ago)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 day ago)
-- [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (1 day ago)
-- [caddy-dns/route53](https://github.com/caddy-dns/route53) - Caddy module: dns.providers.route53 (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: lint issues and disable predeclared linter](https://github.com/charmbracelet/bubbles/pull/614) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (today)
 - [fix: use safeWriter to guard writing to output](https://github.com/charmbracelet/bubbletea/pull/1140) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [feat(teatest): use bubbletea@v2-exp](https://github.com/charmbracelet/x/pull/191) on [charmbracelet/x](https://github.com/charmbracelet/x) (today)
 - [(v2) New renderer api](https://github.com/charmbracelet/bubbletea/pull/1139) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [feat: enable git diff-highlight](https://github.com/aymanbagabas/dotfiles/pull/12) on [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) (today)
-- [git: add diff-highlight diff pager option](https://github.com/nix-community/home-manager/pull/5824) on [nix-community/home-manager](https://github.com/nix-community/home-manager) (today)
 
 #### 📜 My recent blog posts
 
