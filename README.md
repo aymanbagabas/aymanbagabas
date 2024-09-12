@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (today)
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (today)
-- [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (today)
 - [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (1 day ago)
-- [caddy-dns/route53](https://github.com/caddy-dns/route53) - Caddy module: dns.providers.route53 (1 day ago)
+- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (1 day ago)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 day ago)
+- [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (1 day ago)
+- [caddy-dns/route53](https://github.com/caddy-dns/route53) - Caddy module: dns.providers.route53 (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v1.1.1](https://github.com/charmbracelet/bubbletea/releases/tag/v1.1.1), today) - A powerful little TUI framework 🏗
-- [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.14.5](https://github.com/charmbracelet/gum/releases/tag/v0.14.5), 5 days ago) - A tool for glamorous shell scripts 🎀
-- [charmbracelet/huh](https://github.com/charmbracelet/huh) ([v0.6.0](https://github.com/charmbracelet/huh/releases/tag/v0.6.0), 5 days ago) - Build terminal forms and prompts 🤷🏻‍♀️
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.20.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.20.0), 5 days ago) - TUI components for Bubble Tea 🫧
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v1.1.1](https://github.com/charmbracelet/bubbletea/releases/tag/v1.1.1), 1 day ago) - A powerful little TUI framework 🏗
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.14.5](https://github.com/charmbracelet/gum/releases/tag/v0.14.5), 6 days ago) - A tool for glamorous shell scripts 🎀
+- [charmbracelet/huh](https://github.com/charmbracelet/huh) ([v0.6.0](https://github.com/charmbracelet/huh/releases/tag/v0.6.0), 6 days ago) - Build terminal forms and prompts 🤷🏻‍♀️
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.20.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.20.0), 6 days ago) - TUI components for Bubble Tea 🫧
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v1.4.3](https://github.com/charmbracelet/wish/releases/tag/v1.4.3), 1 week ago) - Make SSH apps, just like that! 💫
 
 #### 🔨 My recent Pull Requests
 
-- [feat: add cellbuf package](https://github.com/charmbracelet/x/pull/188) on [charmbracelet/x](https://github.com/charmbracelet/x) (today)
-- [docs: update readme badge images](https://github.com/charmbracelet/bubbletea/pull/1137) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
-- [fix: recover from panics within cmds](https://github.com/charmbracelet/bubbletea/pull/1134) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
-- [feat(ansi): add mode consts](https://github.com/charmbracelet/x/pull/187) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 day ago)
-- [docs: update required fields](https://github.com/caddy-dns/route53/pull/54) on [caddy-dns/route53](https://github.com/caddy-dns/route53) (1 day ago)
+- [git: add diff-highlight diff pager option](https://github.com/nix-community/home-manager/pull/5824) on [nix-community/home-manager](https://github.com/nix-community/home-manager) (today)
+- [feat: add cellbuf package](https://github.com/charmbracelet/x/pull/188) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 day ago)
+- [docs: update readme badge images](https://github.com/charmbracelet/bubbletea/pull/1137) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
+- [fix: recover from panics within cmds](https://github.com/charmbracelet/bubbletea/pull/1134) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 days ago)
+- [feat(ansi): add mode consts](https://github.com/charmbracelet/x/pull/187) on [charmbracelet/x](https://github.com/charmbracelet/x) (2 days ago)
 
 #### 📜 My recent blog posts
 
