@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: use safeWriter to guard writing to output](https://github.com/charmbracelet/bubbletea/pull/1140) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [feat(teatest): use bubbletea@v2-exp](https://github.com/charmbracelet/x/pull/191) on [charmbracelet/x](https://github.com/charmbracelet/x) (today)
 - [(v2) New renderer api](https://github.com/charmbracelet/bubbletea/pull/1139) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [feat: enable git diff-highlight](https://github.com/aymanbagabas/dotfiles/pull/12) on [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) (today)
 - [git: add diff-highlight diff pager option](https://github.com/nix-community/home-manager/pull/5824) on [nix-community/home-manager](https://github.com/nix-community/home-manager) (today)
-- [feat: add cellbuf package](https://github.com/charmbracelet/x/pull/188) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 day ago)
 
 #### 📜 My recent blog posts
 
