@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: add color profiles and detect the terminal profile on program run](https://github.com/charmbracelet/bubbletea/pull/1142) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [fix: lint issues and disable predeclared linter](https://github.com/charmbracelet/bubbles/pull/614) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (today)
 - [fix: use safeWriter to guard writing to output](https://github.com/charmbracelet/bubbletea/pull/1140) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [feat(teatest): use bubbletea@v2-exp](https://github.com/charmbracelet/x/pull/191) on [charmbracelet/x](https://github.com/charmbracelet/x) (today)
 - [(v2) New renderer api](https://github.com/charmbracelet/bubbletea/pull/1139) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
-- [feat: enable git diff-highlight](https://github.com/aymanbagabas/dotfiles/pull/12) on [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) (today)
 
 #### 📜 My recent blog posts
 
