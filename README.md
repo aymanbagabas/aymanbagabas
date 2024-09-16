@@ -20,11 +20,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) ([v0.1.0](https://github.com/charmbracelet/colorprofile/releases/tag/v0.1.0), today) - Magical terminal color handling 🪄
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v1.1.1](https://github.com/charmbracelet/bubbletea/releases/tag/v1.1.1), 5 days ago) - A powerful little TUI framework 🏗
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.14.5](https://github.com/charmbracelet/gum/releases/tag/v0.14.5), 1 week ago) - A tool for glamorous shell scripts 🎀
 - [charmbracelet/huh](https://github.com/charmbracelet/huh) ([v0.6.0](https://github.com/charmbracelet/huh/releases/tag/v0.6.0), 1 week ago) - Build terminal forms and prompts 🤷🏻‍♀️
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.20.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.20.0), 1 week ago) - TUI components for Bubble Tea 🫧
-- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v1.4.3](https://github.com/charmbracelet/wish/releases/tag/v1.4.3), 1 week ago) - Make SSH apps, just like that! 💫
 
 #### 🔨 My recent Pull Requests
 
