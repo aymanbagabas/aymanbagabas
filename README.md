@@ -6,7 +6,7 @@
 
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (today)
 - [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) - Magical terminal color handling 🪄 (today)
-- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (1 day ago)
+- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (today)
 - [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (2 days ago)
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧 (4 days ago)
 
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [(v2) feat: support terminal color profiles](https://github.com/charmbracelet/bubbletea/pull/1151) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [fix: handle Kitty keyboard protocol extensions to legacy sequences](https://github.com/charmbracelet/bubbletea/pull/1149) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [chore(deps): bump github.com/charmbracelet/x/ansi from 0.2.3 to 0.3.1](https://github.com/charmbracelet/bubbletea/pull/1147) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [(v2) feat: add color profile writer](https://github.com/charmbracelet/bubbletea/pull/1143) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (4 days ago)
 - [(v2) feat: add color profiles and detect the terminal profile on program run](https://github.com/charmbracelet/bubbletea/pull/1142) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (4 days ago)
-- [fix: lint issues and disable predeclared linter](https://github.com/charmbracelet/bubbles/pull/614) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (4 days ago)
 
 #### 📜 My recent blog posts
 
