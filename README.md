@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: handle Kitty keyboard protocol extensions to legacy sequences](https://github.com/charmbracelet/bubbletea/pull/1149) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [chore(deps): bump github.com/charmbracelet/x/ansi from 0.2.3 to 0.3.1](https://github.com/charmbracelet/bubbletea/pull/1147) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [(v2) feat: add color profile writer](https://github.com/charmbracelet/bubbletea/pull/1143) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (4 days ago)
 - [(v2) feat: add color profiles and detect the terminal profile on program run](https://github.com/charmbracelet/bubbletea/pull/1142) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (4 days ago)
 - [fix: lint issues and disable predeclared linter](https://github.com/charmbracelet/bubbles/pull/614) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (4 days ago)
-- [fix: use safeWriter to guard writing to output](https://github.com/charmbracelet/bubbletea/pull/1140) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (4 days ago)
 
 #### 📜 My recent blog posts
 
