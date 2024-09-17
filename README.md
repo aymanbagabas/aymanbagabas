@@ -28,7 +28,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [feat: combine keyboard enhancements into a nicer API](https://github.com/charmbracelet/bubbletea/pull/1152) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
+- [(v2) feat: combine keyboard enhancements into a nicer API](https://github.com/charmbracelet/bubbletea/pull/1152) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [Script submodule](https://github.com/charmbracelet/x/pull/198) on [charmbracelet/x](https://github.com/charmbracelet/x) (today)
 - [feat: add teatest/v2 to use bubbletea@v2-exp](https://github.com/charmbracelet/x/pull/197) on [charmbracelet/x](https://github.com/charmbracelet/x) (today)
 - [(v2) feat: support terminal color profiles](https://github.com/charmbracelet/bubbletea/pull/1151) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
