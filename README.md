@@ -4,10 +4,10 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (today)
 - [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (today)
 - [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) - Magical terminal color handling 🪄 (1 day ago)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (2 days ago)
-- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (4 days ago)
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧 (6 days ago)
 
 #### 🌱 My latest projects
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat!: v2: update module path to github.com/charmbracelet/bubbletea/v2](https://github.com/charmbracelet/bubbletea/pull/1154) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
+- [feat(ci): add golangci-lint config and shared workflow](https://github.com/charmbracelet/meta/pull/165) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (today)
 - [feat(ci): update coverage workflow](https://github.com/charmbracelet/meta/pull/164) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (today)
 - [(v2) feat: combine keyboard enhancements into a nicer API](https://github.com/charmbracelet/bubbletea/pull/1152) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
 - [Script submodule](https://github.com/charmbracelet/x/pull/198) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 day ago)
-- [feat: add teatest/v2 to use bubbletea@v2-exp](https://github.com/charmbracelet/x/pull/197) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 day ago)
-- [(v2) feat: support terminal color profiles](https://github.com/charmbracelet/bubbletea/pull/1151) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 days ago)
 
 #### 📜 My recent blog posts
 
