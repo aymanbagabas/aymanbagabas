@@ -4,10 +4,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (today)
 - [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (today)
+- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (today)
+- [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) - Magical terminal color handling 🪄 (today)
 - [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (today)
-- [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) - Magical terminal color handling 🪄 (1 day ago)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (2 days ago)
 
 #### 🌱 My latest projects
@@ -20,11 +20,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v2.0.0-alpha.1](https://github.com/charmbracelet/bubbles/releases/tag/v2.0.0-alpha.1), today) - TUI components for Bubble Tea 🫧
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v2.0.0-alpha.1](https://github.com/charmbracelet/bubbletea/releases/tag/v2.0.0-alpha.1), today) - A powerful little TUI framework 🏗
 - [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) ([v0.1.1](https://github.com/charmbracelet/colorprofile/releases/tag/v0.1.1), 1 day ago) - Magical terminal color handling 🪄
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v1.1.1](https://github.com/charmbracelet/bubbletea/releases/tag/v1.1.1), 1 week ago) - A powerful little TUI framework 🏗
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.14.5](https://github.com/charmbracelet/gum/releases/tag/v0.14.5), 1 week ago) - A tool for glamorous shell scripts 🎀
 - [charmbracelet/huh](https://github.com/charmbracelet/huh) ([v0.6.0](https://github.com/charmbracelet/huh/releases/tag/v0.6.0), 1 week ago) - Build terminal forms and prompts 🤷🏻‍♀️
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.20.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.20.0), 1 week ago) - TUI components for Bubble Tea 🫧
 
 #### 🔨 My recent Pull Requests
 
