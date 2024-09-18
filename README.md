@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) - Magical terminal color handling 🪄 (today)
-- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (today)
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 day ago)
-- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (3 days ago)
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧 (5 days ago)
+- [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) - Magical terminal color handling 🪄 (1 day ago)
+- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (1 day ago)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (2 days ago)
+- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (4 days ago)
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧 (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) ([v0.1.1](https://github.com/charmbracelet/colorprofile/releases/tag/v0.1.1), today) - Magical terminal color handling 🪄
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v1.1.1](https://github.com/charmbracelet/bubbletea/releases/tag/v1.1.1), 6 days ago) - A powerful little TUI framework 🏗
+- [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) ([v0.1.1](https://github.com/charmbracelet/colorprofile/releases/tag/v0.1.1), 1 day ago) - Magical terminal color handling 🪄
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v1.1.1](https://github.com/charmbracelet/bubbletea/releases/tag/v1.1.1), 1 week ago) - A powerful little TUI framework 🏗
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.14.5](https://github.com/charmbracelet/gum/releases/tag/v0.14.5), 1 week ago) - A tool for glamorous shell scripts 🎀
 - [charmbracelet/huh](https://github.com/charmbracelet/huh) ([v0.6.0](https://github.com/charmbracelet/huh/releases/tag/v0.6.0), 1 week ago) - Build terminal forms and prompts 🤷🏻‍♀️
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.20.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.20.0), 1 week ago) - TUI components for Bubble Tea 🫧
 
 #### 🔨 My recent Pull Requests
 
-- [(v2) feat: combine keyboard enhancements into a nicer API](https://github.com/charmbracelet/bubbletea/pull/1152) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
-- [Script submodule](https://github.com/charmbracelet/x/pull/198) on [charmbracelet/x](https://github.com/charmbracelet/x) (today)
-- [feat: add teatest/v2 to use bubbletea@v2-exp](https://github.com/charmbracelet/x/pull/197) on [charmbracelet/x](https://github.com/charmbracelet/x) (today)
-- [(v2) feat: support terminal color profiles](https://github.com/charmbracelet/bubbletea/pull/1151) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
-- [fix: handle Kitty keyboard protocol extensions to legacy sequences](https://github.com/charmbracelet/bubbletea/pull/1149) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
+- [(v2) feat: combine keyboard enhancements into a nicer API](https://github.com/charmbracelet/bubbletea/pull/1152) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
+- [Script submodule](https://github.com/charmbracelet/x/pull/198) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 day ago)
+- [feat: add teatest/v2 to use bubbletea@v2-exp](https://github.com/charmbracelet/x/pull/197) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 day ago)
+- [(v2) feat: support terminal color profiles](https://github.com/charmbracelet/bubbletea/pull/1151) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 days ago)
+- [fix: handle Kitty keyboard protocol extensions to legacy sequences](https://github.com/charmbracelet/bubbletea/pull/1149) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 days ago)
 
 #### 📜 My recent blog posts
 
@@ -44,8 +44,8 @@
 
 #### ⭐ Recent Stars
 
-- [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) - Magical terminal color handling 🪄 (1 day ago)
-- [kubewall/kubewall](https://github.com/kubewall/kubewall) - A single binary dashboard to manage your multiple kubernetes clusters. (3 days ago)
+- [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) - Magical terminal color handling 🪄 (2 days ago)
+- [kubewall/kubewall](https://github.com/kubewall/kubewall) - A single binary dashboard to manage your multiple kubernetes clusters. (4 days ago)
 - [ryan4yin/nix-config](https://github.com/ryan4yin/nix-config) - ❄️ My nix config for both desktops(NixOS&#43;macOS) and homelab servers(NixOS). (2 weeks ago)
 - [99designs/keyring](https://github.com/99designs/keyring) - Go library providing a uniform interface across a range of secure credential stores (3 weeks ago)
 - [go-sprout/sprout](https://github.com/go-sprout/sprout) - From sprig to sprout - Useful template functions for Go templates with steroids (2 months ago)
