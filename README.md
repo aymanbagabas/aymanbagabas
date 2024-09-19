@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: kitty: support faulty c0 mappings](https://github.com/charmbracelet/bubbletea/pull/1161) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [feat(ci): use shared workflows](https://github.com/charmbracelet/colorprofile/pull/4) on [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) (1 day ago)
 - [feat!: v2: update module path to github.com/charmbracelet/bubbletea/v2](https://github.com/charmbracelet/bubbletea/pull/1154) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
 - [feat(ci): add golangci-lint config and shared workflow](https://github.com/charmbracelet/meta/pull/165) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (1 day ago)
 - [feat(ci): update coverage workflow](https://github.com/charmbracelet/meta/pull/164) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (1 day ago)
-- [(v2) feat: combine keyboard enhancements into a nicer API](https://github.com/charmbracelet/bubbletea/pull/1152) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 days ago)
 
 #### 📜 My recent blog posts
 
