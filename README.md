@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [(v2) refactor!: remove deprecated references](https://github.com/charmbracelet/bubbles/pull/620) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (today)
+- [(v2) refactor!: viewport: remove deprecated HighPerformanceRendering](https://github.com/charmbracelet/bubbles/pull/619) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (today)
 - [fix: kitty: support faulty c0 mappings](https://github.com/charmbracelet/bubbletea/pull/1161) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [feat(ci): use shared workflows](https://github.com/charmbracelet/colorprofile/pull/4) on [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) (1 day ago)
 - [feat!: v2: update module path to github.com/charmbracelet/bubbletea/v2](https://github.com/charmbracelet/bubbletea/pull/1154) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
-- [feat(ci): add golangci-lint config and shared workflow](https://github.com/charmbracelet/meta/pull/165) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (1 day ago)
-- [feat(ci): update coverage workflow](https://github.com/charmbracelet/meta/pull/164) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (1 day ago)
 
 #### 📜 My recent blog posts
 
