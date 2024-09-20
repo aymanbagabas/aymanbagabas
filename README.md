@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (today)
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (today)
-- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (1 day ago)
-- [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) - Magical terminal color handling 🪄 (1 day ago)
-- [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (1 day ago)
+- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (1 day ago)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 day ago)
+- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (2 days ago)
+- [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) - Magical terminal color handling 🪄 (2 days ago)
+- [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v2.0.0-alpha.1](https://github.com/charmbracelet/bubbles/releases/tag/v2.0.0-alpha.1), 1 day ago) - TUI components for Bubble Tea 🫧
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v2.0.0-alpha.1](https://github.com/charmbracelet/bubbletea/releases/tag/v2.0.0-alpha.1), 1 day ago) - A powerful little TUI framework 🏗
-- [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) ([v0.1.1](https://github.com/charmbracelet/colorprofile/releases/tag/v0.1.1), 2 days ago) - Magical terminal color handling 🪄
-- [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.14.5](https://github.com/charmbracelet/gum/releases/tag/v0.14.5), 1 week ago) - A tool for glamorous shell scripts 🎀
-- [charmbracelet/huh](https://github.com/charmbracelet/huh) ([v0.6.0](https://github.com/charmbracelet/huh/releases/tag/v0.6.0), 1 week ago) - Build terminal forms and prompts 🤷🏻‍♀️
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v2.0.0-alpha.1](https://github.com/charmbracelet/bubbles/releases/tag/v2.0.0-alpha.1), 2 days ago) - TUI components for Bubble Tea 🫧
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v2.0.0-alpha.1](https://github.com/charmbracelet/bubbletea/releases/tag/v2.0.0-alpha.1), 2 days ago) - A powerful little TUI framework 🏗
+- [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) ([v0.1.1](https://github.com/charmbracelet/colorprofile/releases/tag/v0.1.1), 3 days ago) - Magical terminal color handling 🪄
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.14.5](https://github.com/charmbracelet/gum/releases/tag/v0.14.5), 2 weeks ago) - A tool for glamorous shell scripts 🎀
+- [charmbracelet/huh](https://github.com/charmbracelet/huh) ([v0.6.0](https://github.com/charmbracelet/huh/releases/tag/v0.6.0), 2 weeks ago) - Build terminal forms and prompts 🤷🏻‍♀️
 
 #### 🔨 My recent Pull Requests
 
-- [fix: windows: AltGr maps to LEFT_CTRL&#43;RIGHT_ALT](https://github.com/charmbracelet/bubbletea/pull/1162) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
-- [(v2) refactor!: remove deprecated references](https://github.com/charmbracelet/bubbles/pull/620) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (today)
-- [(v2) refactor!: viewport: remove deprecated HighPerformanceRendering](https://github.com/charmbracelet/bubbles/pull/619) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (today)
-- [fix: kitty: support faulty c0 mappings](https://github.com/charmbracelet/bubbletea/pull/1161) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
-- [feat(ci): use shared workflows](https://github.com/charmbracelet/colorprofile/pull/4) on [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) (1 day ago)
+- [fix: windows: AltGr maps to LEFT_CTRL&#43;RIGHT_ALT](https://github.com/charmbracelet/bubbletea/pull/1162) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
+- [(v2) refactor!: remove deprecated references](https://github.com/charmbracelet/bubbles/pull/620) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (1 day ago)
+- [(v2) refactor!: viewport: remove deprecated HighPerformanceRendering](https://github.com/charmbracelet/bubbles/pull/619) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (1 day ago)
+- [fix: kitty: support faulty c0 mappings](https://github.com/charmbracelet/bubbletea/pull/1161) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
+- [feat(ci): use shared workflows](https://github.com/charmbracelet/colorprofile/pull/4) on [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) (2 days ago)
 
 #### 📜 My recent blog posts
 
@@ -44,8 +44,8 @@
 
 #### ⭐ Recent Stars
 
-- [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) - Magical terminal color handling 🪄 (3 days ago)
-- [kubewall/kubewall](https://github.com/kubewall/kubewall) - A single binary dashboard to manage your multiple kubernetes clusters. (5 days ago)
+- [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) - Magical terminal color handling 🪄 (4 days ago)
+- [kubewall/kubewall](https://github.com/kubewall/kubewall) - A single binary dashboard to manage your multiple kubernetes clusters. (6 days ago)
 - [ryan4yin/nix-config](https://github.com/ryan4yin/nix-config) - ❄️ My nix config for both desktops(NixOS&#43;macOS) and homelab servers(NixOS). (2 weeks ago)
 - [99designs/keyring](https://github.com/99designs/keyring) - Go library providing a uniform interface across a range of secure credential stores (3 weeks ago)
 - [go-sprout/sprout](https://github.com/go-sprout/sprout) - From sprig to sprout - Useful template functions for Go templates with steroids (2 months ago)
