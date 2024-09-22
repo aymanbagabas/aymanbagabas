@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (2 days ago)
-- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (2 days ago)
-- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (3 days ago)
-- [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) - Magical terminal color handling 🪄 (3 days ago)
-- [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (3 days ago)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (3 days ago)
+- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (3 days ago)
+- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (4 days ago)
+- [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) - Magical terminal color handling 🪄 (4 days ago)
+- [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v2.0.0-alpha.1](https://github.com/charmbracelet/bubbles/releases/tag/v2.0.0-alpha.1), 3 days ago) - TUI components for Bubble Tea 🫧
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v2.0.0-alpha.1](https://github.com/charmbracelet/bubbletea/releases/tag/v2.0.0-alpha.1), 3 days ago) - A powerful little TUI framework 🏗
-- [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) ([v0.1.1](https://github.com/charmbracelet/colorprofile/releases/tag/v0.1.1), 4 days ago) - Magical terminal color handling 🪄
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v2.0.0-alpha.1](https://github.com/charmbracelet/bubbles/releases/tag/v2.0.0-alpha.1), 4 days ago) - TUI components for Bubble Tea 🫧
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v2.0.0-alpha.1](https://github.com/charmbracelet/bubbletea/releases/tag/v2.0.0-alpha.1), 4 days ago) - A powerful little TUI framework 🏗
+- [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) ([v0.1.1](https://github.com/charmbracelet/colorprofile/releases/tag/v0.1.1), 5 days ago) - Magical terminal color handling 🪄
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.14.5](https://github.com/charmbracelet/gum/releases/tag/v0.14.5), 2 weeks ago) - A tool for glamorous shell scripts 🎀
 - [charmbracelet/huh](https://github.com/charmbracelet/huh) ([v0.6.0](https://github.com/charmbracelet/huh/releases/tag/v0.6.0), 2 weeks ago) - Build terminal forms and prompts 🤷🏻‍♀️
 
 #### 🔨 My recent Pull Requests
 
-- [(v2) refactor: windows: clean up, tidy and improve windows key handling](https://github.com/charmbracelet/bubbletea/pull/1163) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
-- [fix: windows: AltGr maps to LEFT_CTRL&#43;RIGHT_ALT](https://github.com/charmbracelet/bubbletea/pull/1162) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 days ago)
-- [(v2) refactor!: remove deprecated references](https://github.com/charmbracelet/bubbles/pull/620) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (2 days ago)
-- [(v2) refactor!: viewport: remove deprecated HighPerformanceRendering](https://github.com/charmbracelet/bubbles/pull/619) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (2 days ago)
-- [(v2) fix: kitty: support faulty c0 mappings](https://github.com/charmbracelet/bubbletea/pull/1161) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 days ago)
+- [(v2) refactor: windows: clean up, tidy and improve windows key handling](https://github.com/charmbracelet/bubbletea/pull/1163) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 days ago)
+- [fix: windows: AltGr maps to LEFT_CTRL&#43;RIGHT_ALT](https://github.com/charmbracelet/bubbletea/pull/1162) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (3 days ago)
+- [(v2) refactor!: remove deprecated references](https://github.com/charmbracelet/bubbles/pull/620) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (3 days ago)
+- [(v2) refactor!: viewport: remove deprecated HighPerformanceRendering](https://github.com/charmbracelet/bubbles/pull/619) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (3 days ago)
+- [(v2) fix: kitty: support faulty c0 mappings](https://github.com/charmbracelet/bubbletea/pull/1161) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (3 days ago)
 
 #### 📜 My recent blog posts
 
@@ -44,7 +44,7 @@
 
 #### ⭐ Recent Stars
 
-- [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) - Magical terminal color handling 🪄 (5 days ago)
+- [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) - Magical terminal color handling 🪄 (6 days ago)
 - [kubewall/kubewall](https://github.com/kubewall/kubewall) - A single binary dashboard to manage your multiple kubernetes clusters. (1 week ago)
 - [ryan4yin/nix-config](https://github.com/ryan4yin/nix-config) - ❄️ My nix config for both desktops(NixOS&#43;macOS) and homelab servers(NixOS). (3 weeks ago)
 - [99designs/keyring](https://github.com/99designs/keyring) - Go library providing a uniform interface across a range of secure credential stores (4 weeks ago)
