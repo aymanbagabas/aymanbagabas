@@ -4,9 +4,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (today)
-- [aymanbagabas/homebrew-tap](https://github.com/aymanbagabas/homebrew-tap) - aymanbagabas/tap (1 day ago)
-- [aymanbagabas/shcopy](https://github.com/aymanbagabas/shcopy) - 📋 Copy text to your system clipboard locally and remotely using ANSI OSC52 sequence (1 day ago)
+- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (1 day ago)
+- [aymanbagabas/homebrew-tap](https://github.com/aymanbagabas/homebrew-tap) - aymanbagabas/tap (2 days ago)
+- [aymanbagabas/shcopy](https://github.com/aymanbagabas/shcopy) - 📋 Copy text to your system clipboard locally and remotely using ANSI OSC52 sequence (2 days ago)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 week ago)
 - [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) - Magical terminal color handling 🪄 (1 week ago)
 
@@ -20,15 +20,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [aymanbagabas/shcopy](https://github.com/aymanbagabas/shcopy) ([v0.1.5](https://github.com/aymanbagabas/shcopy/releases/tag/v0.1.5), 3 days ago) - 📋 Copy text to your system clipboard locally and remotely using ANSI OSC52 sequence
+- [aymanbagabas/shcopy](https://github.com/aymanbagabas/shcopy) ([v0.1.5](https://github.com/aymanbagabas/shcopy/releases/tag/v0.1.5), 4 days ago) - 📋 Copy text to your system clipboard locally and remotely using ANSI OSC52 sequence
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v2.0.0-alpha.1](https://github.com/charmbracelet/bubbles/releases/tag/v2.0.0-alpha.1), 1 week ago) - TUI components for Bubble Tea 🫧
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v2.0.0-alpha.1](https://github.com/charmbracelet/bubbletea/releases/tag/v2.0.0-alpha.1), 1 week ago) - A powerful little TUI framework 🏗
 - [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) ([v0.1.1](https://github.com/charmbracelet/colorprofile/releases/tag/v0.1.1), 1 week ago) - Magical terminal color handling 🪄
-- [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.14.5](https://github.com/charmbracelet/gum/releases/tag/v0.14.5), 2 weeks ago) - A tool for glamorous shell scripts 🎀
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.14.5](https://github.com/charmbracelet/gum/releases/tag/v0.14.5), 3 weeks ago) - A tool for glamorous shell scripts 🎀
 
 #### 🔨 My recent Pull Requests
 
-- [(v2) refactor: windows: clean up, tidy and improve windows key handling](https://github.com/charmbracelet/bubbletea/pull/1163) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (6 days ago)
+- [(v2) refactor: windows: clean up, tidy and improve windows key handling](https://github.com/charmbracelet/bubbletea/pull/1163) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 week ago)
 - [fix: windows: AltGr maps to LEFT_CTRL&#43;RIGHT_ALT](https://github.com/charmbracelet/bubbletea/pull/1162) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 week ago)
 - [(v2) refactor!: remove deprecated references](https://github.com/charmbracelet/bubbles/pull/620) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (1 week ago)
 - [(v2) refactor!: viewport: remove deprecated HighPerformanceRendering](https://github.com/charmbracelet/bubbles/pull/619) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (1 week ago)
@@ -44,7 +44,7 @@
 
 #### ⭐ Recent Stars
 
-- [C4illin/ConvertX](https://github.com/C4illin/ConvertX) - 💾 Self-hosted online file converter. Supports over a thousand formats (1 day ago)
+- [C4illin/ConvertX](https://github.com/C4illin/ConvertX) - 💾 Self-hosted online file converter. Supports over a thousand formats (2 days ago)
 - [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) - Magical terminal color handling 🪄 (1 week ago)
 - [kubewall/kubewall](https://github.com/kubewall/kubewall) - A single binary kubernetes dashboard to manage your multiple clusters. (1 week ago)
 - [ryan4yin/nix-config](https://github.com/ryan4yin/nix-config) - ❄️ My nix config for both desktops(NixOS&#43;macOS) and homelab servers(NixOS). (3 weeks ago)
