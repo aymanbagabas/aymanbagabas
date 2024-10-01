@@ -5,10 +5,10 @@
 #### 👷 Check out what I'm currently working on
 
 - [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (today)
-- [aymanbagabas/shcopy](https://github.com/aymanbagabas/shcopy) - 📋 Copy text to your system clipboard locally and remotely using ANSI OSC52 sequence (6 days ago)
 - [aymanbagabas/homebrew-tap](https://github.com/aymanbagabas/homebrew-tap) - aymanbagabas/tap (6 days ago)
+- [aymanbagabas/shcopy](https://github.com/aymanbagabas/shcopy) - 📋 Copy text to your system clipboard locally and remotely using ANSI OSC52 sequence (6 days ago)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 week ago)
-- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (1 week ago)
+- [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (1 week ago)
 
 #### 🌱 My latest projects
 
