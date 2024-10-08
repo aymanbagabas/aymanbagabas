@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [(v2) chore: update tests and remove unused code](https://github.com/charmbracelet/lipgloss/pull/387) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (today)
 - [Fix gpg-agent sockets on darwin](https://github.com/nix-community/home-manager/pull/5901) on [nix-community/home-manager](https://github.com/nix-community/home-manager) (1 week ago)
 - [(v2) refactor: windows: clean up, tidy and improve windows key handling](https://github.com/charmbracelet/bubbletea/pull/1163) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 weeks ago)
 - [fix: windows: AltGr maps to LEFT_CTRL&#43;RIGHT_ALT](https://github.com/charmbracelet/bubbletea/pull/1162) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 weeks ago)
 - [(v2) refactor!: remove deprecated references](https://github.com/charmbracelet/bubbles/pull/620) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (2 weeks ago)
-- [(v2) refactor!: viewport: remove deprecated HighPerformanceRendering](https://github.com/charmbracelet/bubbles/pull/619) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
