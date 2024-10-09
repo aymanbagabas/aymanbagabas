@@ -4,10 +4,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (1 day ago)
+- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (2 days ago)
 - [aymanbagabas/go-udiff](https://github.com/aymanbagabas/go-udiff) - µDiff - a micro Go diffing library (1 week ago)
-- [aymanbagabas/homebrew-tap](https://github.com/aymanbagabas/homebrew-tap) - aymanbagabas/tap (1 week ago)
-- [aymanbagabas/shcopy](https://github.com/aymanbagabas/shcopy) - 📋 Copy text to your system clipboard locally and remotely using ANSI OSC52 sequence (1 week ago)
+- [aymanbagabas/homebrew-tap](https://github.com/aymanbagabas/homebrew-tap) - aymanbagabas/tap (2 weeks ago)
+- [aymanbagabas/shcopy](https://github.com/aymanbagabas/shcopy) - 📋 Copy text to your system clipboard locally and remotely using ANSI OSC52 sequence (2 weeks ago)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (2 weeks ago)
 
 #### 🌱 My latest projects
@@ -21,14 +21,14 @@
 #### 🔭 Latest releases I've contributed to
 
 - [aymanbagabas/shcopy](https://github.com/aymanbagabas/shcopy) ([v0.1.5](https://github.com/aymanbagabas/shcopy/releases/tag/v0.1.5), 2 weeks ago) - 📋 Copy text to your system clipboard locally and remotely using ANSI OSC52 sequence
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v2.0.0-alpha.1](https://github.com/charmbracelet/bubbles/releases/tag/v2.0.0-alpha.1), 2 weeks ago) - TUI components for Bubble Tea 🫧
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v2.0.0-alpha.1](https://github.com/charmbracelet/bubbletea/releases/tag/v2.0.0-alpha.1), 2 weeks ago) - A powerful little TUI framework 🏗
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v2.0.0-alpha.1](https://github.com/charmbracelet/bubbles/releases/tag/v2.0.0-alpha.1), 3 weeks ago) - TUI components for Bubble Tea 🫧
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v2.0.0-alpha.1](https://github.com/charmbracelet/bubbletea/releases/tag/v2.0.0-alpha.1), 3 weeks ago) - A powerful little TUI framework 🏗
 - [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) ([v0.1.1](https://github.com/charmbracelet/colorprofile/releases/tag/v0.1.1), 3 weeks ago) - Magical terminal color handling 🪄
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.14.5](https://github.com/charmbracelet/gum/releases/tag/v0.14.5), 1 month ago) - A tool for glamorous shell scripts 🎀
 
 #### 🔨 My recent Pull Requests
 
-- [(v2) chore: update tests and remove unused code](https://github.com/charmbracelet/lipgloss/pull/387) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (today)
+- [(v2) chore: update tests and remove unused code](https://github.com/charmbracelet/lipgloss/pull/387) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (1 day ago)
 - [Fix gpg-agent sockets on darwin](https://github.com/nix-community/home-manager/pull/5901) on [nix-community/home-manager](https://github.com/nix-community/home-manager) (1 week ago)
 - [(v2) refactor: windows: clean up, tidy and improve windows key handling](https://github.com/charmbracelet/bubbletea/pull/1163) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 weeks ago)
 - [fix: windows: AltGr maps to LEFT_CTRL&#43;RIGHT_ALT](https://github.com/charmbracelet/bubbletea/pull/1162) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 weeks ago)
@@ -44,8 +44,8 @@
 
 #### ⭐ Recent Stars
 
-- [khaneliman/khanelinix](https://github.com/khaneliman/khanelinix) - Nix configuration for my systems supporting macOS, NixOS, and WSL.  (3 days ago)
-- [C4illin/ConvertX](https://github.com/C4illin/ConvertX) - 💾 Self-hosted online file converter. Supports 1000&#43; formats (1 week ago)
+- [khaneliman/khanelinix](https://github.com/khaneliman/khanelinix) - Nix configuration for my systems supporting macOS, NixOS, and WSL.  (4 days ago)
+- [C4illin/ConvertX](https://github.com/C4illin/ConvertX) - 💾 Self-hosted online file converter. Supports 1000&#43; formats (2 weeks ago)
 - [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) - Magical terminal color handling 🪄 (3 weeks ago)
 - [kubewall/kubewall](https://github.com/kubewall/kubewall) - A single binary kubernetes dashboard to manage your multiple clusters. (3 weeks ago)
 - [ryan4yin/nix-config](https://github.com/ryan4yin/nix-config) - ❄️ My nix config for both desktops(NixOS&#43;macOS) and homelab servers(NixOS). (1 month ago)
