@@ -7,8 +7,8 @@
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (today)
 - [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (1 day ago)
 - [aymanbagabas/go-udiff](https://github.com/aymanbagabas/go-udiff) - µDiff - a micro Go diffing library (1 week ago)
-- [aymanbagabas/shcopy](https://github.com/aymanbagabas/shcopy) - 📋 Copy text to your system clipboard locally and remotely using ANSI OSC52 sequence (2 weeks ago)
 - [aymanbagabas/homebrew-tap](https://github.com/aymanbagabas/homebrew-tap) - aymanbagabas/tap (2 weeks ago)
+- [aymanbagabas/shcopy](https://github.com/aymanbagabas/shcopy) - 📋 Copy text to your system clipboard locally and remotely using ANSI OSC52 sequence (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: simplify adaptive package and expose QueryBackgroundColor](https://github.com/charmbracelet/lipgloss/pull/393) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (today)
 - [(v2) feat: add experimental features](https://github.com/charmbracelet/bubbletea/pull/1183) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [V2 exp options](https://github.com/charmbracelet/bubbletea/pull/1182) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [(v2) chore: update tests and remove unused code](https://github.com/charmbracelet/lipgloss/pull/387) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (3 days ago)
 - [Fix gpg-agent sockets on darwin](https://github.com/nix-community/home-manager/pull/5901) on [nix-community/home-manager](https://github.com/nix-community/home-manager) (2 weeks ago)
-- [(v2) refactor: windows: clean up, tidy and improve windows key handling](https://github.com/charmbracelet/bubbletea/pull/1163) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (3 weeks ago)
 
 #### 📜 My recent blog posts
 
