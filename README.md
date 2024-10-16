@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: support changing the cursor style](https://github.com/charmbracelet/bubbletea/pull/1189) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [feat: simplify adaptive package and expose QueryBackgroundColor](https://github.com/charmbracelet/lipgloss/pull/393) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (5 days ago)
 - [(v2) feat: add experimental features](https://github.com/charmbracelet/bubbletea/pull/1183) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (5 days ago)
 - [V2 exp options](https://github.com/charmbracelet/bubbletea/pull/1182) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (5 days ago)
 - [(v2) chore: update tests and remove unused code](https://github.com/charmbracelet/lipgloss/pull/387) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (1 week ago)
-- [Fix gpg-agent sockets on darwin](https://github.com/nix-community/home-manager/pull/5901) on [nix-community/home-manager](https://github.com/nix-community/home-manager) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
