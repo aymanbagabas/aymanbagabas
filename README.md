@@ -4,9 +4,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (today)
 - [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) - Magical terminal color handling 🪄 (1 day ago)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (2 days ago)
-- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (2 days ago)
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (6 days ago)
 - [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (6 days ago)
 
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Refactor cellbuf](https://github.com/charmbracelet/x/pull/216) on [charmbracelet/x](https://github.com/charmbracelet/x) (today)
 - [(v2) feat: support setting cursor position](https://github.com/charmbracelet/bubbletea/pull/1191) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [feat: support changing the cursor style](https://github.com/charmbracelet/bubbletea/pull/1189) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
 - [feat: simplify adaptive package and expose QueryBackgroundColor](https://github.com/charmbracelet/lipgloss/pull/393) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (6 days ago)
 - [(v2) feat: add experimental features](https://github.com/charmbracelet/bubbletea/pull/1183) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (6 days ago)
-- [V2 exp options](https://github.com/charmbracelet/bubbletea/pull/1182) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (6 days ago)
 
 #### 📜 My recent blog posts
 
