@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) - Magical terminal color handling 🪄 (today)
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 day ago)
-- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (1 day ago)
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (5 days ago)
-- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (5 days ago)
+- [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) - Magical terminal color handling 🪄 (1 day ago)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (2 days ago)
+- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (2 days ago)
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (6 days ago)
+- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) ([v0.1.2](https://github.com/charmbracelet/colorprofile/releases/tag/v0.1.2), today) - Magical terminal color handling 🪄
+- [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) ([v0.1.2](https://github.com/charmbracelet/colorprofile/releases/tag/v0.1.2), 1 day ago) - Magical terminal color handling 🪄
 - [aymanbagabas/shcopy](https://github.com/aymanbagabas/shcopy) ([v0.1.5](https://github.com/aymanbagabas/shcopy/releases/tag/v0.1.5), 3 weeks ago) - 📋 Copy text to your system clipboard locally and remotely using ANSI OSC52 sequence
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v2.0.0-alpha.1](https://github.com/charmbracelet/bubbles/releases/tag/v2.0.0-alpha.1), 4 weeks ago) - TUI components for Bubble Tea 🫧
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v2.0.0-alpha.1](https://github.com/charmbracelet/bubbletea/releases/tag/v2.0.0-alpha.1), 4 weeks ago) - A powerful little TUI framework 🏗
@@ -28,10 +28,10 @@
 
 #### 🔨 My recent Pull Requests
 
-- [feat: support changing the cursor style](https://github.com/charmbracelet/bubbletea/pull/1189) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
-- [feat: simplify adaptive package and expose QueryBackgroundColor](https://github.com/charmbracelet/lipgloss/pull/393) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (5 days ago)
-- [(v2) feat: add experimental features](https://github.com/charmbracelet/bubbletea/pull/1183) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (5 days ago)
-- [V2 exp options](https://github.com/charmbracelet/bubbletea/pull/1182) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (5 days ago)
+- [feat: support changing the cursor style](https://github.com/charmbracelet/bubbletea/pull/1189) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
+- [feat: simplify adaptive package and expose QueryBackgroundColor](https://github.com/charmbracelet/lipgloss/pull/393) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (6 days ago)
+- [(v2) feat: add experimental features](https://github.com/charmbracelet/bubbletea/pull/1183) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (6 days ago)
+- [V2 exp options](https://github.com/charmbracelet/bubbletea/pull/1182) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (6 days ago)
 - [(v2) chore: update tests and remove unused code](https://github.com/charmbracelet/lipgloss/pull/387) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (1 week ago)
 
 #### 📜 My recent blog posts
