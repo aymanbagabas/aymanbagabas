@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [(v2) fix: windows: ensure the input buffer is empty](https://github.com/charmbracelet/bubbletea/pull/1192) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [windows: add console input record event member functions](https://github.com/golang/sys/pull/228) on [golang/sys](https://github.com/golang/sys) (today)
 - [windows: add console input api](https://github.com/golang/sys/pull/227) on [golang/sys](https://github.com/golang/sys) (today)
 - [windows: add virtual key codes and console input consts](https://github.com/golang/sys/pull/226) on [golang/sys](https://github.com/golang/sys) (today)
 - [BREAKING: Method cell calculation and refactor modes and cursor](https://github.com/charmbracelet/x/pull/217) on [charmbracelet/x](https://github.com/charmbracelet/x) (4 days ago)
-- [Refactor cellbuf](https://github.com/charmbracelet/x/pull/216) on [charmbracelet/x](https://github.com/charmbracelet/x) (4 days ago)
 
 #### 📜 My recent blog posts
 
