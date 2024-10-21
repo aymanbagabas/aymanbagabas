@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [windows: add virtual key codes and console input consts](https://github.com/golang/sys/pull/226) on [golang/sys](https://github.com/golang/sys) (today)
 - [BREAKING: Method cell calculation and refactor modes and cursor](https://github.com/charmbracelet/x/pull/217) on [charmbracelet/x](https://github.com/charmbracelet/x) (4 days ago)
 - [Refactor cellbuf](https://github.com/charmbracelet/x/pull/216) on [charmbracelet/x](https://github.com/charmbracelet/x) (4 days ago)
 - [(v2) feat: support setting cursor position](https://github.com/charmbracelet/bubbletea/pull/1191) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (4 days ago)
 - [feat: support changing the cursor style](https://github.com/charmbracelet/bubbletea/pull/1189) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (5 days ago)
-- [feat: simplify adaptive package and expose QueryBackgroundColor](https://github.com/charmbracelet/lipgloss/pull/393) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (1 week ago)
 
 #### 📜 My recent blog posts
 
