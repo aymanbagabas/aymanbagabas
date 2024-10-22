@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat(ci): use meta lint workflow](https://github.com/charmbracelet/bubbletea/pull/1196) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
+- [feat: query background color by default](https://github.com/charmbracelet/bubbletea/pull/1195) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
+- [(v2) fix: make grapheme clustering opt-in](https://github.com/charmbracelet/bubbletea/pull/1194) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [feat: support adaptive colors extension](https://github.com/charmbracelet/colorprofile/pull/6) on [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) (today)
 - [fix: extract color param from ansi.Param](https://github.com/charmbracelet/colorprofile/pull/5) on [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) (today)
-- [feat: use inhouse wcwidth package instead of go-runewidth](https://github.com/charmbracelet/bubbles/pull/643) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (1 day ago)
-- [(v2) fix: windows: ensure the input buffer is empty](https://github.com/charmbracelet/bubbletea/pull/1192) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
-- [windows: add console input record event member functions](https://github.com/golang/sys/pull/228) on [golang/sys](https://github.com/golang/sys) (1 day ago)
 
 #### 📜 My recent blog posts
 
