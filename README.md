@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (today)
-- [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (1 day ago)
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 day ago)
-- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (1 day ago)
-- [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) - Magical terminal color handling 🪄 (1 day ago)
+- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (1 day ago)
+- [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (2 days ago)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (2 days ago)
+- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (2 days ago)
+- [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) - Magical terminal color handling 🪄 (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) ([v0.1.2](https://github.com/charmbracelet/colorprofile/releases/tag/v0.1.2), 5 days ago) - Magical terminal color handling 🪄
+- [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) ([v0.1.2](https://github.com/charmbracelet/colorprofile/releases/tag/v0.1.2), 6 days ago) - Magical terminal color handling 🪄
 - [aymanbagabas/shcopy](https://github.com/aymanbagabas/shcopy) ([v0.1.5](https://github.com/aymanbagabas/shcopy/releases/tag/v0.1.5), 4 weeks ago) - 📋 Copy text to your system clipboard locally and remotely using ANSI OSC52 sequence
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v2.0.0-alpha.1](https://github.com/charmbracelet/bubbles/releases/tag/v2.0.0-alpha.1), 1 month ago) - TUI components for Bubble Tea 🫧
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v2.0.0-alpha.1](https://github.com/charmbracelet/bubbletea/releases/tag/v2.0.0-alpha.1), 1 month ago) - A powerful little TUI framework 🏗
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
-- [feat: use inhouse wcwidth package instead of go-runewidth](https://github.com/charmbracelet/bubbles/pull/643) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (today)
-- [(v2) fix: windows: ensure the input buffer is empty](https://github.com/charmbracelet/bubbletea/pull/1192) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
-- [windows: add console input record event member functions](https://github.com/golang/sys/pull/228) on [golang/sys](https://github.com/golang/sys) (today)
-- [windows: add console input api](https://github.com/golang/sys/pull/227) on [golang/sys](https://github.com/golang/sys) (today)
-- [windows: add virtual key codes and console input consts](https://github.com/golang/sys/pull/226) on [golang/sys](https://github.com/golang/sys) (today)
+- [feat: use inhouse wcwidth package instead of go-runewidth](https://github.com/charmbracelet/bubbles/pull/643) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (1 day ago)
+- [(v2) fix: windows: ensure the input buffer is empty](https://github.com/charmbracelet/bubbletea/pull/1192) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
+- [windows: add console input record event member functions](https://github.com/golang/sys/pull/228) on [golang/sys](https://github.com/golang/sys) (1 day ago)
+- [windows: add console input api](https://github.com/golang/sys/pull/227) on [golang/sys](https://github.com/golang/sys) (1 day ago)
+- [windows: add virtual key codes and console input consts](https://github.com/golang/sys/pull/226) on [golang/sys](https://github.com/golang/sys) (1 day ago)
 
 #### 📜 My recent blog posts
 
