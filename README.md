@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [calibre-server: add extraFlags and openFirewall options](https://github.com/NixOS/nixpkgs/pull/350717) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (today)
+- [prowlarr: add user, group, and dataDir options](https://github.com/NixOS/nixpkgs/pull/350715) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (today)
 - [bazarr: customize service data directory](https://github.com/NixOS/nixpkgs/pull/350623) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (today)
 - [calibre-web: customize data directory](https://github.com/NixOS/nixpkgs/pull/350617) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (today)
 - [feat(ci): use meta lint workflow](https://github.com/charmbracelet/bubbletea/pull/1196) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
-- [(v2) feat: query background color by default](https://github.com/charmbracelet/bubbletea/pull/1195) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
-- [(v2) fix: make grapheme clustering opt-in](https://github.com/charmbracelet/bubbletea/pull/1194) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
 
 #### 📜 My recent blog posts
 
