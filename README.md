@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [bazarr: customize service data directory](https://github.com/NixOS/nixpkgs/pull/350623) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (today)
 - [calibre-web: customize data directory](https://github.com/NixOS/nixpkgs/pull/350617) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (today)
 - [feat(ci): use meta lint workflow](https://github.com/charmbracelet/bubbletea/pull/1196) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
 - [(v2) feat: query background color by default](https://github.com/charmbracelet/bubbletea/pull/1195) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
 - [(v2) fix: make grapheme clustering opt-in](https://github.com/charmbracelet/bubbletea/pull/1194) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
-- [feat: support adaptive colors extension](https://github.com/charmbracelet/colorprofile/pull/6) on [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) (1 day ago)
 
 #### 📜 My recent blog posts
 
