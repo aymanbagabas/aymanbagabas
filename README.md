@@ -7,7 +7,7 @@
 - [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (1 day ago)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 day ago)
 - [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) - Magical terminal color handling 🪄 (1 day ago)
-- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (3 days ago)
+- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (1 day ago)
 - [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (3 days ago)
 
 #### 🌱 My latest projects
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [calibre-web: customize data directory](https://github.com/NixOS/nixpkgs/pull/350617) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (today)
 - [feat(ci): use meta lint workflow](https://github.com/charmbracelet/bubbletea/pull/1196) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
 - [(v2) feat: query background color by default](https://github.com/charmbracelet/bubbletea/pull/1195) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
 - [(v2) fix: make grapheme clustering opt-in](https://github.com/charmbracelet/bubbletea/pull/1194) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
 - [feat: support adaptive colors extension](https://github.com/charmbracelet/colorprofile/pull/6) on [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) (1 day ago)
-- [fix: extract color param from ansi.Param](https://github.com/charmbracelet/colorprofile/pull/5) on [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) (1 day ago)
 
 #### 📜 My recent blog posts
 
