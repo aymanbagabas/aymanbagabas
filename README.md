@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧 (today)
 - [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (today)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (today)
 - [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) - Magical terminal color handling 🪄 (today)
 - [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (1 day ago)
-- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix(ci): add lint and lint-sync workflows and update golangci.yml](https://github.com/charmbracelet/bubbles/pull/651) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (today)
 - [feat(ci): use meta lint-sync workflow to sync linter config](https://github.com/charmbracelet/bubbletea/pull/1202) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [feat(ci): sync golangci-lint config workflow](https://github.com/charmbracelet/meta/pull/173) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (today)
 - [Bump ansi to v0.4.0](https://github.com/charmbracelet/bubbletea/pull/1201) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [(v2) feat: cell based renderer](https://github.com/charmbracelet/bubbletea/pull/1200) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
-- [calibre-server: add extraFlags and openFirewall options](https://github.com/NixOS/nixpkgs/pull/350717) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 day ago)
 
 #### 📜 My recent blog posts
 
