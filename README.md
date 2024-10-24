@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (1 day ago)
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 day ago)
-- [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) - Magical terminal color handling 🪄 (1 day ago)
-- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (1 day ago)
-- [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (3 days ago)
+- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (2 days ago)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (2 days ago)
+- [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) - Magical terminal color handling 🪄 (2 days ago)
+- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (2 days ago)
+- [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.13.1](https://github.com/charmbracelet/lipgloss/releases/tag/v0.13.1), 1 day ago) - Style definitions for nice terminal layouts 👄
-- [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) ([v0.1.3](https://github.com/charmbracelet/colorprofile/releases/tag/v0.1.3), 1 day ago) - Magical terminal color handling 🪄
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.13.1](https://github.com/charmbracelet/lipgloss/releases/tag/v0.13.1), 2 days ago) - Style definitions for nice terminal layouts 👄
+- [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) ([v0.1.3](https://github.com/charmbracelet/colorprofile/releases/tag/v0.1.3), 2 days ago) - Magical terminal color handling 🪄
 - [aymanbagabas/shcopy](https://github.com/aymanbagabas/shcopy) ([v0.1.5](https://github.com/aymanbagabas/shcopy/releases/tag/v0.1.5), 1 month ago) - 📋 Copy text to your system clipboard locally and remotely using ANSI OSC52 sequence
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v2.0.0-alpha.1](https://github.com/charmbracelet/bubbles/releases/tag/v2.0.0-alpha.1), 1 month ago) - TUI components for Bubble Tea 🫧
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v2.0.0-alpha.1](https://github.com/charmbracelet/bubbletea/releases/tag/v2.0.0-alpha.1), 1 month ago) - A powerful little TUI framework 🏗
 
 #### 🔨 My recent Pull Requests
 
-- [(v2) feat: cell based renderer](https://github.com/charmbracelet/bubbletea/pull/1200) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
-- [calibre-server: add extraFlags and openFirewall options](https://github.com/NixOS/nixpkgs/pull/350717) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (today)
-- [prowlarr: add user, group, and dataDir options](https://github.com/NixOS/nixpkgs/pull/350715) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (today)
-- [bazarr: customize service data directory](https://github.com/NixOS/nixpkgs/pull/350623) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (today)
-- [calibre-web: customize data directory](https://github.com/NixOS/nixpkgs/pull/350617) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (today)
+- [(v2) feat: cell based renderer](https://github.com/charmbracelet/bubbletea/pull/1200) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
+- [calibre-server: add extraFlags and openFirewall options](https://github.com/NixOS/nixpkgs/pull/350717) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 day ago)
+- [prowlarr: add user, group, and dataDir options](https://github.com/NixOS/nixpkgs/pull/350715) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 day ago)
+- [bazarr: customize service data directory](https://github.com/NixOS/nixpkgs/pull/350623) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 day ago)
+- [calibre-web: customize data directory](https://github.com/NixOS/nixpkgs/pull/350617) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 day ago)
 
 #### 📜 My recent blog posts
 
