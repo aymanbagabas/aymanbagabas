@@ -4,8 +4,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (2 days ago)
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (2 days ago)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (today)
+- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (1 day ago)
 - [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) - Magical terminal color handling 🪄 (2 days ago)
 - [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (2 days ago)
 - [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (4 days ago)
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Bump ansi to v0.4.0](https://github.com/charmbracelet/bubbletea/pull/1201) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [(v2) feat: cell based renderer](https://github.com/charmbracelet/bubbletea/pull/1200) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
 - [calibre-server: add extraFlags and openFirewall options](https://github.com/NixOS/nixpkgs/pull/350717) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 day ago)
 - [prowlarr: add user, group, and dataDir options](https://github.com/NixOS/nixpkgs/pull/350715) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 day ago)
 - [bazarr: customize service data directory](https://github.com/NixOS/nixpkgs/pull/350623) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 day ago)
-- [calibre-web: customize data directory](https://github.com/NixOS/nixpkgs/pull/350617) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 day ago)
 
 #### 📜 My recent blog posts
 
