@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: add WithRequestBackground option to query terminal background c…](https://github.com/charmbracelet/bubbletea/pull/1211) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [Cellbuf: refactor, fix bugs, and tidy](https://github.com/charmbracelet/x/pull/224) on [charmbracelet/x](https://github.com/charmbracelet/x) (today)
 - [fix(ci): add lint and lint-sync workflows and update golangci.yml](https://github.com/charmbracelet/bubbles/pull/651) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (4 days ago)
 - [feat(ci): use meta lint-sync workflow to sync linter config](https://github.com/charmbracelet/bubbletea/pull/1202) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (4 days ago)
 - [feat(ci): sync golangci-lint config workflow](https://github.com/charmbracelet/meta/pull/173) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (4 days ago)
-- [Bump ansi to v0.4.0](https://github.com/charmbracelet/bubbletea/pull/1201) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (4 days ago)
 
 #### 📜 My recent blog posts
 
