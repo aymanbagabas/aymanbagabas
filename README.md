@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [(v2) feat: add a Styler interface for styling bubbles](https://github.com/charmbracelet/bubbles/pull/654) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (today)
+- [(v2) feat!: make transform an interface type](https://github.com/charmbracelet/lipgloss/pull/417) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (today)
+- [(v2) fix: query both stdin and stdout for background color on non-Windows …](https://github.com/charmbracelet/lipgloss/pull/416) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (today)
 - [(v2) feat: add WithRequestBackground option to query terminal background c…](https://github.com/charmbracelet/bubbletea/pull/1211) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
 - [Cellbuf: refactor, fix bugs, and tidy](https://github.com/charmbracelet/x/pull/224) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 day ago)
-- [fix(ci): add lint and lint-sync workflows and update golangci.yml](https://github.com/charmbracelet/bubbles/pull/651) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (5 days ago)
-- [feat(ci): use meta lint-sync workflow to sync linter config](https://github.com/charmbracelet/bubbletea/pull/1202) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (5 days ago)
-- [feat(ci): sync golangci-lint config workflow](https://github.com/charmbracelet/meta/pull/173) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (5 days ago)
 
 #### 📜 My recent blog posts
 
