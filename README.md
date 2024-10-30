@@ -4,8 +4,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (today)
 - [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) - Magical terminal color handling 🪄 (1 day ago)
-- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (1 day ago)
 - [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (2 days ago)
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧 (2 days ago)
 - [charmbracelet/freeze](https://github.com/charmbracelet/freeze) - Generate images of code and terminal output 📸 (2 days ago)
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [revert: &#34;fix: set cursor style sequence&#34;](https://github.com/charmbracelet/x/pull/231) on [charmbracelet/x](https://github.com/charmbracelet/x) (today)
 - [(v2) feat: add a Styler interface for styling bubbles](https://github.com/charmbracelet/bubbles/pull/654) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (1 day ago)
 - [(v2) feat!: make transform an interface type](https://github.com/charmbracelet/lipgloss/pull/417) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (1 day ago)
 - [(v2) fix: query both stdin and stdout for background color on non-Windows …](https://github.com/charmbracelet/lipgloss/pull/416) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (1 day ago)
 - [(v2) feat: add WithRequestBackground option to query terminal background c…](https://github.com/charmbracelet/bubbletea/pull/1211) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 days ago)
-- [Cellbuf: refactor, fix bugs, and tidy](https://github.com/charmbracelet/x/pull/224) on [charmbracelet/x](https://github.com/charmbracelet/x) (2 days ago)
 
 #### 📜 My recent blog posts
 
