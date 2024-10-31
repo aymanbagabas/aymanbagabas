@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (today)
 - [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) - Magical terminal color handling 🪄 (today)
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (today)
+- [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (today)
 - [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (1 day ago)
-- [aymanbagabas/shcopy](https://github.com/aymanbagabas/shcopy) - 📋 Copy text to your system clipboard locally and remotely using ANSI OSC52 sequence (1 day ago)
-- [aymanbagabas/wstty](https://github.com/aymanbagabas/wstty) - Windows stty replacement (1 day ago)
-- [charmbracelet/freeze](https://github.com/charmbracelet/freeze) - Generate images of code and terminal output 📸 (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [(v2) feat: complete color support](https://github.com/charmbracelet/lipgloss/pull/420) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (today)
+- [(v2) feat: add impure package](https://github.com/charmbracelet/lipgloss/pull/419) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (today)
 - [feat: windows has colors support](https://github.com/charmbracelet/colorprofile/pull/11) on [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) (1 day ago)
 - [revert: &#34;fix: set cursor style sequence&#34;](https://github.com/charmbracelet/x/pull/231) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 day ago)
 - [(v2) feat: add a Styler interface for styling bubbles](https://github.com/charmbracelet/bubbles/pull/654) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (2 days ago)
-- [(v2) feat!: make transform an interface type](https://github.com/charmbracelet/lipgloss/pull/417) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (2 days ago)
-- [(v2) fix: query both stdin and stdout for background color on non-Windows …](https://github.com/charmbracelet/lipgloss/pull/416) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (2 days ago)
 
 #### 📜 My recent blog posts
 
