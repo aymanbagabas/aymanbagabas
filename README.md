@@ -20,10 +20,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v1.0.0](https://github.com/charmbracelet/lipgloss/releases/tag/v1.0.0), today) - Style definitions for nice terminal layouts 👄
 - [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) ([v0.1.5](https://github.com/charmbracelet/colorprofile/releases/tag/v0.1.5), 1 day ago) - Magical terminal color handling 🪄
 - [aymanbagabas/wstty](https://github.com/aymanbagabas/wstty) ([v0.0.2](https://github.com/aymanbagabas/wstty/releases/tag/v0.0.2), 1 day ago) - Windows stty replacement
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v1.1.2](https://github.com/charmbracelet/bubbletea/releases/tag/v1.1.2), 1 week ago) - A powerful little TUI framework 🏗
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.13.1](https://github.com/charmbracelet/lipgloss/releases/tag/v0.13.1), 1 week ago) - Style definitions for nice terminal layouts 👄
 - [aymanbagabas/shcopy](https://github.com/aymanbagabas/shcopy) ([v0.1.5](https://github.com/aymanbagabas/shcopy/releases/tag/v0.1.5), 1 month ago) - 📋 Copy text to your system clipboard locally and remotely using ANSI OSC52 sequence
 
 #### 🔨 My recent Pull Requests
