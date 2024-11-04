@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/log](https://github.com/charmbracelet/log) - A minimal, colorful Go logging library 🪵 (2 days ago)
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (3 days ago)
-- [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) - Magical terminal color handling 🪄 (3 days ago)
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (3 days ago)
-- [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (3 days ago)
+- [charmbracelet/log](https://github.com/charmbracelet/log) - A minimal, colorful Go logging library 🪵 (3 days ago)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (4 days ago)
+- [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) - Magical terminal color handling 🪄 (4 days ago)
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (4 days ago)
+- [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) ([v0.1.6](https://github.com/charmbracelet/colorprofile/releases/tag/v0.1.6), 3 days ago) - Magical terminal color handling 🪄
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v1.0.0](https://github.com/charmbracelet/lipgloss/releases/tag/v1.0.0), 3 days ago) - Style definitions for nice terminal layouts 👄
-- [aymanbagabas/wstty](https://github.com/aymanbagabas/wstty) ([v0.0.2](https://github.com/aymanbagabas/wstty/releases/tag/v0.0.2), 4 days ago) - Windows stty replacement
+- [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) ([v0.1.6](https://github.com/charmbracelet/colorprofile/releases/tag/v0.1.6), 4 days ago) - Magical terminal color handling 🪄
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v1.0.0](https://github.com/charmbracelet/lipgloss/releases/tag/v1.0.0), 4 days ago) - Style definitions for nice terminal layouts 👄
+- [aymanbagabas/wstty](https://github.com/aymanbagabas/wstty) ([v0.0.2](https://github.com/aymanbagabas/wstty/releases/tag/v0.0.2), 5 days ago) - Windows stty replacement
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v1.1.2](https://github.com/charmbracelet/bubbletea/releases/tag/v1.1.2), 1 week ago) - A powerful little TUI framework 🏗
 - [aymanbagabas/shcopy](https://github.com/aymanbagabas/shcopy) ([v0.1.5](https://github.com/aymanbagabas/shcopy/releases/tag/v0.1.5), 1 month ago) - 📋 Copy text to your system clipboard locally and remotely using ANSI OSC52 sequence
 
 #### 🔨 My recent Pull Requests
 
-- [(v2) feat: complete color support](https://github.com/charmbracelet/lipgloss/pull/420) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (3 days ago)
-- [(v2) feat: add impure package](https://github.com/charmbracelet/lipgloss/pull/419) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (3 days ago)
-- [feat: windows has colors support](https://github.com/charmbracelet/colorprofile/pull/11) on [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) (4 days ago)
-- [revert: &#34;fix: set cursor style sequence&#34;](https://github.com/charmbracelet/x/pull/231) on [charmbracelet/x](https://github.com/charmbracelet/x) (4 days ago)
-- [(v2) feat: add a Styler interface for styling bubbles](https://github.com/charmbracelet/bubbles/pull/654) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (5 days ago)
+- [(v2) feat: complete color support](https://github.com/charmbracelet/lipgloss/pull/420) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (4 days ago)
+- [(v2) feat: add impure package](https://github.com/charmbracelet/lipgloss/pull/419) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (4 days ago)
+- [feat: windows has colors support](https://github.com/charmbracelet/colorprofile/pull/11) on [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) (5 days ago)
+- [revert: &#34;fix: set cursor style sequence&#34;](https://github.com/charmbracelet/x/pull/231) on [charmbracelet/x](https://github.com/charmbracelet/x) (5 days ago)
+- [(v2) feat: add a Styler interface for styling bubbles](https://github.com/charmbracelet/bubbles/pull/654) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (6 days ago)
 
 #### 📜 My recent blog posts
 
@@ -45,7 +45,7 @@
 #### ⭐ Recent Stars
 
 - [zhaofengli/nix-homebrew](https://github.com/zhaofengli/nix-homebrew) - Homebrew installation manager for nix-darwin (1 week ago)
-- [khaneliman/khanelinix](https://github.com/khaneliman/khanelinix) - Nix configuration for my systems supporting macOS, NixOS, and WSL.  (4 weeks ago)
+- [khaneliman/khanelinix](https://github.com/khaneliman/khanelinix) - Nix configuration for my systems supporting macOS, NixOS, and WSL.  (1 month ago)
 - [C4illin/ConvertX](https://github.com/C4illin/ConvertX) - 💾 Self-hosted online file converter. Supports 1000&#43; formats (1 month ago)
 - [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) - Magical terminal color handling 🪄 (1 month ago)
 - [kubewall/kubewall](https://github.com/kubewall/kubewall) - A single binary kubernetes dashboard to manage your multiple clusters. (1 month ago)
