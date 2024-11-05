@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (1 day ago)
+- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (today)
 - [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) - Magical terminal color handling 🪄 (1 day ago)
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧 (2 days ago)
 - [charmbracelet/log](https://github.com/charmbracelet/log) - A minimal, colorful Go logging library 🪵 (4 days ago)
