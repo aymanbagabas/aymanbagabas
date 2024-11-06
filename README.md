@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v1.2.0](https://github.com/charmbracelet/bubbletea/releases/tag/v1.2.0), today) - A powerful little TUI framework 🏗
 - [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) ([v0.1.6](https://github.com/charmbracelet/colorprofile/releases/tag/v0.1.6), 6 days ago) - Magical terminal color handling 🪄
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v1.0.0](https://github.com/charmbracelet/lipgloss/releases/tag/v1.0.0), 6 days ago) - Style definitions for nice terminal layouts 👄
 - [aymanbagabas/wstty](https://github.com/aymanbagabas/wstty) ([v0.0.2](https://github.com/aymanbagabas/wstty/releases/tag/v0.0.2), 1 week ago) - Windows stty replacement
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v1.1.2](https://github.com/charmbracelet/bubbletea/releases/tag/v1.1.2), 1 week ago) - A powerful little TUI framework 🏗
 - [aymanbagabas/shcopy](https://github.com/aymanbagabas/shcopy) ([v0.1.5](https://github.com/aymanbagabas/shcopy/releases/tag/v0.1.5), 1 month ago) - 📋 Copy text to your system clipboard locally and remotely using ANSI OSC52 sequence
 
 #### 🔨 My recent Pull Requests
 
+- [Partial cellbuf writes](https://github.com/charmbracelet/x/pull/245) on [charmbracelet/x](https://github.com/charmbracelet/x) (today)
 - [fix(ansi): tab is a zero-width character](https://github.com/charmbracelet/x/pull/238) on [charmbracelet/x](https://github.com/charmbracelet/x) (2 days ago)
 - [(v2) feat: complete color support](https://github.com/charmbracelet/lipgloss/pull/420) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (6 days ago)
 - [(v2) feat: add compat package](https://github.com/charmbracelet/lipgloss/pull/419) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (6 days ago)
 - [feat: windows has colors support](https://github.com/charmbracelet/colorprofile/pull/11) on [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) (1 week ago)
-- [revert: &#34;fix: set cursor style sequence&#34;](https://github.com/charmbracelet/x/pull/231) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 week ago)
 
 #### 📜 My recent blog posts
 
