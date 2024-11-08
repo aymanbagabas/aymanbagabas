@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: manually query terminal for background color](https://github.com/charmbracelet/lipgloss/pull/429) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (today)
 - [Partial cellbuf writes](https://github.com/charmbracelet/x/pull/245) on [charmbracelet/x](https://github.com/charmbracelet/x) (2 days ago)
 - [fix(ansi): tab is a zero-width character](https://github.com/charmbracelet/x/pull/238) on [charmbracelet/x](https://github.com/charmbracelet/x) (4 days ago)
 - [(v2) feat: complete color support](https://github.com/charmbracelet/lipgloss/pull/420) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (1 week ago)
 - [(v2) feat: add compat package](https://github.com/charmbracelet/lipgloss/pull/419) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (1 week ago)
-- [feat: windows has colors support](https://github.com/charmbracelet/colorprofile/pull/11) on [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) (1 week ago)
 
 #### 📜 My recent blog posts
 
