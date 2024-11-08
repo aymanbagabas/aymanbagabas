@@ -5,10 +5,10 @@
 #### 👷 Check out what I'm currently working on
 
 - [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (today)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (today)
 - [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (1 day ago)
 - [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) - Magical terminal color handling 🪄 (4 days ago)
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧 (5 days ago)
-- [charmbracelet/log](https://github.com/charmbracelet/log) - A minimal, colorful Go logging library 🪵 (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: renderer: erase the rest of the line when it&#39;s shorter than the …](https://github.com/charmbracelet/bubbletea/pull/1227) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [fix: manually query terminal for background color](https://github.com/charmbracelet/lipgloss/pull/429) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (today)
 - [Partial cellbuf writes](https://github.com/charmbracelet/x/pull/245) on [charmbracelet/x](https://github.com/charmbracelet/x) (2 days ago)
 - [fix(ansi): tab is a zero-width character](https://github.com/charmbracelet/x/pull/238) on [charmbracelet/x](https://github.com/charmbracelet/x) (4 days ago)
 - [(v2) feat: complete color support](https://github.com/charmbracelet/lipgloss/pull/420) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (1 week ago)
-- [(v2) feat: add compat package](https://github.com/charmbracelet/lipgloss/pull/419) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (1 week ago)
 
 #### 📜 My recent blog posts
 
