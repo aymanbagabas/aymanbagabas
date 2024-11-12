@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [(v2) feat: make the ferocious renderer opt-in](https://github.com/charmbracelet/bubbletea/pull/1236) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [fix: renderer: erase the rest of the line when it&#39;s shorter than the …](https://github.com/charmbracelet/bubbletea/pull/1227) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (4 days ago)
 - [fix: manually query terminal for background color](https://github.com/charmbracelet/lipgloss/pull/429) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (4 days ago)
 - [Partial cellbuf writes](https://github.com/charmbracelet/x/pull/245) on [charmbracelet/x](https://github.com/charmbracelet/x) (6 days ago)
 - [fix(ansi): tab is a zero-width character](https://github.com/charmbracelet/x/pull/238) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 week ago)
-- [(v2) feat: complete color support](https://github.com/charmbracelet/lipgloss/pull/420) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (1 week ago)
 
 #### 📜 My recent blog posts
 
