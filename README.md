@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Add vt](https://github.com/charmbracelet/x/pull/267) on [charmbracelet/x](https://github.com/charmbracelet/x) (today)
 - [feat(textarea): set the real cursor position](https://github.com/charmbracelet/bubbles/pull/670) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (today)
 - [(v2) feat: make the ferocious renderer opt-in](https://github.com/charmbracelet/bubbletea/pull/1236) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
 - [fix: renderer: erase the rest of the line when it&#39;s shorter than the …](https://github.com/charmbracelet/bubbletea/pull/1227) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (5 days ago)
 - [fix: manually query terminal for background color](https://github.com/charmbracelet/lipgloss/pull/429) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (5 days ago)
-- [Partial cellbuf writes](https://github.com/charmbracelet/x/pull/245) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 week ago)
 
 #### 📜 My recent blog posts
 
