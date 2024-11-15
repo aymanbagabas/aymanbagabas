@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: Color always returns TrueColor values](https://github.com/charmbracelet/lipgloss/pull/437) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (today)
 - [Add vt](https://github.com/charmbracelet/x/pull/267) on [charmbracelet/x](https://github.com/charmbracelet/x) (2 days ago)
 - [feat(textarea): set the real cursor position](https://github.com/charmbracelet/bubbles/pull/670) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (2 days ago)
 - [(v2) feat: make the ferocious renderer opt-in](https://github.com/charmbracelet/bubbletea/pull/1236) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (3 days ago)
 - [fix: renderer: erase the rest of the line when it&#39;s shorter than the …](https://github.com/charmbracelet/bubbletea/pull/1227) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 week ago)
-- [fix: manually query terminal for background color](https://github.com/charmbracelet/lipgloss/pull/429) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (1 week ago)
 
 #### 📜 My recent blog posts
 
