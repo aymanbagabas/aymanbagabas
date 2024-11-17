@@ -4,10 +4,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (1 day ago)
-- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (1 day ago)
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (4 days ago)
-- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (6 days ago)
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (2 days ago)
+- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (2 days ago)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (5 days ago)
+- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (1 week ago)
 - [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) - Magical terminal color handling 🪄 (1 week ago)
 
 #### 🌱 My latest projects
@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v2.0.0-alpha.2](https://github.com/charmbracelet/bubbles/releases/tag/v2.0.0-alpha.2), 4 days ago) - TUI components for Bubble Tea 🫧
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v2.0.0-alpha.2](https://github.com/charmbracelet/bubbletea/releases/tag/v2.0.0-alpha.2), 4 days ago) - A powerful little TUI framework 🏗
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v2.0.0-alpha.2](https://github.com/charmbracelet/lipgloss/releases/tag/v2.0.0-alpha.2), 4 days ago) - Style definitions for nice terminal layouts 👄
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v2.0.0-alpha.2](https://github.com/charmbracelet/bubbles/releases/tag/v2.0.0-alpha.2), 5 days ago) - TUI components for Bubble Tea 🫧
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v2.0.0-alpha.2](https://github.com/charmbracelet/bubbletea/releases/tag/v2.0.0-alpha.2), 5 days ago) - A powerful little TUI framework 🏗
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v2.0.0-alpha.2](https://github.com/charmbracelet/lipgloss/releases/tag/v2.0.0-alpha.2), 5 days ago) - Style definitions for nice terminal layouts 👄
 - [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) ([v0.1.6](https://github.com/charmbracelet/colorprofile/releases/tag/v0.1.6), 2 weeks ago) - Magical terminal color handling 🪄
 - [aymanbagabas/wstty](https://github.com/aymanbagabas/wstty) ([v0.0.2](https://github.com/aymanbagabas/wstty/releases/tag/v0.0.2), 2 weeks ago) - Windows stty replacement
 
 #### 🔨 My recent Pull Requests
 
-- [(v2) refactor: remove error return from HasDarkBackground](https://github.com/charmbracelet/lipgloss/pull/438) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (1 day ago)
-- [fix: Color always returns TrueColor values](https://github.com/charmbracelet/lipgloss/pull/437) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (1 day ago)
-- [Add vt](https://github.com/charmbracelet/x/pull/267) on [charmbracelet/x](https://github.com/charmbracelet/x) (3 days ago)
-- [feat(textarea): set the real cursor position](https://github.com/charmbracelet/bubbles/pull/670) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (3 days ago)
-- [(v2) feat: make the ferocious renderer opt-in](https://github.com/charmbracelet/bubbletea/pull/1236) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (4 days ago)
+- [(v2) refactor: remove error return from HasDarkBackground](https://github.com/charmbracelet/lipgloss/pull/438) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (2 days ago)
+- [fix: Color always returns TrueColor values](https://github.com/charmbracelet/lipgloss/pull/437) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (2 days ago)
+- [Add vt](https://github.com/charmbracelet/x/pull/267) on [charmbracelet/x](https://github.com/charmbracelet/x) (4 days ago)
+- [feat(textarea): set the real cursor position](https://github.com/charmbracelet/bubbles/pull/670) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (4 days ago)
+- [(v2) feat: make the ferocious renderer opt-in](https://github.com/charmbracelet/bubbletea/pull/1236) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (5 days ago)
 
 #### 📜 My recent blog posts
 
