@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix(golden): always show escaped golden files when comparing the outputs](https://github.com/charmbracelet/x/pull/270) on [charmbracelet/x](https://github.com/charmbracelet/x) (today)
 - [(v2) fix: restore lipgloss.Color behavior](https://github.com/charmbracelet/lipgloss/pull/441) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (today)
 - [(v2) refactor: remove error return from HasDarkBackground](https://github.com/charmbracelet/lipgloss/pull/438) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (3 days ago)
 - [fix: Color always returns TrueColor values](https://github.com/charmbracelet/lipgloss/pull/437) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (3 days ago)
 - [Add vt](https://github.com/charmbracelet/x/pull/267) on [charmbracelet/x](https://github.com/charmbracelet/x) (5 days ago)
-- [feat(textarea): set the real cursor position](https://github.com/charmbracelet/bubbles/pull/670) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (5 days ago)
 
 #### 📜 My recent blog posts
 
