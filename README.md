@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [(v2) fix: restore lipgloss.Color behavior](https://github.com/charmbracelet/lipgloss/pull/441) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (today)
 - [(v2) refactor: remove error return from HasDarkBackground](https://github.com/charmbracelet/lipgloss/pull/438) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (3 days ago)
 - [fix: Color always returns TrueColor values](https://github.com/charmbracelet/lipgloss/pull/437) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (3 days ago)
 - [Add vt](https://github.com/charmbracelet/x/pull/267) on [charmbracelet/x](https://github.com/charmbracelet/x) (5 days ago)
 - [feat(textarea): set the real cursor position](https://github.com/charmbracelet/bubbles/pull/670) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (5 days ago)
-- [(v2) feat: make the ferocious renderer opt-in](https://github.com/charmbracelet/bubbletea/pull/1236) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (6 days ago)
 
 #### 📜 My recent blog posts
 
