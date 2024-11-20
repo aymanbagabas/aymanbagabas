@@ -4,10 +4,10 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (today)
 - [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (today)
+- [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (today)
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (today)
-- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (1 day ago)
-- [charmbracelet/sequin](https://github.com/charmbracelet/sequin) - Human-readable ANSI sequences 🪩 (2 days ago)
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦 (2 days ago)
 
 #### 🌱 My latest projects
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Update x/ansi](https://github.com/charmbracelet/colorprofile/pull/18) on [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) (today)
 - [docs: add raw flag example and tape](https://github.com/charmbracelet/sequin/pull/17) on [charmbracelet/sequin](https://github.com/charmbracelet/sequin) (2 days ago)
 - [fix(golden): always show escaped golden files when comparing the outputs](https://github.com/charmbracelet/x/pull/270) on [charmbracelet/x](https://github.com/charmbracelet/x) (2 days ago)
 - [(v2) fix: restore lipgloss.Color behavior](https://github.com/charmbracelet/lipgloss/pull/441) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (2 days ago)
 - [feat: trim introducers and terminators](https://github.com/charmbracelet/sequin/pull/15) on [charmbracelet/sequin](https://github.com/charmbracelet/sequin) (5 days ago)
-- [(v2) refactor: remove error return from HasDarkBackground](https://github.com/charmbracelet/lipgloss/pull/438) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (5 days ago)
 
 #### 📜 My recent blog posts
 
