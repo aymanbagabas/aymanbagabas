@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (today)
-- [charmbracelet/sequin](https://github.com/charmbracelet/sequin) - Human-readable ANSI sequences 🪩 (1 day ago)
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦 (1 day ago)
-- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (1 day ago)
-- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (4 days ago)
+- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (1 day ago)
+- [charmbracelet/sequin](https://github.com/charmbracelet/sequin) - Human-readable ANSI sequences 🪩 (2 days ago)
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦 (2 days ago)
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (2 days ago)
+- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v1.2.3](https://github.com/charmbracelet/bubbletea/releases/tag/v1.2.3), today) - A powerful little TUI framework 🏗
-- [charmbracelet/sequin](https://github.com/charmbracelet/sequin) ([v0.1.1](https://github.com/charmbracelet/sequin/releases/tag/v0.1.1), 1 day ago) - Human-readable ANSI sequences 🪩
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v1.2.3](https://github.com/charmbracelet/bubbletea/releases/tag/v1.2.3), 1 day ago) - A powerful little TUI framework 🏗
+- [charmbracelet/sequin](https://github.com/charmbracelet/sequin) ([v0.1.1](https://github.com/charmbracelet/sequin/releases/tag/v0.1.1), 2 days ago) - Human-readable ANSI sequences 🪩
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v2.0.0-alpha.2](https://github.com/charmbracelet/bubbles/releases/tag/v2.0.0-alpha.2), 1 week ago) - TUI components for Bubble Tea 🫧
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v2.0.0-alpha.2](https://github.com/charmbracelet/lipgloss/releases/tag/v2.0.0-alpha.2), 1 week ago) - Style definitions for nice terminal layouts 👄
 - [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) ([v0.1.6](https://github.com/charmbracelet/colorprofile/releases/tag/v0.1.6), 2 weeks ago) - Magical terminal color handling 🪄
 
 #### 🔨 My recent Pull Requests
 
-- [docs: add raw flag example and tape](https://github.com/charmbracelet/sequin/pull/17) on [charmbracelet/sequin](https://github.com/charmbracelet/sequin) (1 day ago)
-- [fix(golden): always show escaped golden files when comparing the outputs](https://github.com/charmbracelet/x/pull/270) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 day ago)
-- [(v2) fix: restore lipgloss.Color behavior](https://github.com/charmbracelet/lipgloss/pull/441) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (1 day ago)
-- [feat: trim introducers and terminators](https://github.com/charmbracelet/sequin/pull/15) on [charmbracelet/sequin](https://github.com/charmbracelet/sequin) (4 days ago)
-- [(v2) refactor: remove error return from HasDarkBackground](https://github.com/charmbracelet/lipgloss/pull/438) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (4 days ago)
+- [docs: add raw flag example and tape](https://github.com/charmbracelet/sequin/pull/17) on [charmbracelet/sequin](https://github.com/charmbracelet/sequin) (2 days ago)
+- [fix(golden): always show escaped golden files when comparing the outputs](https://github.com/charmbracelet/x/pull/270) on [charmbracelet/x](https://github.com/charmbracelet/x) (2 days ago)
+- [(v2) fix: restore lipgloss.Color behavior](https://github.com/charmbracelet/lipgloss/pull/441) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (2 days ago)
+- [feat: trim introducers and terminators](https://github.com/charmbracelet/sequin/pull/15) on [charmbracelet/sequin](https://github.com/charmbracelet/sequin) (5 days ago)
+- [(v2) refactor: remove error return from HasDarkBackground](https://github.com/charmbracelet/lipgloss/pull/438) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (5 days ago)
 
 #### 📜 My recent blog posts
 
