@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) ([v0.1.8](https://github.com/charmbracelet/colorprofile/releases/tag/v0.1.8), today) - Magical terminal color handling 🪄
+- [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) ([v0.1.9](https://github.com/charmbracelet/colorprofile/releases/tag/v0.1.9), today) - Magical terminal color handling 🪄
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v1.2.3](https://github.com/charmbracelet/bubbletea/releases/tag/v1.2.3), 2 days ago) - A powerful little TUI framework 🏗
 - [charmbracelet/sequin](https://github.com/charmbracelet/sequin) ([v0.1.1](https://github.com/charmbracelet/sequin/releases/tag/v0.1.1), 3 days ago) - Human-readable ANSI sequences 🪩
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v2.0.0-alpha.2](https://github.com/charmbracelet/bubbles/releases/tag/v2.0.0-alpha.2), 1 week ago) - TUI components for Bubble Tea 🫧
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [(v2) chore(progress)!: migrate progress to lipgloss](https://github.com/charmbracelet/bubbles/pull/676) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (today)
 - [(v2) x/ansi and x/cellbuf changes](https://github.com/charmbracelet/bubbletea/pull/1246) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [Update x/ansi](https://github.com/charmbracelet/colorprofile/pull/18) on [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) (1 day ago)
 - [docs: add raw flag example and tape](https://github.com/charmbracelet/sequin/pull/17) on [charmbracelet/sequin](https://github.com/charmbracelet/sequin) (3 days ago)
 - [fix(golden): always show escaped golden files when comparing the outputs](https://github.com/charmbracelet/x/pull/270) on [charmbracelet/x](https://github.com/charmbracelet/x) (3 days ago)
-- [(v2) fix: restore lipgloss.Color behavior](https://github.com/charmbracelet/lipgloss/pull/441) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (3 days ago)
 
 #### 📜 My recent blog posts
 
