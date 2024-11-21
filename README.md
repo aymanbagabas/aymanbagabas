@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [(v2) x/ansi and x/cellbuf changes](https://github.com/charmbracelet/bubbletea/pull/1246) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [Update x/ansi](https://github.com/charmbracelet/colorprofile/pull/18) on [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) (1 day ago)
 - [docs: add raw flag example and tape](https://github.com/charmbracelet/sequin/pull/17) on [charmbracelet/sequin](https://github.com/charmbracelet/sequin) (3 days ago)
 - [fix(golden): always show escaped golden files when comparing the outputs](https://github.com/charmbracelet/x/pull/270) on [charmbracelet/x](https://github.com/charmbracelet/x) (3 days ago)
 - [(v2) fix: restore lipgloss.Color behavior](https://github.com/charmbracelet/lipgloss/pull/441) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (3 days ago)
-- [feat: trim introducers and terminators](https://github.com/charmbracelet/sequin/pull/15) on [charmbracelet/sequin](https://github.com/charmbracelet/sequin) (6 days ago)
 
 #### 📜 My recent blog posts
 
