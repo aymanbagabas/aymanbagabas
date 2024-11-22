@@ -4,8 +4,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [charmbracelet/sequin](https://github.com/charmbracelet/sequin) - Human-readable ANSI sequences 🪩 (today)
 - [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (today)
-- [charmbracelet/sequin](https://github.com/charmbracelet/sequin) - Human-readable ANSI sequences 🪩 (1 day ago)
 - [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (1 day ago)
 - [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) - Magical terminal color handling 🪄 (1 day ago)
 - [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (2 days ago)
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix(query): windows: explicitly open CONIN/CONOUT when I/O is not a t…](https://github.com/charmbracelet/lipgloss/pull/444) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (today)
 - [(v2) chore(progress)!: migrate progress to lipgloss](https://github.com/charmbracelet/bubbles/pull/676) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (1 day ago)
 - [(v2) x/ansi and x/cellbuf changes](https://github.com/charmbracelet/bubbletea/pull/1246) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
 - [Update x/ansi](https://github.com/charmbracelet/colorprofile/pull/18) on [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) (2 days ago)
 - [docs: add raw flag example and tape](https://github.com/charmbracelet/sequin/pull/17) on [charmbracelet/sequin](https://github.com/charmbracelet/sequin) (4 days ago)
-- [fix(golden): always show escaped golden files when comparing the outputs](https://github.com/charmbracelet/x/pull/270) on [charmbracelet/x](https://github.com/charmbracelet/x) (4 days ago)
 
 #### 📜 My recent blog posts
 
