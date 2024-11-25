@@ -20,9 +20,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/sequin](https://github.com/charmbracelet/sequin) ([v0.2.0](https://github.com/charmbracelet/sequin/releases/tag/v0.2.0), today) - Human-readable ANSI sequences 🪩
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v1.2.4](https://github.com/charmbracelet/bubbletea/releases/tag/v1.2.4), today) - A powerful little TUI framework 🏗
 - [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) ([v0.1.9](https://github.com/charmbracelet/colorprofile/releases/tag/v0.1.9), 4 days ago) - Magical terminal color handling 🪄
-- [charmbracelet/sequin](https://github.com/charmbracelet/sequin) ([v0.1.1](https://github.com/charmbracelet/sequin/releases/tag/v0.1.1), 1 week ago) - Human-readable ANSI sequences 🪩
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v2.0.0-alpha.2](https://github.com/charmbracelet/bubbles/releases/tag/v2.0.0-alpha.2), 1 week ago) - TUI components for Bubble Tea 🫧
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v2.0.0-alpha.2](https://github.com/charmbracelet/lipgloss/releases/tag/v2.0.0-alpha.2), 1 week ago) - Style definitions for nice terminal layouts 👄
 
