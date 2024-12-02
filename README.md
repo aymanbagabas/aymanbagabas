@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix(ansi): whitespace handling on the last line](https://github.com/charmbracelet/x/pull/287) on [charmbracelet/x](https://github.com/charmbracelet/x) (today)
 - [fix: renderer: keep a separate count of lines rendered in the alt screen ](https://github.com/charmbracelet/bubbletea/pull/1251) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 week ago)
 - [fix(query): windows: explicitly open CONIN/CONOUT when I/O is not a t…](https://github.com/charmbracelet/lipgloss/pull/444) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (1 week ago)
 - [(v2) chore(progress)!: migrate progress to lipgloss](https://github.com/charmbracelet/bubbles/pull/676) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (1 week ago)
 - [(v2) x/ansi and x/cellbuf changes](https://github.com/charmbracelet/bubbletea/pull/1246) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 week ago)
-- [Update x/ansi](https://github.com/charmbracelet/colorprofile/pull/18) on [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) (1 week ago)
 
 #### 📜 My recent blog posts
 
