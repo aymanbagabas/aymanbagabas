@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Cellbuf new acurses renderer](https://github.com/charmbracelet/x/pull/299) on [charmbracelet/x](https://github.com/charmbracelet/x) (today)
 - [feat(ansi): implement ansi.Modes type](https://github.com/charmbracelet/x/pull/288) on [charmbracelet/x](https://github.com/charmbracelet/x) (3 days ago)
 - [fix(ansi): whitespace handling on the last line](https://github.com/charmbracelet/x/pull/287) on [charmbracelet/x](https://github.com/charmbracelet/x) (3 days ago)
 - [fix: renderer: keep a separate count of lines rendered in the alt screen ](https://github.com/charmbracelet/bubbletea/pull/1251) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 week ago)
 - [fix(query): windows: explicitly open CONIN/CONOUT when I/O is not a t…](https://github.com/charmbracelet/lipgloss/pull/444) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (1 week ago)
-- [(v2) chore(progress)!: migrate progress to lipgloss](https://github.com/charmbracelet/bubbles/pull/676) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
