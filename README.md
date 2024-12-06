@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix(daemon): close listener only once](https://github.com/charmbracelet/soft-serve/pull/615) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (today)
 - [Cellbuf new acurses renderer](https://github.com/charmbracelet/x/pull/299) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 day ago)
 - [feat(ansi): implement ansi.Modes type](https://github.com/charmbracelet/x/pull/288) on [charmbracelet/x](https://github.com/charmbracelet/x) (4 days ago)
 - [fix(ansi): whitespace handling on the last line](https://github.com/charmbracelet/x/pull/287) on [charmbracelet/x](https://github.com/charmbracelet/x) (4 days ago)
 - [fix: renderer: keep a separate count of lines rendered in the alt screen ](https://github.com/charmbracelet/bubbletea/pull/1251) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 weeks ago)
-- [fix(query): windows: explicitly open CONIN/CONOUT when I/O is not a t…](https://github.com/charmbracelet/lipgloss/pull/444) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
