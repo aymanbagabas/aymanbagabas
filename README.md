@@ -4,10 +4,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (1 day ago)
-- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (2 days ago)
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 week ago)
-- [charmbracelet/sequin](https://github.com/charmbracelet/sequin) - Human-readable ANSI sequences 🪩 (1 week ago)
+- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (2 days ago)
+- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (3 days ago)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (2 weeks ago)
+- [charmbracelet/sequin](https://github.com/charmbracelet/sequin) - Human-readable ANSI sequences 🪩 (2 weeks ago)
 - [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) - Magical terminal color handling 🪄 (2 weeks ago)
 
 #### 🌱 My latest projects
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Cellbuf new acurses renderer](https://github.com/charmbracelet/x/pull/299) on [charmbracelet/x](https://github.com/charmbracelet/x) (today)
-- [feat(ansi): implement ansi.Modes type](https://github.com/charmbracelet/x/pull/288) on [charmbracelet/x](https://github.com/charmbracelet/x) (3 days ago)
-- [fix(ansi): whitespace handling on the last line](https://github.com/charmbracelet/x/pull/287) on [charmbracelet/x](https://github.com/charmbracelet/x) (3 days ago)
-- [fix: renderer: keep a separate count of lines rendered in the alt screen ](https://github.com/charmbracelet/bubbletea/pull/1251) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 week ago)
-- [fix(query): windows: explicitly open CONIN/CONOUT when I/O is not a t…](https://github.com/charmbracelet/lipgloss/pull/444) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (1 week ago)
+- [Cellbuf new acurses renderer](https://github.com/charmbracelet/x/pull/299) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 day ago)
+- [feat(ansi): implement ansi.Modes type](https://github.com/charmbracelet/x/pull/288) on [charmbracelet/x](https://github.com/charmbracelet/x) (4 days ago)
+- [fix(ansi): whitespace handling on the last line](https://github.com/charmbracelet/x/pull/287) on [charmbracelet/x](https://github.com/charmbracelet/x) (4 days ago)
+- [fix: renderer: keep a separate count of lines rendered in the alt screen ](https://github.com/charmbracelet/bubbletea/pull/1251) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 weeks ago)
+- [fix(query): windows: explicitly open CONIN/CONOUT when I/O is not a t…](https://github.com/charmbracelet/lipgloss/pull/444) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
