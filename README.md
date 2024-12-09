@@ -4,9 +4,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (today)
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦 (2 days ago)
-- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (5 days ago)
+- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (1 day ago)
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦 (3 days ago)
+- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (6 days ago)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (2 weeks ago)
 - [charmbracelet/sequin](https://github.com/charmbracelet/sequin) - Human-readable ANSI sequences 🪩 (2 weeks ago)
 
@@ -20,18 +20,18 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/sequin](https://github.com/charmbracelet/sequin) ([v0.2.0](https://github.com/charmbracelet/sequin/releases/tag/v0.2.0), 1 week ago) - Human-readable ANSI sequences 🪩
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v1.2.4](https://github.com/charmbracelet/bubbletea/releases/tag/v1.2.4), 1 week ago) - A powerful little TUI framework 🏗
+- [charmbracelet/sequin](https://github.com/charmbracelet/sequin) ([v0.2.0](https://github.com/charmbracelet/sequin/releases/tag/v0.2.0), 2 weeks ago) - Human-readable ANSI sequences 🪩
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v1.2.4](https://github.com/charmbracelet/bubbletea/releases/tag/v1.2.4), 2 weeks ago) - A powerful little TUI framework 🏗
 - [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) ([v0.1.9](https://github.com/charmbracelet/colorprofile/releases/tag/v0.1.9), 2 weeks ago) - Magical terminal color handling 🪄
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v2.0.0-alpha.2](https://github.com/charmbracelet/bubbles/releases/tag/v2.0.0-alpha.2), 3 weeks ago) - TUI components for Bubble Tea 🫧
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v2.0.0-alpha.2](https://github.com/charmbracelet/lipgloss/releases/tag/v2.0.0-alpha.2), 3 weeks ago) - Style definitions for nice terminal layouts 👄
 
 #### 🔨 My recent Pull Requests
 
-- [fix(daemon): close listener only once](https://github.com/charmbracelet/soft-serve/pull/615) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (2 days ago)
-- [Cellbuf new acurses renderer](https://github.com/charmbracelet/x/pull/299) on [charmbracelet/x](https://github.com/charmbracelet/x) (3 days ago)
-- [feat(ansi): implement ansi.Modes type](https://github.com/charmbracelet/x/pull/288) on [charmbracelet/x](https://github.com/charmbracelet/x) (6 days ago)
-- [fix(ansi): whitespace handling on the last line](https://github.com/charmbracelet/x/pull/287) on [charmbracelet/x](https://github.com/charmbracelet/x) (6 days ago)
+- [fix(daemon): close listener only once](https://github.com/charmbracelet/soft-serve/pull/615) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (3 days ago)
+- [Cellbuf new acurses renderer](https://github.com/charmbracelet/x/pull/299) on [charmbracelet/x](https://github.com/charmbracelet/x) (4 days ago)
+- [feat(ansi): implement ansi.Modes type](https://github.com/charmbracelet/x/pull/288) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 week ago)
+- [fix(ansi): whitespace handling on the last line](https://github.com/charmbracelet/x/pull/287) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 week ago)
 - [fix: renderer: keep a separate count of lines rendered in the alt screen ](https://github.com/charmbracelet/bubbletea/pull/1251) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 weeks ago)
 
 #### 📜 My recent blog posts
