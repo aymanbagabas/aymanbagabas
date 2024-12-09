@@ -20,11 +20,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [jayofelony/pwnagotchi](https://github.com/jayofelony/pwnagotchi) ([v2.9.2](https://github.com/jayofelony/pwnagotchi/releases/tag/v2.9.2), today) - (⌐■_■) - Deep Reinforcement Learning instrumenting bettercap for WiFi pwning.
 - [charmbracelet/sequin](https://github.com/charmbracelet/sequin) ([v0.3.0](https://github.com/charmbracelet/sequin/releases/tag/v0.3.0), today) - Human-readable ANSI sequences 🪩
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.8.0](https://github.com/charmbracelet/soft-serve/releases/tag/v0.8.0), today) - The mighty, self-hostable Git server for the command line🍦
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v1.2.4](https://github.com/charmbracelet/bubbletea/releases/tag/v1.2.4), 2 weeks ago) - A powerful little TUI framework 🏗
 - [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) ([v0.1.9](https://github.com/charmbracelet/colorprofile/releases/tag/v0.1.9), 2 weeks ago) - Magical terminal color handling 🪄
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v2.0.0-alpha.2](https://github.com/charmbracelet/bubbles/releases/tag/v2.0.0-alpha.2), 3 weeks ago) - TUI components for Bubble Tea 🫧
 
 #### 🔨 My recent Pull Requests
 
