@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (today)
 - [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (today)
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦 (1 day ago)
 - [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket) - Charmbracelet Scoop Bucket (1 day ago)
 - [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺 (1 day ago)
-- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [chore: bump ansi to v0.6.0](https://github.com/charmbracelet/bubbletea/pull/1270) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [input: expose reader, parser, and update events](https://github.com/charmbracelet/x/pull/300) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 day ago)
 - [(v2) feat: use the cursed ferocious renderer](https://github.com/charmbracelet/bubbletea/pull/1267) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
 - [fix(daemon): close listener only once](https://github.com/charmbracelet/soft-serve/pull/615) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (4 days ago)
 - [Cellbuf new acurses renderer](https://github.com/charmbracelet/x/pull/299) on [charmbracelet/x](https://github.com/charmbracelet/x) (5 days ago)
-- [feat(ansi): implement ansi.Modes type](https://github.com/charmbracelet/x/pull/288) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 week ago)
 
 #### 📜 My recent blog posts
 
