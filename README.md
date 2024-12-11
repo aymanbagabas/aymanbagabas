@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦 (today)
-- [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (today)
+- [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket) - Charmbracelet Scoop Bucket (today)
 - [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺 (today)
 - [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) - Magical terminal color handling 🪄 (today)
-- [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket) - Charmbracelet Scoop Bucket (today)
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦 (today)
+- [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (today)
 
 #### 🌱 My latest projects
 
