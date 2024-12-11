@@ -8,7 +8,7 @@
 - [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺 (today)
 - [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) - Magical terminal color handling 🪄 (today)
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦 (today)
-- [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (today)
+- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (today)
 
 #### 🌱 My latest projects
 
