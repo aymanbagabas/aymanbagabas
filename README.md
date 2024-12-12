@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [aymanbagabas/nyancatsh](https://github.com/aymanbagabas/nyancatsh) - Nyancat over SSH 🐱 (today)
+- [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) - Magical terminal color handling 🪄 (today)
+- [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺 (1 day ago)
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (1 day ago)
-- [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) - Magical terminal color handling 🪄 (1 day ago)
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦 (1 day ago)
-- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (1 day ago)
-- [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket) - Charmbracelet Scoop Bucket (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -20,11 +20,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [aymanbagabas/nyancatsh](https://github.com/aymanbagabas/nyancatsh) ([v1.0.1](https://github.com/aymanbagabas/nyancatsh/releases/tag/v1.0.1), today) - Nyancat over SSH 🐱
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.8.1](https://github.com/charmbracelet/soft-serve/releases/tag/v0.8.1), 1 day ago) - The mighty, self-hostable Git server for the command line🍦
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v1.4.4](https://github.com/charmbracelet/wish/releases/tag/v1.4.4), 1 day ago) - Make SSH apps, just like that! 💫
 - [jayofelony/pwnagotchi](https://github.com/jayofelony/pwnagotchi) ([v2.9.2](https://github.com/jayofelony/pwnagotchi/releases/tag/v2.9.2), 3 days ago) - (⌐■_■) - Raspberry Pi instrumenting Bettercap for Wi-Fi pwning.
 - [charmbracelet/sequin](https://github.com/charmbracelet/sequin) ([v0.3.0](https://github.com/charmbracelet/sequin/releases/tag/v0.3.0), 3 days ago) - Human-readable ANSI sequences 🪩
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v1.2.4](https://github.com/charmbracelet/bubbletea/releases/tag/v1.2.4), 2 weeks ago) - A powerful little TUI framework 🏗
 
 #### 🔨 My recent Pull Requests
 
