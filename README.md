@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [aymanbagabas/nyancatsh](https://github.com/aymanbagabas/nyancatsh) - Nyancat over SSH 🐱 (today)
-- [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) - Magical terminal color handling 🪄 (today)
-- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (today)
-- [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket) - Charmbracelet Scoop Bucket (1 day ago)
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦 (1 day ago)
+- [aymanbagabas/nyancatsh](https://github.com/aymanbagabas/nyancatsh) - Nyancat over SSH 🐱 (1 day ago)
+- [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) - Magical terminal color handling 🪄 (1 day ago)
+- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (1 day ago)
+- [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket) - Charmbracelet Scoop Bucket (2 days ago)
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦 (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [aymanbagabas/nyancatsh](https://github.com/aymanbagabas/nyancatsh) ([v1.0.1](https://github.com/aymanbagabas/nyancatsh/releases/tag/v1.0.1), today) - Nyancat over SSH 🐱
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.8.1](https://github.com/charmbracelet/soft-serve/releases/tag/v0.8.1), 1 day ago) - The mighty, self-hostable Git server for the command line🍦
-- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v1.4.4](https://github.com/charmbracelet/wish/releases/tag/v1.4.4), 1 day ago) - Make SSH apps, just like that! 💫
-- [jayofelony/pwnagotchi](https://github.com/jayofelony/pwnagotchi) ([v2.9.2](https://github.com/jayofelony/pwnagotchi/releases/tag/v2.9.2), 3 days ago) - (⌐■_■) - Raspberry Pi instrumenting Bettercap for Wi-Fi pwning.
-- [charmbracelet/sequin](https://github.com/charmbracelet/sequin) ([v0.3.0](https://github.com/charmbracelet/sequin/releases/tag/v0.3.0), 3 days ago) - Human-readable ANSI sequences 🪩
+- [aymanbagabas/nyancatsh](https://github.com/aymanbagabas/nyancatsh) ([v1.0.1](https://github.com/aymanbagabas/nyancatsh/releases/tag/v1.0.1), 1 day ago) - Nyancat over SSH 🐱
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.8.1](https://github.com/charmbracelet/soft-serve/releases/tag/v0.8.1), 2 days ago) - The mighty, self-hostable Git server for the command line🍦
+- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v1.4.4](https://github.com/charmbracelet/wish/releases/tag/v1.4.4), 2 days ago) - Make SSH apps, just like that! 💫
+- [jayofelony/pwnagotchi](https://github.com/jayofelony/pwnagotchi) ([v2.9.2](https://github.com/jayofelony/pwnagotchi/releases/tag/v2.9.2), 4 days ago) - (⌐■_■) - Raspberry Pi instrumenting Bettercap for Wi-Fi pwning.
+- [charmbracelet/sequin](https://github.com/charmbracelet/sequin) ([v0.3.0](https://github.com/charmbracelet/sequin/releases/tag/v0.3.0), 4 days ago) - Human-readable ANSI sequences 🪩
 
 #### 🔨 My recent Pull Requests
 
-- [chore: update dependencies](https://github.com/charmbracelet/ssh/pull/32) on [charmbracelet/ssh](https://github.com/charmbracelet/ssh) (1 day ago)
-- [feat: support terminfo databases and query tmux for color profile](https://github.com/charmbracelet/colorprofile/pull/24) on [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) (1 day ago)
-- [refactor: use x/input for input events ](https://github.com/charmbracelet/bubbletea/pull/1271) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 days ago)
-- [fix: add xterm and rio color profiles](https://github.com/charmbracelet/colorprofile/pull/22) on [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) (2 days ago)
-- [chore: bump ansi to v0.6.0](https://github.com/charmbracelet/bubbletea/pull/1270) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 days ago)
+- [chore: update dependencies](https://github.com/charmbracelet/ssh/pull/32) on [charmbracelet/ssh](https://github.com/charmbracelet/ssh) (2 days ago)
+- [feat: support terminfo databases and query tmux for color profile](https://github.com/charmbracelet/colorprofile/pull/24) on [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) (2 days ago)
+- [refactor: use x/input for input events ](https://github.com/charmbracelet/bubbletea/pull/1271) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (3 days ago)
+- [fix: add xterm and rio color profiles](https://github.com/charmbracelet/colorprofile/pull/22) on [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) (3 days ago)
+- [chore: bump ansi to v0.6.0](https://github.com/charmbracelet/bubbletea/pull/1270) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (3 days ago)
 
 #### 📜 My recent blog posts
 
