@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (3 days ago)
-- [aymanbagabas/nyancatsh](https://github.com/aymanbagabas/nyancatsh) - Nyancat over SSH 🐱 (5 days ago)
-- [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) - Magical terminal color handling 🪄 (5 days ago)
-- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (5 days ago)
-- [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺 (6 days ago)
+- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (4 days ago)
+- [aymanbagabas/nyancatsh](https://github.com/aymanbagabas/nyancatsh) - Nyancat over SSH 🐱 (6 days ago)
+- [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) - Magical terminal color handling 🪄 (6 days ago)
+- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (6 days ago)
+- [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺 (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -20,16 +20,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [gliderlabs/ssh](https://github.com/gliderlabs/ssh) ([v0.3.8](https://github.com/gliderlabs/ssh/releases/tag/v0.3.8), 4 days ago) - Easy SSH servers in Golang
-- [aymanbagabas/nyancatsh](https://github.com/aymanbagabas/nyancatsh) ([v1.0.1](https://github.com/aymanbagabas/nyancatsh/releases/tag/v1.0.1), 5 days ago) - Nyancat over SSH 🐱
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.8.1](https://github.com/charmbracelet/soft-serve/releases/tag/v0.8.1), 6 days ago) - The mighty, self-hostable Git server for the command line🍦
-- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v1.4.4](https://github.com/charmbracelet/wish/releases/tag/v1.4.4), 6 days ago) - Make SSH apps, just like that! 💫
+- [gliderlabs/ssh](https://github.com/gliderlabs/ssh) ([v0.3.8](https://github.com/gliderlabs/ssh/releases/tag/v0.3.8), 5 days ago) - Easy SSH servers in Golang
+- [aymanbagabas/nyancatsh](https://github.com/aymanbagabas/nyancatsh) ([v1.0.1](https://github.com/aymanbagabas/nyancatsh/releases/tag/v1.0.1), 6 days ago) - Nyancat over SSH 🐱
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.8.1](https://github.com/charmbracelet/soft-serve/releases/tag/v0.8.1), 1 week ago) - The mighty, self-hostable Git server for the command line🍦
+- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v1.4.4](https://github.com/charmbracelet/wish/releases/tag/v1.4.4), 1 week ago) - Make SSH apps, just like that! 💫
 - [jayofelony/pwnagotchi](https://github.com/jayofelony/pwnagotchi) ([v2.9.2](https://github.com/jayofelony/pwnagotchi/releases/tag/v2.9.2), 1 week ago) - (⌐■_■) - Raspberry Pi instrumenting Bettercap for Wi-Fi pwning.
 
 #### 🔨 My recent Pull Requests
 
-- [chore: update dependencies](https://github.com/charmbracelet/ssh/pull/32) on [charmbracelet/ssh](https://github.com/charmbracelet/ssh) (6 days ago)
-- [feat: support terminfo databases and query tmux for color profile](https://github.com/charmbracelet/colorprofile/pull/24) on [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) (6 days ago)
+- [chore: update dependencies](https://github.com/charmbracelet/ssh/pull/32) on [charmbracelet/ssh](https://github.com/charmbracelet/ssh) (1 week ago)
+- [feat: support terminfo databases and query tmux for color profile](https://github.com/charmbracelet/colorprofile/pull/24) on [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) (1 week ago)
 - [refactor: use x/input for input events ](https://github.com/charmbracelet/bubbletea/pull/1271) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 week ago)
 - [fix: add xterm and rio color profiles](https://github.com/charmbracelet/colorprofile/pull/22) on [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) (1 week ago)
 - [chore: bump ansi to v0.6.0](https://github.com/charmbracelet/bubbletea/pull/1270) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 week ago)
@@ -44,7 +44,7 @@
 
 #### ⭐ Recent Stars
 
-- [go-task/task](https://github.com/go-task/task) - A task runner / simpler Make alternative written in Go (2 weeks ago)
+- [go-task/task](https://github.com/go-task/task) - A task runner / simpler Make alternative written in Go (3 weeks ago)
 - [zhaofengli/nix-homebrew](https://github.com/zhaofengli/nix-homebrew) - Homebrew installation manager for nix-darwin (1 month ago)
 - [khaneliman/khanelinix](https://github.com/khaneliman/khanelinix) - Nix configuration for my systems supporting macOS, NixOS, and WSL.  (2 months ago)
 - [C4illin/ConvertX](https://github.com/C4illin/ConvertX) - 💾 Self-hosted online file converter. Supports 1000&#43; formats ⚙️ (2 months ago)
