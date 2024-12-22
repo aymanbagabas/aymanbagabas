@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [jayofelony/pwnagotchi](https://github.com/jayofelony/pwnagotchi) ([v2.9.3](https://github.com/jayofelony/pwnagotchi/releases/tag/v2.9.3), 1 day ago) - (⌐■_■) - Raspberry Pi instrumenting Bettercap for Wi-Fi pwning.
+- [jayofelony/pwnagotchi](https://github.com/jayofelony/pwnagotchi) ([v2.9.3-2](https://github.com/jayofelony/pwnagotchi/releases/tag/v2.9.3-2), today) - (⌐■_■) - Raspberry Pi instrumenting Bettercap for Wi-Fi pwning.
 - [gliderlabs/ssh](https://github.com/gliderlabs/ssh) ([v0.3.8](https://github.com/gliderlabs/ssh/releases/tag/v0.3.8), 1 week ago) - Easy SSH servers in Golang
 - [aymanbagabas/nyancatsh](https://github.com/aymanbagabas/nyancatsh) ([v1.0.1](https://github.com/aymanbagabas/nyancatsh/releases/tag/v1.0.1), 1 week ago) - Nyancat over SSH 🐱
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.8.1](https://github.com/charmbracelet/soft-serve/releases/tag/v0.8.1), 1 week ago) - The mighty, self-hostable Git server for the command line🍦
