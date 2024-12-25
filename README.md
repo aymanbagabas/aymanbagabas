@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (3 days ago)
+- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (today)
 - [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (3 days ago)
 - [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) - Keep your GIFs up to date with VHS &#43; GitHub actions 📽️ (6 days ago)
 - [aymanbagabas/nyancatsh](https://github.com/aymanbagabas/nyancatsh) - Nyancat over SSH 🐱 (1 week ago)
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Support CSI n I to move the cursor forward n tabs](https://github.com/alacritty/alacritty/pull/8377) on [alacritty/alacritty](https://github.com/alacritty/alacritty) (today)
+- [add support for moving forward tabs](https://github.com/raphamorim/rio/pull/860) on [raphamorim/rio](https://github.com/raphamorim/rio) (today)
 - [chore: update dependencies](https://github.com/charmbracelet/ssh/pull/32) on [charmbracelet/ssh](https://github.com/charmbracelet/ssh) (2 weeks ago)
 - [feat: support terminfo databases and query tmux for color profile](https://github.com/charmbracelet/colorprofile/pull/24) on [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) (2 weeks ago)
 - [refactor: use x/input for input events ](https://github.com/charmbracelet/bubbletea/pull/1271) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 weeks ago)
-- [fix: add xterm and rio color profiles](https://github.com/charmbracelet/colorprofile/pull/22) on [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) (2 weeks ago)
-- [chore: bump ansi to v0.6.0](https://github.com/charmbracelet/bubbletea/pull/1270) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
