@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Add support for DECST8C to reset tab stops to default](https://github.com/alacritty/vte/pull/119) on [alacritty/vte](https://github.com/alacritty/vte) (today)
 - [Support CSI n I to move the cursor forward n tabs](https://github.com/alacritty/alacritty/pull/8377) on [alacritty/alacritty](https://github.com/alacritty/alacritty) (today)
 - [add support for moving forward tabs](https://github.com/raphamorim/rio/pull/860) on [raphamorim/rio](https://github.com/raphamorim/rio) (today)
 - [chore: update dependencies](https://github.com/charmbracelet/ssh/pull/32) on [charmbracelet/ssh](https://github.com/charmbracelet/ssh) (2 weeks ago)
 - [feat: support terminfo databases and query tmux for color profile](https://github.com/charmbracelet/colorprofile/pull/24) on [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) (2 weeks ago)
-- [refactor: use x/input for input events ](https://github.com/charmbracelet/bubbletea/pull/1271) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
