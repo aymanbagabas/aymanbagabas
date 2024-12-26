@@ -5,10 +5,10 @@
 #### 👷 Check out what I'm currently working on
 
 - [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (today)
+- [ghostty-org/website](https://github.com/ghostty-org/website) - Ghostty website. For the source to the Ghostty project, please see https://github.com/ghostty-org/ghostty (today)
+- [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. (1 day ago)
 - [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers. (1 day ago)
 - [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (4 days ago)
-- [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) - Keep your GIFs up to date with VHS &#43; GitHub actions 📽️ (1 week ago)
-- [aymanbagabas/nyancatsh](https://github.com/aymanbagabas/nyancatsh) - Nyancat over SSH 🐱 (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: handle intermediate bytes in CSI and ESC sequences](https://github.com/ghostty-org/ghostty/pull/3132) on [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) (today)
+- [fix: correct usage of DECST8C](https://github.com/ghostty-org/website/pull/127) on [ghostty-org/website](https://github.com/ghostty-org/website) (today)
+- [fix: correct handling of CTC and DECST8C](https://github.com/ghostty-org/ghostty/pull/3121) on [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) (1 day ago)
 - [Add support for DECST8C to reset tab stops to default](https://github.com/alacritty/vte/pull/119) on [alacritty/vte](https://github.com/alacritty/vte) (1 day ago)
 - [Support CSI n I to move the cursor forward n tabs](https://github.com/alacritty/alacritty/pull/8377) on [alacritty/alacritty](https://github.com/alacritty/alacritty) (1 day ago)
-- [add support for moving forward tabs](https://github.com/raphamorim/rio/pull/860) on [raphamorim/rio](https://github.com/raphamorim/rio) (1 day ago)
-- [chore: update dependencies](https://github.com/charmbracelet/ssh/pull/32) on [charmbracelet/ssh](https://github.com/charmbracelet/ssh) (2 weeks ago)
-- [feat: support terminfo databases and query tmux for color profile](https://github.com/charmbracelet/colorprofile/pull/24) on [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
