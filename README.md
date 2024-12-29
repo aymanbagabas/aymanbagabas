@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [plumbing: pktline, fix scanner EOF and special packet handling](https://github.com/go-git/go-git/pull/1301) on [go-git/go-git](https://github.com/go-git/go-git) (today)
 - [plumbing: move TagMode type to plumbing](https://github.com/go-git/go-git/pull/1300) on [go-git/go-git](https://github.com/go-git/go-git) (today)
 - [utils: add ioutil.ContextReader and ioutil.ContextWriter and drop ctx…](https://github.com/go-git/go-git/pull/1299) on [go-git/go-git](https://github.com/go-git/go-git) (today)
 - [fix: handle intermediate bytes in CSI and ESC sequences](https://github.com/ghostty-org/ghostty/pull/3132) on [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) (3 days ago)
 - [fix: correct usage of DECST8C](https://github.com/ghostty-org/website/pull/127) on [ghostty-org/website](https://github.com/ghostty-org/website) (3 days ago)
-- [fix: correct handling of CTC and DECST8C](https://github.com/ghostty-org/ghostty/pull/3121) on [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) (4 days ago)
 
 #### 📜 My recent blog posts
 
