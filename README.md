@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [plumbing: transport, determine protocol version](https://github.com/go-git/go-git/pull/1333) on [go-git/go-git](https://github.com/go-git/go-git) (today)
+- [plumbing: protocol, fix undefined constant](https://github.com/go-git/go-git/pull/1332) on [go-git/go-git](https://github.com/go-git/go-git) (today)
 - [fix: handle intermediate bytes in CSI and ESC sequences](https://github.com/ghostty-org/ghostty/pull/4063) on [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) (today)
 - [plumbing: server, remove package in favor of transport](https://github.com/aymanbagabas/go-git/pull/4) on [aymanbagabas/go-git](https://github.com/aymanbagabas/go-git) (1 day ago)
 - [plumbing: transport, refactor and define transport operations](https://github.com/aymanbagabas/go-git/pull/3) on [aymanbagabas/go-git](https://github.com/aymanbagabas/go-git) (1 day ago)
-- [plumbing: packp, refactor types](https://github.com/go-git/go-git/pull/1303) on [go-git/go-git](https://github.com/go-git/go-git) (1 day ago)
-- [plumbing: pktline, fix scanner EOF and special packet handling](https://github.com/go-git/go-git/pull/1301) on [go-git/go-git](https://github.com/go-git/go-git) (1 day ago)
 
 #### 📜 My recent blog posts
 
