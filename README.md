@@ -4,10 +4,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (4 days ago)
-- [ghostty-org/website](https://github.com/ghostty-org/website) - Ghostty website. For the source to the Ghostty project, please see https://github.com/ghostty-org/ghostty (4 days ago)
-- [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. (5 days ago)
-- [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers. (5 days ago)
+- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (5 days ago)
+- [ghostty-org/website](https://github.com/ghostty-org/website) - Ghostty website. For the source to the Ghostty project, please see https://github.com/ghostty-org/ghostty (5 days ago)
+- [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. (6 days ago)
+- [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers. (6 days ago)
 - [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (1 week ago)
 
 #### 🌱 My latest projects
@@ -21,18 +21,18 @@
 #### 🔭 Latest releases I've contributed to
 
 - [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), today) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
-- [go-git/go-git](https://github.com/go-git/go-git) ([v5.13.0](https://github.com/go-git/go-git/releases/tag/v5.13.0), 2 days ago) - A highly extensible Git implementation in pure Go.
+- [go-git/go-git](https://github.com/go-git/go-git) ([v5.13.0](https://github.com/go-git/go-git/releases/tag/v5.13.0), 3 days ago) - A highly extensible Git implementation in pure Go.
 - [jayofelony/pwnagotchi](https://github.com/jayofelony/pwnagotchi) ([v2.9.3-2](https://github.com/jayofelony/pwnagotchi/releases/tag/v2.9.3-2), 1 week ago) - (⌐■_■) - Raspberry Pi instrumenting Bettercap for Wi-Fi pwning.
 - [gliderlabs/ssh](https://github.com/gliderlabs/ssh) ([v0.3.8](https://github.com/gliderlabs/ssh/releases/tag/v0.3.8), 2 weeks ago) - Easy SSH servers in Golang
 - [aymanbagabas/nyancatsh](https://github.com/aymanbagabas/nyancatsh) ([v1.0.1](https://github.com/aymanbagabas/nyancatsh/releases/tag/v1.0.1), 2 weeks ago) - Nyancat over SSH 🐱
 
 #### 🔨 My recent Pull Requests
 
-- [plumbing: transport, determine protocol version](https://github.com/go-git/go-git/pull/1333) on [go-git/go-git](https://github.com/go-git/go-git) (today)
-- [plumbing: protocol, fix undefined constant](https://github.com/go-git/go-git/pull/1332) on [go-git/go-git](https://github.com/go-git/go-git) (today)
-- [fix: handle intermediate bytes in CSI and ESC sequences](https://github.com/ghostty-org/ghostty/pull/4063) on [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) (today)
-- [plumbing: server, remove package in favor of transport](https://github.com/aymanbagabas/go-git/pull/4) on [aymanbagabas/go-git](https://github.com/aymanbagabas/go-git) (1 day ago)
-- [plumbing: transport, refactor and define transport operations](https://github.com/aymanbagabas/go-git/pull/3) on [aymanbagabas/go-git](https://github.com/aymanbagabas/go-git) (1 day ago)
+- [plumbing: transport, determine protocol version](https://github.com/go-git/go-git/pull/1333) on [go-git/go-git](https://github.com/go-git/go-git) (1 day ago)
+- [plumbing: protocol, fix undefined constant](https://github.com/go-git/go-git/pull/1332) on [go-git/go-git](https://github.com/go-git/go-git) (1 day ago)
+- [fix: handle intermediate bytes in CSI and ESC sequences](https://github.com/ghostty-org/ghostty/pull/4063) on [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) (1 day ago)
+- [plumbing: server, remove package in favor of transport](https://github.com/aymanbagabas/go-git/pull/4) on [aymanbagabas/go-git](https://github.com/aymanbagabas/go-git) (2 days ago)
+- [plumbing: transport, refactor and define transport operations](https://github.com/aymanbagabas/go-git/pull/3) on [aymanbagabas/go-git](https://github.com/aymanbagabas/go-git) (2 days ago)
 
 #### 📜 My recent blog posts
 
@@ -44,7 +44,7 @@
 
 #### ⭐ Recent Stars
 
-- [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. (3 days ago)
+- [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. (4 days ago)
 - [go-task/task](https://github.com/go-task/task) - A task runner / simpler Make alternative written in Go (1 month ago)
 - [zhaofengli/nix-homebrew](https://github.com/zhaofengli/nix-homebrew) - Homebrew installation manager for nix-darwin (2 months ago)
 - [khaneliman/khanelinix](https://github.com/khaneliman/khanelinix) - Nix configuration for my systems supporting macOS, NixOS, and WSL.  (2 months ago)
