@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
-- [refactor transport: plumbing: transport, refactor and define transport operations](https://github.com/go-git/go-git/pull/1337) on [go-git/go-git](https://github.com/go-git/go-git) (today)
+- [refactor transport: plumbing: transport/http, support http dumb protocol (4/5)](https://github.com/go-git/go-git/pull/1339) on [go-git/go-git](https://github.com/go-git/go-git) (today)
+- [refactor transport: plumbing: transport, support multi-ack and multi-ack-detailed capabilities (3/5)](https://github.com/go-git/go-git/pull/1338) on [go-git/go-git](https://github.com/go-git/go-git) (today)
+- [refactor transport: plumbing: transport, refactor and define transport operations (2/5)](https://github.com/go-git/go-git/pull/1337) on [go-git/go-git](https://github.com/go-git/go-git) (today)
 - [plumbing: pktline, quote packet data in trace](https://github.com/go-git/go-git/pull/1334) on [go-git/go-git](https://github.com/go-git/go-git) (today)
 - [plumbing: transport, determine protocol version](https://github.com/go-git/go-git/pull/1333) on [go-git/go-git](https://github.com/go-git/go-git) (1 day ago)
-- [plumbing: protocol, fix undefined constant](https://github.com/go-git/go-git/pull/1332) on [go-git/go-git](https://github.com/go-git/go-git) (1 day ago)
-- [fix: handle intermediate bytes in CSI and ESC sequences](https://github.com/ghostty-org/ghostty/pull/4063) on [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) (1 day ago)
 
 #### 📜 My recent blog posts
 
