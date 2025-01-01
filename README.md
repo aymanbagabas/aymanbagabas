@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [plumbing: transport, go check to testify migration](https://github.com/go-git/go-git/pull/1344) on [go-git/go-git](https://github.com/go-git/go-git) (today)
 - [feat: initial commit](https://github.com/go-git/cli/pull/1) on [go-git/cli](https://github.com/go-git/cli) (1 day ago)
 - [refactor transport: plumbing: transport/http, support http dumb protocol (4/5)](https://github.com/go-git/go-git/pull/1339) on [go-git/go-git](https://github.com/go-git/go-git) (1 day ago)
 - [refactor transport: plumbing: transport, support multi-ack and multi-ack-detailed capabilities (3/5)](https://github.com/go-git/go-git/pull/1338) on [go-git/go-git](https://github.com/go-git/go-git) (1 day ago)
 - [refactor transport: plumbing: transport, refactor and define transport operations (2/5)](https://github.com/go-git/go-git/pull/1337) on [go-git/go-git](https://github.com/go-git/go-git) (1 day ago)
-- [plumbing: pktline, quote packet data in trace](https://github.com/go-git/go-git/pull/1334) on [go-git/go-git](https://github.com/go-git/go-git) (1 day ago)
 
 #### 📜 My recent blog posts
 
