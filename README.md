@@ -20,9 +20,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [jayofelony/pwnagotchi](https://github.com/jayofelony/pwnagotchi) ([v2.9.4](https://github.com/jayofelony/pwnagotchi/releases/tag/v2.9.4), today) - (⌐■_■) - Raspberry Pi instrumenting Bettercap for Wi-Fi pwning.
 - [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), today) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 - [go-git/go-git](https://github.com/go-git/go-git) ([v5.13.0](https://github.com/go-git/go-git/releases/tag/v5.13.0), 5 days ago) - A highly extensible Git implementation in pure Go.
-- [jayofelony/pwnagotchi](https://github.com/jayofelony/pwnagotchi) ([v2.9.3-2](https://github.com/jayofelony/pwnagotchi/releases/tag/v2.9.3-2), 1 week ago) - (⌐■_■) - Raspberry Pi instrumenting Bettercap for Wi-Fi pwning.
 - [gliderlabs/ssh](https://github.com/gliderlabs/ssh) ([v0.3.8](https://github.com/gliderlabs/ssh/releases/tag/v0.3.8), 2 weeks ago) - Easy SSH servers in Golang
 - [aymanbagabas/nyancatsh](https://github.com/aymanbagabas/nyancatsh) ([v1.0.1](https://github.com/aymanbagabas/nyancatsh/releases/tag/v1.0.1), 3 weeks ago) - Nyancat over SSH 🐱
 
