@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [go-git/cli](https://github.com/go-git/cli) -  (2 days ago)
+- [go-git/cli](https://github.com/go-git/cli) -  (3 days ago)
 - [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (1 week ago)
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. (1 week ago)
 - [ghostty-org/website](https://github.com/ghostty-org/website) - Ghostty website. For the source to the Ghostty project, please see https://github.com/ghostty-org/ghostty (1 week ago)
@@ -21,18 +21,18 @@
 #### 🔭 Latest releases I've contributed to
 
 - [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), today) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
-- [jayofelony/pwnagotchi](https://github.com/jayofelony/pwnagotchi) ([v2.9.4-2](https://github.com/jayofelony/pwnagotchi/releases/tag/v2.9.4-2), 1 day ago) - (⌐■_■) - Raspberry Pi instrumenting Bettercap for Wi-Fi pwning.
-- [go-git/go-git](https://github.com/go-git/go-git) ([v5.13.1](https://github.com/go-git/go-git/releases/tag/v5.13.1), 1 day ago) - A highly extensible Git implementation in pure Go.
+- [jayofelony/pwnagotchi](https://github.com/jayofelony/pwnagotchi) ([v2.9.4-2](https://github.com/jayofelony/pwnagotchi/releases/tag/v2.9.4-2), 2 days ago) - (⌐■_■) - Raspberry Pi instrumenting Bettercap for Wi-Fi pwning.
+- [go-git/go-git](https://github.com/go-git/go-git) ([v5.13.1](https://github.com/go-git/go-git/releases/tag/v5.13.1), 2 days ago) - A highly extensible Git implementation in pure Go.
 - [gliderlabs/ssh](https://github.com/gliderlabs/ssh) ([v0.3.8](https://github.com/gliderlabs/ssh/releases/tag/v0.3.8), 3 weeks ago) - Easy SSH servers in Golang
 - [aymanbagabas/nyancatsh](https://github.com/aymanbagabas/nyancatsh) ([v1.0.1](https://github.com/aymanbagabas/nyancatsh/releases/tag/v1.0.1), 3 weeks ago) - Nyancat over SSH 🐱
 
 #### 🔨 My recent Pull Requests
 
-- [Update Privado VPN configurations](https://github.com/haugene/vpn-configs-contrib/pull/327) on [haugene/vpn-configs-contrib](https://github.com/haugene/vpn-configs-contrib) (today)
-- [plumbing: transport, go check to testify migration](https://github.com/go-git/go-git/pull/1344) on [go-git/go-git](https://github.com/go-git/go-git) (2 days ago)
-- [feat: initial commit](https://github.com/go-git/cli/pull/1) on [go-git/cli](https://github.com/go-git/cli) (3 days ago)
-- [refactor transport: plumbing: transport/http, support http dumb protocol (4/5)](https://github.com/go-git/go-git/pull/1339) on [go-git/go-git](https://github.com/go-git/go-git) (3 days ago)
-- [refactor transport: plumbing: transport, support multi-ack and multi-ack-detailed capabilities (3/5)](https://github.com/go-git/go-git/pull/1338) on [go-git/go-git](https://github.com/go-git/go-git) (3 days ago)
+- [Update Privado VPN configurations](https://github.com/haugene/vpn-configs-contrib/pull/327) on [haugene/vpn-configs-contrib](https://github.com/haugene/vpn-configs-contrib) (1 day ago)
+- [plumbing: transport, go check to testify migration](https://github.com/go-git/go-git/pull/1344) on [go-git/go-git](https://github.com/go-git/go-git) (3 days ago)
+- [feat: initial commit](https://github.com/go-git/cli/pull/1) on [go-git/cli](https://github.com/go-git/cli) (4 days ago)
+- [refactor transport: plumbing: transport/http, support http dumb protocol (4/5)](https://github.com/go-git/go-git/pull/1339) on [go-git/go-git](https://github.com/go-git/go-git) (4 days ago)
+- [refactor transport: plumbing: transport, support multi-ack and multi-ack-detailed capabilities (3/5)](https://github.com/go-git/go-git/pull/1338) on [go-git/go-git](https://github.com/go-git/go-git) (4 days ago)
 
 #### 📜 My recent blog posts
 
