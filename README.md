@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Merge v6-exp back into v6-transport](https://github.com/go-git/go-git/pull/1353) on [go-git/go-git](https://github.com/go-git/go-git) (today)
+- [Merge v6-exp back into v6-transport](https://github.com/go-git/go-git/pull/1352) on [go-git/go-git](https://github.com/go-git/go-git) (today)
 - [Update Privado VPN configurations](https://github.com/haugene/vpn-configs-contrib/pull/327) on [haugene/vpn-configs-contrib](https://github.com/haugene/vpn-configs-contrib) (1 day ago)
 - [plumbing: transport, go check to testify migration](https://github.com/go-git/go-git/pull/1344) on [go-git/go-git](https://github.com/go-git/go-git) (3 days ago)
 - [feat: initial commit](https://github.com/go-git/cli/pull/1) on [go-git/cli](https://github.com/go-git/cli) (4 days ago)
-- [refactor transport: plumbing: transport/http, support http dumb protocol (4/5)](https://github.com/go-git/go-git/pull/1339) on [go-git/go-git](https://github.com/go-git/go-git) (4 days ago)
-- [refactor transport: plumbing: transport, support multi-ack and multi-ack-detailed capabilities (3/5)](https://github.com/go-git/go-git/pull/1338) on [go-git/go-git](https://github.com/go-git/go-git) (4 days ago)
 
 #### 📜 My recent blog posts
 
