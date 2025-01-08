@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket) - Charmbracelet Scoop Bucket (today)
-- [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺 (today)
-- [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (today)
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦 (today)
-- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (today)
+- [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket) - Charmbracelet Scoop Bucket (1 day ago)
+- [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺 (1 day ago)
+- [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (1 day ago)
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦 (1 day ago)
+- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.8.2](https://github.com/charmbracelet/soft-serve/releases/tag/v0.8.2), today) - The mighty, self-hostable Git server for the command line🍦
 - [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), today) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
-- [jayofelony/pwnagotchi](https://github.com/jayofelony/pwnagotchi) ([v2.9.4-2](https://github.com/jayofelony/pwnagotchi/releases/tag/v2.9.4-2), 5 days ago) - (⌐■_■) - Raspberry Pi instrumenting Bettercap for Wi-Fi pwning.
-- [go-git/go-git](https://github.com/go-git/go-git) ([v5.13.1](https://github.com/go-git/go-git/releases/tag/v5.13.1), 5 days ago) - A highly extensible Git implementation in pure Go.
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.8.2](https://github.com/charmbracelet/soft-serve/releases/tag/v0.8.2), 1 day ago) - The mighty, self-hostable Git server for the command line🍦
+- [jayofelony/pwnagotchi](https://github.com/jayofelony/pwnagotchi) ([v2.9.4-2](https://github.com/jayofelony/pwnagotchi/releases/tag/v2.9.4-2), 6 days ago) - (⌐■_■) - Raspberry Pi instrumenting Bettercap for Wi-Fi pwning.
+- [go-git/go-git](https://github.com/go-git/go-git) ([v5.13.1](https://github.com/go-git/go-git/releases/tag/v5.13.1), 6 days ago) - A highly extensible Git implementation in pure Go.
 - [aymanbagabas/nyancatsh](https://github.com/aymanbagabas/nyancatsh) ([v1.0.1](https://github.com/aymanbagabas/nyancatsh/releases/tag/v1.0.1), 3 weeks ago) - Nyancat over SSH 🐱
 
 #### 🔨 My recent Pull Requests
 
-- [fix: prevent path traversal attacks](https://github.com/charmbracelet/soft-serve/pull/631) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (today)
-- [Merge v6-exp back into v6-transport](https://github.com/go-git/go-git/pull/1353) on [go-git/go-git](https://github.com/go-git/go-git) (3 days ago)
-- [Merge v6-exp back into v6-transport](https://github.com/go-git/go-git/pull/1352) on [go-git/go-git](https://github.com/go-git/go-git) (3 days ago)
-- [Update Privado VPN configurations](https://github.com/haugene/vpn-configs-contrib/pull/327) on [haugene/vpn-configs-contrib](https://github.com/haugene/vpn-configs-contrib) (4 days ago)
-- [plumbing: transport, go check to testify migration](https://github.com/go-git/go-git/pull/1344) on [go-git/go-git](https://github.com/go-git/go-git) (6 days ago)
+- [fix: prevent path traversal attacks](https://github.com/charmbracelet/soft-serve/pull/631) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 day ago)
+- [Merge v6-exp back into v6-transport](https://github.com/go-git/go-git/pull/1353) on [go-git/go-git](https://github.com/go-git/go-git) (4 days ago)
+- [Merge v6-exp back into v6-transport](https://github.com/go-git/go-git/pull/1352) on [go-git/go-git](https://github.com/go-git/go-git) (4 days ago)
+- [Update Privado VPN configurations](https://github.com/haugene/vpn-configs-contrib/pull/327) on [haugene/vpn-configs-contrib](https://github.com/haugene/vpn-configs-contrib) (5 days ago)
+- [plumbing: transport, go check to testify migration](https://github.com/go-git/go-git/pull/1344) on [go-git/go-git](https://github.com/go-git/go-git) (1 week ago)
 
 #### 📜 My recent blog posts
 
@@ -44,7 +44,7 @@
 
 #### ⭐ Recent Stars
 
-- [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place (2 days ago)
+- [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place (3 days ago)
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. (1 week ago)
 - [go-task/task](https://github.com/go-task/task) - A task runner / simpler Make alternative written in Go (1 month ago)
 - [zhaofengli/nix-homebrew](https://github.com/zhaofengli/nix-homebrew) - Homebrew installation manager for nix-darwin (2 months ago)
