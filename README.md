@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat(examples): add splash example](https://github.com/charmbracelet/bubbletea/pull/1285) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [feat(examples): add space example to measure fps and performance](https://github.com/charmbracelet/bubbletea/pull/1282) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
 - [fix: prevent path traversal attacks](https://github.com/charmbracelet/soft-serve/pull/631) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (2 days ago)
 - [Merge v6-exp back into v6-transport](https://github.com/go-git/go-git/pull/1353) on [go-git/go-git](https://github.com/go-git/go-git) (5 days ago)
 - [Merge v6-exp back into v6-transport](https://github.com/go-git/go-git/pull/1352) on [go-git/go-git](https://github.com/go-git/go-git) (5 days ago)
-- [Update Privado VPN configurations](https://github.com/haugene/vpn-configs-contrib/pull/327) on [haugene/vpn-configs-contrib](https://github.com/haugene/vpn-configs-contrib) (6 days ago)
 
 #### 📜 My recent blog posts
 
