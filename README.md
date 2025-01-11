@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: add environ type and EnvMsg message](https://github.com/charmbracelet/bubbletea/pull/1287) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [(v2) fix keyboard enhancements msg, expose types and track requested and active enhancements](https://github.com/charmbracelet/bubbletea/pull/1286) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 days ago)
 - [feat(examples): add splash example](https://github.com/charmbracelet/bubbletea/pull/1285) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 days ago)
 - [feat(examples): add space example to measure fps and performance](https://github.com/charmbracelet/bubbletea/pull/1282) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (3 days ago)
 - [fix: prevent path traversal attacks](https://github.com/charmbracelet/soft-serve/pull/631) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (4 days ago)
-- [Merge v6-exp back into v6-transport](https://github.com/go-git/go-git/pull/1353) on [go-git/go-git](https://github.com/go-git/go-git) (1 week ago)
 
 #### 📜 My recent blog posts
 
