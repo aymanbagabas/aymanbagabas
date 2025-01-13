@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (3 days ago)
+- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (today)
 - [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺 (6 days ago)
 - [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (6 days ago)
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦 (6 days ago)
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat(ansi): iterm2: add iTerm2 Inline Image Protocol](https://github.com/charmbracelet/x/pull/324) on [charmbracelet/x](https://github.com/charmbracelet/x) (today)
+- [feat(ansi): XTWINOPS and WindowOp functions](https://github.com/charmbracelet/x/pull/323) on [charmbracelet/x](https://github.com/charmbracelet/x) (today)
 - [ansi: kitty graphics: implement basic protocol features](https://github.com/charmbracelet/x/pull/322) on [charmbracelet/x](https://github.com/charmbracelet/x) (today)
 - [(v2) feat: add RawMsg and Raw command to print raw strings to the terminal](https://github.com/charmbracelet/bubbletea/pull/1288) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [(v2) feat: add environ type and EnvMsg message](https://github.com/charmbracelet/bubbletea/pull/1287) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 days ago)
-- [(v2) fix keyboard enhancements msg, expose types and track requested and active enhancements](https://github.com/charmbracelet/bubbletea/pull/1286) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (4 days ago)
-- [(v2) feat(examples): add splash example](https://github.com/charmbracelet/bubbletea/pull/1285) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (4 days ago)
 
 #### 📜 My recent blog posts
 
