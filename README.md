@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat(ansi): kitty: add graphics tests](https://github.com/charmbracelet/x/pull/326) on [charmbracelet/x](https://github.com/charmbracelet/x) (today)
 - [feat(input): support kitty graphics responses](https://github.com/charmbracelet/x/pull/325) on [charmbracelet/x](https://github.com/charmbracelet/x) (today)
 - [feat(ansi): iterm2: add iTerm2 Inline Image Protocol](https://github.com/charmbracelet/x/pull/324) on [charmbracelet/x](https://github.com/charmbracelet/x) (today)
 - [feat(ansi): XTWINOPS and WindowOp functions](https://github.com/charmbracelet/x/pull/323) on [charmbracelet/x](https://github.com/charmbracelet/x) (today)
 - [ansi: kitty graphics: implement basic protocol features](https://github.com/charmbracelet/x/pull/322) on [charmbracelet/x](https://github.com/charmbracelet/x) (today)
-- [(v2) feat: add RawMsg and Raw command to print raw strings to the terminal](https://github.com/charmbracelet/bubbletea/pull/1288) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 
 #### 📜 My recent blog posts
 
