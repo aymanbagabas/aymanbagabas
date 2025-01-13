@@ -20,11 +20,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.15.0](https://github.com/charmbracelet/gum/releases/tag/v0.15.0), today) - A tool for glamorous shell scripts 🎀
 - [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), today) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 - [jayofelony/pwnagotchi](https://github.com/jayofelony/pwnagotchi) ([v2.9.5](https://github.com/jayofelony/pwnagotchi/releases/tag/v2.9.5), 1 day ago) - (⌐■_■) - Raspberry Pi instrumenting Bettercap for Wi-Fi pwning.
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.8.2](https://github.com/charmbracelet/soft-serve/releases/tag/v0.8.2), 6 days ago) - The mighty, self-hostable Git server for the command line🍦
 - [go-git/go-git](https://github.com/go-git/go-git) ([v5.13.1](https://github.com/go-git/go-git/releases/tag/v5.13.1), 1 week ago) - A highly extensible Git implementation in pure Go.
-- [aymanbagabas/nyancatsh](https://github.com/aymanbagabas/nyancatsh) ([v1.0.1](https://github.com/aymanbagabas/nyancatsh/releases/tag/v1.0.1), 1 month ago) - Nyancat over SSH 🐱
 
 #### 🔨 My recent Pull Requests
 
