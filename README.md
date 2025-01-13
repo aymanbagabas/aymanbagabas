@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
-- [feat: add environ type and EnvMsg message](https://github.com/charmbracelet/bubbletea/pull/1287) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 days ago)
+- [ansi: kitty graphics: implement basic protocol features](https://github.com/charmbracelet/x/pull/322) on [charmbracelet/x](https://github.com/charmbracelet/x) (today)
+- [(v2) feat: add RawMsg and Raw command to print raw strings to the terminal](https://github.com/charmbracelet/bubbletea/pull/1288) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
+- [(v2) feat: add environ type and EnvMsg message](https://github.com/charmbracelet/bubbletea/pull/1287) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 days ago)
 - [(v2) fix keyboard enhancements msg, expose types and track requested and active enhancements](https://github.com/charmbracelet/bubbletea/pull/1286) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (4 days ago)
-- [feat(examples): add splash example](https://github.com/charmbracelet/bubbletea/pull/1285) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (4 days ago)
-- [feat(examples): add space example to measure fps and performance](https://github.com/charmbracelet/bubbletea/pull/1282) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (5 days ago)
-- [fix: prevent path traversal attacks](https://github.com/charmbracelet/soft-serve/pull/631) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (6 days ago)
+- [(v2) feat(examples): add splash example](https://github.com/charmbracelet/bubbletea/pull/1285) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (4 days ago)
 
 #### 📜 My recent blog posts
 
