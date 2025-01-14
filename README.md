@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (today)
-- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (today)
-- [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket) - Charmbracelet Scoop Bucket (6 days ago)
-- [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (6 days ago)
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦 (6 days ago)
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (1 day ago)
+- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (1 day ago)
+- [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket) - Charmbracelet Scoop Bucket (1 week ago)
+- [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (1 week ago)
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦 (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.15.0](https://github.com/charmbracelet/gum/releases/tag/v0.15.0), today) - A tool for glamorous shell scripts 🎀
-- [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), today) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
-- [jayofelony/pwnagotchi](https://github.com/jayofelony/pwnagotchi) ([v2.9.5](https://github.com/jayofelony/pwnagotchi/releases/tag/v2.9.5), 1 day ago) - (⌐■_■) - Raspberry Pi instrumenting Bettercap for Wi-Fi pwning.
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.8.2](https://github.com/charmbracelet/soft-serve/releases/tag/v0.8.2), 6 days ago) - The mighty, self-hostable Git server for the command line🍦
+- [raphamorim/rio](https://github.com/raphamorim/rio) ([v0.2.3](https://github.com/raphamorim/rio/releases/tag/v0.2.3), 1 day ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.15.0](https://github.com/charmbracelet/gum/releases/tag/v0.15.0), 1 day ago) - A tool for glamorous shell scripts 🎀
+- [jayofelony/pwnagotchi](https://github.com/jayofelony/pwnagotchi) ([v2.9.5](https://github.com/jayofelony/pwnagotchi/releases/tag/v2.9.5), 2 days ago) - (⌐■_■) - Raspberry Pi instrumenting Bettercap for Wi-Fi pwning.
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.8.2](https://github.com/charmbracelet/soft-serve/releases/tag/v0.8.2), 1 week ago) - The mighty, self-hostable Git server for the command line🍦
 - [go-git/go-git](https://github.com/go-git/go-git) ([v5.13.1](https://github.com/go-git/go-git/releases/tag/v5.13.1), 1 week ago) - A highly extensible Git implementation in pure Go.
 
 #### 🔨 My recent Pull Requests
 
-- [feat(ansi): kitty: add graphics tests](https://github.com/charmbracelet/x/pull/326) on [charmbracelet/x](https://github.com/charmbracelet/x) (today)
-- [feat(input): support kitty graphics responses](https://github.com/charmbracelet/x/pull/325) on [charmbracelet/x](https://github.com/charmbracelet/x) (today)
-- [feat(ansi): iterm2: add iTerm2 Inline Image Protocol](https://github.com/charmbracelet/x/pull/324) on [charmbracelet/x](https://github.com/charmbracelet/x) (today)
-- [feat(ansi): XTWINOPS and WindowOp functions](https://github.com/charmbracelet/x/pull/323) on [charmbracelet/x](https://github.com/charmbracelet/x) (today)
-- [ansi: kitty graphics: implement basic protocol features](https://github.com/charmbracelet/x/pull/322) on [charmbracelet/x](https://github.com/charmbracelet/x) (today)
+- [feat(ansi): kitty: add graphics tests](https://github.com/charmbracelet/x/pull/326) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 day ago)
+- [feat(input): support kitty graphics responses](https://github.com/charmbracelet/x/pull/325) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 day ago)
+- [feat(ansi): iterm2: add iTerm2 Inline Image Protocol](https://github.com/charmbracelet/x/pull/324) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 day ago)
+- [feat(ansi): XTWINOPS and WindowOp functions](https://github.com/charmbracelet/x/pull/323) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 day ago)
+- [ansi: kitty graphics: implement basic protocol features](https://github.com/charmbracelet/x/pull/322) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 day ago)
 
 #### 📜 My recent blog posts
 
