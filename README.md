@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: sgr: handle 24-bit colorspace id](https://github.com/charmbracelet/sequin/pull/44) on [charmbracelet/sequin](https://github.com/charmbracelet/sequin) (today)
 - [feat(ansi): kitty: add graphics tests](https://github.com/charmbracelet/x/pull/326) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 day ago)
 - [feat(input): support kitty graphics responses](https://github.com/charmbracelet/x/pull/325) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 day ago)
 - [feat(ansi): iterm2: add iTerm2 Inline Image Protocol](https://github.com/charmbracelet/x/pull/324) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 day ago)
 - [feat(ansi): XTWINOPS and WindowOp functions](https://github.com/charmbracelet/x/pull/323) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 day ago)
-- [ansi: kitty graphics: implement basic protocol features](https://github.com/charmbracelet/x/pull/322) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 day ago)
 
 #### 📜 My recent blog posts
 
