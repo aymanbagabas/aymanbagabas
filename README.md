@@ -28,7 +28,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [feat(ansi): implement ReadColor function](https://github.com/charmbracelet/x/pull/327) on [charmbracelet/x](https://github.com/charmbracelet/x) (today)
+- [feat(ansi): implement DecodeColor function](https://github.com/charmbracelet/x/pull/327) on [charmbracelet/x](https://github.com/charmbracelet/x) (today)
 - [fix: sgr: handle 24-bit colorspace id](https://github.com/charmbracelet/sequin/pull/44) on [charmbracelet/sequin](https://github.com/charmbracelet/sequin) (today)
 - [feat(ansi): kitty: add graphics tests](https://github.com/charmbracelet/x/pull/326) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 day ago)
 - [feat(input): support kitty graphics responses](https://github.com/charmbracelet/x/pull/325) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 day ago)
