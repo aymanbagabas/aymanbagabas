@@ -4,9 +4,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/sequin](https://github.com/charmbracelet/sequin) - Human-readable ANSI sequences 🪩 (today)
-- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (1 day ago)
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (1 day ago)
+- [charmbracelet/sequin](https://github.com/charmbracelet/sequin) - Human-readable ANSI sequences 🪩 (1 day ago)
+- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (2 days ago)
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (2 days ago)
 - [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺 (1 week ago)
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦 (1 week ago)
 
@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [raphamorim/rio](https://github.com/raphamorim/rio) ([v0.2.3](https://github.com/raphamorim/rio/releases/tag/v0.2.3), 1 day ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
-- [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.15.0](https://github.com/charmbracelet/gum/releases/tag/v0.15.0), 1 day ago) - A tool for glamorous shell scripts 🎀
-- [jayofelony/pwnagotchi](https://github.com/jayofelony/pwnagotchi) ([v2.9.5](https://github.com/jayofelony/pwnagotchi/releases/tag/v2.9.5), 2 days ago) - (⌐■_■) - Raspberry Pi instrumenting Bettercap for Wi-Fi pwning.
+- [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), today) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.15.0](https://github.com/charmbracelet/gum/releases/tag/v0.15.0), 2 days ago) - A tool for glamorous shell scripts 🎀
+- [jayofelony/pwnagotchi](https://github.com/jayofelony/pwnagotchi) ([v2.9.5](https://github.com/jayofelony/pwnagotchi/releases/tag/v2.9.5), 3 days ago) - (⌐■_■) - Raspberry Pi instrumenting Bettercap for Wi-Fi pwning.
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.8.2](https://github.com/charmbracelet/soft-serve/releases/tag/v0.8.2), 1 week ago) - The mighty, self-hostable Git server for the command line🍦
 - [go-git/go-git](https://github.com/go-git/go-git) ([v5.13.1](https://github.com/go-git/go-git/releases/tag/v5.13.1), 1 week ago) - A highly extensible Git implementation in pure Go.
 
 #### 🔨 My recent Pull Requests
 
-- [feat(ansi): implement DecodeColor function](https://github.com/charmbracelet/x/pull/327) on [charmbracelet/x](https://github.com/charmbracelet/x) (today)
-- [fix: sgr: handle 24-bit colorspace id](https://github.com/charmbracelet/sequin/pull/44) on [charmbracelet/sequin](https://github.com/charmbracelet/sequin) (today)
-- [feat(ansi): kitty: add graphics tests](https://github.com/charmbracelet/x/pull/326) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 day ago)
-- [feat(input): support kitty graphics responses](https://github.com/charmbracelet/x/pull/325) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 day ago)
-- [feat(ansi): iterm2: add iTerm2 Inline Image Protocol](https://github.com/charmbracelet/x/pull/324) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 day ago)
+- [feat(ansi): implement DecodeColor function](https://github.com/charmbracelet/x/pull/327) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 day ago)
+- [fix: sgr: handle 24-bit colorspace id](https://github.com/charmbracelet/sequin/pull/44) on [charmbracelet/sequin](https://github.com/charmbracelet/sequin) (1 day ago)
+- [feat(ansi): kitty: add graphics tests](https://github.com/charmbracelet/x/pull/326) on [charmbracelet/x](https://github.com/charmbracelet/x) (2 days ago)
+- [feat(input): support kitty graphics responses](https://github.com/charmbracelet/x/pull/325) on [charmbracelet/x](https://github.com/charmbracelet/x) (2 days ago)
+- [feat(ansi): iterm2: add iTerm2 Inline Image Protocol](https://github.com/charmbracelet/x/pull/324) on [charmbracelet/x](https://github.com/charmbracelet/x) (2 days ago)
 
 #### 📜 My recent blog posts
 
