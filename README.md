@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), today) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
+- [raphamorim/rio](https://github.com/raphamorim/rio) ([v0.2.3](https://github.com/raphamorim/rio/releases/tag/v0.2.3), 4 days ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.15.0](https://github.com/charmbracelet/gum/releases/tag/v0.15.0), 4 days ago) - A tool for glamorous shell scripts 🎀
 - [jayofelony/pwnagotchi](https://github.com/jayofelony/pwnagotchi) ([v2.9.5](https://github.com/jayofelony/pwnagotchi/releases/tag/v2.9.5), 5 days ago) - (⌐■_■) - Raspberry Pi instrumenting Bettercap for Wi-Fi pwning.
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.8.2](https://github.com/charmbracelet/soft-serve/releases/tag/v0.8.2), 1 week ago) - The mighty, self-hostable Git server for the command line🍦
