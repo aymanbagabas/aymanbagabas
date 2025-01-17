@@ -5,10 +5,10 @@
 #### 👷 Check out what I'm currently working on
 
 - [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (today)
+- [alacritty/vte](https://github.com/alacritty/vte) - Parser for virtual terminal emulators (today)
 - [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (1 day ago)
 - [charmbracelet/sequin](https://github.com/charmbracelet/sequin) - Human-readable ANSI sequences 🪩 (3 days ago)
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (4 days ago)
-- [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺 (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [refactor: port wcwidth from elvish](https://github.com/charmbracelet/x/pull/337) on [charmbracelet/x](https://github.com/charmbracelet/x) (today)
 - [refactor(ansi): mouse: don&#39;t export Button method](https://github.com/charmbracelet/x/pull/336) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 day ago)
 - [fix(input): kitty: handle ModShift|ModCapsLock as uppercase](https://github.com/charmbracelet/x/pull/335) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 day ago)
 - [feat(input): support parsing xterm window text area size report](https://github.com/charmbracelet/x/pull/334) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 day ago)
 - [fix(tea): set TERM environment variable when we have a PTY attached](https://github.com/charmbracelet/wish/pull/394) on [charmbracelet/wish](https://github.com/charmbracelet/wish) (2 days ago)
-- [feat(ansi): implement DecodeColor function](https://github.com/charmbracelet/x/pull/327) on [charmbracelet/x](https://github.com/charmbracelet/x) (3 days ago)
 
 #### 📜 My recent blog posts
 
