@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[v6] plumbing: transport: add sideband support to receive-pack ](https://github.com/go-git/go-git/pull/1390) on [go-git/go-git](https://github.com/go-git/go-git) (today)
+- [[v6] plumbing: transport, fix shallow update](https://github.com/go-git/go-git/pull/1389) on [go-git/go-git](https://github.com/go-git/go-git) (today)
+- [[v6] Refactor tests to use the new transport API](https://github.com/go-git/go-git/pull/1388) on [go-git/go-git](https://github.com/go-git/go-git) (today)
 - [refactor: port wcwidth from elvish](https://github.com/charmbracelet/x/pull/337) on [charmbracelet/x](https://github.com/charmbracelet/x) (3 days ago)
 - [refactor(ansi): mouse: don&#39;t export Button method](https://github.com/charmbracelet/x/pull/336) on [charmbracelet/x](https://github.com/charmbracelet/x) (4 days ago)
-- [fix(input): kitty: handle ModShift|ModCapsLock as uppercase](https://github.com/charmbracelet/x/pull/335) on [charmbracelet/x](https://github.com/charmbracelet/x) (4 days ago)
-- [feat(input): support parsing xterm window text area size report](https://github.com/charmbracelet/x/pull/334) on [charmbracelet/x](https://github.com/charmbracelet/x) (4 days ago)
-- [fix(tea): set TERM environment variable when we have a PTY attached](https://github.com/charmbracelet/wish/pull/394) on [charmbracelet/wish](https://github.com/charmbracelet/wish) (5 days ago)
 
 #### 📜 My recent blog posts
 
