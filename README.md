@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [(v2) refactor: remove moving the cursor logic](https://github.com/charmbracelet/bubbletea/pull/1293) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
+- [(v2) Revert cursor position from v2-area](https://github.com/charmbracelet/bubbles/pull/709) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (today)
 - [[v6] plumbing: transport: add sideband support to receive-pack ](https://github.com/go-git/go-git/pull/1390) on [go-git/go-git](https://github.com/go-git/go-git) (2 days ago)
 - [[v6] plumbing: transport, fix shallow update](https://github.com/go-git/go-git/pull/1389) on [go-git/go-git](https://github.com/go-git/go-git) (2 days ago)
 - [[v6] Refactor tests to use the new transport API](https://github.com/go-git/go-git/pull/1388) on [go-git/go-git](https://github.com/go-git/go-git) (2 days ago)
-- [refactor: port wcwidth from elvish](https://github.com/charmbracelet/x/pull/337) on [charmbracelet/x](https://github.com/charmbracelet/x) (5 days ago)
-- [refactor(ansi): mouse: don&#39;t export Button method](https://github.com/charmbracelet/x/pull/336) on [charmbracelet/x](https://github.com/charmbracelet/x) (6 days ago)
 
 #### 📜 My recent blog posts
 
