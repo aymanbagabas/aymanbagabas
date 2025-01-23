@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [refactor!: use the new bubbletea stringer api](https://github.com/charmbracelet/huh/pull/513) on [charmbracelet/huh](https://github.com/charmbracelet/huh) (today)
 - [feat(textarea): add CursorPosition method](https://github.com/charmbracelet/bubbles/pull/712) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (today)
 - [(v2) feat: add Frame type and remove cursor commands](https://github.com/charmbracelet/bubbletea/pull/1295) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [feat(examples): add doom-fire example](https://github.com/charmbracelet/bubbletea/pull/1294) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [(v2) refactor: remove moving the cursor logic](https://github.com/charmbracelet/bubbletea/pull/1293) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
-- [(v2) Revert cursor position from v2-area](https://github.com/charmbracelet/bubbles/pull/709) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (1 day ago)
 
 #### 📜 My recent blog posts
 
