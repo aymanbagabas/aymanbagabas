@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (today)
 - [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (today)
 - [charmbracelet/git-lfs-transfer](https://github.com/charmbracelet/git-lfs-transfer) - Server-side implementation of the Git LFS pure-SSH protocol (today)
 - [haugene/vpn-configs-contrib](https://github.com/haugene/vpn-configs-contrib) - A collection of configs for various VPN providers (4 days ago)
 - [alacritty/vte](https://github.com/alacritty/vte) - Parser for virtual terminal emulators (6 days ago)
-- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat(ansi): define Method and make wcwidth aware variants](https://github.com/charmbracelet/x/pull/341) on [charmbracelet/x](https://github.com/charmbracelet/x) (today)
 - [refactor!: use the new bubbletea stringer api](https://github.com/charmbracelet/huh/pull/513) on [charmbracelet/huh](https://github.com/charmbracelet/huh) (today)
 - [feat(textarea): add CursorPosition method](https://github.com/charmbracelet/bubbles/pull/712) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (today)
 - [(v2) feat: add Frame type and remove cursor commands](https://github.com/charmbracelet/bubbletea/pull/1295) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [feat(examples): add doom-fire example](https://github.com/charmbracelet/bubbletea/pull/1294) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
-- [(v2) refactor: remove moving the cursor logic](https://github.com/charmbracelet/bubbletea/pull/1293) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
 
 #### 📜 My recent blog posts
 
