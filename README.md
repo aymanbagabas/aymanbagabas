@@ -4,8 +4,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (today)
 - [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) - Magical terminal color handling 🪄 (2 days ago)
-- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (3 days ago)
 - [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (4 days ago)
 - [charmbracelet/git-lfs-transfer](https://github.com/charmbracelet/git-lfs-transfer) - Server-side implementation of the Git LFS pure-SSH protocol (4 days ago)
 - [haugene/vpn-configs-contrib](https://github.com/haugene/vpn-configs-contrib) - A collection of configs for various VPN providers (1 week ago)
