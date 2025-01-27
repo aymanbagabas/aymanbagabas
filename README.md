@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [(v2) Generic model](https://github.com/charmbracelet/bubbletea/pull/1298) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [Refactor pkgs](https://github.com/charmbracelet/x/pull/343) on [charmbracelet/x](https://github.com/charmbracelet/x) (2 days ago)
 - [feat(cellbuf): add common sequence decoding utilities](https://github.com/charmbracelet/x/pull/342) on [charmbracelet/x](https://github.com/charmbracelet/x) (4 days ago)
 - [feat(ansi): define Method and make wcwidth aware variants](https://github.com/charmbracelet/x/pull/341) on [charmbracelet/x](https://github.com/charmbracelet/x) (4 days ago)
 - [refactor!: use the new bubbletea stringer api](https://github.com/charmbracelet/huh/pull/513) on [charmbracelet/huh](https://github.com/charmbracelet/huh) (4 days ago)
-- [feat(textarea): add CursorPosition method](https://github.com/charmbracelet/bubbles/pull/712) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (4 days ago)
 
 #### 📜 My recent blog posts
 
