@@ -6,9 +6,9 @@
 
 - [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (today)
 - [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) - Magical terminal color handling 🪄 (today)
+- [charmbracelet/sequin](https://github.com/charmbracelet/sequin) - Human-readable ANSI sequences 🪩 (today)
 - [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (4 days ago)
 - [charmbracelet/git-lfs-transfer](https://github.com/charmbracelet/git-lfs-transfer) - Server-side implementation of the Git LFS pure-SSH protocol (4 days ago)
-- [haugene/vpn-configs-contrib](https://github.com/haugene/vpn-configs-contrib) - A collection of configs for various VPN providers (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) ([v0.1.10](https://github.com/charmbracelet/colorprofile/releases/tag/v0.1.10), today) - Magical terminal color handling 🪄
+- [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) ([v0.1.11](https://github.com/charmbracelet/colorprofile/releases/tag/v0.1.11), today) - Magical terminal color handling 🪄
 - [jayofelony/pwnagotchi](https://github.com/jayofelony/pwnagotchi) ([v2.9.5.3](https://github.com/jayofelony/pwnagotchi/releases/tag/v2.9.5.3), today) - (⌐■_■) - Raspberry Pi instrumenting Bettercap for Wi-Fi pwning.
 - [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), today) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.15.1](https://github.com/charmbracelet/gum/releases/tag/v0.15.1), 4 days ago) - A tool for glamorous shell scripts 🎀
