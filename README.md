@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/sequin](https://github.com/charmbracelet/sequin) ([v0.3.1](https://github.com/charmbracelet/sequin/releases/tag/v0.3.1), today) - Human-readable ANSI sequences 🪩
 - [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) ([v0.1.11](https://github.com/charmbracelet/colorprofile/releases/tag/v0.1.11), today) - Magical terminal color handling 🪄
 - [jayofelony/pwnagotchi](https://github.com/jayofelony/pwnagotchi) ([v2.9.5.3](https://github.com/jayofelony/pwnagotchi/releases/tag/v2.9.5.3), today) - (⌐■_■) - Raspberry Pi instrumenting Bettercap for Wi-Fi pwning.
 - [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), today) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.15.1](https://github.com/charmbracelet/gum/releases/tag/v0.15.1), 4 days ago) - A tool for glamorous shell scripts 🎀
-- [go-git/go-git](https://github.com/go-git/go-git) ([v5.13.2](https://github.com/go-git/go-git/releases/tag/v5.13.2), 5 days ago) - A highly extensible Git implementation in pure Go.
 
 #### 🔨 My recent Pull Requests
 
+- [refactor(ansi)!: remove NoBold style attribute](https://github.com/charmbracelet/x/pull/344) on [charmbracelet/x](https://github.com/charmbracelet/x) (today)
 - [(v2) Generic model](https://github.com/charmbracelet/bubbletea/pull/1298) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [Refactor pkgs](https://github.com/charmbracelet/x/pull/343) on [charmbracelet/x](https://github.com/charmbracelet/x) (2 days ago)
 - [feat(cellbuf): add common sequence decoding utilities](https://github.com/charmbracelet/x/pull/342) on [charmbracelet/x](https://github.com/charmbracelet/x) (4 days ago)
 - [feat(ansi): define Method and make wcwidth aware variants](https://github.com/charmbracelet/x/pull/341) on [charmbracelet/x](https://github.com/charmbracelet/x) (4 days ago)
-- [refactor!: use the new bubbletea stringer api](https://github.com/charmbracelet/huh/pull/513) on [charmbracelet/huh](https://github.com/charmbracelet/huh) (4 days ago)
 
 #### 📜 My recent blog posts
 
