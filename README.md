@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (today)
-- [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) - Magical terminal color handling 🪄 (today)
-- [charmbracelet/sequin](https://github.com/charmbracelet/sequin) - Human-readable ANSI sequences 🪩 (today)
-- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (4 days ago)
-- [charmbracelet/git-lfs-transfer](https://github.com/charmbracelet/git-lfs-transfer) - Server-side implementation of the Git LFS pure-SSH protocol (4 days ago)
+- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (1 day ago)
+- [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) - Magical terminal color handling 🪄 (1 day ago)
+- [charmbracelet/sequin](https://github.com/charmbracelet/sequin) - Human-readable ANSI sequences 🪩 (1 day ago)
+- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (5 days ago)
+- [charmbracelet/git-lfs-transfer](https://github.com/charmbracelet/git-lfs-transfer) - Server-side implementation of the Git LFS pure-SSH protocol (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) ([v0.2.0](https://github.com/charmbracelet/colorprofile/releases/tag/v0.2.0), today) - Magical terminal color handling 🪄
-- [charmbracelet/sequin](https://github.com/charmbracelet/sequin) ([v0.3.1](https://github.com/charmbracelet/sequin/releases/tag/v0.3.1), today) - Human-readable ANSI sequences 🪩
-- [jayofelony/pwnagotchi](https://github.com/jayofelony/pwnagotchi) ([v2.9.5.3](https://github.com/jayofelony/pwnagotchi/releases/tag/v2.9.5.3), today) - (⌐■_■) - Raspberry Pi instrumenting Bettercap for Wi-Fi pwning.
 - [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), today) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
-- [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.15.1](https://github.com/charmbracelet/gum/releases/tag/v0.15.1), 4 days ago) - A tool for glamorous shell scripts 🎀
+- [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) ([v0.2.0](https://github.com/charmbracelet/colorprofile/releases/tag/v0.2.0), 1 day ago) - Magical terminal color handling 🪄
+- [charmbracelet/sequin](https://github.com/charmbracelet/sequin) ([v0.3.1](https://github.com/charmbracelet/sequin/releases/tag/v0.3.1), 1 day ago) - Human-readable ANSI sequences 🪩
+- [jayofelony/pwnagotchi](https://github.com/jayofelony/pwnagotchi) ([v2.9.5.3](https://github.com/jayofelony/pwnagotchi/releases/tag/v2.9.5.3), 1 day ago) - (⌐■_■) - Raspberry Pi instrumenting Bettercap for Wi-Fi pwning.
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.15.1](https://github.com/charmbracelet/gum/releases/tag/v0.15.1), 5 days ago) - A tool for glamorous shell scripts 🎀
 
 #### 🔨 My recent Pull Requests
 
-- [refactor: reorder color profiles](https://github.com/charmbracelet/colorprofile/pull/27) on [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) (today)
-- [refactor(ansi)!: remove NoBold style attribute](https://github.com/charmbracelet/x/pull/344) on [charmbracelet/x](https://github.com/charmbracelet/x) (today)
-- [(v2) Generic model](https://github.com/charmbracelet/bubbletea/pull/1298) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
-- [Refactor pkgs](https://github.com/charmbracelet/x/pull/343) on [charmbracelet/x](https://github.com/charmbracelet/x) (2 days ago)
-- [feat(cellbuf): add common sequence decoding utilities](https://github.com/charmbracelet/x/pull/342) on [charmbracelet/x](https://github.com/charmbracelet/x) (4 days ago)
+- [refactor: reorder color profiles](https://github.com/charmbracelet/colorprofile/pull/27) on [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) (1 day ago)
+- [refactor(ansi)!: remove NoBold style attribute](https://github.com/charmbracelet/x/pull/344) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 day ago)
+- [(v2) Generic model](https://github.com/charmbracelet/bubbletea/pull/1298) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
+- [Refactor pkgs](https://github.com/charmbracelet/x/pull/343) on [charmbracelet/x](https://github.com/charmbracelet/x) (3 days ago)
+- [feat(cellbuf): add common sequence decoding utilities](https://github.com/charmbracelet/x/pull/342) on [charmbracelet/x](https://github.com/charmbracelet/x) (5 days ago)
 
 #### 📜 My recent blog posts
 
@@ -44,7 +44,7 @@
 
 #### ⭐ Recent Stars
 
-- [rommapp/romm](https://github.com/rommapp/romm) - A beautiful, powerful, self-hosted rom manager and player. (6 days ago)
+- [rommapp/romm](https://github.com/rommapp/romm) - A beautiful, powerful, self-hosted rom manager and player. (1 week ago)
 - [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - Our over complex system configurations  (1 week ago)
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place (3 weeks ago)
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. (1 month ago)
