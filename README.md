@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat(cellbuf): implement style aware text wrapping](https://github.com/charmbracelet/x/pull/350) on [charmbracelet/x](https://github.com/charmbracelet/x) (today)
 - [feat: add push command](https://github.com/go-git/cli/pull/4) on [go-git/cli](https://github.com/go-git/cli) (today)
 - [feat: add fetch command](https://github.com/go-git/cli/pull/3) on [go-git/cli](https://github.com/go-git/cli) (today)
 - [refactor: reorder color profiles](https://github.com/charmbracelet/colorprofile/pull/27) on [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) (1 day ago)
 - [refactor(ansi)!: remove NoBold style attribute](https://github.com/charmbracelet/x/pull/344) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 day ago)
-- [(v2) Generic model](https://github.com/charmbracelet/bubbletea/pull/1298) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
 
 #### 📜 My recent blog posts
 
