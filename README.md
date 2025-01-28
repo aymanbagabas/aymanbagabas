@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: add push command](https://github.com/go-git/cli/pull/4) on [go-git/cli](https://github.com/go-git/cli) (today)
+- [feat: add fetch command](https://github.com/go-git/cli/pull/3) on [go-git/cli](https://github.com/go-git/cli) (today)
 - [refactor: reorder color profiles](https://github.com/charmbracelet/colorprofile/pull/27) on [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) (1 day ago)
 - [refactor(ansi)!: remove NoBold style attribute](https://github.com/charmbracelet/x/pull/344) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 day ago)
 - [(v2) Generic model](https://github.com/charmbracelet/bubbletea/pull/1298) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
-- [Refactor pkgs](https://github.com/charmbracelet/x/pull/343) on [charmbracelet/x](https://github.com/charmbracelet/x) (3 days ago)
-- [feat(cellbuf): add common sequence decoding utilities](https://github.com/charmbracelet/x/pull/342) on [charmbracelet/x](https://github.com/charmbracelet/x) (5 days ago)
 
 #### 📜 My recent blog posts
 
