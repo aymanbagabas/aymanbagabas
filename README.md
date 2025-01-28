@@ -20,11 +20,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.15.2](https://github.com/charmbracelet/gum/releases/tag/v0.15.2), today) - A tool for glamorous shell scripts 🎀
+- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v1.4.6](https://github.com/charmbracelet/wish/releases/tag/v1.4.6), today) - Make SSH apps, just like that! 💫
 - [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), today) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 - [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) ([v0.2.0](https://github.com/charmbracelet/colorprofile/releases/tag/v0.2.0), 1 day ago) - Magical terminal color handling 🪄
 - [charmbracelet/sequin](https://github.com/charmbracelet/sequin) ([v0.3.1](https://github.com/charmbracelet/sequin/releases/tag/v0.3.1), 1 day ago) - Human-readable ANSI sequences 🪩
-- [jayofelony/pwnagotchi](https://github.com/jayofelony/pwnagotchi) ([v2.9.5.3](https://github.com/jayofelony/pwnagotchi/releases/tag/v2.9.5.3), 1 day ago) - (⌐■_■) - Raspberry Pi instrumenting Bettercap for Wi-Fi pwning.
-- [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.15.1](https://github.com/charmbracelet/gum/releases/tag/v0.15.1), 5 days ago) - A tool for glamorous shell scripts 🎀
 
 #### 🔨 My recent Pull Requests
 
