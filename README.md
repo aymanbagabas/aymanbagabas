@@ -4,9 +4,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) - Magical terminal color handling 🪄 (today)
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (1 day ago)
 - [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (2 days ago)
-- [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) - Magical terminal color handling 🪄 (2 days ago)
 - [charmbracelet/sequin](https://github.com/charmbracelet/sequin) - Human-readable ANSI sequences 🪩 (2 days ago)
 - [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (6 days ago)
 
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [refactor: progress: return Model instead of tea.Model](https://github.com/charmbracelet/bubbles/pull/719) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (today)
+- [chore: use bubbletea v2 generics](https://github.com/charmbracelet/huh/pull/518) on [charmbracelet/huh](https://github.com/charmbracelet/huh) (today)
 - [feat(cellbuf): implement style aware text wrapping](https://github.com/charmbracelet/x/pull/350) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 day ago)
 - [feat: add push command](https://github.com/go-git/cli/pull/4) on [go-git/cli](https://github.com/go-git/cli) (1 day ago)
 - [feat: add fetch command](https://github.com/go-git/cli/pull/3) on [go-git/cli](https://github.com/go-git/cli) (1 day ago)
-- [refactor: reorder color profiles](https://github.com/charmbracelet/colorprofile/pull/27) on [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) (2 days ago)
-- [refactor(ansi)!: remove NoBold style attribute](https://github.com/charmbracelet/x/pull/344) on [charmbracelet/x](https://github.com/charmbracelet/x) (2 days ago)
 
 #### 📜 My recent blog posts
 
