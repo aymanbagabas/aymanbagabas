@@ -5,10 +5,10 @@
 #### 👷 Check out what I'm currently working on
 
 - [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (1 day ago)
+- [go-git/cli](https://github.com/go-git/cli) -  (1 day ago)
 - [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) - Magical terminal color handling 🪄 (1 day ago)
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (2 days ago)
 - [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (3 days ago)
-- [charmbracelet/sequin](https://github.com/charmbracelet/sequin) - Human-readable ANSI sequences 🪩 (3 days ago)
 
 #### 🌱 My latest projects
 
