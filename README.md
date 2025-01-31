@@ -5,8 +5,8 @@
 #### 👷 Check out what I'm currently working on
 
 - [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (2 days ago)
-- [go-git/cli](https://github.com/go-git/cli) -  (2 days ago)
 - [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) - Magical terminal color handling 🪄 (2 days ago)
+- [go-git/cli](https://github.com/go-git/cli) -  (2 days ago)
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (3 days ago)
 - [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (4 days ago)
 
