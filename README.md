@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (1 day ago)
-- [go-git/cli](https://github.com/go-git/cli) -  (1 day ago)
-- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (3 days ago)
-- [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) - Magical terminal color handling 🪄 (3 days ago)
-- [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (4 days ago)
+- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (2 days ago)
+- [go-git/cli](https://github.com/go-git/cli) -  (2 days ago)
+- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (4 days ago)
+- [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) - Magical terminal color handling 🪄 (4 days ago)
+- [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -21,18 +21,18 @@
 #### 🔭 Latest releases I've contributed to
 
 - [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), today) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
-- [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.15.2](https://github.com/charmbracelet/gum/releases/tag/v0.15.2), 4 days ago) - A tool for glamorous shell scripts 🎀
-- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v1.4.6](https://github.com/charmbracelet/wish/releases/tag/v1.4.6), 4 days ago) - Make SSH apps, just like that! 💫
-- [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) ([v0.2.0](https://github.com/charmbracelet/colorprofile/releases/tag/v0.2.0), 5 days ago) - Magical terminal color handling 🪄
-- [charmbracelet/sequin](https://github.com/charmbracelet/sequin) ([v0.3.1](https://github.com/charmbracelet/sequin/releases/tag/v0.3.1), 5 days ago) - Human-readable ANSI sequences 🪩
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.15.2](https://github.com/charmbracelet/gum/releases/tag/v0.15.2), 5 days ago) - A tool for glamorous shell scripts 🎀
+- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v1.4.6](https://github.com/charmbracelet/wish/releases/tag/v1.4.6), 5 days ago) - Make SSH apps, just like that! 💫
+- [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) ([v0.2.0](https://github.com/charmbracelet/colorprofile/releases/tag/v0.2.0), 6 days ago) - Magical terminal color handling 🪄
+- [charmbracelet/sequin](https://github.com/charmbracelet/sequin) ([v0.3.1](https://github.com/charmbracelet/sequin/releases/tag/v0.3.1), 6 days ago) - Human-readable ANSI sequences 🪩
 
 #### 🔨 My recent Pull Requests
 
-- [docs: add CODEOWNERS file](https://github.com/go-git/cli/pull/6) on [go-git/cli](https://github.com/go-git/cli) (3 days ago)
-- [feat: support ssh-agent auth](https://github.com/go-git/cli/pull/5) on [go-git/cli](https://github.com/go-git/cli) (3 days ago)
-- [refactor: progress: return Model instead of tea.Model](https://github.com/charmbracelet/bubbles/pull/719) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (3 days ago)
-- [chore: use bubbletea v2 generics](https://github.com/charmbracelet/huh/pull/518) on [charmbracelet/huh](https://github.com/charmbracelet/huh) (3 days ago)
-- [feat(cellbuf): implement style aware text wrapping](https://github.com/charmbracelet/x/pull/350) on [charmbracelet/x](https://github.com/charmbracelet/x) (4 days ago)
+- [docs: add CODEOWNERS file](https://github.com/go-git/cli/pull/6) on [go-git/cli](https://github.com/go-git/cli) (4 days ago)
+- [feat: support ssh-agent auth](https://github.com/go-git/cli/pull/5) on [go-git/cli](https://github.com/go-git/cli) (4 days ago)
+- [refactor: progress: return Model instead of tea.Model](https://github.com/charmbracelet/bubbles/pull/719) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (4 days ago)
+- [chore: use bubbletea v2 generics](https://github.com/charmbracelet/huh/pull/518) on [charmbracelet/huh](https://github.com/charmbracelet/huh) (4 days ago)
+- [feat(cellbuf): implement style aware text wrapping](https://github.com/charmbracelet/x/pull/350) on [charmbracelet/x](https://github.com/charmbracelet/x) (5 days ago)
 
 #### 📜 My recent blog posts
 
@@ -46,7 +46,7 @@
 
 - [rommapp/romm](https://github.com/rommapp/romm) - A beautiful, powerful, self-hosted rom manager and player. (1 week ago)
 - [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - Our over complex system configurations  (2 weeks ago)
-- [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place (3 weeks ago)
+- [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place (4 weeks ago)
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. (1 month ago)
 - [go-task/task](https://github.com/go-task/task) - A task runner / simpler Make alternative written in Go (2 months ago)
 
