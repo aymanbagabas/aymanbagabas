@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[V6] transport tests](https://github.com/go-git/go-git/pull/1419) on [go-git/go-git](https://github.com/go-git/go-git) (today)
+- [[v6]: Fix misc transport issues](https://github.com/go-git/go-git/pull/1418) on [go-git/go-git](https://github.com/go-git/go-git) (today)
 - [docs: add CODEOWNERS file](https://github.com/go-git/cli/pull/6) on [go-git/cli](https://github.com/go-git/cli) (4 days ago)
 - [feat: support ssh-agent auth](https://github.com/go-git/cli/pull/5) on [go-git/cli](https://github.com/go-git/cli) (4 days ago)
 - [refactor: progress: return Model instead of tea.Model](https://github.com/charmbracelet/bubbles/pull/719) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (4 days ago)
-- [chore: use bubbletea v2 generics](https://github.com/charmbracelet/huh/pull/518) on [charmbracelet/huh](https://github.com/charmbracelet/huh) (4 days ago)
-- [feat(cellbuf): implement style aware text wrapping](https://github.com/charmbracelet/x/pull/350) on [charmbracelet/x](https://github.com/charmbracelet/x) (5 days ago)
 
 #### 📜 My recent blog posts
 
