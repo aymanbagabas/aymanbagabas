@@ -28,7 +28,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [feat,refactor!: introduce cursor model](https://github.com/charmbracelet/bubbletea/pull/1303) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
+- [(v2) feat,refactor!: introduce cursor model](https://github.com/charmbracelet/bubbletea/pull/1303) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [[V6] transport tests](https://github.com/go-git/go-git/pull/1419) on [go-git/go-git](https://github.com/go-git/go-git) (1 day ago)
 - [[v6]: Fix misc transport issues](https://github.com/go-git/go-git/pull/1418) on [go-git/go-git](https://github.com/go-git/go-git) (1 day ago)
 - [docs: add CODEOWNERS file](https://github.com/go-git/cli/pull/6) on [go-git/cli](https://github.com/go-git/cli) (5 days ago)
