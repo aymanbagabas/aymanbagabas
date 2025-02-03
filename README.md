@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (2 days ago)
-- [go-git/cli](https://github.com/go-git/cli) -  (2 days ago)
-- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (4 days ago)
-- [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) - Magical terminal color handling 🪄 (4 days ago)
-- [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (5 days ago)
+- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (3 days ago)
+- [go-git/cli](https://github.com/go-git/cli) -  (3 days ago)
+- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (5 days ago)
+- [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) - Magical terminal color handling 🪄 (5 days ago)
+- [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -21,18 +21,18 @@
 #### 🔭 Latest releases I've contributed to
 
 - [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), today) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
-- [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.15.2](https://github.com/charmbracelet/gum/releases/tag/v0.15.2), 5 days ago) - A tool for glamorous shell scripts 🎀
-- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v1.4.6](https://github.com/charmbracelet/wish/releases/tag/v1.4.6), 5 days ago) - Make SSH apps, just like that! 💫
-- [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) ([v0.2.0](https://github.com/charmbracelet/colorprofile/releases/tag/v0.2.0), 6 days ago) - Magical terminal color handling 🪄
-- [charmbracelet/sequin](https://github.com/charmbracelet/sequin) ([v0.3.1](https://github.com/charmbracelet/sequin/releases/tag/v0.3.1), 6 days ago) - Human-readable ANSI sequences 🪩
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.15.2](https://github.com/charmbracelet/gum/releases/tag/v0.15.2), 6 days ago) - A tool for glamorous shell scripts 🎀
+- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v1.4.6](https://github.com/charmbracelet/wish/releases/tag/v1.4.6), 6 days ago) - Make SSH apps, just like that! 💫
+- [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) ([v0.2.0](https://github.com/charmbracelet/colorprofile/releases/tag/v0.2.0), 1 week ago) - Magical terminal color handling 🪄
+- [charmbracelet/sequin](https://github.com/charmbracelet/sequin) ([v0.3.1](https://github.com/charmbracelet/sequin/releases/tag/v0.3.1), 1 week ago) - Human-readable ANSI sequences 🪩
 
 #### 🔨 My recent Pull Requests
 
-- [[V6] transport tests](https://github.com/go-git/go-git/pull/1419) on [go-git/go-git](https://github.com/go-git/go-git) (today)
-- [[v6]: Fix misc transport issues](https://github.com/go-git/go-git/pull/1418) on [go-git/go-git](https://github.com/go-git/go-git) (today)
-- [docs: add CODEOWNERS file](https://github.com/go-git/cli/pull/6) on [go-git/cli](https://github.com/go-git/cli) (4 days ago)
-- [feat: support ssh-agent auth](https://github.com/go-git/cli/pull/5) on [go-git/cli](https://github.com/go-git/cli) (4 days ago)
-- [refactor: progress: return Model instead of tea.Model](https://github.com/charmbracelet/bubbles/pull/719) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (4 days ago)
+- [[V6] transport tests](https://github.com/go-git/go-git/pull/1419) on [go-git/go-git](https://github.com/go-git/go-git) (1 day ago)
+- [[v6]: Fix misc transport issues](https://github.com/go-git/go-git/pull/1418) on [go-git/go-git](https://github.com/go-git/go-git) (1 day ago)
+- [docs: add CODEOWNERS file](https://github.com/go-git/cli/pull/6) on [go-git/cli](https://github.com/go-git/cli) (5 days ago)
+- [feat: support ssh-agent auth](https://github.com/go-git/cli/pull/5) on [go-git/cli](https://github.com/go-git/cli) (5 days ago)
+- [refactor: progress: return Model instead of tea.Model](https://github.com/charmbracelet/bubbles/pull/719) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (5 days ago)
 
 #### 📜 My recent blog posts
 
