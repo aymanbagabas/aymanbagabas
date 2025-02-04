@@ -6,8 +6,8 @@
 
 - [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (today)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (today)
+- [charmbracelet/huh](https://github.com/charmbracelet/huh) - Build terminal forms and prompts 🤷🏻‍♀️ (today)
 - [go-git/cli](https://github.com/go-git/cli) -  (4 days ago)
-- [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) - Magical terminal color handling 🪄 (6 days ago)
 - [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (6 days ago)
 
 #### 🌱 My latest projects
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix(viewport): handle nil LeftGutterFunc](https://github.com/charmbracelet/bubbles/pull/723) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (today)
 - [fix(input): use cancel io to cancel windows read events](https://github.com/charmbracelet/x/pull/360) on [charmbracelet/x](https://github.com/charmbracelet/x) (today)
 - [(v2) feat,refactor!: introduce cursor model](https://github.com/charmbracelet/bubbletea/pull/1303) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
 - [[V6] transport tests](https://github.com/go-git/go-git/pull/1419) on [go-git/go-git](https://github.com/go-git/go-git) (2 days ago)
 - [[v6]: Fix misc transport issues](https://github.com/go-git/go-git/pull/1418) on [go-git/go-git](https://github.com/go-git/go-git) (2 days ago)
-- [docs: add CODEOWNERS file](https://github.com/go-git/cli/pull/6) on [go-git/cli](https://github.com/go-git/cli) (6 days ago)
 
 #### 📜 My recent blog posts
 
