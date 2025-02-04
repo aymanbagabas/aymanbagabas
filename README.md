@@ -4,8 +4,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (today)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (today)
-- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (1 day ago)
 - [go-git/cli](https://github.com/go-git/cli) -  (4 days ago)
 - [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) - Magical terminal color handling 🪄 (6 days ago)
 - [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (6 days ago)
@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v1.3.0](https://github.com/charmbracelet/bubbletea/releases/tag/v1.3.0), today) - A powerful little TUI framework 🏗
 - [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), today) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.15.2](https://github.com/charmbracelet/gum/releases/tag/v0.15.2), 1 week ago) - A tool for glamorous shell scripts 🎀
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v1.4.6](https://github.com/charmbracelet/wish/releases/tag/v1.4.6), 1 week ago) - Make SSH apps, just like that! 💫
 - [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) ([v0.2.0](https://github.com/charmbracelet/colorprofile/releases/tag/v0.2.0), 1 week ago) - Magical terminal color handling 🪄
-- [charmbracelet/sequin](https://github.com/charmbracelet/sequin) ([v0.3.1](https://github.com/charmbracelet/sequin/releases/tag/v0.3.1), 1 week ago) - Human-readable ANSI sequences 🪩
 
 #### 🔨 My recent Pull Requests
 
+- [fix(input): use cancel io to cancel windows read events](https://github.com/charmbracelet/x/pull/360) on [charmbracelet/x](https://github.com/charmbracelet/x) (today)
 - [(v2) feat,refactor!: introduce cursor model](https://github.com/charmbracelet/bubbletea/pull/1303) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
 - [[V6] transport tests](https://github.com/go-git/go-git/pull/1419) on [go-git/go-git](https://github.com/go-git/go-git) (2 days ago)
 - [[v6]: Fix misc transport issues](https://github.com/go-git/go-git/pull/1418) on [go-git/go-git](https://github.com/go-git/go-git) (2 days ago)
 - [docs: add CODEOWNERS file](https://github.com/go-git/cli/pull/6) on [go-git/cli](https://github.com/go-git/cli) (6 days ago)
-- [feat: support ssh-agent auth](https://github.com/go-git/cli/pull/5) on [go-git/cli](https://github.com/go-git/cli) (6 days ago)
 
 #### 📜 My recent blog posts
 
