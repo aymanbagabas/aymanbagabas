@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Crlf](https://github.com/charmbracelet/meta/pull/190) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (today)
 - [(v2) feat: renderer: readd standard renderer](https://github.com/charmbracelet/bubbletea/pull/1309) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
 - [fix(viewport): handle nil LeftGutterFunc](https://github.com/charmbracelet/bubbles/pull/723) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (1 day ago)
 - [fix(input): use cancel io to cancel windows read events](https://github.com/charmbracelet/x/pull/360) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 day ago)
 - [(v2) feat,refactor!: introduce cursor model](https://github.com/charmbracelet/bubbletea/pull/1303) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 days ago)
-- [[V6] transport tests](https://github.com/go-git/go-git/pull/1419) on [go-git/go-git](https://github.com/go-git/go-git) (3 days ago)
 
 #### 📜 My recent blog posts
 
