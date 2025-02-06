@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (today)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (today)
-- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (1 day ago)
 - [charmbracelet/huh](https://github.com/charmbracelet/huh) - Build terminal forms and prompts 🤷🏻‍♀️ (2 days ago)
 - [go-git/cli](https://github.com/go-git/cli) -  (6 days ago)
-- [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) - Magical terminal color handling 🪄 (1 week ago)
+- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [chore(teatest/v2): update bubbletea/v2 and use WithInitialSize](https://github.com/charmbracelet/x/pull/364) on [charmbracelet/x](https://github.com/charmbracelet/x) (today)
+- [feat: add WithInitialSize option to set the initial window size](https://github.com/charmbracelet/bubbletea/pull/1314) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [Crlf](https://github.com/charmbracelet/meta/pull/190) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (1 day ago)
 - [(v2) feat: renderer: readd standard renderer](https://github.com/charmbracelet/bubbletea/pull/1309) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 days ago)
 - [fix(viewport): handle nil LeftGutterFunc](https://github.com/charmbracelet/bubbles/pull/723) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (2 days ago)
-- [fix(input): use cancel io to cancel windows read events](https://github.com/charmbracelet/x/pull/360) on [charmbracelet/x](https://github.com/charmbracelet/x) (2 days ago)
-- [(v2) feat,refactor!: introduce cursor model](https://github.com/charmbracelet/bubbletea/pull/1303) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (3 days ago)
 
 #### 📜 My recent blog posts
 
