@@ -29,7 +29,7 @@
 #### 🔨 My recent Pull Requests
 
 - [chore(teatest/v2): update bubbletea/v2 and use WithInitialSize](https://github.com/charmbracelet/x/pull/364) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 day ago)
-- [feat: add WithInitialSize option to set the initial window size](https://github.com/charmbracelet/bubbletea/pull/1314) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
+- [feat: add WithWindowSize option to set the initial window size](https://github.com/charmbracelet/bubbletea/pull/1314) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
 - [Crlf](https://github.com/charmbracelet/meta/pull/190) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (2 days ago)
 - [(v2) feat: renderer: readd standard renderer](https://github.com/charmbracelet/bubbletea/pull/1309) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (3 days ago)
 - [fix(viewport): handle nil LeftGutterFunc](https://github.com/charmbracelet/bubbles/pull/723) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (3 days ago)
