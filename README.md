@@ -4,9 +4,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (today)
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 day ago)
-- [charmbracelet/huh](https://github.com/charmbracelet/huh) - Build terminal forms and prompts 🤷🏻‍♀️ (3 days ago)
+- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (1 day ago)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (2 days ago)
+- [charmbracelet/huh](https://github.com/charmbracelet/huh) - Build terminal forms and prompts 🤷🏻‍♀️ (4 days ago)
 - [go-git/cli](https://github.com/go-git/cli) -  (1 week ago)
 - [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) - Magical terminal color handling 🪄 (1 week ago)
 
@@ -21,18 +21,18 @@
 #### 🔭 Latest releases I've contributed to
 
 - [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), today) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v1.3.0](https://github.com/charmbracelet/bubbletea/releases/tag/v1.3.0), 3 days ago) - A powerful little TUI framework 🏗
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v1.3.0](https://github.com/charmbracelet/bubbletea/releases/tag/v1.3.0), 4 days ago) - A powerful little TUI framework 🏗
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.15.2](https://github.com/charmbracelet/gum/releases/tag/v0.15.2), 1 week ago) - A tool for glamorous shell scripts 🎀
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v1.4.6](https://github.com/charmbracelet/wish/releases/tag/v1.4.6), 1 week ago) - Make SSH apps, just like that! 💫
 - [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) ([v0.2.0](https://github.com/charmbracelet/colorprofile/releases/tag/v0.2.0), 1 week ago) - Magical terminal color handling 🪄
 
 #### 🔨 My recent Pull Requests
 
-- [chore(teatest/v2): update bubbletea/v2 and use WithInitialSize](https://github.com/charmbracelet/x/pull/364) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 day ago)
-- [feat: add WithWindowSize option to set the initial window size](https://github.com/charmbracelet/bubbletea/pull/1314) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
-- [Crlf](https://github.com/charmbracelet/meta/pull/190) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (2 days ago)
-- [(v2) feat: renderer: readd standard renderer](https://github.com/charmbracelet/bubbletea/pull/1309) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (3 days ago)
-- [fix(viewport): handle nil LeftGutterFunc](https://github.com/charmbracelet/bubbles/pull/723) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (3 days ago)
+- [chore(teatest/v2): update bubbletea/v2 and use WithInitialSize](https://github.com/charmbracelet/x/pull/364) on [charmbracelet/x](https://github.com/charmbracelet/x) (2 days ago)
+- [feat: add WithWindowSize option to set the initial window size](https://github.com/charmbracelet/bubbletea/pull/1314) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 days ago)
+- [Crlf](https://github.com/charmbracelet/meta/pull/190) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (3 days ago)
+- [(v2) feat: renderer: readd standard renderer](https://github.com/charmbracelet/bubbletea/pull/1309) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (4 days ago)
+- [fix(viewport): handle nil LeftGutterFunc](https://github.com/charmbracelet/bubbles/pull/723) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (4 days ago)
 
 #### 📜 My recent blog posts
 
@@ -44,8 +44,8 @@
 
 #### ⭐ Recent Stars
 
-- [lmorg/murex](https://github.com/lmorg/murex) - A smarter shell and scripting environment with advanced features designed for usability, safety and productivity (eg smarter DevOps tooling) (today)
-- [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers. (1 day ago)
+- [lmorg/murex](https://github.com/lmorg/murex) - A smarter shell and scripting environment with advanced features designed for usability, safety and productivity (eg smarter DevOps tooling) (1 day ago)
+- [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers. (2 days ago)
 - [rommapp/romm](https://github.com/rommapp/romm) - A beautiful, powerful, self-hosted rom manager and player. (2 weeks ago)
 - [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - Our over complex system configurations  (3 weeks ago)
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place (1 month ago)
