@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: reset renderer and cursor when releasing terminal](https://github.com/charmbracelet/bubbletea/pull/1321) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [chore(teatest/v2): update bubbletea/v2 and use WithInitialSize](https://github.com/charmbracelet/x/pull/364) on [charmbracelet/x](https://github.com/charmbracelet/x) (4 days ago)
 - [feat: add WithWindowSize option to set the initial window size](https://github.com/charmbracelet/bubbletea/pull/1314) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (4 days ago)
 - [Crlf](https://github.com/charmbracelet/meta/pull/190) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (5 days ago)
 - [(v2) feat: renderer: readd standard renderer](https://github.com/charmbracelet/bubbletea/pull/1309) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (6 days ago)
-- [fix(viewport): handle nil LeftGutterFunc](https://github.com/charmbracelet/bubbles/pull/723) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (6 days ago)
 
 #### 📜 My recent blog posts
 
