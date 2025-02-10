@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v1.3.2](https://github.com/charmbracelet/bubbletea/releases/tag/v1.3.2), today) - A powerful little TUI framework 🏗
 - [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), today) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v1.3.0](https://github.com/charmbracelet/bubbletea/releases/tag/v1.3.0), 6 days ago) - A powerful little TUI framework 🏗
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.15.2](https://github.com/charmbracelet/gum/releases/tag/v0.15.2), 1 week ago) - A tool for glamorous shell scripts 🎀
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v1.4.6](https://github.com/charmbracelet/wish/releases/tag/v1.4.6), 1 week ago) - Make SSH apps, just like that! 💫
 - [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) ([v0.2.0](https://github.com/charmbracelet/colorprofile/releases/tag/v0.2.0), 2 weeks ago) - Magical terminal color handling 🪄
 
 #### 🔨 My recent Pull Requests
 
+- [refactor: work with the renderer and use the last model](https://github.com/antonmedv/walk/pull/161) on [antonmedv/walk](https://github.com/antonmedv/walk) (today)
 - [fix(input): windows: handle cancelio in handleConInput](https://github.com/charmbracelet/x/pull/370) on [charmbracelet/x](https://github.com/charmbracelet/x) (today)
 - [fix: windows: handle cancel io error](https://github.com/charmbracelet/bubbletea/pull/1325) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [fix: renderer: use newline instead of cud1 to move cursor down](https://github.com/charmbracelet/bubbletea/pull/1323) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [fix: reset renderer and cursor when releasing terminal](https://github.com/charmbracelet/bubbletea/pull/1321) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
-- [chore(teatest/v2): update bubbletea/v2 and use WithInitialSize](https://github.com/charmbracelet/x/pull/364) on [charmbracelet/x](https://github.com/charmbracelet/x) (4 days ago)
 
 #### 📜 My recent blog posts
 
