@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix(input): windows: handle cancelio in handleConInput](https://github.com/charmbracelet/x/pull/370) on [charmbracelet/x](https://github.com/charmbracelet/x) (today)
+- [fix: windows: handle cancel io error](https://github.com/charmbracelet/bubbletea/pull/1325) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [fix: renderer: use newline instead of cud1 to move cursor down](https://github.com/charmbracelet/bubbletea/pull/1323) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [fix: reset renderer and cursor when releasing terminal](https://github.com/charmbracelet/bubbletea/pull/1321) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [chore(teatest/v2): update bubbletea/v2 and use WithInitialSize](https://github.com/charmbracelet/x/pull/364) on [charmbracelet/x](https://github.com/charmbracelet/x) (4 days ago)
-- [feat: add WithWindowSize option to set the initial window size](https://github.com/charmbracelet/bubbletea/pull/1314) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (4 days ago)
-- [Crlf](https://github.com/charmbracelet/meta/pull/190) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (5 days ago)
 
 #### 📜 My recent blog posts
 
