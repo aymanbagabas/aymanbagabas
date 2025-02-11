@@ -6,9 +6,9 @@
 
 - [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (today)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (today)
+- [antonmedv/walk](https://github.com/antonmedv/walk) - Terminal file manager (today)
 - [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (2 days ago)
 - [charmbracelet/huh](https://github.com/charmbracelet/huh) - Build terminal forms and prompts 🤷🏻‍♀️ (1 week ago)
-- [go-git/cli](https://github.com/go-git/cli) -  (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -22,9 +22,9 @@
 
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v1.3.3](https://github.com/charmbracelet/bubbletea/releases/tag/v1.3.3), today) - A powerful little TUI framework 🏗
 - [raphamorim/rio](https://github.com/raphamorim/rio) ([v0.2.7](https://github.com/raphamorim/rio/releases/tag/v0.2.7), today) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
+- [antonmedv/walk](https://github.com/antonmedv/walk) ([v1.12.0](https://github.com/antonmedv/walk/releases/tag/v1.12.0), 2 days ago) - Terminal file manager
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.15.2](https://github.com/charmbracelet/gum/releases/tag/v0.15.2), 2 weeks ago) - A tool for glamorous shell scripts 🎀
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v1.4.6](https://github.com/charmbracelet/wish/releases/tag/v1.4.6), 2 weeks ago) - Make SSH apps, just like that! 💫
-- [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) ([v0.2.0](https://github.com/charmbracelet/colorprofile/releases/tag/v0.2.0), 2 weeks ago) - Magical terminal color handling 🪄
 
 #### 🔨 My recent Pull Requests
 
