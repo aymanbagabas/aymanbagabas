@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [(v2) feat: add hyperlink support](https://github.com/charmbracelet/lipgloss/pull/473) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (today)
 - [feat: initial compositing implementation](https://github.com/charmbracelet/lipgloss/pull/471) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (1 day ago)
 - [fix: startPath not being set properly](https://github.com/antonmedv/walk/pull/163) on [antonmedv/walk](https://github.com/antonmedv/walk) (1 day ago)
 - [feat: add syntax highlighting to text files](https://github.com/antonmedv/walk/pull/162) on [antonmedv/walk](https://github.com/antonmedv/walk) (1 day ago)
 - [refactor: work with the renderer and use the last model](https://github.com/antonmedv/walk/pull/161) on [antonmedv/walk](https://github.com/antonmedv/walk) (2 days ago)
-- [fix(input): windows: handle cancelio in handleConInput](https://github.com/charmbracelet/x/pull/370) on [charmbracelet/x](https://github.com/charmbracelet/x) (2 days ago)
 
 #### 📜 My recent blog posts
 
