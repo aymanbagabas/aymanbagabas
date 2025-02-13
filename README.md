@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: separate view in its own interface](https://github.com/charmbracelet/bubbletea/pull/1331) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [(v2) feat: add hyperlink support](https://github.com/charmbracelet/lipgloss/pull/473) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (1 day ago)
 - [feat: initial compositing implementation](https://github.com/charmbracelet/lipgloss/pull/471) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (2 days ago)
 - [fix: startPath not being set properly](https://github.com/antonmedv/walk/pull/163) on [antonmedv/walk](https://github.com/antonmedv/walk) (2 days ago)
 - [feat: add syntax highlighting to text files](https://github.com/antonmedv/walk/pull/162) on [antonmedv/walk](https://github.com/antonmedv/walk) (2 days ago)
-- [refactor: work with the renderer and use the last model](https://github.com/antonmedv/walk/pull/161) on [antonmedv/walk](https://github.com/antonmedv/walk) (3 days ago)
 
 #### 📜 My recent blog posts
 
