@@ -4,8 +4,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (today)
 - [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (2 days ago)
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (2 days ago)
 - [antonmedv/walk](https://github.com/antonmedv/walk) - Terminal file manager (2 days ago)
 - [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (4 days ago)
 - [charmbracelet/huh](https://github.com/charmbracelet/huh) - Build terminal forms and prompts 🤷🏻‍♀️ (1 week ago)
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat(ci): move from goveralls to codecov](https://github.com/charmbracelet/bubbletea/pull/1332) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [feat: separate view in its own interface](https://github.com/charmbracelet/bubbletea/pull/1331) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [(v2) feat: add hyperlink support](https://github.com/charmbracelet/lipgloss/pull/473) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (1 day ago)
 - [feat: initial compositing implementation](https://github.com/charmbracelet/lipgloss/pull/471) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (2 days ago)
 - [fix: startPath not being set properly](https://github.com/antonmedv/walk/pull/163) on [antonmedv/walk](https://github.com/antonmedv/walk) (2 days ago)
-- [feat: add syntax highlighting to text files](https://github.com/antonmedv/walk/pull/162) on [antonmedv/walk](https://github.com/antonmedv/walk) (2 days ago)
 
 #### 📜 My recent blog posts
 
