@@ -4,10 +4,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (today)
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (2 days ago)
-- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (4 days ago)
-- [antonmedv/walk](https://github.com/antonmedv/walk) - Terminal file manager (4 days ago)
+- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (1 day ago)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (3 days ago)
+- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (5 days ago)
+- [antonmedv/walk](https://github.com/antonmedv/walk) - Terminal file manager (5 days ago)
 - [charmbracelet/huh](https://github.com/charmbracelet/huh) - Build terminal forms and prompts 🤷🏻‍♀️ (1 week ago)
 
 #### 🌱 My latest projects
@@ -21,18 +21,18 @@
 #### 🔭 Latest releases I've contributed to
 
 - [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), today) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v1.3.3](https://github.com/charmbracelet/bubbletea/releases/tag/v1.3.3), 4 days ago) - A powerful little TUI framework 🏗
-- [antonmedv/walk](https://github.com/antonmedv/walk) ([v1.12.0](https://github.com/antonmedv/walk/releases/tag/v1.12.0), 6 days ago) - Terminal file manager
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v1.3.3](https://github.com/charmbracelet/bubbletea/releases/tag/v1.3.3), 5 days ago) - A powerful little TUI framework 🏗
+- [antonmedv/walk](https://github.com/antonmedv/walk) ([v1.12.0](https://github.com/antonmedv/walk/releases/tag/v1.12.0), 1 week ago) - Terminal file manager
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.15.2](https://github.com/charmbracelet/gum/releases/tag/v0.15.2), 2 weeks ago) - A tool for glamorous shell scripts 🎀
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v1.4.6](https://github.com/charmbracelet/wish/releases/tag/v1.4.6), 2 weeks ago) - Make SSH apps, just like that! 💫
 
 #### 🔨 My recent Pull Requests
 
-- [feat(ci): move from goveralls to codecov](https://github.com/charmbracelet/bubbletea/pull/1332) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 days ago)
-- [feat: separate view in its own interface](https://github.com/charmbracelet/bubbletea/pull/1331) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 days ago)
-- [(v2) feat: add hyperlink support](https://github.com/charmbracelet/lipgloss/pull/473) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (3 days ago)
-- [feat: initial compositing implementation](https://github.com/charmbracelet/lipgloss/pull/471) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (4 days ago)
-- [fix: startPath not being set properly](https://github.com/antonmedv/walk/pull/163) on [antonmedv/walk](https://github.com/antonmedv/walk) (4 days ago)
+- [feat(ci): move from goveralls to codecov](https://github.com/charmbracelet/bubbletea/pull/1332) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (3 days ago)
+- [feat: separate view in its own interface](https://github.com/charmbracelet/bubbletea/pull/1331) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (3 days ago)
+- [(v2) feat: add hyperlink support](https://github.com/charmbracelet/lipgloss/pull/473) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (4 days ago)
+- [feat: initial compositing implementation](https://github.com/charmbracelet/lipgloss/pull/471) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (5 days ago)
+- [fix: startPath not being set properly](https://github.com/antonmedv/walk/pull/163) on [antonmedv/walk](https://github.com/antonmedv/walk) (5 days ago)
 
 #### 📜 My recent blog posts
 
@@ -44,7 +44,7 @@
 
 #### ⭐ Recent Stars
 
-- [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring hub with historical data, docker stats, and alerts. (2 days ago)
+- [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring hub with historical data, docker stats, and alerts. (3 days ago)
 - [lmorg/murex](https://github.com/lmorg/murex) - A smarter shell and scripting environment with advanced features designed for usability, safety and productivity (eg smarter DevOps tooling) (1 week ago)
 - [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers. (1 week ago)
 - [rommapp/romm](https://github.com/rommapp/romm) - A beautiful, powerful, self-hosted rom manager and player. (3 weeks ago)
