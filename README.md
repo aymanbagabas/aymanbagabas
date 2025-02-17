@@ -20,11 +20,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [caarlos0/svu](https://github.com/caarlos0/svu) ([v3.0.0](https://github.com/caarlos0/svu/releases/tag/v3.0.0), today) - semantic version utility
 - [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), 1 day ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v1.3.3](https://github.com/charmbracelet/bubbletea/releases/tag/v1.3.3), 6 days ago) - A powerful little TUI framework 🏗
 - [antonmedv/walk](https://github.com/antonmedv/walk) ([v1.12.0](https://github.com/antonmedv/walk/releases/tag/v1.12.0), 1 week ago) - Terminal file manager
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.15.2](https://github.com/charmbracelet/gum/releases/tag/v0.15.2), 2 weeks ago) - A tool for glamorous shell scripts 🎀
-- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v1.4.6](https://github.com/charmbracelet/wish/releases/tag/v1.4.6), 2 weeks ago) - Make SSH apps, just like that! 💫
 
 #### 🔨 My recent Pull Requests
 
