@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [wip: use ansi and cellbuf wrap instead of reflow](https://github.com/charmbracelet/glamour/pull/385) on [charmbracelet/glamour](https://github.com/charmbracelet/glamour) (today)
 - [chore(tests): add a few environment-related tests](https://github.com/charmbracelet/colorprofile/pull/31) on [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) (today)
 - [feat(ci): move from goveralls to codecov](https://github.com/charmbracelet/bubbletea/pull/1332) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (5 days ago)
 - [feat: separate view in its own interface](https://github.com/charmbracelet/bubbletea/pull/1331) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (5 days ago)
 - [(v2) feat: add hyperlink support](https://github.com/charmbracelet/lipgloss/pull/473) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (6 days ago)
-- [feat: initial compositing implementation](https://github.com/charmbracelet/lipgloss/pull/471) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (1 week ago)
 
 #### 📜 My recent blog posts
 
