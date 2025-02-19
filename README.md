@@ -20,8 +20,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [antonmedv/walk](https://github.com/antonmedv/walk) ([v1.13.0](https://github.com/antonmedv/walk/releases/tag/v1.13.0), today) - Terminal file manager
 - [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), today) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
+- [antonmedv/walk](https://github.com/antonmedv/walk) ([v1.13.0](https://github.com/antonmedv/walk/releases/tag/v1.13.0), today) - Terminal file manager
 - [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) ([v0.2.1](https://github.com/charmbracelet/colorprofile/releases/tag/v0.2.1), 1 day ago) - Magical terminal color handling 🪄
 - [caarlos0/svu](https://github.com/caarlos0/svu) ([v3.0.0](https://github.com/caarlos0/svu/releases/tag/v3.0.0), 2 days ago) - semantic version utility
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v1.3.3](https://github.com/charmbracelet/bubbletea/releases/tag/v1.3.3), 1 week ago) - A powerful little TUI framework 🏗
