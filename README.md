@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) - Magical terminal color handling 🪄 (today)
-- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (today)
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (today)
-- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (today)
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (5 days ago)
+- [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) - Magical terminal color handling 🪄 (1 day ago)
+- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (1 day ago)
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (1 day ago)
+- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (1 day ago)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) ([v0.2.1](https://github.com/charmbracelet/colorprofile/releases/tag/v0.2.1), today) - Magical terminal color handling 🪄
-- [caarlos0/svu](https://github.com/caarlos0/svu) ([v3.0.0](https://github.com/caarlos0/svu/releases/tag/v3.0.0), 1 day ago) - semantic version utility
-- [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), 2 days ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
+- [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) ([v0.2.1](https://github.com/charmbracelet/colorprofile/releases/tag/v0.2.1), 1 day ago) - Magical terminal color handling 🪄
+- [caarlos0/svu](https://github.com/caarlos0/svu) ([v3.0.0](https://github.com/caarlos0/svu/releases/tag/v3.0.0), 2 days ago) - semantic version utility
+- [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), 3 days ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v1.3.3](https://github.com/charmbracelet/bubbletea/releases/tag/v1.3.3), 1 week ago) - A powerful little TUI framework 🏗
 - [antonmedv/walk](https://github.com/antonmedv/walk) ([v1.12.0](https://github.com/antonmedv/walk/releases/tag/v1.12.0), 1 week ago) - Terminal file manager
 
 #### 🔨 My recent Pull Requests
 
-- [wip: use ansi and cellbuf wrap instead of reflow](https://github.com/charmbracelet/glamour/pull/385) on [charmbracelet/glamour](https://github.com/charmbracelet/glamour) (today)
-- [chore(tests): add a few environment-related tests](https://github.com/charmbracelet/colorprofile/pull/31) on [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) (today)
-- [feat(ci): move from goveralls to codecov](https://github.com/charmbracelet/bubbletea/pull/1332) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (5 days ago)
-- [feat: separate view in its own interface](https://github.com/charmbracelet/bubbletea/pull/1331) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (5 days ago)
-- [(v2) feat: add hyperlink support](https://github.com/charmbracelet/lipgloss/pull/473) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (6 days ago)
+- [wip: use ansi and cellbuf wrap instead of reflow](https://github.com/charmbracelet/glamour/pull/385) on [charmbracelet/glamour](https://github.com/charmbracelet/glamour) (1 day ago)
+- [chore(tests): add a few environment-related tests](https://github.com/charmbracelet/colorprofile/pull/31) on [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) (1 day ago)
+- [feat(ci): move from goveralls to codecov](https://github.com/charmbracelet/bubbletea/pull/1332) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (6 days ago)
+- [feat: separate view in its own interface](https://github.com/charmbracelet/bubbletea/pull/1331) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (6 days ago)
+- [(v2) feat: add hyperlink support](https://github.com/charmbracelet/lipgloss/pull/473) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (1 week ago)
 
 #### 📜 My recent blog posts
 
@@ -44,7 +44,7 @@
 
 #### ⭐ Recent Stars
 
-- [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring hub with historical data, docker stats, and alerts. (5 days ago)
+- [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring hub with historical data, docker stats, and alerts. (6 days ago)
 - [lmorg/murex](https://github.com/lmorg/murex) - A smarter shell and scripting environment with advanced features designed for usability, safety and productivity (eg smarter DevOps tooling) (1 week ago)
 - [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers. (1 week ago)
 - [rommapp/romm](https://github.com/rommapp/romm) - A beautiful, powerful, self-hosted rom manager and player. (4 weeks ago)
