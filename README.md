@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: implement new faster sort algorithm for Go 1.18](https://github.com/soniakeys/quant/pull/2) on [soniakeys/quant](https://github.com/soniakeys/quant) (today)
 - [feat(ansi): add FinalTerm shell integration sequences](https://github.com/charmbracelet/x/pull/379) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 day ago)
 - [wip: use ansi and cellbuf wrap instead of reflow](https://github.com/charmbracelet/glamour/pull/385) on [charmbracelet/glamour](https://github.com/charmbracelet/glamour) (2 days ago)
 - [chore(tests): add a few environment-related tests](https://github.com/charmbracelet/colorprofile/pull/31) on [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) (2 days ago)
 - [feat(ci): move from goveralls to codecov](https://github.com/charmbracelet/bubbletea/pull/1332) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 week ago)
-- [feat: separate view in its own interface](https://github.com/charmbracelet/bubbletea/pull/1331) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 week ago)
 
 #### 📜 My recent blog posts
 
