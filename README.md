@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (today)
-- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (today)
-- [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) - Magical terminal color handling 🪄 (1 day ago)
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (1 day ago)
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (6 days ago)
+- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (1 day ago)
+- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (1 day ago)
+- [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) - Magical terminal color handling 🪄 (2 days ago)
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (2 days ago)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), today) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
-- [antonmedv/walk](https://github.com/antonmedv/walk) ([v1.13.0](https://github.com/antonmedv/walk/releases/tag/v1.13.0), today) - Terminal file manager
-- [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) ([v0.2.1](https://github.com/charmbracelet/colorprofile/releases/tag/v0.2.1), 1 day ago) - Magical terminal color handling 🪄
-- [caarlos0/svu](https://github.com/caarlos0/svu) ([v3.0.0](https://github.com/caarlos0/svu/releases/tag/v3.0.0), 2 days ago) - semantic version utility
+- [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), 1 day ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
+- [antonmedv/walk](https://github.com/antonmedv/walk) ([v1.13.0](https://github.com/antonmedv/walk/releases/tag/v1.13.0), 1 day ago) - Terminal file manager
+- [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) ([v0.2.1](https://github.com/charmbracelet/colorprofile/releases/tag/v0.2.1), 2 days ago) - Magical terminal color handling 🪄
+- [caarlos0/svu](https://github.com/caarlos0/svu) ([v3.0.0](https://github.com/caarlos0/svu/releases/tag/v3.0.0), 3 days ago) - semantic version utility
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v1.3.3](https://github.com/charmbracelet/bubbletea/releases/tag/v1.3.3), 1 week ago) - A powerful little TUI framework 🏗
 
 #### 🔨 My recent Pull Requests
 
-- [feat(ansi): add FinalTerm shell integration sequences](https://github.com/charmbracelet/x/pull/379) on [charmbracelet/x](https://github.com/charmbracelet/x) (today)
-- [wip: use ansi and cellbuf wrap instead of reflow](https://github.com/charmbracelet/glamour/pull/385) on [charmbracelet/glamour](https://github.com/charmbracelet/glamour) (1 day ago)
-- [chore(tests): add a few environment-related tests](https://github.com/charmbracelet/colorprofile/pull/31) on [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) (1 day ago)
-- [feat(ci): move from goveralls to codecov](https://github.com/charmbracelet/bubbletea/pull/1332) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (6 days ago)
-- [feat: separate view in its own interface](https://github.com/charmbracelet/bubbletea/pull/1331) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (6 days ago)
+- [feat(ansi): add FinalTerm shell integration sequences](https://github.com/charmbracelet/x/pull/379) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 day ago)
+- [wip: use ansi and cellbuf wrap instead of reflow](https://github.com/charmbracelet/glamour/pull/385) on [charmbracelet/glamour](https://github.com/charmbracelet/glamour) (2 days ago)
+- [chore(tests): add a few environment-related tests](https://github.com/charmbracelet/colorprofile/pull/31) on [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) (2 days ago)
+- [feat(ci): move from goveralls to codecov](https://github.com/charmbracelet/bubbletea/pull/1332) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 week ago)
+- [feat: separate view in its own interface](https://github.com/charmbracelet/bubbletea/pull/1331) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 week ago)
 
 #### 📜 My recent blog posts
 
@@ -44,10 +44,10 @@
 
 #### ⭐ Recent Stars
 
-- [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring hub with historical data, docker stats, and alerts. (6 days ago)
+- [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring hub with historical data, docker stats, and alerts. (1 week ago)
 - [lmorg/murex](https://github.com/lmorg/murex) - A smarter shell and scripting environment with advanced features designed for usability, safety and productivity (eg smarter DevOps tooling) (1 week ago)
-- [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers. (1 week ago)
-- [rommapp/romm](https://github.com/rommapp/romm) - A beautiful, powerful, self-hosted rom manager and player. (4 weeks ago)
+- [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers. (2 weeks ago)
+- [rommapp/romm](https://github.com/rommapp/romm) - A beautiful, powerful, self-hosted rom manager and player. (1 month ago)
 - [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - Our over complex system configurations  (1 month ago)
 
 #### 📫 How to reach me
