@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: windows: enable mouse mode on demand](https://github.com/charmbracelet/bubbletea/pull/1341) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
+- [fix(input): windows: mouse mode flag](https://github.com/charmbracelet/x/pull/386) on [charmbracelet/x](https://github.com/charmbracelet/x) (today)
+- [fix: windows: enable mouse mode on demand](https://github.com/charmbracelet/bubbletea/pull/1340) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [Implement Sixel encoder/decoder support](https://github.com/charmbracelet/x/pull/381) on [charmbracelet/x](https://github.com/charmbracelet/x) (4 days ago)
 - [feat: implement new faster sort algorithm for Go 1.18](https://github.com/soniakeys/quant/pull/2) on [soniakeys/quant](https://github.com/soniakeys/quant) (4 days ago)
-- [feat(ansi): add FinalTerm shell integration sequences](https://github.com/charmbracelet/x/pull/379) on [charmbracelet/x](https://github.com/charmbracelet/x) (5 days ago)
-- [wip: use ansi and cellbuf wrap instead of reflow](https://github.com/charmbracelet/glamour/pull/385) on [charmbracelet/glamour](https://github.com/charmbracelet/glamour) (6 days ago)
-- [chore(tests): add a few environment-related tests](https://github.com/charmbracelet/colorprofile/pull/31) on [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) (6 days ago)
 
 #### 📜 My recent blog posts
 
