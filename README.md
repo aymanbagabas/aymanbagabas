@@ -4,10 +4,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (today)
-- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (5 days ago)
-- [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) - Magical terminal color handling 🪄 (6 days ago)
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (6 days ago)
+- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (1 day ago)
+- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (6 days ago)
+- [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) - Magical terminal color handling 🪄 (1 week ago)
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (1 week ago)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 week ago)
 
 #### 🌱 My latest projects
@@ -21,18 +21,18 @@
 #### 🔭 Latest releases I've contributed to
 
 - [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), today) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
-- [caarlos0/svu](https://github.com/caarlos0/svu) ([v3.1.0](https://github.com/caarlos0/svu/releases/tag/v3.1.0), 3 days ago) - semantic version utility
-- [antonmedv/walk](https://github.com/antonmedv/walk) ([v1.13.0](https://github.com/antonmedv/walk/releases/tag/v1.13.0), 5 days ago) - Terminal file manager
-- [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) ([v0.2.1](https://github.com/charmbracelet/colorprofile/releases/tag/v0.2.1), 6 days ago) - Magical terminal color handling 🪄
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v1.3.3](https://github.com/charmbracelet/bubbletea/releases/tag/v1.3.3), 1 week ago) - A powerful little TUI framework 🏗
+- [caarlos0/svu](https://github.com/caarlos0/svu) ([v3.1.0](https://github.com/caarlos0/svu/releases/tag/v3.1.0), 4 days ago) - semantic version utility
+- [antonmedv/walk](https://github.com/antonmedv/walk) ([v1.13.0](https://github.com/antonmedv/walk/releases/tag/v1.13.0), 6 days ago) - Terminal file manager
+- [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) ([v0.2.1](https://github.com/charmbracelet/colorprofile/releases/tag/v0.2.1), 1 week ago) - Magical terminal color handling 🪄
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v1.3.3](https://github.com/charmbracelet/bubbletea/releases/tag/v1.3.3), 2 weeks ago) - A powerful little TUI framework 🏗
 
 #### 🔨 My recent Pull Requests
 
-- [fix: windows: enable mouse mode on demand](https://github.com/charmbracelet/bubbletea/pull/1341) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
-- [fix(input): windows: mouse mode flag](https://github.com/charmbracelet/x/pull/386) on [charmbracelet/x](https://github.com/charmbracelet/x) (today)
-- [fix: windows: enable mouse mode on demand](https://github.com/charmbracelet/bubbletea/pull/1340) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
-- [Implement Sixel encoder/decoder support](https://github.com/charmbracelet/x/pull/381) on [charmbracelet/x](https://github.com/charmbracelet/x) (4 days ago)
-- [feat: implement new faster sort algorithm for Go 1.18](https://github.com/soniakeys/quant/pull/2) on [soniakeys/quant](https://github.com/soniakeys/quant) (4 days ago)
+- [fix: windows: enable mouse mode on demand](https://github.com/charmbracelet/bubbletea/pull/1341) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
+- [fix(input): windows: mouse mode flag](https://github.com/charmbracelet/x/pull/386) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 day ago)
+- [fix: windows: enable mouse mode on demand](https://github.com/charmbracelet/bubbletea/pull/1340) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
+- [Implement Sixel encoder/decoder support](https://github.com/charmbracelet/x/pull/381) on [charmbracelet/x](https://github.com/charmbracelet/x) (5 days ago)
+- [feat: implement new faster sort algorithm for Go 1.18](https://github.com/soniakeys/quant/pull/2) on [soniakeys/quant](https://github.com/soniakeys/quant) (5 days ago)
 
 #### 📜 My recent blog posts
 
