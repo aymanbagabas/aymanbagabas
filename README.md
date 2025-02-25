@@ -20,15 +20,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v1.3.4](https://github.com/charmbracelet/bubbletea/releases/tag/v1.3.4), today) - A powerful little TUI framework 🏗
 - [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), today) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 - [caarlos0/svu](https://github.com/caarlos0/svu) ([v3.1.0](https://github.com/caarlos0/svu/releases/tag/v3.1.0), 4 days ago) - semantic version utility
 - [antonmedv/walk](https://github.com/antonmedv/walk) ([v1.13.0](https://github.com/antonmedv/walk/releases/tag/v1.13.0), 6 days ago) - Terminal file manager
 - [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) ([v0.2.1](https://github.com/charmbracelet/colorprofile/releases/tag/v0.2.1), 1 week ago) - Magical terminal color handling 🪄
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v1.3.3](https://github.com/charmbracelet/bubbletea/releases/tag/v1.3.3), 2 weeks ago) - A powerful little TUI framework 🏗
 
 #### 🔨 My recent Pull Requests
 
-- [fix: windows: enable mouse mode on demand](https://github.com/charmbracelet/bubbletea/pull/1341) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
+- [(v2) fix: windows: enable mouse mode on demand](https://github.com/charmbracelet/bubbletea/pull/1341) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
 - [fix(input): windows: mouse mode flag](https://github.com/charmbracelet/x/pull/386) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 day ago)
 - [fix: windows: enable mouse mode on demand](https://github.com/charmbracelet/bubbletea/pull/1340) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
 - [Implement Sixel encoder/decoder support](https://github.com/charmbracelet/x/pull/381) on [charmbracelet/x](https://github.com/charmbracelet/x) (5 days ago)
