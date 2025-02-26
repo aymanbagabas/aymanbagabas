@@ -20,11 +20,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/glow](https://github.com/charmbracelet/glow) ([v2.1.0](https://github.com/charmbracelet/glow/releases/tag/v2.1.0), today) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), today) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 - [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) ([v0.2.2](https://github.com/charmbracelet/colorprofile/releases/tag/v0.2.2), today) - Magical terminal color handling 🪄
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v1.3.4](https://github.com/charmbracelet/bubbletea/releases/tag/v1.3.4), 1 day ago) - A powerful little TUI framework 🏗
 - [caarlos0/svu](https://github.com/caarlos0/svu) ([v3.1.0](https://github.com/caarlos0/svu/releases/tag/v3.1.0), 5 days ago) - semantic version utility
-- [antonmedv/walk](https://github.com/antonmedv/walk) ([v1.13.0](https://github.com/antonmedv/walk/releases/tag/v1.13.0), 1 week ago) - Terminal file manager
 
 #### 🔨 My recent Pull Requests
 
