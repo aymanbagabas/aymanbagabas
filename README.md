@@ -20,11 +20,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [go-git/go-git](https://github.com/go-git/go-git) ([v5.14.0](https://github.com/go-git/go-git/releases/tag/v5.14.0), today) - A highly extensible Git implementation in pure Go.
+- [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), today) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) ([v2.1.0](https://github.com/charmbracelet/glow/releases/tag/v2.1.0), 1 day ago) - Render markdown on the CLI, with pizzazz! 💅🏻
-- [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), 1 day ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 - [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) ([v0.2.2](https://github.com/charmbracelet/colorprofile/releases/tag/v0.2.2), 1 day ago) - Magical terminal color handling 🪄
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v1.3.4](https://github.com/charmbracelet/bubbletea/releases/tag/v1.3.4), 2 days ago) - A powerful little TUI framework 🏗
-- [caarlos0/svu](https://github.com/caarlos0/svu) ([v3.1.0](https://github.com/caarlos0/svu/releases/tag/v3.1.0), 6 days ago) - semantic version utility
 
 #### 🔨 My recent Pull Requests
 
