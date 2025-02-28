@@ -4,9 +4,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (1 day ago)
-- [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) - Magical terminal color handling 🪄 (1 day ago)
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (2 days ago)
+- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (2 days ago)
+- [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) - Magical terminal color handling 🪄 (2 days ago)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (3 days ago)
 - [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (1 week ago)
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (1 week ago)
 
@@ -20,18 +20,18 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [go-git/go-git](https://github.com/go-git/go-git) ([v5.14.0](https://github.com/go-git/go-git/releases/tag/v5.14.0), today) - A highly extensible Git implementation in pure Go.
-- [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), today) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
-- [charmbracelet/glow](https://github.com/charmbracelet/glow) ([v2.1.0](https://github.com/charmbracelet/glow/releases/tag/v2.1.0), 1 day ago) - Render markdown on the CLI, with pizzazz! 💅🏻
-- [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) ([v0.2.2](https://github.com/charmbracelet/colorprofile/releases/tag/v0.2.2), 1 day ago) - Magical terminal color handling 🪄
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v1.3.4](https://github.com/charmbracelet/bubbletea/releases/tag/v1.3.4), 2 days ago) - A powerful little TUI framework 🏗
+- [go-git/go-git](https://github.com/go-git/go-git) ([v5.14.0](https://github.com/go-git/go-git/releases/tag/v5.14.0), 1 day ago) - A highly extensible Git implementation in pure Go.
+- [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), 1 day ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
+- [charmbracelet/glow](https://github.com/charmbracelet/glow) ([v2.1.0](https://github.com/charmbracelet/glow/releases/tag/v2.1.0), 2 days ago) - Render markdown on the CLI, with pizzazz! 💅🏻
+- [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) ([v0.2.2](https://github.com/charmbracelet/colorprofile/releases/tag/v0.2.2), 2 days ago) - Magical terminal color handling 🪄
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v1.3.4](https://github.com/charmbracelet/bubbletea/releases/tag/v1.3.4), 3 days ago) - A powerful little TUI framework 🏗
 
 #### 🔨 My recent Pull Requests
 
-- [chore: add .editorconfig](https://github.com/charmbracelet/lipgloss/pull/481) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (1 day ago)
-- [(v2) fix: windows: enable mouse mode on demand](https://github.com/charmbracelet/bubbletea/pull/1341) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (3 days ago)
-- [fix(input): windows: mouse mode flag](https://github.com/charmbracelet/x/pull/386) on [charmbracelet/x](https://github.com/charmbracelet/x) (3 days ago)
-- [fix: windows: enable mouse mode on demand](https://github.com/charmbracelet/bubbletea/pull/1340) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (3 days ago)
+- [chore: add .editorconfig](https://github.com/charmbracelet/lipgloss/pull/481) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (2 days ago)
+- [(v2) fix: windows: enable mouse mode on demand](https://github.com/charmbracelet/bubbletea/pull/1341) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (4 days ago)
+- [fix(input): windows: mouse mode flag](https://github.com/charmbracelet/x/pull/386) on [charmbracelet/x](https://github.com/charmbracelet/x) (4 days ago)
+- [fix: windows: enable mouse mode on demand](https://github.com/charmbracelet/bubbletea/pull/1340) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (4 days ago)
 - [Implement Sixel encoder/decoder support](https://github.com/charmbracelet/x/pull/381) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 week ago)
 
 #### 📜 My recent blog posts
@@ -45,7 +45,7 @@
 #### ⭐ Recent Stars
 
 - [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring hub with historical data, docker stats, and alerts. (2 weeks ago)
-- [lmorg/murex](https://github.com/lmorg/murex) - A smarter shell and scripting environment with advanced features designed for usability, safety and productivity (eg smarter DevOps tooling) (2 weeks ago)
+- [lmorg/murex](https://github.com/lmorg/murex) - A smarter shell and scripting environment with advanced features designed for usability, safety and productivity (eg smarter DevOps tooling) (3 weeks ago)
 - [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers. (3 weeks ago)
 - [rommapp/romm](https://github.com/rommapp/romm) - A beautiful, powerful, self-hosted rom manager and player. (1 month ago)
 - [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - Our over complex system configurations  (1 month ago)
