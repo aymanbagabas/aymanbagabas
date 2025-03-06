@@ -20,11 +20,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/keygen](https://github.com/charmbracelet/keygen) ([v0.5.3](https://github.com/charmbracelet/keygen/releases/tag/v0.5.3), today) - An SSH key pair generator 🗝️
 - [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), today) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 - [caarlos0/svu](https://github.com/caarlos0/svu) ([v3.2.1](https://github.com/caarlos0/svu/releases/tag/v3.2.1), 2 days ago) - semantic version utility
 - [go-git/go-git](https://github.com/go-git/go-git) ([v5.14.0](https://github.com/go-git/go-git/releases/tag/v5.14.0), 1 week ago) - A highly extensible Git implementation in pure Go.
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) ([v2.1.0](https://github.com/charmbracelet/glow/releases/tag/v2.1.0), 1 week ago) - Render markdown on the CLI, with pizzazz! 💅🏻
-- [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) ([v0.2.2](https://github.com/charmbracelet/colorprofile/releases/tag/v0.2.2), 1 week ago) - Magical terminal color handling 🪄
 
 #### 🔨 My recent Pull Requests
 
