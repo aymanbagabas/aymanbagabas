@@ -4,15 +4,15 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [aymanbagabas/wstty](https://github.com/aymanbagabas/wstty) - Windows stty alternative (today)
 - [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺 (1 day ago)
 - [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket) - Charmbracelet Scoop Bucket (1 day ago)
 - [charmbracelet/keygen](https://github.com/charmbracelet/keygen) - An SSH key pair generator 🗝️ (2 days ago)
-- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (2 days ago)
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦 (2 days ago)
 
 #### 🌱 My latest projects
 
-- [aymanbagabas/wstty](https://github.com/aymanbagabas/wstty) - Windows stty replacement
+- [aymanbagabas/wstty](https://github.com/aymanbagabas/wstty) - Windows stty alternative
 - [aymanbagabas/ca66r3](https://github.com/aymanbagabas/ca66r3) - CA66 R3 keyboard firmware
 - [aymanbagabas/nur](https://github.com/aymanbagabas/nur) - Ayman&#39;s own Nix User Repository
 - [aymanbagabas/go-pty](https://github.com/aymanbagabas/go-pty) - Cross platform Go Pty interface
