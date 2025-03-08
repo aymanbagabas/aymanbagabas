@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [aymanbagabas/wstty](https://github.com/aymanbagabas/wstty) - Windows stty alternative (today)
-- [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺 (1 day ago)
-- [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket) - Charmbracelet Scoop Bucket (1 day ago)
-- [charmbracelet/keygen](https://github.com/charmbracelet/keygen) - An SSH key pair generator 🗝️ (2 days ago)
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦 (2 days ago)
+- [aymanbagabas/wstty](https://github.com/aymanbagabas/wstty) - Windows stty alternative (1 day ago)
+- [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺 (2 days ago)
+- [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket) - Charmbracelet Scoop Bucket (2 days ago)
+- [charmbracelet/keygen](https://github.com/charmbracelet/keygen) - An SSH key pair generator 🗝️ (3 days ago)
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦 (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -21,14 +21,14 @@
 #### 🔭 Latest releases I've contributed to
 
 - [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), today) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
-- [charmbracelet/keygen](https://github.com/charmbracelet/keygen) ([v0.5.3](https://github.com/charmbracelet/keygen/releases/tag/v0.5.3), 1 day ago) - An SSH key pair generator 🗝️
-- [caarlos0/svu](https://github.com/caarlos0/svu) ([v3.2.1](https://github.com/caarlos0/svu/releases/tag/v3.2.1), 3 days ago) - semantic version utility
+- [charmbracelet/keygen](https://github.com/charmbracelet/keygen) ([v0.5.3](https://github.com/charmbracelet/keygen/releases/tag/v0.5.3), 2 days ago) - An SSH key pair generator 🗝️
+- [caarlos0/svu](https://github.com/caarlos0/svu) ([v3.2.1](https://github.com/caarlos0/svu/releases/tag/v3.2.1), 4 days ago) - semantic version utility
 - [go-git/go-git](https://github.com/go-git/go-git) ([v5.14.0](https://github.com/go-git/go-git/releases/tag/v5.14.0), 1 week ago) - A highly extensible Git implementation in pure Go.
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) ([v2.1.0](https://github.com/charmbracelet/glow/releases/tag/v2.1.0), 1 week ago) - Render markdown on the CLI, with pizzazz! 💅🏻
 
 #### 🔨 My recent Pull Requests
 
-- [fix: only read from stdin if there is data to read](https://github.com/charmbracelet/mods/pull/457) on [charmbracelet/mods](https://github.com/charmbracelet/mods) (today)
+- [fix: only read from stdin if there is data to read](https://github.com/charmbracelet/mods/pull/457) on [charmbracelet/mods](https://github.com/charmbracelet/mods) (1 day ago)
 - [chore: add .editorconfig](https://github.com/charmbracelet/lipgloss/pull/481) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (1 week ago)
 - [(v2) fix: windows: enable mouse mode on demand](https://github.com/charmbracelet/bubbletea/pull/1341) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 week ago)
 - [fix(input): windows: mouse mode flag](https://github.com/charmbracelet/x/pull/386) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 week ago)
@@ -47,7 +47,7 @@
 - [electronicarts/CnC_Generals_Zero_Hour](https://github.com/electronicarts/CnC_Generals_Zero_Hour) - Command and Conquer: Generals - Zero Hour (1 week ago)
 - [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring hub with historical data, docker stats, and alerts. (3 weeks ago)
 - [lmorg/murex](https://github.com/lmorg/murex) - A smarter shell and scripting environment with advanced features designed for usability, safety and productivity (eg smarter DevOps tooling) (4 weeks ago)
-- [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers. (4 weeks ago)
+- [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers. (1 month ago)
 - [rommapp/romm](https://github.com/rommapp/romm) - A beautiful, powerful, self-hosted rom manager and player. (1 month ago)
 
 #### 📫 How to reach me
