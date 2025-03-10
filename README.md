@@ -20,10 +20,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [caarlos0/svu](https://github.com/caarlos0/svu) ([v3.2.2](https://github.com/caarlos0/svu/releases/tag/v3.2.2), today) - semantic version utility
 - [aymanbagabas/wstty](https://github.com/aymanbagabas/wstty) ([v0.0.4](https://github.com/aymanbagabas/wstty/releases/tag/v0.0.4), 2 days ago) - Windows stty replacement
 - [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), 2 days ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 - [charmbracelet/keygen](https://github.com/charmbracelet/keygen) ([v0.5.3](https://github.com/charmbracelet/keygen/releases/tag/v0.5.3), 4 days ago) - An SSH key pair generator 🗝️
-- [caarlos0/svu](https://github.com/caarlos0/svu) ([v3.2.1](https://github.com/caarlos0/svu/releases/tag/v3.2.1), 6 days ago) - semantic version utility
 - [go-git/go-git](https://github.com/go-git/go-git) ([v5.14.0](https://github.com/go-git/go-git/releases/tag/v5.14.0), 1 week ago) - A highly extensible Git implementation in pure Go.
 
 #### 🔨 My recent Pull Requests
