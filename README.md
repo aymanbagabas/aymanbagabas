@@ -5,10 +5,10 @@
 #### 👷 Check out what I'm currently working on
 
 - [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (today)
+- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (today)
 - [aymanbagabas/aymanbagabas.github.io](https://github.com/aymanbagabas/aymanbagabas.github.io) - A personal website built using Jekyll (today)
 - [aymanbagabas/scoop-bucket](https://github.com/aymanbagabas/scoop-bucket) - Scoop Bucket (3 days ago)
 - [aymanbagabas/wstty](https://github.com/aymanbagabas/wstty) - Windows stty replacement (3 days ago)
-- [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺 (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -20,11 +20,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.16.0](https://github.com/charmbracelet/gum/releases/tag/v0.16.0), today) - A tool for glamorous shell scripts 🎀
 - [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), today) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 - [caarlos0/svu](https://github.com/caarlos0/svu) ([v3.2.2](https://github.com/caarlos0/svu/releases/tag/v3.2.2), 1 day ago) - semantic version utility
 - [aymanbagabas/wstty](https://github.com/aymanbagabas/wstty) ([v0.0.4](https://github.com/aymanbagabas/wstty/releases/tag/v0.0.4), 3 days ago) - Windows stty replacement
 - [charmbracelet/keygen](https://github.com/charmbracelet/keygen) ([v0.5.3](https://github.com/charmbracelet/keygen/releases/tag/v0.5.3), 5 days ago) - An SSH key pair generator 🗝️
-- [go-git/go-git](https://github.com/go-git/go-git) ([v5.14.0](https://github.com/go-git/go-git/releases/tag/v5.14.0), 1 week ago) - A highly extensible Git implementation in pure Go.
 
 #### 🔨 My recent Pull Requests
 
