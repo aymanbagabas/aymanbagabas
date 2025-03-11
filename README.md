@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [aymanbagabas/wstty](https://github.com/aymanbagabas/wstty) - Windows stty replacement (3 days ago)
+- [aymanbagabas/aymanbagabas.github.io](https://github.com/aymanbagabas/aymanbagabas.github.io) - A personal website built using Jekyll (today)
 - [aymanbagabas/scoop-bucket](https://github.com/aymanbagabas/scoop-bucket) - Scoop Bucket (3 days ago)
+- [aymanbagabas/wstty](https://github.com/aymanbagabas/wstty) - Windows stty replacement (3 days ago)
 - [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺 (5 days ago)
 - [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket) - Charmbracelet Scoop Bucket (5 days ago)
-- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -36,11 +36,11 @@
 
 #### 📜 My recent blog posts
 
+- [A Brief History of Terminal Emulators](https://aymanbagabas.com/blog/2025/03/11/a-brief-history-of-terminal-emulators.html) (today)
 - [Self-hosted Soft Serve](https://aymanbagabas.com/blog/2023/04/28/self-hosted-soft-serve.html) (2 years ago)
 - [Simple Vim Session Management](https://aymanbagabas.com/blog/2023/04/13/simple-vim-session-management.html) (2 years ago)
 - [Blue Mountain](https://aymanbagabas.com/blog/2022/06/02/blue-mountain.html) (2 years ago)
 - [Import Notion Pages to Jekyll](https://aymanbagabas.com/blog/2022/03/29/import-notion-pages-to-jekyll.html) (2 years ago)
-- [Nyan Cat Over SSH](https://aymanbagabas.com/blog/2022/03/25/nyan-cat-over-ssh.html) (3 years ago)
 
 #### ⭐ Recent Stars
 
