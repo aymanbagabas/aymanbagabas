@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [aymanbagabas/wstty](https://github.com/aymanbagabas/wstty) - Windows stty replacement (2 days ago)
-- [aymanbagabas/scoop-bucket](https://github.com/aymanbagabas/scoop-bucket) - Scoop Bucket (2 days ago)
-- [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺 (4 days ago)
-- [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket) - Charmbracelet Scoop Bucket (4 days ago)
-- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (5 days ago)
+- [aymanbagabas/wstty](https://github.com/aymanbagabas/wstty) - Windows stty replacement (3 days ago)
+- [aymanbagabas/scoop-bucket](https://github.com/aymanbagabas/scoop-bucket) - Scoop Bucket (3 days ago)
+- [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺 (5 days ago)
+- [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket) - Charmbracelet Scoop Bucket (5 days ago)
+- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -20,15 +20,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [raphamorim/rio](https://github.com/raphamorim/rio) ([v0.2.9](https://github.com/raphamorim/rio/releases/tag/v0.2.9), today) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
-- [caarlos0/svu](https://github.com/caarlos0/svu) ([v3.2.2](https://github.com/caarlos0/svu/releases/tag/v3.2.2), today) - semantic version utility
-- [aymanbagabas/wstty](https://github.com/aymanbagabas/wstty) ([v0.0.4](https://github.com/aymanbagabas/wstty/releases/tag/v0.0.4), 2 days ago) - Windows stty replacement
-- [charmbracelet/keygen](https://github.com/charmbracelet/keygen) ([v0.5.3](https://github.com/charmbracelet/keygen/releases/tag/v0.5.3), 4 days ago) - An SSH key pair generator 🗝️
+- [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), today) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
+- [caarlos0/svu](https://github.com/caarlos0/svu) ([v3.2.2](https://github.com/caarlos0/svu/releases/tag/v3.2.2), 1 day ago) - semantic version utility
+- [aymanbagabas/wstty](https://github.com/aymanbagabas/wstty) ([v0.0.4](https://github.com/aymanbagabas/wstty/releases/tag/v0.0.4), 3 days ago) - Windows stty replacement
+- [charmbracelet/keygen](https://github.com/charmbracelet/keygen) ([v0.5.3](https://github.com/charmbracelet/keygen/releases/tag/v0.5.3), 5 days ago) - An SSH key pair generator 🗝️
 - [go-git/go-git](https://github.com/go-git/go-git) ([v5.14.0](https://github.com/go-git/go-git/releases/tag/v5.14.0), 1 week ago) - A highly extensible Git implementation in pure Go.
 
 #### 🔨 My recent Pull Requests
 
-- [fix: only read from stdin if there is data to read](https://github.com/charmbracelet/mods/pull/457) on [charmbracelet/mods](https://github.com/charmbracelet/mods) (3 days ago)
+- [fix: only read from stdin if there is data to read](https://github.com/charmbracelet/mods/pull/457) on [charmbracelet/mods](https://github.com/charmbracelet/mods) (4 days ago)
 - [chore: add .editorconfig](https://github.com/charmbracelet/lipgloss/pull/481) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (1 week ago)
 - [(v2) fix: windows: enable mouse mode on demand](https://github.com/charmbracelet/bubbletea/pull/1341) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 weeks ago)
 - [fix(input): windows: mouse mode flag](https://github.com/charmbracelet/x/pull/386) on [charmbracelet/x](https://github.com/charmbracelet/x) (2 weeks ago)
