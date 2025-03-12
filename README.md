@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [charmbracelet/log](https://github.com/charmbracelet/log) - A minimal, colorful Go logging library 🪵 (today)
 - [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (today)
-- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (1 day ago)
+- [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (today)
 - [aymanbagabas/aymanbagabas.github.io](https://github.com/aymanbagabas/aymanbagabas.github.io) - A personal website built using Jekyll (1 day ago)
-- [aymanbagabas/wstty](https://github.com/aymanbagabas/wstty) - Windows stty replacement (4 days ago)
-- [aymanbagabas/scoop-bucket](https://github.com/aymanbagabas/scoop-bucket) - Scoop Bucket (4 days ago)
+- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/log](https://github.com/charmbracelet/log) ([v0.4.1](https://github.com/charmbracelet/log/releases/tag/v0.4.1), today) - A minimal, colorful Go logging library 🪵
 - [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), today) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.16.0](https://github.com/charmbracelet/gum/releases/tag/v0.16.0), 1 day ago) - A tool for glamorous shell scripts 🎀
 - [caarlos0/svu](https://github.com/caarlos0/svu) ([v3.2.2](https://github.com/caarlos0/svu/releases/tag/v3.2.2), 2 days ago) - semantic version utility
 - [aymanbagabas/wstty](https://github.com/aymanbagabas/wstty) ([v0.0.4](https://github.com/aymanbagabas/wstty/releases/tag/v0.0.4), 4 days ago) - Windows stty replacement
-- [charmbracelet/keygen](https://github.com/charmbracelet/keygen) ([v0.5.3](https://github.com/charmbracelet/keygen/releases/tag/v0.5.3), 6 days ago) - An SSH key pair generator 🗝️
 
 #### 🔨 My recent Pull Requests
 
+- [fix(linter): disable mnd linter](https://github.com/charmbracelet/meta/pull/196) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (today)
 - [fix: use non-breaking space for padding](https://github.com/charmbracelet/lipgloss/pull/489) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (today)
 - [fix(cellbuf): wrap: properly handle formatted spaces](https://github.com/charmbracelet/x/pull/407) on [charmbracelet/x](https://github.com/charmbracelet/x) (today)
 - [Fix Privado update script sed file paths](https://github.com/haugene/vpn-configs-contrib/pull/340) on [haugene/vpn-configs-contrib](https://github.com/haugene/vpn-configs-contrib) (1 day ago)
 - [fix: only read from stdin if there is data to read](https://github.com/charmbracelet/mods/pull/457) on [charmbracelet/mods](https://github.com/charmbracelet/mods) (5 days ago)
-- [chore: add .editorconfig](https://github.com/charmbracelet/lipgloss/pull/481) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
