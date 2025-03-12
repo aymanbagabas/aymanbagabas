@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix(cellbuf): wrap: properly handle formatted spaces](https://github.com/charmbracelet/x/pull/407) on [charmbracelet/x](https://github.com/charmbracelet/x) (today)
 - [Fix Privado update script sed file paths](https://github.com/haugene/vpn-configs-contrib/pull/340) on [haugene/vpn-configs-contrib](https://github.com/haugene/vpn-configs-contrib) (1 day ago)
 - [fix: only read from stdin if there is data to read](https://github.com/charmbracelet/mods/pull/457) on [charmbracelet/mods](https://github.com/charmbracelet/mods) (5 days ago)
 - [chore: add .editorconfig](https://github.com/charmbracelet/lipgloss/pull/481) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (2 weeks ago)
 - [(v2) fix: windows: enable mouse mode on demand](https://github.com/charmbracelet/bubbletea/pull/1341) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 weeks ago)
-- [fix(input): windows: mouse mode flag](https://github.com/charmbracelet/x/pull/386) on [charmbracelet/x](https://github.com/charmbracelet/x) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
