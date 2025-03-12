@@ -7,8 +7,8 @@
 - [charmbracelet/log](https://github.com/charmbracelet/log) - A minimal, colorful Go logging library 🪵 (today)
 - [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (today)
 - [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (today)
+- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (today)
 - [aymanbagabas/aymanbagabas.github.io](https://github.com/aymanbagabas/aymanbagabas.github.io) - A personal website built using Jekyll (1 day ago)
-- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: add underline style and color](https://github.com/charmbracelet/lipgloss/pull/491) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (today)
 - [fix(linter): disable mnd linter](https://github.com/charmbracelet/meta/pull/196) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (today)
 - [fix: use non-breaking space for padding](https://github.com/charmbracelet/lipgloss/pull/489) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (today)
 - [fix(cellbuf): wrap: properly handle formatted spaces](https://github.com/charmbracelet/x/pull/407) on [charmbracelet/x](https://github.com/charmbracelet/x) (today)
 - [Fix Privado update script sed file paths](https://github.com/haugene/vpn-configs-contrib/pull/340) on [haugene/vpn-configs-contrib](https://github.com/haugene/vpn-configs-contrib) (1 day ago)
-- [fix: only read from stdin if there is data to read](https://github.com/charmbracelet/mods/pull/457) on [charmbracelet/mods](https://github.com/charmbracelet/mods) (5 days ago)
 
 #### 📜 My recent blog posts
 
