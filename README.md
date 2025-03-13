@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (1 day ago)
+- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (today)
 - [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (1 day ago)
 - [charmbracelet/log](https://github.com/charmbracelet/log) - A minimal, colorful Go logging library 🪵 (1 day ago)
 - [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (1 day ago)
@@ -20,11 +20,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v1.1.0](https://github.com/charmbracelet/lipgloss/releases/tag/v1.1.0), today) - Style definitions for nice terminal layouts 👄
 - [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), today) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 - [charmbracelet/log](https://github.com/charmbracelet/log) ([v0.4.1](https://github.com/charmbracelet/log/releases/tag/v0.4.1), 1 day ago) - A minimal, colorful Go logging library 🪵
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.16.0](https://github.com/charmbracelet/gum/releases/tag/v0.16.0), 2 days ago) - A tool for glamorous shell scripts 🎀
 - [caarlos0/svu](https://github.com/caarlos0/svu) ([v3.2.2](https://github.com/caarlos0/svu/releases/tag/v3.2.2), 3 days ago) - semantic version utility
-- [aymanbagabas/wstty](https://github.com/aymanbagabas/wstty) ([v0.0.4](https://github.com/aymanbagabas/wstty/releases/tag/v0.0.4), 5 days ago) - Windows stty replacement
 
 #### 🔨 My recent Pull Requests
 
