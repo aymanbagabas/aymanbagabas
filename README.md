@@ -20,8 +20,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/glamour](https://github.com/charmbracelet/glamour) ([v0.9.1](https://github.com/charmbracelet/glamour/releases/tag/v0.9.1), today) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️
 - [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), 3 days ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
-- [charmbracelet/glamour](https://github.com/charmbracelet/glamour) ([v0.9.0](https://github.com/charmbracelet/glamour/releases/tag/v0.9.0), 5 days ago) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v1.1.0](https://github.com/charmbracelet/lipgloss/releases/tag/v1.1.0), 5 days ago) - Style definitions for nice terminal layouts 👄
 - [charmbracelet/log](https://github.com/charmbracelet/log) ([v0.4.1](https://github.com/charmbracelet/log/releases/tag/v0.4.1), 6 days ago) - A minimal, colorful Go logging library 🪵
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.16.0](https://github.com/charmbracelet/gum/releases/tag/v0.16.0), 1 week ago) - A tool for glamorous shell scripts 🎀
