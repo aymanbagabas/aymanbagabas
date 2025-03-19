@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Use the new v2 stack](https://github.com/charmbracelet/soft-serve/pull/678) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (today)
 - [feat: add underline style and color](https://github.com/charmbracelet/lipgloss/pull/491) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (1 week ago)
 - [fix(linter): disable mnd linter](https://github.com/charmbracelet/meta/pull/196) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (1 week ago)
 - [fix: use non-breaking space for padding](https://github.com/charmbracelet/lipgloss/pull/489) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (1 week ago)
 - [fix(cellbuf): wrap: properly handle formatted spaces](https://github.com/charmbracelet/x/pull/407) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 week ago)
-- [Fix Privado update script sed file paths](https://github.com/haugene/vpn-configs-contrib/pull/340) on [haugene/vpn-configs-contrib](https://github.com/haugene/vpn-configs-contrib) (1 week ago)
 
 #### 📜 My recent blog posts
 
