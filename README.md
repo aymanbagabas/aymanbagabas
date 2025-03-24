@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [chore: upgrade ansi to v0.8.0](https://github.com/charmbracelet/freeze/pull/187) on [charmbracelet/freeze](https://github.com/charmbracelet/freeze) (today)
 - [shell: allow overriding built-in commands](https://github.com/git/git/pull/1930) on [git/git](https://github.com/git/git) (3 days ago)
 - [Use the new v2 stack](https://github.com/charmbracelet/soft-serve/pull/678) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (5 days ago)
 - [feat: add underline style and color](https://github.com/charmbracelet/lipgloss/pull/491) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (1 week ago)
 - [fix(linter): disable mnd linter](https://github.com/charmbracelet/meta/pull/196) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (1 week ago)
-- [fix: use non-breaking space for padding](https://github.com/charmbracelet/lipgloss/pull/489) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (1 week ago)
 
 #### 📜 My recent blog posts
 
