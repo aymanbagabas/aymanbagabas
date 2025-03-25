@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/freeze](https://github.com/charmbracelet/freeze) - Generate images of code and terminal output 📸 (today)
-- [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️ (today)
-- [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (3 days ago)
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (4 days ago)
-- [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺 (4 days ago)
+- [charmbracelet/freeze](https://github.com/charmbracelet/freeze) - Generate images of code and terminal output 📸 (1 day ago)
+- [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️ (1 day ago)
+- [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (4 days ago)
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (5 days ago)
+- [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺 (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -20,23 +20,23 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/freeze](https://github.com/charmbracelet/freeze) ([v0.2.0](https://github.com/charmbracelet/freeze/releases/tag/v0.2.0), today) - Generate images of code and terminal output 📸
-- [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), 1 day ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.8.4](https://github.com/charmbracelet/soft-serve/releases/tag/v0.8.4), 4 days ago) - The mighty, self-hostable Git server for the command line🍦
-- [charmbracelet/glamour](https://github.com/charmbracelet/glamour) ([v0.9.1](https://github.com/charmbracelet/glamour/releases/tag/v0.9.1), 6 days ago) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️
+- [charmbracelet/freeze](https://github.com/charmbracelet/freeze) ([v0.2.0](https://github.com/charmbracelet/freeze/releases/tag/v0.2.0), 1 day ago) - Generate images of code and terminal output 📸
+- [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), 2 days ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.8.4](https://github.com/charmbracelet/soft-serve/releases/tag/v0.8.4), 5 days ago) - The mighty, self-hostable Git server for the command line🍦
+- [charmbracelet/glamour](https://github.com/charmbracelet/glamour) ([v0.9.1](https://github.com/charmbracelet/glamour/releases/tag/v0.9.1), 1 week ago) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v1.1.0](https://github.com/charmbracelet/lipgloss/releases/tag/v1.1.0), 1 week ago) - Style definitions for nice terminal layouts 👄
 
 #### 🔨 My recent Pull Requests
 
-- [chore: upgrade ansi to v0.8.0](https://github.com/charmbracelet/freeze/pull/187) on [charmbracelet/freeze](https://github.com/charmbracelet/freeze) (today)
-- [shell: allow overriding built-in commands](https://github.com/git/git/pull/1930) on [git/git](https://github.com/git/git) (3 days ago)
-- [Use the new v2 stack](https://github.com/charmbracelet/soft-serve/pull/678) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (5 days ago)
-- [feat: add underline style and color](https://github.com/charmbracelet/lipgloss/pull/491) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (1 week ago)
-- [fix(linter): disable mnd linter](https://github.com/charmbracelet/meta/pull/196) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (1 week ago)
+- [(v2) migrate to v2 packages](https://github.com/charmbracelet/glamour/pull/408) on [charmbracelet/glamour](https://github.com/charmbracelet/glamour) (today)
+- [fix(tea): do not force color profile if session is not a PTY](https://github.com/charmbracelet/wish/pull/443) on [charmbracelet/wish](https://github.com/charmbracelet/wish) (today)
+- [chore: upgrade ansi to v0.8.0](https://github.com/charmbracelet/freeze/pull/187) on [charmbracelet/freeze](https://github.com/charmbracelet/freeze) (1 day ago)
+- [shell: allow overriding built-in commands](https://github.com/git/git/pull/1930) on [git/git](https://github.com/git/git) (4 days ago)
+- [Use the new v2 stack](https://github.com/charmbracelet/soft-serve/pull/678) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (6 days ago)
 
 #### 📜 My recent blog posts
 
-- [A Brief History of Terminal Emulators](https://aymanbagabas.com/blog/2025/03/11/a-brief-history-of-terminal-emulators.html) (1 week ago)
+- [A Brief History of Terminal Emulators](https://aymanbagabas.com/blog/2025/03/11/a-brief-history-of-terminal-emulators.html) (2 weeks ago)
 - [Self-hosted Soft Serve](https://aymanbagabas.com/blog/2023/04/28/self-hosted-soft-serve.html) (2 years ago)
 - [Simple Vim Session Management](https://aymanbagabas.com/blog/2023/04/13/simple-vim-session-management.html) (2 years ago)
 - [Blue Mountain](https://aymanbagabas.com/blog/2022/06/02/blue-mountain.html) (2 years ago)
