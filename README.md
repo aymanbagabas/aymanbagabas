@@ -20,11 +20,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v2.0.0-beta1](https://github.com/charmbracelet/bubbletea/releases/tag/v2.0.0-beta1), today) - A powerful little TUI framework 🏗
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v2.0.0-beta1](https://github.com/charmbracelet/lipgloss/releases/tag/v2.0.0-beta1), today) - Style definitions for nice terminal layouts 👄
+- [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) ([v0.3.0](https://github.com/charmbracelet/colorprofile/releases/tag/v0.3.0), today) - Magical terminal color handling 🪄
 - [caarlos0/svu](https://github.com/caarlos0/svu) ([v3.2.3](https://github.com/caarlos0/svu/releases/tag/v3.2.3), today) - semantic version utility
 - [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), today) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.8.5](https://github.com/charmbracelet/soft-serve/releases/tag/v0.8.5), 1 day ago) - The mighty, self-hostable Git server for the command line🍦
-- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v1.4.7](https://github.com/charmbracelet/wish/releases/tag/v1.4.7), 1 day ago) - Make SSH apps, just like that! 💫
-- [charmbracelet/freeze](https://github.com/charmbracelet/freeze) ([v0.2.0](https://github.com/charmbracelet/freeze/releases/tag/v0.2.0), 2 days ago) - Generate images of code and terminal output 📸
 
 #### 🔨 My recent Pull Requests
 
