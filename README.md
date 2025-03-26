@@ -20,11 +20,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v2.0.0-beta1](https://github.com/charmbracelet/bubbletea/releases/tag/v2.0.0-beta1), today) - A powerful little TUI framework 🏗
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v2.0.0-beta1](https://github.com/charmbracelet/lipgloss/releases/tag/v2.0.0-beta1), today) - Style definitions for nice terminal layouts 👄
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v2.0.0-beta.1](https://github.com/charmbracelet/bubbles/releases/tag/v2.0.0-beta.1), today) - TUI components for Bubble Tea 🫧
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v2.0.0-beta.1](https://github.com/charmbracelet/lipgloss/releases/tag/v2.0.0-beta.1), today) - Style definitions for nice terminal layouts 👄
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v2.0.0-beta.1](https://github.com/charmbracelet/bubbletea/releases/tag/v2.0.0-beta.1), today) - A powerful little TUI framework 🏗
 - [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) ([v0.3.0](https://github.com/charmbracelet/colorprofile/releases/tag/v0.3.0), today) - Magical terminal color handling 🪄
 - [caarlos0/svu](https://github.com/caarlos0/svu) ([v3.2.3](https://github.com/caarlos0/svu/releases/tag/v3.2.3), today) - semantic version utility
-- [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), today) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 
 #### 🔨 My recent Pull Requests
 
