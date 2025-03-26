@@ -20,10 +20,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), today) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.8.5](https://github.com/charmbracelet/soft-serve/releases/tag/v0.8.5), 1 day ago) - The mighty, self-hostable Git server for the command line🍦
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v1.4.7](https://github.com/charmbracelet/wish/releases/tag/v1.4.7), 1 day ago) - Make SSH apps, just like that! 💫
 - [charmbracelet/freeze](https://github.com/charmbracelet/freeze) ([v0.2.0](https://github.com/charmbracelet/freeze/releases/tag/v0.2.0), 2 days ago) - Generate images of code and terminal output 📸
-- [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), 3 days ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 - [charmbracelet/glamour](https://github.com/charmbracelet/glamour) ([v0.9.1](https://github.com/charmbracelet/glamour/releases/tag/v0.9.1), 1 week ago) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️
 
 #### 🔨 My recent Pull Requests
