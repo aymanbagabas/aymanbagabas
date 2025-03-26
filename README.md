@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [caarlos0/svu](https://github.com/caarlos0/svu) ([v3.2.3](https://github.com/caarlos0/svu/releases/tag/v3.2.3), today) - semantic version utility
 - [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), today) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.8.5](https://github.com/charmbracelet/soft-serve/releases/tag/v0.8.5), 1 day ago) - The mighty, self-hostable Git server for the command line🍦
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v1.4.7](https://github.com/charmbracelet/wish/releases/tag/v1.4.7), 1 day ago) - Make SSH apps, just like that! 💫
 - [charmbracelet/freeze](https://github.com/charmbracelet/freeze) ([v0.2.0](https://github.com/charmbracelet/freeze/releases/tag/v0.2.0), 2 days ago) - Generate images of code and terminal output 📸
-- [charmbracelet/glamour](https://github.com/charmbracelet/glamour) ([v0.9.1](https://github.com/charmbracelet/glamour/releases/tag/v0.9.1), 1 week ago) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️
 
 #### 🔨 My recent Pull Requests
 
+- [feat(cellbuf): add a generic writer that keeps track of style state](https://github.com/charmbracelet/x/pull/413) on [charmbracelet/x](https://github.com/charmbracelet/x) (today)
+- [refactor(tests): replace string matching tests with golden files](https://github.com/charmbracelet/lipgloss/pull/505) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (today)
 - [(v2) migrate to v2 packages](https://github.com/charmbracelet/glamour/pull/408) on [charmbracelet/glamour](https://github.com/charmbracelet/glamour) (1 day ago)
 - [fix(tea): do not force color profile if session is not a PTY](https://github.com/charmbracelet/wish/pull/443) on [charmbracelet/wish](https://github.com/charmbracelet/wish) (1 day ago)
 - [chore: upgrade ansi to v0.8.0](https://github.com/charmbracelet/freeze/pull/187) on [charmbracelet/freeze](https://github.com/charmbracelet/freeze) (2 days ago)
-- [shell: allow overriding built-in commands](https://github.com/git/git/pull/1930) on [git/git](https://github.com/git/git) (5 days ago)
-- [Use the new v2 stack](https://github.com/charmbracelet/soft-serve/pull/678) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 week ago)
 
 #### 📜 My recent blog posts
 
