@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (today)
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦 (1 day ago)
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧 (1 day ago)
-- [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket) - Charmbracelet Scoop Bucket (1 day ago)
-- [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (1 day ago)
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (1 day ago)
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦 (2 days ago)
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧 (2 days ago)
+- [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket) - Charmbracelet Scoop Bucket (2 days ago)
+- [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v2.0.0-beta.1](https://github.com/charmbracelet/bubbles/releases/tag/v2.0.0-beta.1), today) - TUI components for Bubble Tea 🫧
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v2.0.0-beta.1](https://github.com/charmbracelet/lipgloss/releases/tag/v2.0.0-beta.1), today) - Style definitions for nice terminal layouts 👄
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v2.0.0-beta.1](https://github.com/charmbracelet/bubbletea/releases/tag/v2.0.0-beta.1), today) - A powerful little TUI framework 🏗
-- [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) ([v0.3.0](https://github.com/charmbracelet/colorprofile/releases/tag/v0.3.0), today) - Magical terminal color handling 🪄
-- [caarlos0/svu](https://github.com/caarlos0/svu) ([v3.2.3](https://github.com/caarlos0/svu/releases/tag/v3.2.3), today) - semantic version utility
+- [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), today) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v2.0.0-beta.1](https://github.com/charmbracelet/bubbles/releases/tag/v2.0.0-beta.1), 1 day ago) - TUI components for Bubble Tea 🫧
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v2.0.0-beta.1](https://github.com/charmbracelet/lipgloss/releases/tag/v2.0.0-beta.1), 1 day ago) - Style definitions for nice terminal layouts 👄
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v2.0.0-beta.1](https://github.com/charmbracelet/bubbletea/releases/tag/v2.0.0-beta.1), 1 day ago) - A powerful little TUI framework 🏗
+- [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) ([v0.3.0](https://github.com/charmbracelet/colorprofile/releases/tag/v0.3.0), 1 day ago) - Magical terminal color handling 🪄
 
 #### 🔨 My recent Pull Requests
 
-- [feat(cellbuf): add a generic writer that keeps track of style state](https://github.com/charmbracelet/x/pull/413) on [charmbracelet/x](https://github.com/charmbracelet/x) (today)
-- [refactor(tests): replace string matching tests with golden files](https://github.com/charmbracelet/lipgloss/pull/505) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (today)
-- [(v2) migrate to v2 packages](https://github.com/charmbracelet/glamour/pull/408) on [charmbracelet/glamour](https://github.com/charmbracelet/glamour) (1 day ago)
-- [fix(tea): do not force color profile if session is not a PTY](https://github.com/charmbracelet/wish/pull/443) on [charmbracelet/wish](https://github.com/charmbracelet/wish) (1 day ago)
-- [chore: upgrade ansi to v0.8.0](https://github.com/charmbracelet/freeze/pull/187) on [charmbracelet/freeze](https://github.com/charmbracelet/freeze) (2 days ago)
+- [feat(cellbuf): add a generic writer that keeps track of style state](https://github.com/charmbracelet/x/pull/413) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 day ago)
+- [refactor(tests): replace string matching tests with golden files](https://github.com/charmbracelet/lipgloss/pull/505) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (1 day ago)
+- [(v2) migrate to v2 packages](https://github.com/charmbracelet/glamour/pull/408) on [charmbracelet/glamour](https://github.com/charmbracelet/glamour) (2 days ago)
+- [fix(tea): do not force color profile if session is not a PTY](https://github.com/charmbracelet/wish/pull/443) on [charmbracelet/wish](https://github.com/charmbracelet/wish) (2 days ago)
+- [chore: upgrade ansi to v0.8.0](https://github.com/charmbracelet/freeze/pull/187) on [charmbracelet/freeze](https://github.com/charmbracelet/freeze) (3 days ago)
 
 #### 📜 My recent blog posts
 
