@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [(v2) refactor ansi and drop reflow](https://github.com/charmbracelet/glamour/pull/409) on [charmbracelet/glamour](https://github.com/charmbracelet/glamour) (today)
 - [feat(cellbuf): add a generic writer that keeps track of style state](https://github.com/charmbracelet/x/pull/413) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 day ago)
 - [refactor(tests): replace string matching tests with golden files](https://github.com/charmbracelet/lipgloss/pull/505) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (1 day ago)
 - [(v2) migrate to v2 packages](https://github.com/charmbracelet/glamour/pull/408) on [charmbracelet/glamour](https://github.com/charmbracelet/glamour) (2 days ago)
 - [fix(tea): do not force color profile if session is not a PTY](https://github.com/charmbracelet/wish/pull/443) on [charmbracelet/wish](https://github.com/charmbracelet/wish) (2 days ago)
-- [chore: upgrade ansi to v0.8.0](https://github.com/charmbracelet/freeze/pull/187) on [charmbracelet/freeze](https://github.com/charmbracelet/freeze) (3 days ago)
 
 #### 📜 My recent blog posts
 
