@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat(examples): add cat example to demonstrate piping input](https://github.com/charmbracelet/wish/pull/444) on [charmbracelet/wish](https://github.com/charmbracelet/wish) (today)
 - [feat(ansi): add hyperlink support](https://github.com/charmbracelet/glamour/pull/411) on [charmbracelet/glamour](https://github.com/charmbracelet/glamour) (today)
 - [(v2) refactor: remove auto style and make dark the default](https://github.com/charmbracelet/glamour/pull/410) on [charmbracelet/glamour](https://github.com/charmbracelet/glamour) (today)
 - [(v2) refactor ansi and drop reflow](https://github.com/charmbracelet/glamour/pull/409) on [charmbracelet/glamour](https://github.com/charmbracelet/glamour) (today)
 - [feat(cellbuf): add a generic writer that keeps track of style state](https://github.com/charmbracelet/x/pull/413) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 day ago)
-- [refactor(tests): replace string matching tests with golden files](https://github.com/charmbracelet/lipgloss/pull/505) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (1 day ago)
 
 #### 📜 My recent blog posts
 
