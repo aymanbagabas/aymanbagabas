@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), today) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
+- [raphamorim/rio](https://github.com/raphamorim/rio) ([v0.2.12](https://github.com/raphamorim/rio/releases/tag/v0.2.12), today) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v2.0.0-beta.1](https://github.com/charmbracelet/bubbles/releases/tag/v2.0.0-beta.1), 2 days ago) - TUI components for Bubble Tea 🫧
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v2.0.0-beta.1](https://github.com/charmbracelet/lipgloss/releases/tag/v2.0.0-beta.1), 2 days ago) - Style definitions for nice terminal layouts 👄
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v2.0.0-beta.1](https://github.com/charmbracelet/bubbletea/releases/tag/v2.0.0-beta.1), 2 days ago) - A powerful little TUI framework 🏗
