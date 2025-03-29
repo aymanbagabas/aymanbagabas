@@ -4,10 +4,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (1 day ago)
+- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (today)
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (3 days ago)
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦 (4 days ago)
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧 (4 days ago)
+- [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket) - Charmbracelet Scoop Bucket (4 days ago)
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (4 days ago)
 
 #### 🌱 My latest projects
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: expand custom server path and skip download if set](https://github.com/zbirenbaum/copilot.lua/pull/419) on [zbirenbaum/copilot.lua](https://github.com/zbirenbaum/copilot.lua) (today)
 - [feat(examples): add cat example to demonstrate piping input](https://github.com/charmbracelet/wish/pull/444) on [charmbracelet/wish](https://github.com/charmbracelet/wish) (2 days ago)
 - [feat(ansi): add hyperlink support](https://github.com/charmbracelet/glamour/pull/411) on [charmbracelet/glamour](https://github.com/charmbracelet/glamour) (2 days ago)
 - [(v2) refactor: remove auto style and make dark the default](https://github.com/charmbracelet/glamour/pull/410) on [charmbracelet/glamour](https://github.com/charmbracelet/glamour) (2 days ago)
 - [(v2) refactor ansi and drop reflow](https://github.com/charmbracelet/glamour/pull/409) on [charmbracelet/glamour](https://github.com/charmbracelet/glamour) (2 days ago)
-- [feat(cellbuf): add a generic writer that keeps track of style state](https://github.com/charmbracelet/x/pull/413) on [charmbracelet/x](https://github.com/charmbracelet/x) (3 days ago)
 
 #### 📜 My recent blog posts
 
