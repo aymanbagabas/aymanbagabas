@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (1 day ago)
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (4 days ago)
-- [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (5 days ago)
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧 (5 days ago)
-- [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket) - Charmbracelet Scoop Bucket (5 days ago)
+- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (2 days ago)
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (5 days ago)
+- [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (6 days ago)
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧 (6 days ago)
+- [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket) - Charmbracelet Scoop Bucket (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), 1 day ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v2.0.0-beta.1](https://github.com/charmbracelet/bubbles/releases/tag/v2.0.0-beta.1), 4 days ago) - TUI components for Bubble Tea 🫧
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v2.0.0-beta.1](https://github.com/charmbracelet/lipgloss/releases/tag/v2.0.0-beta.1), 4 days ago) - Style definitions for nice terminal layouts 👄
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v2.0.0-beta.1](https://github.com/charmbracelet/bubbletea/releases/tag/v2.0.0-beta.1), 4 days ago) - A powerful little TUI framework 🏗
-- [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) ([v0.3.0](https://github.com/charmbracelet/colorprofile/releases/tag/v0.3.0), 4 days ago) - Magical terminal color handling 🪄
+- [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), today) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v2.0.0-beta.1](https://github.com/charmbracelet/bubbles/releases/tag/v2.0.0-beta.1), 5 days ago) - TUI components for Bubble Tea 🫧
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v2.0.0-beta.1](https://github.com/charmbracelet/lipgloss/releases/tag/v2.0.0-beta.1), 5 days ago) - Style definitions for nice terminal layouts 👄
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v2.0.0-beta.1](https://github.com/charmbracelet/bubbletea/releases/tag/v2.0.0-beta.1), 5 days ago) - A powerful little TUI framework 🏗
+- [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) ([v0.3.0](https://github.com/charmbracelet/colorprofile/releases/tag/v0.3.0), 5 days ago) - Magical terminal color handling 🪄
 
 #### 🔨 My recent Pull Requests
 
-- [fix: expand custom server path and skip download if set](https://github.com/zbirenbaum/copilot.lua/pull/419) on [zbirenbaum/copilot.lua](https://github.com/zbirenbaum/copilot.lua) (1 day ago)
-- [feat(examples): add cat example to demonstrate piping input](https://github.com/charmbracelet/wish/pull/444) on [charmbracelet/wish](https://github.com/charmbracelet/wish) (3 days ago)
-- [feat(ansi): add hyperlink support](https://github.com/charmbracelet/glamour/pull/411) on [charmbracelet/glamour](https://github.com/charmbracelet/glamour) (3 days ago)
-- [(v2) refactor: remove auto style and make dark the default](https://github.com/charmbracelet/glamour/pull/410) on [charmbracelet/glamour](https://github.com/charmbracelet/glamour) (3 days ago)
-- [(v2) refactor ansi and drop reflow](https://github.com/charmbracelet/glamour/pull/409) on [charmbracelet/glamour](https://github.com/charmbracelet/glamour) (3 days ago)
+- [fix: expand custom server path and skip download if set](https://github.com/zbirenbaum/copilot.lua/pull/419) on [zbirenbaum/copilot.lua](https://github.com/zbirenbaum/copilot.lua) (2 days ago)
+- [feat(examples): add cat example to demonstrate piping input](https://github.com/charmbracelet/wish/pull/444) on [charmbracelet/wish](https://github.com/charmbracelet/wish) (4 days ago)
+- [feat(ansi): add hyperlink support](https://github.com/charmbracelet/glamour/pull/411) on [charmbracelet/glamour](https://github.com/charmbracelet/glamour) (4 days ago)
+- [(v2) refactor: remove auto style and make dark the default](https://github.com/charmbracelet/glamour/pull/410) on [charmbracelet/glamour](https://github.com/charmbracelet/glamour) (4 days ago)
+- [(v2) refactor ansi and drop reflow](https://github.com/charmbracelet/glamour/pull/409) on [charmbracelet/glamour](https://github.com/charmbracelet/glamour) (4 days ago)
 
 #### 📜 My recent blog posts
 
