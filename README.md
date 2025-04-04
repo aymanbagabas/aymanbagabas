@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (6 days ago)
+- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (today)
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (1 week ago)
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (1 week ago)
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧 (1 week ago)
