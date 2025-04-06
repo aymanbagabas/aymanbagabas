@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [plumbing: transport, fix advertise protocol version](https://github.com/go-git/go-git/pull/1488) on [go-git/go-git](https://github.com/go-git/go-git) (today)
 - [plumbing: fix, prevent double decoding of commands and flush](https://github.com/go-git/go-git/pull/1487) on [go-git/go-git](https://github.com/go-git/go-git) (today)
 - [fix: expand custom server path and skip download if set](https://github.com/zbirenbaum/copilot.lua/pull/419) on [zbirenbaum/copilot.lua](https://github.com/zbirenbaum/copilot.lua) (1 week ago)
 - [feat(examples): add cat example to demonstrate piping input](https://github.com/charmbracelet/wish/pull/444) on [charmbracelet/wish](https://github.com/charmbracelet/wish) (1 week ago)
 - [feat(ansi): add hyperlink support](https://github.com/charmbracelet/glamour/pull/411) on [charmbracelet/glamour](https://github.com/charmbracelet/glamour) (1 week ago)
-- [(v2) refactor: remove auto style and make dark the default](https://github.com/charmbracelet/glamour/pull/410) on [charmbracelet/glamour](https://github.com/charmbracelet/glamour) (1 week ago)
 
 #### 📜 My recent blog posts
 
