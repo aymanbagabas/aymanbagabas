@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[v6] Update and fix transport tests](https://github.com/go-git/go-git/pull/1496) on [go-git/go-git](https://github.com/go-git/go-git) (today)
 - [plumbing: transport, fix not advertising no-thin capability](https://github.com/go-git/go-git/pull/1490) on [go-git/go-git](https://github.com/go-git/go-git) (1 day ago)
 - [internal: trace, read trace target from env](https://github.com/go-git/go-git/pull/1489) on [go-git/go-git](https://github.com/go-git/go-git) (2 days ago)
-- [plumbing: transport, fix advertise protocol version](https://github.com/go-git/go-git/pull/1488) on [go-git/go-git](https://github.com/go-git/go-git) (2 days ago)
-- [plumbing: fix, prevent double decoding of commands and flush](https://github.com/go-git/go-git/pull/1487) on [go-git/go-git](https://github.com/go-git/go-git) (2 days ago)
-- [fix: expand custom server path and skip download if set](https://github.com/zbirenbaum/copilot.lua/pull/419) on [zbirenbaum/copilot.lua](https://github.com/zbirenbaum/copilot.lua) (1 week ago)
+- [[v6] plumbing: transport, fix advertise protocol version](https://github.com/go-git/go-git/pull/1488) on [go-git/go-git](https://github.com/go-git/go-git) (2 days ago)
+- [[v6] plumbing: fix, prevent double decoding of commands and flush](https://github.com/go-git/go-git/pull/1487) on [go-git/go-git](https://github.com/go-git/go-git) (2 days ago)
 
 #### 📜 My recent blog posts
 
