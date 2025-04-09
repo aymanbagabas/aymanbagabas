@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (2 days ago)
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (1 week ago)
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧 (2 weeks ago)
+- [go-git/cli](https://github.com/go-git/cli) -  (today)
+- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (3 days ago)
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (2 weeks ago)
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (2 weeks ago)
-- [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket) - Charmbracelet Scoop Bucket (2 weeks ago)
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧 (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), 2 days ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
+- [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), 3 days ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 - [charmbracelet/freeze](https://github.com/charmbracelet/freeze) ([v0.2.2](https://github.com/charmbracelet/freeze/releases/tag/v0.2.2), 1 week ago) - Generate images of code and terminal output 📸
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v2.0.0-beta.1](https://github.com/charmbracelet/bubbles/releases/tag/v2.0.0-beta.1), 1 week ago) - TUI components for Bubble Tea 🫧
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v2.0.0-beta.1](https://github.com/charmbracelet/lipgloss/releases/tag/v2.0.0-beta.1), 1 week ago) - Style definitions for nice terminal layouts 👄
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v2.0.0-beta.1](https://github.com/charmbracelet/bubbletea/releases/tag/v2.0.0-beta.1), 1 week ago) - A powerful little TUI framework 🏗
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v2.0.0-beta.1](https://github.com/charmbracelet/bubbles/releases/tag/v2.0.0-beta.1), 2 weeks ago) - TUI components for Bubble Tea 🫧
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v2.0.0-beta.1](https://github.com/charmbracelet/lipgloss/releases/tag/v2.0.0-beta.1), 2 weeks ago) - Style definitions for nice terminal layouts 👄
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v2.0.0-beta.1](https://github.com/charmbracelet/bubbletea/releases/tag/v2.0.0-beta.1), 2 weeks ago) - A powerful little TUI framework 🏗
 
 #### 🔨 My recent Pull Requests
 
-- [[v6] git: remove the cli package](https://github.com/go-git/go-git/pull/1499) on [go-git/go-git](https://github.com/go-git/go-git) (today)
-- [Update to use v6](https://github.com/go-git/cli/pull/9) on [go-git/cli](https://github.com/go-git/cli) (today)
-- [[v6] Update and fix transport tests](https://github.com/go-git/go-git/pull/1496) on [go-git/go-git](https://github.com/go-git/go-git) (today)
-- [plumbing: transport, fix not advertising no-thin capability](https://github.com/go-git/go-git/pull/1490) on [go-git/go-git](https://github.com/go-git/go-git) (1 day ago)
-- [internal: trace, read trace target from env](https://github.com/go-git/go-git/pull/1489) on [go-git/go-git](https://github.com/go-git/go-git) (2 days ago)
+- [[v6] git: remove the cli package](https://github.com/go-git/go-git/pull/1499) on [go-git/go-git](https://github.com/go-git/go-git) (1 day ago)
+- [Update to use v6](https://github.com/go-git/cli/pull/9) on [go-git/cli](https://github.com/go-git/cli) (1 day ago)
+- [[v6] Update and fix transport tests](https://github.com/go-git/go-git/pull/1496) on [go-git/go-git](https://github.com/go-git/go-git) (1 day ago)
+- [plumbing: transport, fix not advertising no-thin capability](https://github.com/go-git/go-git/pull/1490) on [go-git/go-git](https://github.com/go-git/go-git) (2 days ago)
+- [internal: trace, read trace target from env](https://github.com/go-git/go-git/pull/1489) on [go-git/go-git](https://github.com/go-git/go-git) (3 days ago)
 
 #### 📜 My recent blog posts
 
@@ -44,7 +44,7 @@
 
 #### ⭐ Recent Stars
 
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Tunneled Mesh Reverse Proxy Server with Identity and Access Control and Dashboard UI (5 days ago)
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Tunneled Mesh Reverse Proxy Server with Identity and Access Control and Dashboard UI (6 days ago)
 - [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) - Access your entire server infrastructure from your local desktop (3 weeks ago)
 - [aceberg/WatchYourLAN](https://github.com/aceberg/WatchYourLAN) - Lightweight network IP scanner. Can be used to notify about new hosts and monitor host online/offline history (3 weeks ago)
 - [electronicarts/CnC_Generals_Zero_Hour](https://github.com/electronicarts/CnC_Generals_Zero_Hour) - Command and Conquer: Generals - Zero Hour (1 month ago)
