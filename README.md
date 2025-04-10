@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[V6] HTTP middleware](https://github.com/go-git/go-git/pull/1502) on [go-git/go-git](https://github.com/go-git/go-git) (today)
 - [[v6] git: remove the cli package](https://github.com/go-git/go-git/pull/1499) on [go-git/go-git](https://github.com/go-git/go-git) (2 days ago)
 - [Update to use v6](https://github.com/go-git/cli/pull/9) on [go-git/cli](https://github.com/go-git/cli) (2 days ago)
 - [[v6] Update and fix transport tests](https://github.com/go-git/go-git/pull/1496) on [go-git/go-git](https://github.com/go-git/go-git) (2 days ago)
 - [plumbing: transport, fix not advertising no-thin capability](https://github.com/go-git/go-git/pull/1490) on [go-git/go-git](https://github.com/go-git/go-git) (3 days ago)
-- [internal: trace, read trace target from env](https://github.com/go-git/go-git/pull/1489) on [go-git/go-git](https://github.com/go-git/go-git) (4 days ago)
 
 #### 📜 My recent blog posts
 
