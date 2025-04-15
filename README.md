@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: add gogit-http-server command](https://github.com/go-git/cli/pull/10) on [go-git/cli](https://github.com/go-git/cli) (today)
+- [fix(key): accept both key.Text and key.String for key matches](https://github.com/charmbracelet/bubbles/pull/778) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (today)
 - [[V6] HTTP middleware](https://github.com/go-git/go-git/pull/1502) on [go-git/go-git](https://github.com/go-git/go-git) (5 days ago)
 - [[v6] git: remove the cli package](https://github.com/go-git/go-git/pull/1499) on [go-git/go-git](https://github.com/go-git/go-git) (1 week ago)
 - [Update to use v6](https://github.com/go-git/cli/pull/9) on [go-git/cli](https://github.com/go-git/cli) (1 week ago)
-- [[v6] Update and fix transport tests](https://github.com/go-git/go-git/pull/1496) on [go-git/go-git](https://github.com/go-git/go-git) (1 week ago)
-- [plumbing: transport, fix not advertising no-thin capability](https://github.com/go-git/go-git/pull/1490) on [go-git/go-git](https://github.com/go-git/go-git) (1 week ago)
 
 #### 📜 My recent blog posts
 
