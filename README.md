@@ -20,11 +20,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/glamour](https://github.com/charmbracelet/glamour) ([v0.10.0](https://github.com/charmbracelet/glamour/releases/tag/v0.10.0), today) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️
+- [charmbracelet/huh](https://github.com/charmbracelet/huh) ([v0.7.0](https://github.com/charmbracelet/huh/releases/tag/v0.7.0), today) - Build terminal forms and prompts 🤷🏻‍♀️
 - [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), today) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 - [go-git/go-git](https://github.com/go-git/go-git) ([v5.16.0](https://github.com/go-git/go-git/releases/tag/v5.16.0), 1 day ago) - A highly extensible Git implementation in pure Go.
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.21.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.21.0), 1 week ago) - TUI components for Bubble Tea 🫧
-- [charmbracelet/freeze](https://github.com/charmbracelet/freeze) ([v0.2.2](https://github.com/charmbracelet/freeze/releases/tag/v0.2.2), 2 weeks ago) - Generate images of code and terminal output 📸
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v2.0.0-beta.1](https://github.com/charmbracelet/lipgloss/releases/tag/v2.0.0-beta.1), 3 weeks ago) - Style definitions for nice terminal layouts 👄
 
 #### 🔨 My recent Pull Requests
 
