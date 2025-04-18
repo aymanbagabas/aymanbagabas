@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [backend: http, rename handler to GitHandler](https://github.com/go-git/go-git/pull/1524) on [go-git/go-git](https://github.com/go-git/go-git) (today)
 - [feat: add gogit-http-server command](https://github.com/go-git/cli/pull/10) on [go-git/cli](https://github.com/go-git/cli) (3 days ago)
 - [fix(key): accept both key.Text and key.String for key matches](https://github.com/charmbracelet/bubbles/pull/778) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (3 days ago)
 - [[V6] HTTP middleware](https://github.com/go-git/go-git/pull/1502) on [go-git/go-git](https://github.com/go-git/go-git) (1 week ago)
 - [[v6] git: remove the cli package](https://github.com/go-git/go-git/pull/1499) on [go-git/go-git](https://github.com/go-git/go-git) (1 week ago)
-- [Update to use v6](https://github.com/go-git/cli/pull/9) on [go-git/cli](https://github.com/go-git/cli) (1 week ago)
 
 #### 📜 My recent blog posts
 
