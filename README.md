@@ -4,9 +4,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/sequin](https://github.com/charmbracelet/sequin) - Human-readable ANSI sequences 🪩 (today)
-- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (1 day ago)
-- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (3 days ago)
+- [charmbracelet/sequin](https://github.com/charmbracelet/sequin) - Human-readable ANSI sequences 🪩 (1 day ago)
+- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (2 days ago)
+- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (4 days ago)
 - [go-git/cli](https://github.com/go-git/cli) -  (1 week ago)
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (3 weeks ago)
 
@@ -20,16 +20,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), today) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
-- [charmbracelet/glamour](https://github.com/charmbracelet/glamour) ([v0.10.0](https://github.com/charmbracelet/glamour/releases/tag/v0.10.0), 1 day ago) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️
-- [charmbracelet/huh](https://github.com/charmbracelet/huh) ([v0.7.0](https://github.com/charmbracelet/huh/releases/tag/v0.7.0), 1 day ago) - Build terminal forms and prompts 🤷🏻‍♀️
-- [go-git/go-git](https://github.com/go-git/go-git) ([v5.16.0](https://github.com/go-git/go-git/releases/tag/v5.16.0), 2 days ago) - A highly extensible Git implementation in pure Go.
+- [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), 1 day ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
+- [charmbracelet/glamour](https://github.com/charmbracelet/glamour) ([v0.10.0](https://github.com/charmbracelet/glamour/releases/tag/v0.10.0), 2 days ago) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️
+- [charmbracelet/huh](https://github.com/charmbracelet/huh) ([v0.7.0](https://github.com/charmbracelet/huh/releases/tag/v0.7.0), 2 days ago) - Build terminal forms and prompts 🤷🏻‍♀️
+- [go-git/go-git](https://github.com/go-git/go-git) ([v5.16.0](https://github.com/go-git/go-git/releases/tag/v5.16.0), 3 days ago) - A highly extensible Git implementation in pure Go.
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.21.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.21.0), 1 week ago) - TUI components for Bubble Tea 🫧
 
 #### 🔨 My recent Pull Requests
 
-- [feat: add gogit-http-server command](https://github.com/go-git/cli/pull/10) on [go-git/cli](https://github.com/go-git/cli) (2 days ago)
-- [fix(key): accept both key.Text and key.String for key matches](https://github.com/charmbracelet/bubbles/pull/778) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (2 days ago)
+- [feat: add gogit-http-server command](https://github.com/go-git/cli/pull/10) on [go-git/cli](https://github.com/go-git/cli) (3 days ago)
+- [fix(key): accept both key.Text and key.String for key matches](https://github.com/charmbracelet/bubbles/pull/778) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (3 days ago)
 - [[V6] HTTP middleware](https://github.com/go-git/go-git/pull/1502) on [go-git/go-git](https://github.com/go-git/go-git) (1 week ago)
 - [[v6] git: remove the cli package](https://github.com/go-git/go-git/pull/1499) on [go-git/go-git](https://github.com/go-git/go-git) (1 week ago)
 - [Update to use v6](https://github.com/go-git/cli/pull/9) on [go-git/cli](https://github.com/go-git/cli) (1 week ago)
