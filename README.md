@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: ignore COLORTERM when no TERM is defined](https://github.com/charmbracelet/colorprofile/pull/42) on [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) (today)
 - [feat(scripts): add scripts/lints](https://github.com/charmbracelet/x/pull/429) on [charmbracelet/x](https://github.com/charmbracelet/x) (today)
 - [backend: http, rename handler to NewBackend](https://github.com/go-git/go-git/pull/1524) on [go-git/go-git](https://github.com/go-git/go-git) (3 days ago)
 - [feat: add gogit-http-server command](https://github.com/go-git/cli/pull/10) on [go-git/cli](https://github.com/go-git/cli) (6 days ago)
 - [fix(key): accept both key.Text and key.String for key matches](https://github.com/charmbracelet/bubbles/pull/778) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (6 days ago)
-- [[V6] HTTP middleware](https://github.com/go-git/go-git/pull/1502) on [go-git/go-git](https://github.com/go-git/go-git) (1 week ago)
 
 #### 📜 My recent blog posts
 
