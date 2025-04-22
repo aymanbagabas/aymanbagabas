@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: always enable basic keyboard enhancements to disambiguate keys](https://github.com/charmbracelet/bubbletea/pull/1398) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [fix: ignore COLORTERM when no TERM is defined](https://github.com/charmbracelet/colorprofile/pull/42) on [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) (1 day ago)
 - [feat(scripts): add scripts/lints](https://github.com/charmbracelet/x/pull/429) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 day ago)
 - [backend: http, rename handler to NewBackend](https://github.com/go-git/go-git/pull/1524) on [go-git/go-git](https://github.com/go-git/go-git) (4 days ago)
 - [feat: add gogit-http-server command](https://github.com/go-git/cli/pull/10) on [go-git/cli](https://github.com/go-git/cli) (1 week ago)
-- [fix(key): accept both key.Text and key.String for key matches](https://github.com/charmbracelet/bubbles/pull/778) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (1 week ago)
 
 #### 📜 My recent blog posts
 
