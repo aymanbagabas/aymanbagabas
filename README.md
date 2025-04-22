@@ -5,10 +5,10 @@
 #### 👷 Check out what I'm currently working on
 
 - [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (today)
+- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (today)
 - [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) - Magical terminal color handling 🪄 (today)
 - [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (1 day ago)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (2 days ago)
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [chore: update all modules to use at least go1.23](https://github.com/charmbracelet/x/pull/431) on [charmbracelet/x](https://github.com/charmbracelet/x) (today)
 - [fix: always enable basic keyboard enhancements to disambiguate keys](https://github.com/charmbracelet/bubbletea/pull/1398) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [fix: ignore COLORTERM when no TERM is defined](https://github.com/charmbracelet/colorprofile/pull/42) on [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) (1 day ago)
 - [feat(scripts): add scripts/lints](https://github.com/charmbracelet/x/pull/429) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 day ago)
 - [backend: http, rename handler to NewBackend](https://github.com/go-git/go-git/pull/1524) on [go-git/go-git](https://github.com/go-git/go-git) (4 days ago)
-- [feat: add gogit-http-server command](https://github.com/go-git/cli/pull/10) on [go-git/cli](https://github.com/go-git/cli) (1 week ago)
 
 #### 📜 My recent blog posts
 
