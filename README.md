@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: add keystroke representation to Key struct](https://github.com/charmbracelet/bubbletea/pull/1399) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
+- [feat(input): add Keystroke to return the keystroke representation of …](https://github.com/charmbracelet/x/pull/439) on [charmbracelet/x](https://github.com/charmbracelet/x) (today)
 - [chore: update all modules to use at least go1.23](https://github.com/charmbracelet/x/pull/431) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 day ago)
 - [fix: always enable basic keyboard enhancements to disambiguate keys](https://github.com/charmbracelet/bubbletea/pull/1398) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
 - [fix: ignore COLORTERM when no TERM is defined](https://github.com/charmbracelet/colorprofile/pull/42) on [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) (2 days ago)
-- [feat(scripts): add scripts/lints](https://github.com/charmbracelet/x/pull/429) on [charmbracelet/x](https://github.com/charmbracelet/x) (2 days ago)
-- [backend: http, rename handler to NewBackend](https://github.com/go-git/go-git/pull/1524) on [go-git/go-git](https://github.com/go-git/go-git) (5 days ago)
 
 #### 📜 My recent blog posts
 
