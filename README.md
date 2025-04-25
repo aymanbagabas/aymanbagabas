@@ -29,7 +29,7 @@
 #### 🔨 My recent Pull Requests
 
 - [backend: add git transport backend](https://github.com/go-git/go-git/pull/1529) on [go-git/go-git](https://github.com/go-git/go-git) (today)
-- [optim: cache color conversion](https://github.com/charmbracelet/colorprofile/pull/43) on [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) (today)
+- [perf: cache color conversion](https://github.com/charmbracelet/colorprofile/pull/43) on [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) (today)
 - [feat: add keystroke representation to Key struct](https://github.com/charmbracelet/bubbletea/pull/1399) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 days ago)
 - [feat(input): add Keystroke to return the keystroke representation of …](https://github.com/charmbracelet/x/pull/439) on [charmbracelet/x](https://github.com/charmbracelet/x) (2 days ago)
 - [chore: update all modules to use at least go1.23](https://github.com/charmbracelet/x/pull/431) on [charmbracelet/x](https://github.com/charmbracelet/x) (3 days ago)
