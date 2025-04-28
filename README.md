@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[V6] Add some report-status and send-pack tests](https://github.com/go-git/go-git/pull/1536) on [go-git/go-git](https://github.com/go-git/go-git) (today)
 - [Simplify ObjectHasher and prepare to remove `plumbing/hash`](https://github.com/pjbgf/go-git/pull/27) on [pjbgf/go-git](https://github.com/pjbgf/go-git) (2 days ago)
 - [[v6] backend: add git transport backend](https://github.com/go-git/go-git/pull/1529) on [go-git/go-git](https://github.com/go-git/go-git) (3 days ago)
 - [perf: cache color conversion](https://github.com/charmbracelet/colorprofile/pull/43) on [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) (3 days ago)
 - [feat: add keystroke representation to Key struct](https://github.com/charmbracelet/bubbletea/pull/1399) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (5 days ago)
-- [feat(input): add Keystroke to return the keystroke representation of …](https://github.com/charmbracelet/x/pull/439) on [charmbracelet/x](https://github.com/charmbracelet/x) (5 days ago)
 
 #### 📜 My recent blog posts
 
