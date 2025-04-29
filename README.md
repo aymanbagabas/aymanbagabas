@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat(ansi): support color conversion to 16 and 256 colors](https://github.com/charmbracelet/x/pull/444) on [charmbracelet/x](https://github.com/charmbracelet/x) (today)
 - [[V6] Add some report-status and send-pack tests](https://github.com/go-git/go-git/pull/1536) on [go-git/go-git](https://github.com/go-git/go-git) (1 day ago)
 - [Simplify ObjectHasher and prepare to remove `plumbing/hash`](https://github.com/pjbgf/go-git/pull/27) on [pjbgf/go-git](https://github.com/pjbgf/go-git) (3 days ago)
 - [[v6] backend: add git transport backend](https://github.com/go-git/go-git/pull/1529) on [go-git/go-git](https://github.com/go-git/go-git) (4 days ago)
 - [perf: cache color conversion](https://github.com/charmbracelet/colorprofile/pull/43) on [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) (4 days ago)
-- [feat: add keystroke representation to Key struct](https://github.com/charmbracelet/bubbletea/pull/1399) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (6 days ago)
 
 #### 📜 My recent blog posts
 
