@@ -4,8 +4,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (today)
 - [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (1 day ago)
-- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (5 days ago)
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧 (6 days ago)
 - [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) - Magical terminal color handling 🪄 (1 week ago)
 - [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (1 week ago)
