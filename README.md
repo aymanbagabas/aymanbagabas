@@ -4,10 +4,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (1 day ago)
-- [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) - Magical terminal color handling 🪄 (1 day ago)
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 day ago)
-- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (2 days ago)
+- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (2 days ago)
+- [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) - Magical terminal color handling 🪄 (2 days ago)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (2 days ago)
+- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (3 days ago)
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧 (1 week ago)
 
 #### 🌱 My latest projects
@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v2.0.0-beta.2](https://github.com/charmbracelet/bubbletea/releases/tag/v2.0.0-beta.2), today) - A powerful little TUI framework 🏗
-- [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), today) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
-- [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) ([v0.3.1](https://github.com/charmbracelet/colorprofile/releases/tag/v0.3.1), 6 days ago) - Magical terminal color handling 🪄
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v2.0.0-beta.2](https://github.com/charmbracelet/bubbletea/releases/tag/v2.0.0-beta.2), 1 day ago) - A powerful little TUI framework 🏗
+- [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), 1 day ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
+- [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) ([v0.3.1](https://github.com/charmbracelet/colorprofile/releases/tag/v0.3.1), 1 week ago) - Magical terminal color handling 🪄
 - [charmbracelet/glamour](https://github.com/charmbracelet/glamour) ([v0.10.0](https://github.com/charmbracelet/glamour/releases/tag/v0.10.0), 2 weeks ago) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️
 - [charmbracelet/huh](https://github.com/charmbracelet/huh) ([v0.7.0](https://github.com/charmbracelet/huh/releases/tag/v0.7.0), 2 weeks ago) - Build terminal forms and prompts 🤷🏻‍♀️
 
 #### 🔨 My recent Pull Requests
 
-- [fix(key): windows: recognize function keys on Windows](https://github.com/charmbracelet/bubbletea/pull/1405) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
-- [feat(ansi): support color conversion to 16 and 256 colors](https://github.com/charmbracelet/x/pull/444) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 day ago)
-- [[V6] Add some report-status and send-pack tests](https://github.com/go-git/go-git/pull/1536) on [go-git/go-git](https://github.com/go-git/go-git) (2 days ago)
-- [Simplify ObjectHasher and prepare to remove `plumbing/hash`](https://github.com/pjbgf/go-git/pull/27) on [pjbgf/go-git](https://github.com/pjbgf/go-git) (4 days ago)
-- [[v6] backend: add git transport backend](https://github.com/go-git/go-git/pull/1529) on [go-git/go-git](https://github.com/go-git/go-git) (5 days ago)
+- [fix(key): windows: recognize function keys on Windows](https://github.com/charmbracelet/bubbletea/pull/1405) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 days ago)
+- [feat(ansi): support color conversion to 16 and 256 colors](https://github.com/charmbracelet/x/pull/444) on [charmbracelet/x](https://github.com/charmbracelet/x) (2 days ago)
+- [[V6] Add some report-status and send-pack tests](https://github.com/go-git/go-git/pull/1536) on [go-git/go-git](https://github.com/go-git/go-git) (3 days ago)
+- [Simplify ObjectHasher and prepare to remove `plumbing/hash`](https://github.com/pjbgf/go-git/pull/27) on [pjbgf/go-git](https://github.com/pjbgf/go-git) (5 days ago)
+- [[v6] backend: add git transport backend](https://github.com/go-git/go-git/pull/1529) on [go-git/go-git](https://github.com/go-git/go-git) (6 days ago)
 
 #### 📜 My recent blog posts
 
@@ -44,9 +44,9 @@
 
 #### ⭐ Recent Stars
 
-- [j4james/vtrex](https://github.com/j4james/vtrex) - An implementation of the Chrome dinosaur game for VT terminals. (1 day ago)
-- [disintegration/imaging](https://github.com/disintegration/imaging) - Imaging is a simple image processing package for Go (6 days ago)
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Tunneled Mesh Reverse Proxy Server with Identity and Access Control and Dashboard UI (3 weeks ago)
+- [j4james/vtrex](https://github.com/j4james/vtrex) - An implementation of the Chrome dinosaur game for VT terminals. (2 days ago)
+- [disintegration/imaging](https://github.com/disintegration/imaging) - Imaging is a simple image processing package for Go (1 week ago)
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Tunneled Mesh Reverse Proxy Server with Identity and Access Control and Dashboard UI (4 weeks ago)
 - [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) - Access your entire server infrastructure from your local desktop (1 month ago)
 - [aceberg/WatchYourLAN](https://github.com/aceberg/WatchYourLAN) - Lightweight network IP scanner. Can be used to notify about new hosts and monitor host online/offline history (1 month ago)
 
