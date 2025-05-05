@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: minimize the risk of scrolling the view up on some terminals](https://github.com/charmbracelet/huh/pull/649) on [charmbracelet/huh](https://github.com/charmbracelet/huh) (today)
 - [fix(examples): we don&#39;t need to wait for background color query](https://github.com/charmbracelet/bubbletea/pull/1407) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (4 days ago)
 - [fix(key): windows: recognize function keys on Windows](https://github.com/charmbracelet/bubbletea/pull/1405) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (6 days ago)
 - [feat(ansi): support color conversion to 16 and 256 colors](https://github.com/charmbracelet/x/pull/444) on [charmbracelet/x](https://github.com/charmbracelet/x) (6 days ago)
 - [[V6] Add some report-status and send-pack tests](https://github.com/go-git/go-git/pull/1536) on [go-git/go-git](https://github.com/go-git/go-git) (1 week ago)
-- [Simplify ObjectHasher and prepare to remove `plumbing/hash`](https://github.com/pjbgf/go-git/pull/27) on [pjbgf/go-git](https://github.com/pjbgf/go-git) (1 week ago)
 
 #### 📜 My recent blog posts
 
