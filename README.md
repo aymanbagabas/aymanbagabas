@@ -4,8 +4,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (today)
-- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (1 day ago)
+- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (1 day ago)
+- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (2 days ago)
 - [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) - Magical terminal color handling 🪄 (1 week ago)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 week ago)
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧 (2 weeks ago)
@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [raphamorim/rio](https://github.com/raphamorim/rio) ([v0.2.15](https://github.com/raphamorim/rio/releases/tag/v0.2.15), 1 day ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
+- [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), today) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v2.0.0-beta.3](https://github.com/charmbracelet/bubbletea/releases/tag/v2.0.0-beta.3), 1 week ago) - A powerful little TUI framework 🏗
 - [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) ([v0.3.1](https://github.com/charmbracelet/colorprofile/releases/tag/v0.3.1), 2 weeks ago) - Magical terminal color handling 🪄
 - [charmbracelet/glamour](https://github.com/charmbracelet/glamour) ([v0.10.0](https://github.com/charmbracelet/glamour/releases/tag/v0.10.0), 3 weeks ago) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️
@@ -28,7 +28,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [fix: minimize the risk of scrolling the view up on some terminals](https://github.com/charmbracelet/huh/pull/649) on [charmbracelet/huh](https://github.com/charmbracelet/huh) (4 days ago)
+- [fix: minimize the risk of scrolling the view up on some terminals](https://github.com/charmbracelet/huh/pull/649) on [charmbracelet/huh](https://github.com/charmbracelet/huh) (5 days ago)
 - [fix(examples): we don&#39;t need to wait for background color query](https://github.com/charmbracelet/bubbletea/pull/1407) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 week ago)
 - [fix(key): windows: recognize function keys on Windows](https://github.com/charmbracelet/bubbletea/pull/1405) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 week ago)
 - [feat(ansi): support color conversion to 16 and 256 colors](https://github.com/charmbracelet/x/pull/444) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 week ago)
@@ -36,7 +36,7 @@
 
 #### 📜 My recent blog posts
 
-- [A Brief History of Terminal Emulators](https://aymanbagabas.com/blog/2025/03/11/a-brief-history-of-terminal-emulators.html) (1 month ago)
+- [A Brief History of Terminal Emulators](https://aymanbagabas.com/blog/2025/03/11/a-brief-history-of-terminal-emulators.html) (2 months ago)
 - [Self-hosted Soft Serve](https://aymanbagabas.com/blog/2023/04/28/self-hosted-soft-serve.html) (2 years ago)
 - [Simple Vim Session Management](https://aymanbagabas.com/blog/2023/04/13/simple-vim-session-management.html) (2 years ago)
 - [Blue Mountain](https://aymanbagabas.com/blog/2022/06/02/blue-mountain.html) (2 years ago)
