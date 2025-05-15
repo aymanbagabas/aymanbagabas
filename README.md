@@ -4,10 +4,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 day ago)
-- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (2 days ago)
-- [charmbracelet/log](https://github.com/charmbracelet/log) - A minimal, colorful Go logging library 🪵 (2 days ago)
-- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (5 days ago)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (2 days ago)
+- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (3 days ago)
+- [charmbracelet/log](https://github.com/charmbracelet/log) - A minimal, colorful Go logging library 🪵 (3 days ago)
+- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (6 days ago)
 - [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) - Magical terminal color handling 🪄 (2 weeks ago)
 
 #### 🌱 My latest projects
@@ -21,16 +21,16 @@
 #### 🔭 Latest releases I've contributed to
 
 - [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), today) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
-- [charmbracelet/log](https://github.com/charmbracelet/log) ([v0.4.2](https://github.com/charmbracelet/log/releases/tag/v0.4.2), 2 days ago) - A minimal, colorful Go logging library 🪵
+- [charmbracelet/log](https://github.com/charmbracelet/log) ([v0.4.2](https://github.com/charmbracelet/log/releases/tag/v0.4.2), 3 days ago) - A minimal, colorful Go logging library 🪵
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v2.0.0-beta.3](https://github.com/charmbracelet/bubbletea/releases/tag/v2.0.0-beta.3), 1 week ago) - A powerful little TUI framework 🏗
-- [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) ([v0.3.1](https://github.com/charmbracelet/colorprofile/releases/tag/v0.3.1), 2 weeks ago) - Magical terminal color handling 🪄
+- [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) ([v0.3.1](https://github.com/charmbracelet/colorprofile/releases/tag/v0.3.1), 3 weeks ago) - Magical terminal color handling 🪄
 - [charmbracelet/glamour](https://github.com/charmbracelet/glamour) ([v0.10.0](https://github.com/charmbracelet/glamour/releases/tag/v0.10.0), 4 weeks ago) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️
 
 #### 🔨 My recent Pull Requests
 
-- [fix: ensure we recognize errors as slog.AnyValue](https://github.com/charmbracelet/log/pull/171) on [charmbracelet/log](https://github.com/charmbracelet/log) (2 days ago)
+- [fix: ensure we recognize errors as slog.AnyValue](https://github.com/charmbracelet/log/pull/171) on [charmbracelet/log](https://github.com/charmbracelet/log) (3 days ago)
 - [fix: minimize the risk of scrolling the view up on some terminals](https://github.com/charmbracelet/huh/pull/649) on [charmbracelet/huh](https://github.com/charmbracelet/huh) (1 week ago)
-- [fix(examples): we don&#39;t need to wait for background color query](https://github.com/charmbracelet/bubbletea/pull/1407) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 week ago)
+- [fix(examples): we don&#39;t need to wait for background color query](https://github.com/charmbracelet/bubbletea/pull/1407) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 weeks ago)
 - [fix(key): windows: recognize function keys on Windows](https://github.com/charmbracelet/bubbletea/pull/1405) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 weeks ago)
 - [feat(ansi): support color conversion to 16 and 256 colors](https://github.com/charmbracelet/x/pull/444) on [charmbracelet/x](https://github.com/charmbracelet/x) (2 weeks ago)
 
@@ -45,7 +45,7 @@
 #### ⭐ Recent Stars
 
 - [j4james/vtrex](https://github.com/j4james/vtrex) - An implementation of the Chrome dinosaur game for VT terminals. (2 weeks ago)
-- [disintegration/imaging](https://github.com/disintegration/imaging) - Imaging is a simple image processing package for Go (2 weeks ago)
+- [disintegration/imaging](https://github.com/disintegration/imaging) - Imaging is a simple image processing package for Go (3 weeks ago)
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Tunneled Mesh Reverse Proxy Server with Identity and Access Control and Dashboard UI (1 month ago)
 - [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) - Access your entire server infrastructure from your local desktop (2 months ago)
 - [aceberg/WatchYourLAN](https://github.com/aceberg/WatchYourLAN) - Lightweight network IP scanner. Can be used to notify about new hosts and monitor host online/offline history (2 months ago)
