@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), today) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
+- [raphamorim/rio](https://github.com/raphamorim/rio) ([v0.2.16](https://github.com/raphamorim/rio/releases/tag/v0.2.16), today) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 - [charmbracelet/log](https://github.com/charmbracelet/log) ([v0.4.2](https://github.com/charmbracelet/log/releases/tag/v0.4.2), 3 days ago) - A minimal, colorful Go logging library 🪵
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v2.0.0-beta.3](https://github.com/charmbracelet/bubbletea/releases/tag/v2.0.0-beta.3), 1 week ago) - A powerful little TUI framework 🏗
 - [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) ([v0.3.1](https://github.com/charmbracelet/colorprofile/releases/tag/v0.3.1), 3 weeks ago) - Magical terminal color handling 🪄
