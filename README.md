@@ -20,11 +20,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.16.1](https://github.com/charmbracelet/gum/releases/tag/v0.16.1), today) - A tool for glamorous shell scripts 🎀
 - [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), 1 day ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 - [charmbracelet/log](https://github.com/charmbracelet/log) ([v0.4.2](https://github.com/charmbracelet/log/releases/tag/v0.4.2), 2 weeks ago) - A minimal, colorful Go logging library 🪵
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v2.0.0-beta.3](https://github.com/charmbracelet/bubbletea/releases/tag/v2.0.0-beta.3), 4 weeks ago) - A powerful little TUI framework 🏗
 - [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) ([v0.3.1](https://github.com/charmbracelet/colorprofile/releases/tag/v0.3.1), 1 month ago) - Magical terminal color handling 🪄
-- [charmbracelet/glamour](https://github.com/charmbracelet/glamour) ([v0.10.0](https://github.com/charmbracelet/glamour/releases/tag/v0.10.0), 1 month ago) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️
 
 #### 🔨 My recent Pull Requests
 
