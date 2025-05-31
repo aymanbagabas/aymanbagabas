@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[v6] backend: http, make backend more idiomatic](https://github.com/go-git/go-git/pull/1557) on [go-git/go-git](https://github.com/go-git/go-git) (today)
 - [perf(ansi): improve performance of wrap space handling](https://github.com/charmbracelet/x/pull/472) on [charmbracelet/x](https://github.com/charmbracelet/x) (4 days ago)
 - [fix: ensure we recognize errors as slog.AnyValue](https://github.com/charmbracelet/log/pull/171) on [charmbracelet/log](https://github.com/charmbracelet/log) (2 weeks ago)
 - [fix: minimize the risk of scrolling the view up on some terminals](https://github.com/charmbracelet/huh/pull/649) on [charmbracelet/huh](https://github.com/charmbracelet/huh) (3 weeks ago)
 - [fix(examples): we don&#39;t need to wait for background color query](https://github.com/charmbracelet/bubbletea/pull/1407) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 month ago)
-- [fix(key): windows: recognize function keys on Windows](https://github.com/charmbracelet/bubbletea/pull/1405) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 month ago)
 
 #### 📜 My recent blog posts
 
