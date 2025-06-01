@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (4 days ago)
+- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (5 days ago)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (2 weeks ago)
 - [charmbracelet/log](https://github.com/charmbracelet/log) - A minimal, colorful Go logging library 🪵 (2 weeks ago)
 - [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (3 weeks ago)
@@ -20,16 +20,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.16.1](https://github.com/charmbracelet/gum/releases/tag/v0.16.1), 1 day ago) - A tool for glamorous shell scripts 🎀
-- [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), 2 days ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
+- [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), today) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.16.1](https://github.com/charmbracelet/gum/releases/tag/v0.16.1), 2 days ago) - A tool for glamorous shell scripts 🎀
 - [charmbracelet/log](https://github.com/charmbracelet/log) ([v0.4.2](https://github.com/charmbracelet/log/releases/tag/v0.4.2), 2 weeks ago) - A minimal, colorful Go logging library 🪵
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v2.0.0-beta.3](https://github.com/charmbracelet/bubbletea/releases/tag/v2.0.0-beta.3), 4 weeks ago) - A powerful little TUI framework 🏗
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v2.0.0-beta.3](https://github.com/charmbracelet/bubbletea/releases/tag/v2.0.0-beta.3), 1 month ago) - A powerful little TUI framework 🏗
 - [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) ([v0.3.1](https://github.com/charmbracelet/colorprofile/releases/tag/v0.3.1), 1 month ago) - Magical terminal color handling 🪄
 
 #### 🔨 My recent Pull Requests
 
-- [[v6] backend: http, make backend more idiomatic](https://github.com/go-git/go-git/pull/1557) on [go-git/go-git](https://github.com/go-git/go-git) (today)
-- [perf(ansi): improve performance of wrap space handling](https://github.com/charmbracelet/x/pull/472) on [charmbracelet/x](https://github.com/charmbracelet/x) (4 days ago)
+- [[v6] backend: http, make backend more idiomatic](https://github.com/go-git/go-git/pull/1557) on [go-git/go-git](https://github.com/go-git/go-git) (1 day ago)
+- [perf(ansi): improve performance of wrap space handling](https://github.com/charmbracelet/x/pull/472) on [charmbracelet/x](https://github.com/charmbracelet/x) (5 days ago)
 - [fix: ensure we recognize errors as slog.AnyValue](https://github.com/charmbracelet/log/pull/171) on [charmbracelet/log](https://github.com/charmbracelet/log) (2 weeks ago)
 - [fix: minimize the risk of scrolling the view up on some terminals](https://github.com/charmbracelet/huh/pull/649) on [charmbracelet/huh](https://github.com/charmbracelet/huh) (3 weeks ago)
 - [fix(examples): we don&#39;t need to wait for background color query](https://github.com/charmbracelet/bubbletea/pull/1407) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 month ago)
