@@ -20,11 +20,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [raphamorim/rio](https://github.com/raphamorim/rio) ([v0.2.18](https://github.com/raphamorim/rio/releases/tag/v0.2.18), today) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
+- [aymanbagabas/go-udiff](https://github.com/aymanbagabas/go-udiff) ([v0.3.1](https://github.com/aymanbagabas/go-udiff/releases/tag/v0.3.1), today) - µDiff - a micro Go diffing library
 - [go-git/go-git](https://github.com/go-git/go-git) ([v5.16.1](https://github.com/go-git/go-git/releases/tag/v5.16.1), 1 day ago) - A highly extensible Git implementation in pure Go.
-- [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), 1 day ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.16.1](https://github.com/charmbracelet/gum/releases/tag/v0.16.1), 6 days ago) - A tool for glamorous shell scripts 🎀
 - [charmbracelet/log](https://github.com/charmbracelet/log) ([v0.4.2](https://github.com/charmbracelet/log/releases/tag/v0.4.2), 3 weeks ago) - A minimal, colorful Go logging library 🪵
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v2.0.0-beta.3](https://github.com/charmbracelet/bubbletea/releases/tag/v2.0.0-beta.3), 1 month ago) - A powerful little TUI framework 🏗
 
 #### 🔨 My recent Pull Requests
 
