@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (2 days ago)
-- [charmbracelet/huh](https://github.com/charmbracelet/huh) - Build terminal forms and prompts 🤷🏻‍♀️ (2 days ago)
-- [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) - Magical terminal color handling 🪄 (3 days ago)
-- [aymanbagabas/go-udiff](https://github.com/aymanbagabas/go-udiff) - µDiff - a micro Go diffing library (3 days ago)
-- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (4 days ago)
+- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (3 days ago)
+- [charmbracelet/huh](https://github.com/charmbracelet/huh) - Build terminal forms and prompts 🤷🏻‍♀️ (3 days ago)
+- [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) - Magical terminal color handling 🪄 (4 days ago)
+- [aymanbagabas/go-udiff](https://github.com/aymanbagabas/go-udiff) - µDiff - a micro Go diffing library (4 days ago)
+- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -20,17 +20,17 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [raphamorim/rio](https://github.com/raphamorim/rio) ([v0.2.18](https://github.com/raphamorim/rio/releases/tag/v0.2.18), today) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
-- [aymanbagabas/go-udiff](https://github.com/aymanbagabas/go-udiff) ([v0.3.1](https://github.com/aymanbagabas/go-udiff/releases/tag/v0.3.1), today) - µDiff - a micro Go diffing library
-- [go-git/go-git](https://github.com/go-git/go-git) ([v5.16.1](https://github.com/go-git/go-git/releases/tag/v5.16.1), 1 day ago) - A highly extensible Git implementation in pure Go.
-- [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.16.1](https://github.com/charmbracelet/gum/releases/tag/v0.16.1), 6 days ago) - A tool for glamorous shell scripts 🎀
+- [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), today) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
+- [aymanbagabas/go-udiff](https://github.com/aymanbagabas/go-udiff) ([v0.3.1](https://github.com/aymanbagabas/go-udiff/releases/tag/v0.3.1), 1 day ago) - µDiff - a micro Go diffing library
+- [go-git/go-git](https://github.com/go-git/go-git) ([v5.16.1](https://github.com/go-git/go-git/releases/tag/v5.16.1), 2 days ago) - A highly extensible Git implementation in pure Go.
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.16.1](https://github.com/charmbracelet/gum/releases/tag/v0.16.1), 1 week ago) - A tool for glamorous shell scripts 🎀
 - [charmbracelet/log](https://github.com/charmbracelet/log) ([v0.4.2](https://github.com/charmbracelet/log/releases/tag/v0.4.2), 3 weeks ago) - A minimal, colorful Go logging library 🪵
 
 #### 🔨 My recent Pull Requests
 
-- [feat(toner): add initial implementation](https://github.com/charmbracelet/x/pull/477) on [charmbracelet/x](https://github.com/charmbracelet/x) (3 days ago)
-- [Revert &#34;add Function HotKeys Remapping for Honor X16 Plus AMD (BRI-XX)&#34;](https://github.com/aymanbagabas/Huawei-WMI/pull/103) on [aymanbagabas/Huawei-WMI](https://github.com/aymanbagabas/Huawei-WMI) (3 days ago)
-- [[v6] backend: http, make backend more idiomatic](https://github.com/go-git/go-git/pull/1557) on [go-git/go-git](https://github.com/go-git/go-git) (5 days ago)
+- [feat(toner): add initial implementation](https://github.com/charmbracelet/x/pull/477) on [charmbracelet/x](https://github.com/charmbracelet/x) (4 days ago)
+- [Revert &#34;add Function HotKeys Remapping for Honor X16 Plus AMD (BRI-XX)&#34;](https://github.com/aymanbagabas/Huawei-WMI/pull/103) on [aymanbagabas/Huawei-WMI](https://github.com/aymanbagabas/Huawei-WMI) (4 days ago)
+- [[v6] backend: http, make backend more idiomatic](https://github.com/go-git/go-git/pull/1557) on [go-git/go-git](https://github.com/go-git/go-git) (6 days ago)
 - [perf(ansi): improve performance of wrap space handling](https://github.com/charmbracelet/x/pull/472) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 week ago)
 - [fix: ensure we recognize errors as slog.AnyValue](https://github.com/charmbracelet/log/pull/171) on [charmbracelet/log](https://github.com/charmbracelet/log) (3 weeks ago)
 
