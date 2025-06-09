@@ -46,7 +46,7 @@
 
 - [j4james/vtrex](https://github.com/j4james/vtrex) - An implementation of the Chrome dinosaur game for VT terminals. (1 month ago)
 - [disintegration/imaging](https://github.com/disintegration/imaging) - Imaging is a simple image processing package for Go (1 month ago)
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Tunneled Mesh Reverse Proxy Server with Identity and Access Control and Dashboard UI (2 months ago)
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Tunneled Reverse Proxy Server with Identity and Access Control and Dashboard UI (2 months ago)
 - [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) - Access your entire server infrastructure from your local desktop (2 months ago)
 - [aceberg/WatchYourLAN](https://github.com/aceberg/WatchYourLAN) - Lightweight network IP scanner. Can be used to notify about new hosts and monitor host online/offline history (2 months ago)
 
