@@ -4,10 +4,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (5 days ago)
-- [charmbracelet/huh](https://github.com/charmbracelet/huh) - Build terminal forms and prompts 🤷🏻‍♀️ (5 days ago)
-- [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) - Magical terminal color handling 🪄 (6 days ago)
-- [aymanbagabas/go-udiff](https://github.com/aymanbagabas/go-udiff) - µDiff - a micro Go diffing library (6 days ago)
+- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (6 days ago)
+- [charmbracelet/huh](https://github.com/charmbracelet/huh) - Build terminal forms and prompts 🤷🏻‍♀️ (6 days ago)
+- [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) - Magical terminal color handling 🪄 (1 week ago)
+- [aymanbagabas/go-udiff](https://github.com/aymanbagabas/go-udiff) - µDiff - a micro Go diffing library (1 week ago)
 - [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (1 week ago)
 
 #### 🌱 My latest projects
@@ -20,23 +20,23 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), 2 days ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
-- [aymanbagabas/go-udiff](https://github.com/aymanbagabas/go-udiff) ([v0.3.1](https://github.com/aymanbagabas/go-udiff/releases/tag/v0.3.1), 3 days ago) - µDiff - a micro Go diffing library
-- [go-git/go-git](https://github.com/go-git/go-git) ([v5.16.1](https://github.com/go-git/go-git/releases/tag/v5.16.1), 4 days ago) - A highly extensible Git implementation in pure Go.
+- [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), today) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
+- [aymanbagabas/go-udiff](https://github.com/aymanbagabas/go-udiff) ([v0.3.1](https://github.com/aymanbagabas/go-udiff/releases/tag/v0.3.1), 4 days ago) - µDiff - a micro Go diffing library
+- [go-git/go-git](https://github.com/go-git/go-git) ([v5.16.1](https://github.com/go-git/go-git/releases/tag/v5.16.1), 5 days ago) - A highly extensible Git implementation in pure Go.
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.16.1](https://github.com/charmbracelet/gum/releases/tag/v0.16.1), 1 week ago) - A tool for glamorous shell scripts 🎀
-- [charmbracelet/log](https://github.com/charmbracelet/log) ([v0.4.2](https://github.com/charmbracelet/log/releases/tag/v0.4.2), 3 weeks ago) - A minimal, colorful Go logging library 🪵
+- [charmbracelet/log](https://github.com/charmbracelet/log) ([v0.4.2](https://github.com/charmbracelet/log/releases/tag/v0.4.2), 4 weeks ago) - A minimal, colorful Go logging library 🪵
 
 #### 🔨 My recent Pull Requests
 
-- [Properly handle update-requests capabilities and always use context I/O](https://github.com/onee-only/go-git/pull/1) on [onee-only/go-git](https://github.com/onee-only/go-git) (1 day ago)
-- [feat(toner): add initial implementation](https://github.com/charmbracelet/x/pull/477) on [charmbracelet/x](https://github.com/charmbracelet/x) (6 days ago)
-- [Revert &#34;add Function HotKeys Remapping for Honor X16 Plus AMD (BRI-XX)&#34;](https://github.com/aymanbagabas/Huawei-WMI/pull/103) on [aymanbagabas/Huawei-WMI](https://github.com/aymanbagabas/Huawei-WMI) (6 days ago)
+- [Properly handle update-requests capabilities and always use context I/O](https://github.com/onee-only/go-git/pull/1) on [onee-only/go-git](https://github.com/onee-only/go-git) (2 days ago)
+- [feat(toner): add initial implementation](https://github.com/charmbracelet/x/pull/477) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 week ago)
+- [Revert &#34;add Function HotKeys Remapping for Honor X16 Plus AMD (BRI-XX)&#34;](https://github.com/aymanbagabas/Huawei-WMI/pull/103) on [aymanbagabas/Huawei-WMI](https://github.com/aymanbagabas/Huawei-WMI) (1 week ago)
 - [[v6] backend: http, make backend more idiomatic](https://github.com/go-git/go-git/pull/1557) on [go-git/go-git](https://github.com/go-git/go-git) (1 week ago)
 - [perf(ansi): improve performance of wrap space handling](https://github.com/charmbracelet/x/pull/472) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 week ago)
 
 #### 📜 My recent blog posts
 
-- [A Brief History of Terminal Emulators](https://aymanbagabas.com/blog/2025/03/11/a-brief-history-of-terminal-emulators.html) (2 months ago)
+- [A Brief History of Terminal Emulators](https://aymanbagabas.com/blog/2025/03/11/a-brief-history-of-terminal-emulators.html) (3 months ago)
 - [Self-hosted Soft Serve](https://aymanbagabas.com/blog/2023/04/28/self-hosted-soft-serve.html) (2 years ago)
 - [Simple Vim Session Management](https://aymanbagabas.com/blog/2023/04/13/simple-vim-session-management.html) (2 years ago)
 - [Blue Mountain](https://aymanbagabas.com/blog/2022/06/02/blue-mountain.html) (3 years ago)
