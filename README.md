@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Merge v6-transport, fix upload-requests atomic logic, and update tests](https://github.com/onee-only/go-git/pull/2) on [onee-only/go-git](https://github.com/onee-only/go-git) (today)
 - [Properly handle update-requests capabilities and always use context I/O](https://github.com/onee-only/go-git/pull/1) on [onee-only/go-git](https://github.com/onee-only/go-git) (3 days ago)
 - [feat(toner): add initial implementation](https://github.com/charmbracelet/x/pull/477) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 week ago)
 - [Revert &#34;add Function HotKeys Remapping for Honor X16 Plus AMD (BRI-XX)&#34;](https://github.com/aymanbagabas/Huawei-WMI/pull/103) on [aymanbagabas/Huawei-WMI](https://github.com/aymanbagabas/Huawei-WMI) (1 week ago)
 - [[v6] backend: http, make backend more idiomatic](https://github.com/go-git/go-git/pull/1557) on [go-git/go-git](https://github.com/go-git/go-git) (1 week ago)
-- [perf(ansi): improve performance of wrap space handling](https://github.com/charmbracelet/x/pull/472) on [charmbracelet/x](https://github.com/charmbracelet/x) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
