@@ -4,8 +4,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (today)
 - [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (1 day ago)
-- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (1 week ago)
 - [charmbracelet/huh](https://github.com/charmbracelet/huh) - Build terminal forms and prompts 🤷🏻‍♀️ (1 week ago)
 - [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) - Magical terminal color handling 🪄 (1 week ago)
 - [aymanbagabas/go-udiff](https://github.com/aymanbagabas/go-udiff) - µDiff - a micro Go diffing library (1 week ago)
