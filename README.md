@@ -4,8 +4,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (today)
-- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (1 day ago)
+- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (1 day ago)
+- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (2 days ago)
 - [charmbracelet/huh](https://github.com/charmbracelet/huh) - Build terminal forms and prompts 🤷🏻‍♀️ (1 week ago)
 - [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) - Magical terminal color handling 🪄 (1 week ago)
 - [aymanbagabas/go-udiff](https://github.com/aymanbagabas/go-udiff) - µDiff - a micro Go diffing library (1 week ago)
@@ -20,16 +20,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [go-git/go-git](https://github.com/go-git/go-git) ([v5.16.2](https://github.com/go-git/go-git/releases/tag/v5.16.2), 2 days ago) - A highly extensible Git implementation in pure Go.
-- [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), 2 days ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
-- [aymanbagabas/go-udiff](https://github.com/aymanbagabas/go-udiff) ([v0.3.1](https://github.com/aymanbagabas/go-udiff/releases/tag/v0.3.1), 6 days ago) - µDiff - a micro Go diffing library
+- [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), today) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
+- [go-git/go-git](https://github.com/go-git/go-git) ([v5.16.2](https://github.com/go-git/go-git/releases/tag/v5.16.2), 3 days ago) - A highly extensible Git implementation in pure Go.
+- [aymanbagabas/go-udiff](https://github.com/aymanbagabas/go-udiff) ([v0.3.1](https://github.com/aymanbagabas/go-udiff/releases/tag/v0.3.1), 1 week ago) - µDiff - a micro Go diffing library
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.16.1](https://github.com/charmbracelet/gum/releases/tag/v0.16.1), 1 week ago) - A tool for glamorous shell scripts 🎀
 - [charmbracelet/log](https://github.com/charmbracelet/log) ([v0.4.2](https://github.com/charmbracelet/log/releases/tag/v0.4.2), 1 month ago) - A minimal, colorful Go logging library 🪵
 
 #### 🔨 My recent Pull Requests
 
-- [Merge v6-transport, fix upload-requests atomic logic, and update tests](https://github.com/onee-only/go-git/pull/2) on [onee-only/go-git](https://github.com/onee-only/go-git) (1 day ago)
-- [Properly handle update-requests capabilities and always use context I/O](https://github.com/onee-only/go-git/pull/1) on [onee-only/go-git](https://github.com/onee-only/go-git) (4 days ago)
+- [Merge v6-transport, fix upload-requests atomic logic, and update tests](https://github.com/onee-only/go-git/pull/2) on [onee-only/go-git](https://github.com/onee-only/go-git) (2 days ago)
+- [Properly handle update-requests capabilities and always use context I/O](https://github.com/onee-only/go-git/pull/1) on [onee-only/go-git](https://github.com/onee-only/go-git) (5 days ago)
 - [feat(toner): add initial implementation](https://github.com/charmbracelet/x/pull/477) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 week ago)
 - [Revert &#34;add Function HotKeys Remapping for Honor X16 Plus AMD (BRI-XX)&#34;](https://github.com/aymanbagabas/Huawei-WMI/pull/103) on [aymanbagabas/Huawei-WMI](https://github.com/aymanbagabas/Huawei-WMI) (1 week ago)
 - [[v6] backend: http, make backend more idiomatic](https://github.com/go-git/go-git/pull/1557) on [go-git/go-git](https://github.com/go-git/go-git) (1 week ago)
@@ -44,11 +44,11 @@
 
 #### ⭐ Recent Stars
 
-- [shirou/gopsutil](https://github.com/shirou/gopsutil) - psutil for golang (1 day ago)
+- [shirou/gopsutil](https://github.com/shirou/gopsutil) - psutil for golang (2 days ago)
 - [j4james/vtrex](https://github.com/j4james/vtrex) - An implementation of the Chrome dinosaur game for VT terminals. (1 month ago)
 - [disintegration/imaging](https://github.com/disintegration/imaging) - Imaging is a simple image processing package for Go (1 month ago)
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Tunneled Reverse Proxy Server with Identity and Access Control and Dashboard UI (2 months ago)
-- [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) - Access your entire server infrastructure from your local desktop (2 months ago)
+- [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) - Access your entire server infrastructure from your local desktop (3 months ago)
 
 #### 📫 How to reach me
 
