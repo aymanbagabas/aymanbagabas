@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [support multiple XTGETTCAP requests in a single DCS sequence](https://github.com/raphamorim/rio/pull/1158) on [raphamorim/rio](https://github.com/raphamorim/rio) (today)
 - [feat(conpty): expose underlying conpty file descriptors ](https://github.com/charmbracelet/x/pull/484) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 day ago)
 - [Merge v6-transport, fix upload-requests atomic logic, and update tests](https://github.com/onee-only/go-git/pull/2) on [onee-only/go-git](https://github.com/onee-only/go-git) (1 week ago)
 - [Properly handle update-requests capabilities and always use context I/O](https://github.com/onee-only/go-git/pull/1) on [onee-only/go-git](https://github.com/onee-only/go-git) (1 week ago)
 - [feat(toner): add initial implementation](https://github.com/charmbracelet/x/pull/477) on [charmbracelet/x](https://github.com/charmbracelet/x) (2 weeks ago)
-- [Revert &#34;add Function HotKeys Remapping for Honor X16 Plus AMD (BRI-XX)&#34;](https://github.com/aymanbagabas/Huawei-WMI/pull/103) on [aymanbagabas/Huawei-WMI](https://github.com/aymanbagabas/Huawei-WMI) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
