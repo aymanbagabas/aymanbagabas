@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (6 days ago)
+- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (1 week ago)
 - [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (1 week ago)
 - [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go. (1 week ago)
 - [charmbracelet/huh](https://github.com/charmbracelet/huh) - Build terminal forms and prompts 🤷🏻‍♀️ (2 weeks ago)
@@ -20,15 +20,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [raphamorim/rio](https://github.com/raphamorim/rio) ([v0.2.19](https://github.com/raphamorim/rio/releases/tag/v0.2.19), today) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
-- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) ([v0.10.0](https://github.com/charmbracelet/vhs/releases/tag/v0.10.0), today) - Your CLI home video recorder 📼
+- [raphamorim/rio](https://github.com/raphamorim/rio) ([v0.2.19](https://github.com/raphamorim/rio/releases/tag/v0.2.19), 1 day ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
+- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) ([v0.10.0](https://github.com/charmbracelet/vhs/releases/tag/v0.10.0), 1 day ago) - Your CLI home video recorder 📼
 - [go-git/go-git](https://github.com/go-git/go-git) ([v5.16.2](https://github.com/go-git/go-git/releases/tag/v5.16.2), 1 week ago) - A highly extensible Git implementation in pure Go.
 - [aymanbagabas/go-udiff](https://github.com/aymanbagabas/go-udiff) ([v0.3.1](https://github.com/aymanbagabas/go-udiff/releases/tag/v0.3.1), 1 week ago) - µDiff - a micro Go diffing library
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.16.1](https://github.com/charmbracelet/gum/releases/tag/v0.16.1), 2 weeks ago) - A tool for glamorous shell scripts 🎀
 
 #### 🔨 My recent Pull Requests
 
-- [feat(conpty): expose underlying conpty file descriptors ](https://github.com/charmbracelet/x/pull/484) on [charmbracelet/x](https://github.com/charmbracelet/x) (today)
+- [feat(conpty): expose underlying conpty file descriptors ](https://github.com/charmbracelet/x/pull/484) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 day ago)
 - [Merge v6-transport, fix upload-requests atomic logic, and update tests](https://github.com/onee-only/go-git/pull/2) on [onee-only/go-git](https://github.com/onee-only/go-git) (1 week ago)
 - [Properly handle update-requests capabilities and always use context I/O](https://github.com/onee-only/go-git/pull/1) on [onee-only/go-git](https://github.com/onee-only/go-git) (1 week ago)
 - [feat(toner): add initial implementation](https://github.com/charmbracelet/x/pull/477) on [charmbracelet/x](https://github.com/charmbracelet/x) (2 weeks ago)
@@ -44,7 +44,7 @@
 
 #### ⭐ Recent Stars
 
-- [mr-karan/lil](https://github.com/mr-karan/lil) - URL Shortener with flexible analytics support, in-memory caching, and an admin UI. (2 days ago)
+- [mr-karan/lil](https://github.com/mr-karan/lil) - URL Shortener with flexible analytics support, in-memory caching, and an admin UI. (3 days ago)
 - [shirou/gopsutil](https://github.com/shirou/gopsutil) - psutil for golang (1 week ago)
 - [j4james/vtrex](https://github.com/j4james/vtrex) - An implementation of the Chrome dinosaur game for VT terminals. (1 month ago)
 - [disintegration/imaging](https://github.com/disintegration/imaging) - Imaging is a simple image processing package for Go (1 month ago)
