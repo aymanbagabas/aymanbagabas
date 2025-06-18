@@ -44,11 +44,11 @@
 
 #### ⭐ Recent Stars
 
+- [charmbracelet/fang](https://github.com/charmbracelet/fang) - The CLI starter kit (today)
 - [mr-karan/lil](https://github.com/mr-karan/lil) - URL Shortener with flexible analytics support, in-memory caching, and an admin UI. (3 days ago)
 - [shirou/gopsutil](https://github.com/shirou/gopsutil) - psutil for golang (1 week ago)
 - [j4james/vtrex](https://github.com/j4james/vtrex) - An implementation of the Chrome dinosaur game for VT terminals. (1 month ago)
 - [disintegration/imaging](https://github.com/disintegration/imaging) - Imaging is a simple image processing package for Go (1 month ago)
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Tunneled Reverse Proxy Server with Identity and Access Control and Dashboard UI (2 months ago)
 
 #### 📫 How to reach me
 
