@@ -4,10 +4,10 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (today)
 - [charmbracelet/.github](https://github.com/charmbracelet/.github) - Default community health files  (today)
 - [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers. (1 week ago)
 - [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (2 weeks ago)
-- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (2 weeks ago)
 - [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go. (2 weeks ago)
 
 #### 🌱 My latest projects
