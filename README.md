@@ -4,8 +4,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (today)
-- [charmbracelet/.github](https://github.com/charmbracelet/.github) - Default community health files  (today)
+- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (1 day ago)
+- [charmbracelet/.github](https://github.com/charmbracelet/.github) - Default community health files  (1 day ago)
 - [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers. (1 week ago)
 - [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (2 weeks ago)
 - [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go. (2 weeks ago)
@@ -20,15 +20,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), today) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
-- [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.16.2](https://github.com/charmbracelet/gum/releases/tag/v0.16.2), 3 days ago) - A tool for glamorous shell scripts 🎀
+- [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), 1 day ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.16.2](https://github.com/charmbracelet/gum/releases/tag/v0.16.2), 4 days ago) - A tool for glamorous shell scripts 🎀
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) ([v0.10.0](https://github.com/charmbracelet/vhs/releases/tag/v0.10.0), 1 week ago) - Your CLI home video recorder 📼
 - [go-git/go-git](https://github.com/go-git/go-git) ([v5.16.2](https://github.com/go-git/go-git/releases/tag/v5.16.2), 2 weeks ago) - A highly extensible Git implementation in pure Go.
 - [aymanbagabas/go-udiff](https://github.com/aymanbagabas/go-udiff) ([v0.3.1](https://github.com/aymanbagabas/go-udiff/releases/tag/v0.3.1), 3 weeks ago) - µDiff - a micro Go diffing library
 
 #### 🔨 My recent Pull Requests
 
-- [fix: add link to CONTRIBUTING.md in PR template](https://github.com/charmbracelet/.github/pull/19) on [charmbracelet/.github](https://github.com/charmbracelet/.github) (today)
+- [fix: add link to CONTRIBUTING.md in PR template](https://github.com/charmbracelet/.github/pull/19) on [charmbracelet/.github](https://github.com/charmbracelet/.github) (1 day ago)
 - [support multiple XTGETTCAP requests in a single DCS sequence](https://github.com/raphamorim/rio/pull/1158) on [raphamorim/rio](https://github.com/raphamorim/rio) (1 week ago)
 - [feat(conpty): expose underlying conpty file descriptors ](https://github.com/charmbracelet/x/pull/484) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 week ago)
 - [Merge v6-transport, fix upload-requests atomic logic, and update tests](https://github.com/onee-only/go-git/pull/2) on [onee-only/go-git](https://github.com/onee-only/go-git) (2 weeks ago)
