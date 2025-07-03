@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦 (today)
 - [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (today)
+- [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺 (today)
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦 (today)
+- [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket) - Charmbracelet Scoop Bucket (today)
 - [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (1 day ago)
-- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (2 days ago)
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -20,11 +20,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.9.1](https://github.com/charmbracelet/soft-serve/releases/tag/v0.9.1), today) - The mighty, self-hostable Git server for the command line🍦
 - [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), today) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v2.0.0-beta.2](https://github.com/charmbracelet/lipgloss/releases/tag/v2.0.0-beta.2), 6 days ago) - Style definitions for nice terminal layouts 👄
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.16.2](https://github.com/charmbracelet/gum/releases/tag/v0.16.2), 1 week ago) - A tool for glamorous shell scripts 🎀
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) ([v0.10.0](https://github.com/charmbracelet/vhs/releases/tag/v0.10.0), 2 weeks ago) - Your CLI home video recorder 📼
-- [go-git/go-git](https://github.com/go-git/go-git) ([v5.16.2](https://github.com/go-git/go-git/releases/tag/v5.16.2), 3 weeks ago) - A highly extensible Git implementation in pure Go.
 
 #### 🔨 My recent Pull Requests
 
