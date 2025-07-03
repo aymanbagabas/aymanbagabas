@@ -5,10 +5,10 @@
 #### 👷 Check out what I'm currently working on
 
 - [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (today)
+- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (today)
 - [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺 (today)
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦 (today)
 - [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket) - Charmbracelet Scoop Bucket (today)
-- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: create a panic trace file](https://github.com/charmbracelet/bubbletea/pull/1446) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [fix: add link to CONTRIBUTING.md in PR template](https://github.com/charmbracelet/.github/pull/19) on [charmbracelet/.github](https://github.com/charmbracelet/.github) (1 week ago)
 - [support multiple XTGETTCAP requests in a single DCS sequence](https://github.com/raphamorim/rio/pull/1158) on [raphamorim/rio](https://github.com/raphamorim/rio) (2 weeks ago)
 - [feat(conpty): expose underlying conpty file descriptors ](https://github.com/charmbracelet/x/pull/484) on [charmbracelet/x](https://github.com/charmbracelet/x) (2 weeks ago)
 - [Merge v6-transport, fix upload-requests atomic logic, and update tests](https://github.com/onee-only/go-git/pull/2) on [onee-only/go-git](https://github.com/onee-only/go-git) (3 weeks ago)
-- [Properly handle update-requests capabilities and always use context I/O](https://github.com/onee-only/go-git/pull/1) on [onee-only/go-git](https://github.com/onee-only/go-git) (3 weeks ago)
 
 #### 📜 My recent blog posts
 
