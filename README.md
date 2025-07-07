@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (today)
 - [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go. (1 day ago)
-- [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket) - Charmbracelet Scoop Bucket (4 days ago)
 - [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (4 days ago)
+- [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket) - Charmbracelet Scoop Bucket (4 days ago)
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦 (4 days ago)
-- [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺 (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix(input): string terminated input sequence events](https://github.com/charmbracelet/x/pull/497) on [charmbracelet/x](https://github.com/charmbracelet/x) (today)
 - [feat: add padding and margin character support](https://github.com/charmbracelet/lipgloss/pull/546) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (today)
 - [feat: add git daemon server and cli command](https://github.com/go-git/cli/pull/13) on [go-git/cli](https://github.com/go-git/cli) (today)
 - [feat: create a panic trace file](https://github.com/charmbracelet/bubbletea/pull/1446) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (4 days ago)
 - [fix: add link to CONTRIBUTING.md in PR template](https://github.com/charmbracelet/.github/pull/19) on [charmbracelet/.github](https://github.com/charmbracelet/.github) (1 week ago)
-- [support multiple XTGETTCAP requests in a single DCS sequence](https://github.com/raphamorim/rio/pull/1158) on [raphamorim/rio](https://github.com/raphamorim/rio) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
