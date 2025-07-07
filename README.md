@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (3 days ago)
-- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (3 days ago)
-- [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺 (3 days ago)
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦 (3 days ago)
-- [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket) - Charmbracelet Scoop Bucket (3 days ago)
+- [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (4 days ago)
+- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (4 days ago)
+- [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺 (4 days ago)
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦 (4 days ago)
+- [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket) - Charmbracelet Scoop Bucket (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -20,15 +20,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), 1 day ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.9.1](https://github.com/charmbracelet/soft-serve/releases/tag/v0.9.1), 3 days ago) - The mighty, self-hostable Git server for the command line🍦
+- [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), today) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.9.1](https://github.com/charmbracelet/soft-serve/releases/tag/v0.9.1), 4 days ago) - The mighty, self-hostable Git server for the command line🍦
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v2.0.0-beta.2](https://github.com/charmbracelet/lipgloss/releases/tag/v2.0.0-beta.2), 1 week ago) - Style definitions for nice terminal layouts 👄
-- [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.16.2](https://github.com/charmbracelet/gum/releases/tag/v0.16.2), 1 week ago) - A tool for glamorous shell scripts 🎀
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.16.2](https://github.com/charmbracelet/gum/releases/tag/v0.16.2), 2 weeks ago) - A tool for glamorous shell scripts 🎀
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) ([v0.10.0](https://github.com/charmbracelet/vhs/releases/tag/v0.10.0), 2 weeks ago) - Your CLI home video recorder 📼
 
 #### 🔨 My recent Pull Requests
 
-- [feat: create a panic trace file](https://github.com/charmbracelet/bubbletea/pull/1446) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (3 days ago)
+- [feat: create a panic trace file](https://github.com/charmbracelet/bubbletea/pull/1446) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (4 days ago)
 - [fix: add link to CONTRIBUTING.md in PR template](https://github.com/charmbracelet/.github/pull/19) on [charmbracelet/.github](https://github.com/charmbracelet/.github) (1 week ago)
 - [support multiple XTGETTCAP requests in a single DCS sequence](https://github.com/raphamorim/rio/pull/1158) on [raphamorim/rio](https://github.com/raphamorim/rio) (2 weeks ago)
 - [feat(conpty): expose underlying conpty file descriptors ](https://github.com/charmbracelet/x/pull/484) on [charmbracelet/x](https://github.com/charmbracelet/x) (2 weeks ago)
