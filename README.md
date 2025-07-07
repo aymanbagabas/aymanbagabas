@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix(push): we need to allow pushing to a remote by name and refspec](https://github.com/go-git/cli/pull/14) on [go-git/cli](https://github.com/go-git/cli) (today)
 - [plumbing: transport, fix send-pack capabilities](https://github.com/go-git/go-git/pull/1604) on [go-git/go-git](https://github.com/go-git/go-git) (today)
 - [fix(input): windows losing the first character](https://github.com/charmbracelet/x/pull/498) on [charmbracelet/x](https://github.com/charmbracelet/x) (today)
 - [fix(input): string terminated input sequence events](https://github.com/charmbracelet/x/pull/497) on [charmbracelet/x](https://github.com/charmbracelet/x) (today)
 - [feat: add padding and margin character support](https://github.com/charmbracelet/lipgloss/pull/546) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (today)
-- [feat: add git daemon server and cli command](https://github.com/go-git/cli/pull/13) on [go-git/cli](https://github.com/go-git/cli) (today)
 
 #### 📜 My recent blog posts
 
