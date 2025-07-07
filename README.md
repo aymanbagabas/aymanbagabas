@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix(input): windows losing the first character](https://github.com/charmbracelet/x/pull/498) on [charmbracelet/x](https://github.com/charmbracelet/x) (today)
 - [fix(input): string terminated input sequence events](https://github.com/charmbracelet/x/pull/497) on [charmbracelet/x](https://github.com/charmbracelet/x) (today)
 - [feat: add padding and margin character support](https://github.com/charmbracelet/lipgloss/pull/546) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (today)
 - [feat: add git daemon server and cli command](https://github.com/go-git/cli/pull/13) on [go-git/cli](https://github.com/go-git/cli) (today)
 - [feat: create a panic trace file](https://github.com/charmbracelet/bubbletea/pull/1446) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (4 days ago)
-- [fix: add link to CONTRIBUTING.md in PR template](https://github.com/charmbracelet/.github/pull/19) on [charmbracelet/.github](https://github.com/charmbracelet/.github) (1 week ago)
 
 #### 📜 My recent blog posts
 
