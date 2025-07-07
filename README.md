@@ -20,11 +20,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v1.3.6](https://github.com/charmbracelet/bubbletea/releases/tag/v1.3.6), today) - A powerful little TUI framework 🏗
 - [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), today) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.9.1](https://github.com/charmbracelet/soft-serve/releases/tag/v0.9.1), 4 days ago) - The mighty, self-hostable Git server for the command line🍦
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v2.0.0-beta.2](https://github.com/charmbracelet/lipgloss/releases/tag/v2.0.0-beta.2), 1 week ago) - Style definitions for nice terminal layouts 👄
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.16.2](https://github.com/charmbracelet/gum/releases/tag/v0.16.2), 2 weeks ago) - A tool for glamorous shell scripts 🎀
-- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) ([v0.10.0](https://github.com/charmbracelet/vhs/releases/tag/v0.10.0), 2 weeks ago) - Your CLI home video recorder 📼
 
 #### 🔨 My recent Pull Requests
 
