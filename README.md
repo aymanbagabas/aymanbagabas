@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat(textarea): expose MoveToBegin and MoveToEnd methods](https://github.com/charmbracelet/bubbles/pull/809) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (today)
 - [fix(push): we need to allow pushing to a remote by name and refspec](https://github.com/go-git/cli/pull/14) on [go-git/cli](https://github.com/go-git/cli) (2 days ago)
 - [plumbing: transport, fix send-pack capabilities](https://github.com/go-git/go-git/pull/1604) on [go-git/go-git](https://github.com/go-git/go-git) (2 days ago)
 - [fix(input): windows losing the first character](https://github.com/charmbracelet/x/pull/498) on [charmbracelet/x](https://github.com/charmbracelet/x) (2 days ago)
 - [fix(input): string terminated input sequence events](https://github.com/charmbracelet/x/pull/497) on [charmbracelet/x](https://github.com/charmbracelet/x) (2 days ago)
-- [feat: add padding and margin character support](https://github.com/charmbracelet/lipgloss/pull/546) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (2 days ago)
 
 #### 📜 My recent blog posts
 
