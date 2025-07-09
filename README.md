@@ -6,7 +6,7 @@
 
 - [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (2 days ago)
 - [go-git/cli](https://github.com/go-git/cli) -  (2 days ago)
-- [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go. (3 days ago)
+- [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go. (2 days ago)
 - [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺 (6 days ago)
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦 (6 days ago)
 
