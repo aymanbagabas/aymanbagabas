@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (today)
 - [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (2 days ago)
 - [golang/term](https://github.com/golang/term) - Go terminal and console support (2 days ago)
-- [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go. (1 week ago)
 - [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (1 week ago)
-- [go-git/cli](https://github.com/go-git/cli) -  (1 week ago)
+- [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go. (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [chore: create LICENSE file](https://github.com/charmbracelet/ultraviolet/pull/21) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (today)
 - [feat(textarea): expose MoveToBegin and MoveToEnd methods](https://github.com/charmbracelet/bubbles/pull/809) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (1 week ago)
 - [fix(push): we need to allow pushing to a remote by name and refspec](https://github.com/go-git/cli/pull/14) on [go-git/cli](https://github.com/go-git/cli) (1 week ago)
 - [plumbing: transport, fix send-pack capabilities](https://github.com/go-git/go-git/pull/1604) on [go-git/go-git](https://github.com/go-git/go-git) (1 week ago)
 - [fix(input): windows losing the first character](https://github.com/charmbracelet/x/pull/498) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 week ago)
-- [fix(input): string terminated input sequence events](https://github.com/charmbracelet/x/pull/497) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 week ago)
 
 #### 📜 My recent blog posts
 
@@ -44,11 +44,11 @@
 
 #### ⭐ Recent Stars
 
+- [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (today)
 - [charmbracelet/fang](https://github.com/charmbracelet/fang) - The CLI starter kit (4 weeks ago)
 - [mr-karan/lil](https://github.com/mr-karan/lil) - URL Shortener with flexible analytics support, in-memory caching, and an admin UI. (1 month ago)
 - [shirou/gopsutil](https://github.com/shirou/gopsutil) - psutil for golang (1 month ago)
 - [j4james/vtrex](https://github.com/j4james/vtrex) - An implementation of the Chrome dinosaur game for VT terminals. (2 months ago)
-- [disintegration/imaging](https://github.com/disintegration/imaging) - Imaging is a simple image processing package for Go (2 months ago)
 
 #### 📫 How to reach me
 
