@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[v2] Use Ultraviolet](https://github.com/charmbracelet/lipgloss/pull/549) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (today)
+- [[v2] Use Ultraviolet](https://github.com/charmbracelet/bubbletea/pull/1452) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [chore: create LICENSE file](https://github.com/charmbracelet/ultraviolet/pull/21) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (today)
 - [feat(textarea): expose MoveToBegin and MoveToEnd methods](https://github.com/charmbracelet/bubbles/pull/809) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (1 week ago)
 - [fix(push): we need to allow pushing to a remote by name and refspec](https://github.com/go-git/cli/pull/14) on [go-git/cli](https://github.com/go-git/cli) (1 week ago)
-- [plumbing: transport, fix send-pack capabilities](https://github.com/go-git/go-git/pull/1604) on [go-git/go-git](https://github.com/go-git/go-git) (1 week ago)
-- [fix(input): windows losing the first character](https://github.com/charmbracelet/x/pull/498) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 week ago)
 
 #### 📜 My recent blog posts
 
