@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (2 days ago)
+- [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (today)
 - [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (1 week ago)
 - [golang/term](https://github.com/golang/term) - Go terminal and console support (1 week ago)
 - [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (2 weeks ago)
