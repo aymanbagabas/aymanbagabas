@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Refactor input handling](https://github.com/charmbracelet/ultraviolet/pull/24) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (today)
+- [(vt) Use Ultraviolet for VT handling](https://github.com/charmbracelet/x/pull/514) on [charmbracelet/x](https://github.com/charmbracelet/x) (today)
 - [docs: add usage and tutorial sections](https://github.com/charmbracelet/ultraviolet/pull/23) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (today)
 - [[v2] Use Ultraviolet](https://github.com/charmbracelet/lipgloss/pull/549) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (1 week ago)
 - [[v2] Use Ultraviolet](https://github.com/charmbracelet/bubbletea/pull/1452) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 week ago)
-- [chore: create LICENSE file](https://github.com/charmbracelet/ultraviolet/pull/21) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (1 week ago)
-- [feat(textarea): expose MoveToBegin and MoveToEnd methods](https://github.com/charmbracelet/bubbles/pull/809) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
