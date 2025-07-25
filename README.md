@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (2 days ago)
+- [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (today)
 - [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (1 week ago)
 - [golang/term](https://github.com/golang/term) - Go terminal and console support (1 week ago)
 - [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (2 weeks ago)
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [docs: add usage and tutorial sections](https://github.com/charmbracelet/ultraviolet/pull/23) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (today)
 - [[v2] Use Ultraviolet](https://github.com/charmbracelet/lipgloss/pull/549) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (1 week ago)
 - [[v2] Use Ultraviolet](https://github.com/charmbracelet/bubbletea/pull/1452) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 week ago)
 - [chore: create LICENSE file](https://github.com/charmbracelet/ultraviolet/pull/21) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (1 week ago)
 - [feat(textarea): expose MoveToBegin and MoveToEnd methods](https://github.com/charmbracelet/bubbles/pull/809) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (2 weeks ago)
-- [fix(push): we need to allow pushing to a remote by name and refspec](https://github.com/go-git/cli/pull/14) on [go-git/cli](https://github.com/go-git/cli) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
