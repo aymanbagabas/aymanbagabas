@@ -4,8 +4,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (today)
-- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (1 day ago)
+- [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (1 day ago)
+- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (2 days ago)
 - [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (1 week ago)
 - [golang/term](https://github.com/golang/term) - Go terminal and console support (1 week ago)
 - [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go. (2 weeks ago)
@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [raphamorim/rio](https://github.com/raphamorim/rio) ([v0.2.23](https://github.com/raphamorim/rio/releases/tag/v0.2.23), 4 days ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
+- [raphamorim/rio](https://github.com/raphamorim/rio) ([v0.2.23](https://github.com/raphamorim/rio/releases/tag/v0.2.23), 5 days ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v2.0.0-beta.3](https://github.com/charmbracelet/lipgloss/releases/tag/v2.0.0-beta.3), 2 weeks ago) - Style definitions for nice terminal layouts 👄
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v2.0.0-beta.4](https://github.com/charmbracelet/bubbletea/releases/tag/v2.0.0-beta.4), 2 weeks ago) - A powerful little TUI framework 🏗
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.9.1](https://github.com/charmbracelet/soft-serve/releases/tag/v0.9.1), 3 weeks ago) - The mighty, self-hostable Git server for the command line🍦
@@ -28,9 +28,9 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Refactor input handling](https://github.com/charmbracelet/ultraviolet/pull/24) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (1 day ago)
-- [(vt) Use Ultraviolet for VT handling](https://github.com/charmbracelet/x/pull/514) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 day ago)
-- [docs: add usage and tutorial sections](https://github.com/charmbracelet/ultraviolet/pull/23) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (1 day ago)
+- [Refactor input handling](https://github.com/charmbracelet/ultraviolet/pull/24) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (2 days ago)
+- [(vt) Use Ultraviolet for VT handling](https://github.com/charmbracelet/x/pull/514) on [charmbracelet/x](https://github.com/charmbracelet/x) (2 days ago)
+- [docs: add usage and tutorial sections](https://github.com/charmbracelet/ultraviolet/pull/23) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (2 days ago)
 - [[v2] Use Ultraviolet](https://github.com/charmbracelet/lipgloss/pull/549) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (1 week ago)
 - [[v2] Use Ultraviolet](https://github.com/charmbracelet/bubbletea/pull/1452) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 week ago)
 
