@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix(ci): release: use brew formula instead of casks](https://github.com/charmbracelet/crush/pull/341) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (today)
+- [fix(ci): release: sign deb, rpm, and apk packages with GPG key](https://github.com/charmbracelet/crush/pull/339) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (today)
 - [feat(ci): generate default.nix on push](https://github.com/charmbracelet/nur/pull/19) on [charmbracelet/nur](https://github.com/charmbracelet/nur) (today)
 - [Update GoReleaser config](https://github.com/charmbracelet/crush/pull/338) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (today)
 - [chore: replace crush cask with formula](https://github.com/charmbracelet/homebrew-tap/pull/6) on [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) (today)
-- [Fix $contributorName not being replaced](https://github.com/contributor-assistant/github-action/pull/174) on [contributor-assistant/github-action](https://github.com/contributor-assistant/github-action) (today)
-- [fix(termios): add support for AIX architectures](https://github.com/charmbracelet/x/pull/515) on [charmbracelet/x](https://github.com/charmbracelet/x) (today)
 
 #### 📜 My recent blog posts
 
