@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.1.3](https://github.com/charmbracelet/crush/releases/tag/v0.1.3), today) - The AI coding agent for your favourite terminal 💘
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.1.5](https://github.com/charmbracelet/crush/releases/tag/v0.1.5), today) - The AI coding agent for your favourite terminal 💘
 - [raphamorim/rio](https://github.com/raphamorim/rio) ([v0.2.23](https://github.com/raphamorim/rio/releases/tag/v0.2.23), 1 week ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v2.0.0-beta.3](https://github.com/charmbracelet/lipgloss/releases/tag/v2.0.0-beta.3), 2 weeks ago) - Style definitions for nice terminal layouts 👄
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v2.0.0-beta.4](https://github.com/charmbracelet/bubbletea/releases/tag/v2.0.0-beta.4), 2 weeks ago) - A powerful little TUI framework 🏗
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix(ci): release: sign deb, rpm, and apk packages with GPG key](https://github.com/charmbracelet/crush/pull/346) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (today)
+- [docs(cla): update cla comment format](https://github.com/charmbracelet/crush/pull/345) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (today)
 - [fix(ci): release: use brew formula instead of casks](https://github.com/charmbracelet/crush/pull/341) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (today)
 - [fix(ci): release: sign deb, rpm, and apk packages with GPG key](https://github.com/charmbracelet/crush/pull/339) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (today)
 - [feat(ci): generate default.nix on push](https://github.com/charmbracelet/nur/pull/19) on [charmbracelet/nur](https://github.com/charmbracelet/nur) (today)
-- [Update GoReleaser config](https://github.com/charmbracelet/crush/pull/338) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (today)
-- [chore: replace crush cask with formula](https://github.com/charmbracelet/homebrew-tap/pull/6) on [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) (today)
 
 #### 📜 My recent blog posts
 
