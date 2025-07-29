@@ -5,10 +5,10 @@
 #### 👷 Check out what I'm currently working on
 
 - [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (today)
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) - The AI coding agent for your favourite terminal 💘 (today)
 - [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (4 days ago)
 - [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (2 weeks ago)
 - [golang/term](https://github.com/golang/term) - Go terminal and console support (2 weeks ago)
-- [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go. (3 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix $contributorName not being replaced](https://github.com/contributor-assistant/github-action/pull/174) on [contributor-assistant/github-action](https://github.com/contributor-assistant/github-action) (today)
 - [fix(termios): add support for AIX architectures](https://github.com/charmbracelet/x/pull/515) on [charmbracelet/x](https://github.com/charmbracelet/x) (today)
 - [Refactor input handling](https://github.com/charmbracelet/ultraviolet/pull/24) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (4 days ago)
 - [(vt) Use Ultraviolet for VT handling](https://github.com/charmbracelet/x/pull/514) on [charmbracelet/x](https://github.com/charmbracelet/x) (4 days ago)
 - [docs: add feature and tutorial sections](https://github.com/charmbracelet/ultraviolet/pull/23) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (4 days ago)
-- [[v2] Use Ultraviolet](https://github.com/charmbracelet/lipgloss/pull/549) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (1 week ago)
 
 #### 📜 My recent blog posts
 
@@ -44,11 +44,11 @@
 
 #### ⭐ Recent Stars
 
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) - The AI coding agent for your favourite terminal 💘 (today)
 - [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (1 week ago)
 - [charmbracelet/fang](https://github.com/charmbracelet/fang) - The CLI starter kit (1 month ago)
 - [mr-karan/lil](https://github.com/mr-karan/lil) - URL Shortener with flexible analytics support, in-memory caching, and an admin UI. (1 month ago)
 - [shirou/gopsutil](https://github.com/shirou/gopsutil) - psutil for golang (1 month ago)
-- [j4james/vtrex](https://github.com/j4james/vtrex) - An implementation of the Chrome dinosaur game for VT terminals. (3 months ago)
 
 #### 📫 How to reach me
 
