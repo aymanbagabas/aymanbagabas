@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺 (today)
-- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (today)
-- [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (today)
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) - The AI coding agent for your favourite terminal 💘 (today)
-- [charmbracelet/nur](https://github.com/charmbracelet/nur) -  (today)
+- [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺 (1 day ago)
+- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (1 day ago)
+- [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (1 day ago)
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) - The AI coding agent for your favourite terminal 💘 (1 day ago)
+- [charmbracelet/nur](https://github.com/charmbracelet/nur) -  (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.1.6](https://github.com/charmbracelet/crush/releases/tag/v0.1.6), today) - The AI coding agent for your favourite terminal 💘
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.1.6](https://github.com/charmbracelet/crush/releases/tag/v0.1.6), 1 day ago) - The AI coding agent for your favourite terminal 💘
 - [raphamorim/rio](https://github.com/raphamorim/rio) ([v0.2.23](https://github.com/raphamorim/rio/releases/tag/v0.2.23), 1 week ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v2.0.0-beta.3](https://github.com/charmbracelet/lipgloss/releases/tag/v2.0.0-beta.3), 2 weeks ago) - Style definitions for nice terminal layouts 👄
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v2.0.0-beta.4](https://github.com/charmbracelet/bubbletea/releases/tag/v2.0.0-beta.4), 2 weeks ago) - A powerful little TUI framework 🏗
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
-- [fix(ci): release: sign deb, rpm, and apk packages with GPG key](https://github.com/charmbracelet/crush/pull/346) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (today)
-- [docs(cla): update cla comment format](https://github.com/charmbracelet/crush/pull/345) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (today)
-- [fix(ci): release: use brew formula instead of casks](https://github.com/charmbracelet/crush/pull/341) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (today)
-- [fix(ci): release: sign deb, rpm, and apk packages with GPG key](https://github.com/charmbracelet/crush/pull/339) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (today)
-- [feat(ci): generate default.nix on push](https://github.com/charmbracelet/nur/pull/19) on [charmbracelet/nur](https://github.com/charmbracelet/nur) (today)
+- [fix(ci): release: sign deb, rpm, and apk packages with GPG key](https://github.com/charmbracelet/crush/pull/346) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (1 day ago)
+- [docs(cla): update cla comment format](https://github.com/charmbracelet/crush/pull/345) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (1 day ago)
+- [fix(ci): release: use brew formula instead of casks](https://github.com/charmbracelet/crush/pull/341) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (1 day ago)
+- [fix(ci): release: sign deb, rpm, and apk packages with GPG key](https://github.com/charmbracelet/crush/pull/339) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (1 day ago)
+- [feat(ci): generate default.nix on push](https://github.com/charmbracelet/nur/pull/19) on [charmbracelet/nur](https://github.com/charmbracelet/nur) (1 day ago)
 
 #### 📜 My recent blog posts
 
@@ -44,8 +44,8 @@
 
 #### ⭐ Recent Stars
 
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) - The AI coding agent for your favourite terminal 💘 (today)
-- [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (1 week ago)
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) - The AI coding agent for your favourite terminal 💘 (1 day ago)
+- [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (2 weeks ago)
 - [charmbracelet/fang](https://github.com/charmbracelet/fang) - The CLI starter kit (1 month ago)
 - [mr-karan/lil](https://github.com/mr-karan/lil) - URL Shortener with flexible analytics support, in-memory caching, and an admin UI. (1 month ago)
 - [shirou/gopsutil](https://github.com/shirou/gopsutil) - psutil for golang (1 month ago)
