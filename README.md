@@ -7,7 +7,7 @@
 - [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺 (1 day ago)
 - [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (1 day ago)
 - [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (1 day ago)
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) - The AI coding agent for your favourite terminal 💘 (1 day ago)
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘 (1 day ago)
 - [charmbracelet/nur](https://github.com/charmbracelet/nur) -  (1 day ago)
 
 #### 🌱 My latest projects
@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), today) - The AI coding agent for your favourite terminal 💘
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), today) - The glamourous AI coding agent for your favourite terminal 💘
 - [raphamorim/rio](https://github.com/raphamorim/rio) ([v0.2.23](https://github.com/raphamorim/rio/releases/tag/v0.2.23), 1 week ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v2.0.0-beta.3](https://github.com/charmbracelet/lipgloss/releases/tag/v2.0.0-beta.3), 2 weeks ago) - Style definitions for nice terminal layouts 👄
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v2.0.0-beta.4](https://github.com/charmbracelet/bubbletea/releases/tag/v2.0.0-beta.4), 2 weeks ago) - A powerful little TUI framework 🏗
@@ -44,7 +44,7 @@
 
 #### ⭐ Recent Stars
 
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) - The AI coding agent for your favourite terminal 💘 (1 day ago)
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘 (1 day ago)
 - [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (2 weeks ago)
 - [charmbracelet/fang](https://github.com/charmbracelet/fang) - The CLI starter kit (1 month ago)
 - [mr-karan/lil](https://github.com/mr-karan/lil) - URL Shortener with flexible analytics support, in-memory caching, and an admin UI. (1 month ago)
