@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix(reader): handle numpad keys in Windows terminal reader](https://github.com/charmbracelet/ultraviolet/pull/26) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (today)
 - [fix(ci): release: sign deb, rpm, and apk packages with GPG key](https://github.com/charmbracelet/crush/pull/346) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (2 days ago)
 - [docs(cla): update cla comment format](https://github.com/charmbracelet/crush/pull/345) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (2 days ago)
 - [fix(ci): release: use brew formula instead of casks](https://github.com/charmbracelet/crush/pull/341) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (2 days ago)
 - [fix(ci): release: sign deb, rpm, and apk packages with GPG key](https://github.com/charmbracelet/crush/pull/339) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (2 days ago)
-- [feat(ci): generate default.nix on push](https://github.com/charmbracelet/nur/pull/19) on [charmbracelet/nur](https://github.com/charmbracelet/nur) (2 days ago)
 
 #### 📜 My recent blog posts
 
