@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix(tui): underline quit dialog buttons](https://github.com/charmbracelet/crush/pull/548) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (today)
 - [Fix scrolling the editor after paste](https://github.com/charmbracelet/crush/pull/466) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (3 days ago)
 - [fix(textarea): ensure viewport content is set during update](https://github.com/charmbracelet/bubbles/pull/822) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (3 days ago)
 - [fix(reader): handle printable numpad keys](https://github.com/charmbracelet/ultraviolet/pull/26) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (4 days ago)
 - [fix(ci): release: sign deb, rpm, and apk packages with GPG key](https://github.com/charmbracelet/crush/pull/346) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (6 days ago)
-- [docs(cla): update cla comment format](https://github.com/charmbracelet/crush/pull/345) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (6 days ago)
 
 #### 📜 My recent blog posts
 
