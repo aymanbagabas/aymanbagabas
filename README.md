@@ -7,8 +7,8 @@
 - [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (today)
 - [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (today)
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘 (today)
+- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) - 🐈 A collection of LLM inference providers and models  (today)
 - [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (1 day ago)
-- [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺 (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.4.7](https://github.com/charmbracelet/catwalk/releases/tag/v0.4.7), today) - 🐈 A collection of LLM inference providers and models 
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), today) - The glamourous AI coding agent for your favourite terminal 💘
 - [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), today) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v2.0.0-beta.3](https://github.com/charmbracelet/lipgloss/releases/tag/v2.0.0-beta.3), 3 weeks ago) - Style definitions for nice terminal layouts 👄
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v2.0.0-beta.4](https://github.com/charmbracelet/bubbletea/releases/tag/v2.0.0-beta.4), 3 weeks ago) - A powerful little TUI framework 🏗
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.9.1](https://github.com/charmbracelet/soft-serve/releases/tag/v0.9.1), 1 month ago) - The mighty, self-hostable Git server for the command line🍦
 
 #### 🔨 My recent Pull Requests
 
+- [Copy selected text](https://github.com/charmbracelet/crush/pull/577) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (today)
 - [Fix ED erasing not erasing the last line](https://github.com/JetBrains/jediterm/pull/309) on [JetBrains/jediterm](https://github.com/JetBrains/jediterm) (today)
 - [fix(tui): underline quit dialog buttons](https://github.com/charmbracelet/crush/pull/548) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (1 day ago)
 - [Fix scrolling the editor after paste](https://github.com/charmbracelet/crush/pull/466) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (4 days ago)
 - [fix(textarea): ensure viewport content is set during update](https://github.com/charmbracelet/bubbles/pull/822) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (4 days ago)
-- [fix(reader): handle printable numpad keys](https://github.com/charmbracelet/ultraviolet/pull/26) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (5 days ago)
 
 #### 📜 My recent blog posts
 
