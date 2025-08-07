@@ -4,10 +4,10 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘 (today)
 - [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (1 day ago)
 - [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) - 🐈 A collection of LLM inference providers and models  (2 days ago)
 - [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (2 days ago)
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘 (2 days ago)
 - [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (3 days ago)
 
 #### 🌱 My latest projects
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix(tui): editor: sanitize pasted paths](https://github.com/charmbracelet/crush/pull/630) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (today)
 - [Copy selected text](https://github.com/charmbracelet/crush/pull/577) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (2 days ago)
 - [Fix ED erasing not erasing the last line](https://github.com/JetBrains/jediterm/pull/309) on [JetBrains/jediterm](https://github.com/JetBrains/jediterm) (2 days ago)
 - [fix(tui): underline quit dialog buttons](https://github.com/charmbracelet/crush/pull/548) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (3 days ago)
 - [Fix scrolling the editor after paste](https://github.com/charmbracelet/crush/pull/466) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (6 days ago)
-- [fix(textarea): ensure viewport content is set during update](https://github.com/charmbracelet/bubbles/pull/822) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (6 days ago)
 
 #### 📜 My recent blog posts
 
