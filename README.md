@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (today)
-- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) - 🐈 A collection of LLM inference providers and models  (1 day ago)
-- [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (1 day ago)
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘 (1 day ago)
-- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (2 days ago)
+- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (1 day ago)
+- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) - 🐈 A collection of LLM inference providers and models  (2 days ago)
+- [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (2 days ago)
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘 (2 days ago)
+- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.4.8](https://github.com/charmbracelet/catwalk/releases/tag/v0.4.8), today) - 🐈 A collection of LLM inference providers and models 
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.2.2](https://github.com/charmbracelet/crush/releases/tag/v0.2.2), today) - The glamourous AI coding agent for your favourite terminal 💘
-- [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), today) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v2.0.0-beta.3](https://github.com/charmbracelet/lipgloss/releases/tag/v2.0.0-beta.3), 3 weeks ago) - Style definitions for nice terminal layouts 👄
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v2.0.0-beta.4](https://github.com/charmbracelet/bubbletea/releases/tag/v2.0.0-beta.4), 3 weeks ago) - A powerful little TUI framework 🏗
+- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.4.8](https://github.com/charmbracelet/catwalk/releases/tag/v0.4.8), 1 day ago) - 🐈 A collection of LLM inference providers and models 
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.2.2](https://github.com/charmbracelet/crush/releases/tag/v0.2.2), 1 day ago) - The glamourous AI coding agent for your favourite terminal 💘
+- [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), 1 day ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v2.0.0-beta.3](https://github.com/charmbracelet/lipgloss/releases/tag/v2.0.0-beta.3), 4 weeks ago) - Style definitions for nice terminal layouts 👄
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v2.0.0-beta.4](https://github.com/charmbracelet/bubbletea/releases/tag/v2.0.0-beta.4), 4 weeks ago) - A powerful little TUI framework 🏗
 
 #### 🔨 My recent Pull Requests
 
-- [Copy selected text](https://github.com/charmbracelet/crush/pull/577) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (1 day ago)
-- [Fix ED erasing not erasing the last line](https://github.com/JetBrains/jediterm/pull/309) on [JetBrains/jediterm](https://github.com/JetBrains/jediterm) (1 day ago)
-- [fix(tui): underline quit dialog buttons](https://github.com/charmbracelet/crush/pull/548) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (2 days ago)
-- [Fix scrolling the editor after paste](https://github.com/charmbracelet/crush/pull/466) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (5 days ago)
-- [fix(textarea): ensure viewport content is set during update](https://github.com/charmbracelet/bubbles/pull/822) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (5 days ago)
+- [Copy selected text](https://github.com/charmbracelet/crush/pull/577) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (2 days ago)
+- [Fix ED erasing not erasing the last line](https://github.com/JetBrains/jediterm/pull/309) on [JetBrains/jediterm](https://github.com/JetBrains/jediterm) (2 days ago)
+- [fix(tui): underline quit dialog buttons](https://github.com/charmbracelet/crush/pull/548) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (3 days ago)
+- [Fix scrolling the editor after paste](https://github.com/charmbracelet/crush/pull/466) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (6 days ago)
+- [fix(textarea): ensure viewport content is set during update](https://github.com/charmbracelet/bubbles/pull/822) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (6 days ago)
 
 #### 📜 My recent blog posts
 
@@ -44,7 +44,7 @@
 
 #### ⭐ Recent Stars
 
-- [raphamorim/fuzzy](https://github.com/raphamorim/fuzzy) - fuzzy matching with Levenshtein, Damerau-Levenshtein, Bitap and n-gram (6 days ago)
+- [raphamorim/fuzzy](https://github.com/raphamorim/fuzzy) - fuzzy matching with Levenshtein, Damerau-Levenshtein, Bitap and n-gram (1 week ago)
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘 (1 week ago)
 - [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (3 weeks ago)
 - [charmbracelet/fang](https://github.com/charmbracelet/fang) - The CLI starter kit (1 month ago)
