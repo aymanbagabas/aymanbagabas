@@ -5,10 +5,10 @@
 #### 👷 Check out what I'm currently working on
 
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (today)
+- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (today)
+- [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (today)
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘 (1 day ago)
 - [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (2 days ago)
-- [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (3 days ago)
-- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) - 🐈 A collection of LLM inference providers and models  (3 days ago)
 
 #### 🌱 My latest projects
 
