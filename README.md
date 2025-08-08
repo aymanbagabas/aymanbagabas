@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Update Authen-SASL to 2.1900](https://github.com/NixOS/nixpkgs/pull/432069) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (today)
 - [fix: handle nested SequenceMsg in event loop and use sync.WaitGroup f…](https://github.com/charmbracelet/bubbletea/pull/1463) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
 - [fix(tui): editor: sanitize pasted paths](https://github.com/charmbracelet/crush/pull/630) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (1 day ago)
 - [Copy selected text](https://github.com/charmbracelet/crush/pull/577) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (3 days ago)
 - [Fix ED erasing not erasing the last line](https://github.com/JetBrains/jediterm/pull/309) on [JetBrains/jediterm](https://github.com/JetBrains/jediterm) (3 days ago)
-- [fix(tui): underline quit dialog buttons](https://github.com/charmbracelet/crush/pull/548) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (4 days ago)
 
 #### 📜 My recent blog posts
 
