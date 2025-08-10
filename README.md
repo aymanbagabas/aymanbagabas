@@ -30,7 +30,7 @@
 
 - [Update perl540Packages.DigestHMAC to 1.05](https://github.com/NixOS/nixpkgs/pull/432073) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (2 days ago)
 - [Update perl540Packages.CryptURandom to 0.54](https://github.com/NixOS/nixpkgs/pull/432071) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (2 days ago)
-- [Update Authen-SASL to 2.1900](https://github.com/NixOS/nixpkgs/pull/432069) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (2 days ago)
+- [Update perl540Packages.AuthenSASL to 2.1900](https://github.com/NixOS/nixpkgs/pull/432069) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (2 days ago)
 - [fix: handle nested SequenceMsg in event loop and use sync.WaitGroup f…](https://github.com/charmbracelet/bubbletea/pull/1463) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (3 days ago)
 - [fix(tui): editor: sanitize pasted paths](https://github.com/charmbracelet/crush/pull/630) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (3 days ago)
 
