@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), today) - The glamourous AI coding agent for your favourite terminal 💘
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.5.0](https://github.com/charmbracelet/crush/releases/tag/v0.5.0), today) - The glamourous AI coding agent for your favourite terminal 💘
 - [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), today) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 - [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.4.10](https://github.com/charmbracelet/catwalk/releases/tag/v0.4.10), 4 days ago) - 🐈 A collection of LLM inference providers and models 
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v2.0.0-beta.3](https://github.com/charmbracelet/lipgloss/releases/tag/v2.0.0-beta.3), 1 month ago) - Style definitions for nice terminal layouts 👄
@@ -28,8 +28,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Update perl540Packages.DigestHMAC to 1.05](https://github.com/NixOS/nixpkgs/pull/432073) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (3 days ago)
-- [Update perl540Packages.CryptURandom to 0.54](https://github.com/NixOS/nixpkgs/pull/432071) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (3 days ago)
+- [perl540Packages.DigestHMAC: 1.04 -&gt; 1.05](https://github.com/NixOS/nixpkgs/pull/432073) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (3 days ago)
+- [perl540Packages.CryptURandom: 0.39 -&gt; to 0.54](https://github.com/NixOS/nixpkgs/pull/432071) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (3 days ago)
 - [Update perl540Packages.AuthenSASL to 2.1900](https://github.com/NixOS/nixpkgs/pull/432069) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (3 days ago)
 - [fix: handle nested SequenceMsg in event loop and use sync.WaitGroup f…](https://github.com/charmbracelet/bubbletea/pull/1463) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (4 days ago)
 - [fix(tui): editor: sanitize pasted paths](https://github.com/charmbracelet/crush/pull/630) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (4 days ago)
