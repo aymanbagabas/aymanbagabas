@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat(ansi): add linux console palette colors sequences](https://github.com/charmbracelet/x/pull/532) on [charmbracelet/x](https://github.com/charmbracelet/x) (today)
 - [perl540Packages.DigestHMAC: 1.04 -&gt; 1.05](https://github.com/NixOS/nixpkgs/pull/432073) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (4 days ago)
 - [perl540Packages.CryptURandom: 0.39 -&gt; to 0.54](https://github.com/NixOS/nixpkgs/pull/432071) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (4 days ago)
 - [Update perl540Packages.AuthenSASL to 2.1900](https://github.com/NixOS/nixpkgs/pull/432069) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (4 days ago)
 - [fix: handle nested SequenceMsg in event loop and use sync.WaitGroup f…](https://github.com/charmbracelet/bubbletea/pull/1463) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (5 days ago)
-- [fix(tui): editor: sanitize pasted paths](https://github.com/charmbracelet/crush/pull/630) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (5 days ago)
 
 #### 📜 My recent blog posts
 
