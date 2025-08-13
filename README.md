@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.5.0](https://github.com/charmbracelet/crush/releases/tag/v0.5.0), 2 days ago) - The glamourous AI coding agent for your favourite terminal 💘
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), today) - The glamourous AI coding agent for your favourite terminal 💘
 - [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), 2 days ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 - [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.4.10](https://github.com/charmbracelet/catwalk/releases/tag/v0.4.10), 6 days ago) - 🐈 A collection of LLM inference providers and models 
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v2.0.0-beta.3](https://github.com/charmbracelet/lipgloss/releases/tag/v2.0.0-beta.3), 1 month ago) - Style definitions for nice terminal layouts 👄
