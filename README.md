@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), today) - The glamourous AI coding agent for your favourite terminal 💘
 - [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.4.11](https://github.com/charmbracelet/catwalk/releases/tag/v0.4.11), today) - 🐈 A collection of LLM inference providers and models 
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.6.1](https://github.com/charmbracelet/crush/releases/tag/v0.6.1), today) - The glamourous AI coding agent for your favourite terminal 💘
 - [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) ([v0.3.2](https://github.com/charmbracelet/colorprofile/releases/tag/v0.3.2), 1 day ago) - Magical terminal color handling 🪄
 - [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), 3 days ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v2.0.0-beta.3](https://github.com/charmbracelet/lipgloss/releases/tag/v2.0.0-beta.3), 1 month ago) - Style definitions for nice terminal layouts 👄
 
 #### 🔨 My recent Pull Requests
 
+- [Win32 input mode passthrough support](https://github.com/charmbracelet/ultraviolet/pull/32) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (today)
 - [feat(ansi): add linux console palette colors sequences](https://github.com/charmbracelet/x/pull/532) on [charmbracelet/x](https://github.com/charmbracelet/x) (2 days ago)
 - [perl540Packages.DigestHMAC: 1.04 -&gt; 1.05](https://github.com/NixOS/nixpkgs/pull/432073) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (6 days ago)
 - [perl540Packages.CryptURandom: 0.39 -&gt; to 0.54](https://github.com/NixOS/nixpkgs/pull/432071) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (6 days ago)
 - [Update perl540Packages.AuthenSASL to 2.1900](https://github.com/NixOS/nixpkgs/pull/432069) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (6 days ago)
-- [fix: handle nested SequenceMsg in event loop and use sync.WaitGroup f…](https://github.com/charmbracelet/bubbletea/pull/1463) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 week ago)
 
 #### 📜 My recent blog posts
 
