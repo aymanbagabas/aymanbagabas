@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: send commands in a goroutine without executing them immediately](https://github.com/charmbracelet/bubbletea/pull/1473) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
+- [fix(renderer): properly reset cursor position to start of line](https://github.com/charmbracelet/bubbletea/pull/1472) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [Add support for horizontal mouse wheel events](https://github.com/microsoft/terminal/pull/19248) on [microsoft/terminal](https://github.com/microsoft/terminal) (today)
 - [Win32 input mode passthrough support](https://github.com/charmbracelet/ultraviolet/pull/32) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (1 day ago)
 - [feat(ansi): add linux console palette colors sequences](https://github.com/charmbracelet/x/pull/532) on [charmbracelet/x](https://github.com/charmbracelet/x) (3 days ago)
-- [perl540Packages.DigestHMAC: 1.04 -&gt; 1.05](https://github.com/NixOS/nixpkgs/pull/432073) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 week ago)
-- [perl540Packages.CryptURandom: 0.39 -&gt; to 0.54](https://github.com/NixOS/nixpkgs/pull/432071) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 week ago)
 
 #### 📜 My recent blog posts
 
