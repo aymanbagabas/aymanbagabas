@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (1 day ago)
+- [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (today)
 - [charmbracelet/nur](https://github.com/charmbracelet/nur) -  (1 day ago)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (4 days ago)
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘 (5 days ago)
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [chore: bump bubbletea and ultraviolet to support win32 input mode](https://github.com/charmbracelet/crush/pull/838) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (today)
 - [fix: send commands in a goroutine without executing them immediately](https://github.com/charmbracelet/bubbletea/pull/1473) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (4 days ago)
 - [fix(renderer): properly reset cursor position to start of line](https://github.com/charmbracelet/bubbletea/pull/1472) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (4 days ago)
 - [Add support for horizontal mouse wheel events](https://github.com/microsoft/terminal/pull/19248) on [microsoft/terminal](https://github.com/microsoft/terminal) (4 days ago)
 - [Win32 input mode passthrough support](https://github.com/charmbracelet/ultraviolet/pull/32) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (5 days ago)
-- [feat(ansi): add linux console palette colors sequences](https://github.com/charmbracelet/x/pull/532) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 week ago)
 
 #### 📜 My recent blog posts
 
