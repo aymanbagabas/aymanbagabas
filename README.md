@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘 (6 days ago)
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘 (1 week ago)
 - [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (1 week ago)
 - [charmbracelet/nur](https://github.com/charmbracelet/nur) -  (1 week ago)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 week ago)
-- [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) - Magical terminal color handling 🪄 (1 week ago)
+- [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) - Magical terminal color handling 🪄 (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -20,10 +20,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.5.2](https://github.com/charmbracelet/catwalk/releases/tag/v0.5.2), today) - 🐈 A collection of LLM inference providers and models 
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), today) - The glamourous AI coding agent for your favourite terminal 💘
-- [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), today) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
-- [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) ([v0.3.2](https://github.com/charmbracelet/colorprofile/releases/tag/v0.3.2), 1 week ago) - Magical terminal color handling 🪄
+- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.5.2](https://github.com/charmbracelet/catwalk/releases/tag/v0.5.2), 1 day ago) - 🐈 A collection of LLM inference providers and models 
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), 1 day ago) - The glamourous AI coding agent for your favourite terminal 💘
+- [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), 1 day ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
+- [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) ([v0.3.2](https://github.com/charmbracelet/colorprofile/releases/tag/v0.3.2), 2 weeks ago) - Magical terminal color handling 🪄
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v2.0.0-beta.3](https://github.com/charmbracelet/lipgloss/releases/tag/v2.0.0-beta.3), 1 month ago) - Style definitions for nice terminal layouts 👄
 
 #### 🔨 My recent Pull Requests
