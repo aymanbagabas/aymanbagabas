@@ -20,9 +20,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.7.3](https://github.com/charmbracelet/crush/releases/tag/v0.7.3), today) - The glamourous AI coding agent for your favourite terminal 💘
 - [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), today) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.10.0](https://github.com/charmbracelet/soft-serve/releases/tag/v0.10.0), 1 day ago) - The mighty, self-hostable Git server for the command line🍦
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.7.2](https://github.com/charmbracelet/crush/releases/tag/v0.7.2), 1 day ago) - The glamourous AI coding agent for your favourite terminal 💘
 - [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.5.2](https://github.com/charmbracelet/catwalk/releases/tag/v0.5.2), 2 days ago) - 🐈 A collection of LLM inference providers and models 
 - [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) ([v0.3.2](https://github.com/charmbracelet/colorprofile/releases/tag/v0.3.2), 2 weeks ago) - Magical terminal color handling 🪄
 
