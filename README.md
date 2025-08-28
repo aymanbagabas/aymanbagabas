@@ -4,8 +4,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket) - Charmbracelet Scoop Bucket (today)
-- [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺 (today)
+- [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket) - Charmbracelet Scoop Bucket (1 day ago)
+- [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺 (1 day ago)
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘 (1 week ago)
 - [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (1 week ago)
 - [charmbracelet/nur](https://github.com/charmbracelet/nur) -  (1 week ago)
@@ -20,10 +20,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.10.0](https://github.com/charmbracelet/soft-serve/releases/tag/v0.10.0), today) - The mighty, self-hostable Git server for the command line🍦
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.7.2](https://github.com/charmbracelet/crush/releases/tag/v0.7.2), today) - The glamourous AI coding agent for your favourite terminal 💘
-- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.5.2](https://github.com/charmbracelet/catwalk/releases/tag/v0.5.2), 1 day ago) - 🐈 A collection of LLM inference providers and models 
-- [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), 1 day ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.10.0](https://github.com/charmbracelet/soft-serve/releases/tag/v0.10.0), 1 day ago) - The mighty, self-hostable Git server for the command line🍦
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.7.2](https://github.com/charmbracelet/crush/releases/tag/v0.7.2), 1 day ago) - The glamourous AI coding agent for your favourite terminal 💘
+- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.5.2](https://github.com/charmbracelet/catwalk/releases/tag/v0.5.2), 2 days ago) - 🐈 A collection of LLM inference providers and models 
+- [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), 2 days ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 - [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) ([v0.3.2](https://github.com/charmbracelet/colorprofile/releases/tag/v0.3.2), 2 weeks ago) - Magical terminal color handling 🪄
 
 #### 🔨 My recent Pull Requests
@@ -32,7 +32,7 @@
 - [fix: send commands in a goroutine without executing them immediately](https://github.com/charmbracelet/bubbletea/pull/1473) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 week ago)
 - [fix(renderer): properly reset cursor position to start of line](https://github.com/charmbracelet/bubbletea/pull/1472) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 week ago)
 - [Add support for horizontal mouse wheel events](https://github.com/microsoft/terminal/pull/19248) on [microsoft/terminal](https://github.com/microsoft/terminal) (1 week ago)
-- [Win32 input mode passthrough support](https://github.com/charmbracelet/ultraviolet/pull/32) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (1 week ago)
+- [Win32 input mode passthrough support](https://github.com/charmbracelet/ultraviolet/pull/32) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
@@ -44,8 +44,8 @@
 
 #### ⭐ Recent Stars
 
-- [raphamorim/fuzzy](https://github.com/raphamorim/fuzzy) - fuzzy matching with Levenshtein, Damerau-Levenshtein, Bitap and n-gram (3 weeks ago)
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘 (4 weeks ago)
+- [raphamorim/fuzzy](https://github.com/raphamorim/fuzzy) - fuzzy matching with Levenshtein, Damerau-Levenshtein, Bitap and n-gram (4 weeks ago)
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘 (1 month ago)
 - [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (1 month ago)
 - [charmbracelet/fang](https://github.com/charmbracelet/fang) - The CLI starter kit (2 months ago)
 - [mr-karan/lil](https://github.com/mr-karan/lil) - URL Shortener with flexible analytics support, in-memory caching, and an admin UI. (2 months ago)
