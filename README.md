@@ -4,8 +4,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket) - Charmbracelet Scoop Bucket (1 day ago)
-- [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺 (1 day ago)
+- [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket) - Charmbracelet Scoop Bucket (2 days ago)
+- [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺 (2 days ago)
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘 (1 week ago)
 - [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (1 week ago)
 - [charmbracelet/nur](https://github.com/charmbracelet/nur) -  (1 week ago)
@@ -20,18 +20,18 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.7.4](https://github.com/charmbracelet/crush/releases/tag/v0.7.4), today) - The glamourous AI coding agent for your favourite terminal 💘
-- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.5.3](https://github.com/charmbracelet/catwalk/releases/tag/v0.5.3), today) - 🐈 A collection of LLM inference providers and models 
-- [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), today) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.10.0](https://github.com/charmbracelet/soft-serve/releases/tag/v0.10.0), 1 day ago) - The mighty, self-hostable Git server for the command line🍦
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.7.4](https://github.com/charmbracelet/crush/releases/tag/v0.7.4), 1 day ago) - The glamourous AI coding agent for your favourite terminal 💘
+- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.5.3](https://github.com/charmbracelet/catwalk/releases/tag/v0.5.3), 1 day ago) - 🐈 A collection of LLM inference providers and models 
+- [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), 1 day ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.10.0](https://github.com/charmbracelet/soft-serve/releases/tag/v0.10.0), 2 days ago) - The mighty, self-hostable Git server for the command line🍦
 - [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) ([v0.3.2](https://github.com/charmbracelet/colorprofile/releases/tag/v0.3.2), 2 weeks ago) - Magical terminal color handling 🪄
 
 #### 🔨 My recent Pull Requests
 
 - [chore: bump bubbletea and ultraviolet to support win32 input mode](https://github.com/charmbracelet/crush/pull/838) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (1 week ago)
-- [fix: send commands in a goroutine without executing them immediately](https://github.com/charmbracelet/bubbletea/pull/1473) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 week ago)
-- [fix(renderer): properly reset cursor position to start of line](https://github.com/charmbracelet/bubbletea/pull/1472) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 week ago)
-- [Add support for horizontal mouse wheel events](https://github.com/microsoft/terminal/pull/19248) on [microsoft/terminal](https://github.com/microsoft/terminal) (1 week ago)
+- [fix: send commands in a goroutine without executing them immediately](https://github.com/charmbracelet/bubbletea/pull/1473) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 weeks ago)
+- [fix(renderer): properly reset cursor position to start of line](https://github.com/charmbracelet/bubbletea/pull/1472) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 weeks ago)
+- [Add support for horizontal mouse wheel events](https://github.com/microsoft/terminal/pull/19248) on [microsoft/terminal](https://github.com/microsoft/terminal) (2 weeks ago)
 - [Win32 input mode passthrough support](https://github.com/charmbracelet/ultraviolet/pull/32) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (2 weeks ago)
 
 #### 📜 My recent blog posts
