@@ -4,10 +4,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺 (5 days ago)
-- [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket) - Charmbracelet Scoop Bucket (5 days ago)
+- [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺 (6 days ago)
+- [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket) - Charmbracelet Scoop Bucket (6 days ago)
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘 (1 week ago)
-- [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (1 week ago)
+- [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (2 weeks ago)
 - [charmbracelet/nur](https://github.com/charmbracelet/nur) -  (2 weeks ago)
 
 #### 🌱 My latest projects
@@ -20,15 +20,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), today) - The glamourous AI coding agent for your favourite terminal 💘
-- [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), today) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
-- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.5.3](https://github.com/charmbracelet/catwalk/releases/tag/v0.5.3), 4 days ago) - 🐈 A collection of LLM inference providers and models 
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.10.0](https://github.com/charmbracelet/soft-serve/releases/tag/v0.10.0), 5 days ago) - The mighty, self-hostable Git server for the command line🍦
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), 1 day ago) - The glamourous AI coding agent for your favourite terminal 💘
+- [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), 1 day ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
+- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.5.3](https://github.com/charmbracelet/catwalk/releases/tag/v0.5.3), 5 days ago) - 🐈 A collection of LLM inference providers and models 
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.10.0](https://github.com/charmbracelet/soft-serve/releases/tag/v0.10.0), 6 days ago) - The mighty, self-hostable Git server for the command line🍦
 - [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) ([v0.3.2](https://github.com/charmbracelet/colorprofile/releases/tag/v0.3.2), 2 weeks ago) - Magical terminal color handling 🪄
 
 #### 🔨 My recent Pull Requests
 
-- [chore: bump bubbletea and ultraviolet to support win32 input mode](https://github.com/charmbracelet/crush/pull/838) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (1 week ago)
+- [chore: bump bubbletea and ultraviolet to support win32 input mode](https://github.com/charmbracelet/crush/pull/838) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (2 weeks ago)
 - [fix: send commands in a goroutine without executing them immediately](https://github.com/charmbracelet/bubbletea/pull/1473) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 weeks ago)
 - [fix(renderer): properly reset cursor position to start of line](https://github.com/charmbracelet/bubbletea/pull/1472) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 weeks ago)
 - [Add support for horizontal mouse wheel events](https://github.com/microsoft/terminal/pull/19248) on [microsoft/terminal](https://github.com/microsoft/terminal) (2 weeks ago)
