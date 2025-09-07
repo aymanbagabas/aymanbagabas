@@ -4,8 +4,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 day ago)
-- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (1 day ago)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (2 days ago)
+- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (2 days ago)
 - [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺 (1 week ago)
 - [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket) - Charmbracelet Scoop Bucket (1 week ago)
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘 (2 weeks ago)
@@ -20,15 +20,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.5.4](https://github.com/charmbracelet/catwalk/releases/tag/v0.5.4), today) - 🐈 A collection of LLM inference providers and models 
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), today) - The glamourous AI coding agent for your favourite terminal 💘
-- [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.17.0](https://github.com/charmbracelet/gum/releases/tag/v0.17.0), 1 day ago) - A tool for glamorous shell scripts 🎀
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v1.3.7](https://github.com/charmbracelet/bubbletea/releases/tag/v1.3.7), 1 day ago) - A powerful little TUI framework 🏗
-- [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), 5 days ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
+- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.5.4](https://github.com/charmbracelet/catwalk/releases/tag/v0.5.4), 1 day ago) - 🐈 A collection of LLM inference providers and models 
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), 1 day ago) - The glamourous AI coding agent for your favourite terminal 💘
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.17.0](https://github.com/charmbracelet/gum/releases/tag/v0.17.0), 2 days ago) - A tool for glamorous shell scripts 🎀
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v1.3.7](https://github.com/charmbracelet/bubbletea/releases/tag/v1.3.7), 2 days ago) - A powerful little TUI framework 🏗
+- [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), 6 days ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 
 #### 🔨 My recent Pull Requests
 
-- [Merge upstream changes](https://github.com/aymanbagabas/git-module/pull/2) on [aymanbagabas/git-module](https://github.com/aymanbagabas/git-module) (1 day ago)
+- [Merge upstream changes](https://github.com/aymanbagabas/git-module/pull/2) on [aymanbagabas/git-module](https://github.com/aymanbagabas/git-module) (2 days ago)
 - [chore: bump bubbletea and ultraviolet to support win32 input mode](https://github.com/charmbracelet/crush/pull/838) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (2 weeks ago)
 - [fix: send commands in a goroutine without executing them immediately](https://github.com/charmbracelet/bubbletea/pull/1473) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (3 weeks ago)
 - [fix(renderer): properly reset cursor position to start of line](https://github.com/charmbracelet/bubbletea/pull/1472) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (3 weeks ago)
@@ -36,7 +36,7 @@
 
 #### 📜 My recent blog posts
 
-- [A Brief History of Terminal Emulators](https://aymanbagabas.com/blog/2025/03/11/a-brief-history-of-terminal-emulators.html) (5 months ago)
+- [A Brief History of Terminal Emulators](https://aymanbagabas.com/blog/2025/03/11/a-brief-history-of-terminal-emulators.html) (6 months ago)
 - [Self-hosted Soft Serve](https://aymanbagabas.com/blog/2023/04/28/self-hosted-soft-serve.html) (2 years ago)
 - [Simple Vim Session Management](https://aymanbagabas.com/blog/2023/04/13/simple-vim-session-management.html) (2 years ago)
 - [Blue Mountain](https://aymanbagabas.com/blog/2022/06/02/blue-mountain.html) (3 years ago)
