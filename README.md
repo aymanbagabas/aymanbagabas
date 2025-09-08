@@ -4,8 +4,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (today)
 - [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (1 day ago)
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (3 days ago)
 - [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket) - Charmbracelet Scoop Bucket (1 week ago)
 - [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺 (1 week ago)
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘 (2 weeks ago)
@@ -30,7 +30,7 @@
 
 - [Merge upstream changes](https://github.com/aymanbagabas/git-module/pull/2) on [aymanbagabas/git-module](https://github.com/aymanbagabas/git-module) (3 days ago)
 - [chore: bump bubbletea and ultraviolet to support win32 input mode](https://github.com/charmbracelet/crush/pull/838) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (2 weeks ago)
-- [fix: send commands in a goroutine without executing them immediately](https://github.com/charmbracelet/bubbletea/pull/1473) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (3 weeks ago)
+- [fix: send batch commands to cmds channel instead of executing them in event loop](https://github.com/charmbracelet/bubbletea/pull/1473) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (3 weeks ago)
 - [fix(renderer): properly reset cursor position to start of line](https://github.com/charmbracelet/bubbletea/pull/1472) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (3 weeks ago)
 - [Add support for horizontal mouse wheel events](https://github.com/microsoft/terminal/pull/19248) on [microsoft/terminal](https://github.com/microsoft/terminal) (3 weeks ago)
 
