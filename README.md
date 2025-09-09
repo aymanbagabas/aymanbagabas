@@ -20,9 +20,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.7.7](https://github.com/charmbracelet/crush/releases/tag/v0.7.7), today) - The glamourous AI coding agent for your favourite terminal 💘
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v1.3.8](https://github.com/charmbracelet/bubbletea/releases/tag/v1.3.8), 1 day ago) - A powerful little TUI framework 🏗
 - [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), 1 day ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.7.6](https://github.com/charmbracelet/crush/releases/tag/v0.7.6), 2 days ago) - The glamourous AI coding agent for your favourite terminal 💘
 - [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.5.4](https://github.com/charmbracelet/catwalk/releases/tag/v0.5.4), 3 days ago) - 🐈 A collection of LLM inference providers and models 
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.17.0](https://github.com/charmbracelet/gum/releases/tag/v0.17.0), 4 days ago) - A tool for glamorous shell scripts 🎀
 
