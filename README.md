@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: add screen manipulation utilities tests](https://github.com/charmbracelet/ultraviolet/pull/42) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (today)
 - [chore: bump bubbletea/ultraviolet to enable bracketed paste on windows](https://github.com/charmbracelet/crush/pull/1003) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (1 day ago)
 - [Bump Ultraviolet and update input handling](https://github.com/charmbracelet/bubbletea/pull/1493) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
 - [Merge upstream changes](https://github.com/aymanbagabas/git-module/pull/2) on [aymanbagabas/git-module](https://github.com/aymanbagabas/git-module) (5 days ago)
 - [chore: bump bubbletea and ultraviolet to support win32 input mode](https://github.com/charmbracelet/crush/pull/838) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (3 weeks ago)
-- [fix: send batch commands to cmds channel instead of executing them in event loop](https://github.com/charmbracelet/bubbletea/pull/1473) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (3 weeks ago)
 
 #### 📜 My recent blog posts
 
