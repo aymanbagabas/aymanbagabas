@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.7.8](https://github.com/charmbracelet/crush/releases/tag/v0.7.8), 1 day ago) - The glamourous AI coding agent for your favourite terminal 💘
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.7.9](https://github.com/charmbracelet/crush/releases/tag/v0.7.9), today) - The glamourous AI coding agent for your favourite terminal 💘
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v1.3.8](https://github.com/charmbracelet/bubbletea/releases/tag/v1.3.8), 2 days ago) - A powerful little TUI framework 🏗
 - [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), 2 days ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 - [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.5.4](https://github.com/charmbracelet/catwalk/releases/tag/v0.5.4), 4 days ago) - 🐈 A collection of LLM inference providers and models 
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Add decoder.go tests](https://github.com/charmbracelet/ultraviolet/pull/44) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (today)
+- [feat: add more tests for decoder and helper functions](https://github.com/charmbracelet/ultraviolet/pull/43) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (today)
 - [feat: add screen manipulation utilities tests](https://github.com/charmbracelet/ultraviolet/pull/42) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (today)
 - [chore: bump bubbletea/ultraviolet to enable bracketed paste on windows](https://github.com/charmbracelet/crush/pull/1003) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (1 day ago)
 - [Bump Ultraviolet and update input handling](https://github.com/charmbracelet/bubbletea/pull/1493) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
-- [Merge upstream changes](https://github.com/aymanbagabas/git-module/pull/2) on [aymanbagabas/git-module](https://github.com/aymanbagabas/git-module) (5 days ago)
-- [chore: bump bubbletea and ultraviolet to support win32 input mode](https://github.com/charmbracelet/crush/pull/838) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (3 weeks ago)
 
 #### 📜 My recent blog posts
 
