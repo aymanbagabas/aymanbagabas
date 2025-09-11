@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (today)
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘 (today)
-- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (1 day ago)
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (2 days ago)
-- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (3 days ago)
+- [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (1 day ago)
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘 (1 day ago)
+- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (2 days ago)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (3 days ago)
+- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.7.9](https://github.com/charmbracelet/crush/releases/tag/v0.7.9), today) - The glamourous AI coding agent for your favourite terminal 💘
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v1.3.8](https://github.com/charmbracelet/bubbletea/releases/tag/v1.3.8), 2 days ago) - A powerful little TUI framework 🏗
-- [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), 2 days ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
-- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.5.4](https://github.com/charmbracelet/catwalk/releases/tag/v0.5.4), 4 days ago) - 🐈 A collection of LLM inference providers and models 
-- [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.17.0](https://github.com/charmbracelet/gum/releases/tag/v0.17.0), 5 days ago) - A tool for glamorous shell scripts 🎀
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.7.9](https://github.com/charmbracelet/crush/releases/tag/v0.7.9), 1 day ago) - The glamourous AI coding agent for your favourite terminal 💘
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v1.3.8](https://github.com/charmbracelet/bubbletea/releases/tag/v1.3.8), 3 days ago) - A powerful little TUI framework 🏗
+- [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), 3 days ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
+- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.5.4](https://github.com/charmbracelet/catwalk/releases/tag/v0.5.4), 5 days ago) - 🐈 A collection of LLM inference providers and models 
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.17.0](https://github.com/charmbracelet/gum/releases/tag/v0.17.0), 6 days ago) - A tool for glamorous shell scripts 🎀
 
 #### 🔨 My recent Pull Requests
 
-- [Add decoder.go tests](https://github.com/charmbracelet/ultraviolet/pull/44) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (today)
-- [feat: add more tests for decoder and helper functions](https://github.com/charmbracelet/ultraviolet/pull/43) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (today)
-- [feat: add screen manipulation utilities tests](https://github.com/charmbracelet/ultraviolet/pull/42) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (today)
-- [chore: bump bubbletea/ultraviolet to enable bracketed paste on windows](https://github.com/charmbracelet/crush/pull/1003) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (1 day ago)
-- [Bump Ultraviolet and update input handling](https://github.com/charmbracelet/bubbletea/pull/1493) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
+- [Add decoder.go tests](https://github.com/charmbracelet/ultraviolet/pull/44) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (1 day ago)
+- [feat: add more tests for decoder and helper functions](https://github.com/charmbracelet/ultraviolet/pull/43) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (1 day ago)
+- [feat: add screen manipulation utilities tests](https://github.com/charmbracelet/ultraviolet/pull/42) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (1 day ago)
+- [chore: bump bubbletea/ultraviolet to enable bracketed paste on windows](https://github.com/charmbracelet/crush/pull/1003) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (2 days ago)
+- [Bump Ultraviolet and update input handling](https://github.com/charmbracelet/bubbletea/pull/1493) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 days ago)
 
 #### 📜 My recent blog posts
 
