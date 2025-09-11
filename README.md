@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Add E2E testing package via VT and XPty](https://github.com/charmbracelet/ultraviolet/pull/46) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (today)
 - [fix: properly calculate processed bytes in deserializeWin32Input and …](https://github.com/charmbracelet/ultraviolet/pull/45) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (today)
 - [Add decoder.go tests](https://github.com/charmbracelet/ultraviolet/pull/44) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (1 day ago)
 - [feat: add more tests for decoder and helper functions](https://github.com/charmbracelet/ultraviolet/pull/43) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (1 day ago)
 - [feat: add screen manipulation utilities tests](https://github.com/charmbracelet/ultraviolet/pull/42) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (1 day ago)
-- [chore: bump bubbletea/ultraviolet to enable bracketed paste on windows](https://github.com/charmbracelet/crush/pull/1003) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (2 days ago)
 
 #### 📜 My recent blog posts
 
