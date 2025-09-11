@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (1 day ago)
+- [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (today)
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘 (1 day ago)
 - [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (2 days ago)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (3 days ago)
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: properly calculate processed bytes in deserializeWin32Input and …](https://github.com/charmbracelet/ultraviolet/pull/45) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (today)
 - [Add decoder.go tests](https://github.com/charmbracelet/ultraviolet/pull/44) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (1 day ago)
 - [feat: add more tests for decoder and helper functions](https://github.com/charmbracelet/ultraviolet/pull/43) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (1 day ago)
 - [feat: add screen manipulation utilities tests](https://github.com/charmbracelet/ultraviolet/pull/42) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (1 day ago)
 - [chore: bump bubbletea/ultraviolet to enable bracketed paste on windows](https://github.com/charmbracelet/crush/pull/1003) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (2 days ago)
-- [Bump Ultraviolet and update input handling](https://github.com/charmbracelet/bubbletea/pull/1493) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 days ago)
 
 #### 📜 My recent blog posts
 
