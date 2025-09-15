@@ -6,9 +6,9 @@
 
 - [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (3 days ago)
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘 (3 days ago)
-- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (4 days ago)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (4 days ago)
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place! (4 days ago)
+- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (4 days ago)
 
 #### 🌱 My latest projects
 
