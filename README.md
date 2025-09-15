@@ -5,10 +5,10 @@
 #### 👷 Check out what I'm currently working on
 
 - [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (today)
+- [charmbracelet/fang](https://github.com/charmbracelet/fang) - The CLI starter kit (today)
 - [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (today)
 - [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (3 days ago)
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘 (3 days ago)
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/fang](https://github.com/charmbracelet/fang) ([v0.4.1](https://github.com/charmbracelet/fang/releases/tag/v0.4.1), today) - The CLI starter kit
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.8.2](https://github.com/charmbracelet/crush/releases/tag/v0.8.2), today) - The glamourous AI coding agent for your favourite terminal 💘
 - [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), today) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 - [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.5.5](https://github.com/charmbracelet/catwalk/releases/tag/v0.5.5), 2 days ago) - 🐈 A collection of LLM inference providers and models 
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v1.3.9](https://github.com/charmbracelet/bubbletea/releases/tag/v1.3.9), 4 days ago) - A powerful little TUI framework 🏗
-- [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.17.0](https://github.com/charmbracelet/gum/releases/tag/v0.17.0), 1 week ago) - A tool for glamorous shell scripts 🎀
 
 #### 🔨 My recent Pull Requests
 
+- [fix: windows: always enable VT processing on Windows](https://github.com/charmbracelet/fang/pull/72) on [charmbracelet/fang](https://github.com/charmbracelet/fang) (today)
 - [feat: add codecov coverage to all workflows](https://github.com/charmbracelet/x/pull/565) on [charmbracelet/x](https://github.com/charmbracelet/x) (today)
 - [Add E2E testing package via VT and XPty](https://github.com/charmbracelet/ultraviolet/pull/46) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (4 days ago)
 - [fix: properly calculate processed bytes in deserializeWin32Input and …](https://github.com/charmbracelet/ultraviolet/pull/45) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (4 days ago)
 - [Add decoder.go tests](https://github.com/charmbracelet/ultraviolet/pull/44) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (5 days ago)
-- [feat: add more tests for decoder and helper functions](https://github.com/charmbracelet/ultraviolet/pull/43) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (5 days ago)
 
 #### 📜 My recent blog posts
 
