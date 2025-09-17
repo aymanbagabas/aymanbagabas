@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [windows: add FlushConsoleInputBuffer and GetNumberOfConsoleInputEvents](https://github.com/golang/sys/pull/264) on [golang/sys](https://github.com/golang/sys) (today)
 - [fix: windows: always enable VT processing on Windows](https://github.com/charmbracelet/fang/pull/72) on [charmbracelet/fang](https://github.com/charmbracelet/fang) (2 days ago)
 - [feat: add codecov coverage to all workflows](https://github.com/charmbracelet/x/pull/565) on [charmbracelet/x](https://github.com/charmbracelet/x) (2 days ago)
 - [Add E2E testing package via VT and XPty](https://github.com/charmbracelet/ultraviolet/pull/46) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (6 days ago)
 - [fix: properly calculate processed bytes in deserializeWin32Input and …](https://github.com/charmbracelet/ultraviolet/pull/45) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (6 days ago)
-- [Add decoder.go tests](https://github.com/charmbracelet/ultraviolet/pull/44) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (1 week ago)
 
 #### 📜 My recent blog posts
 
