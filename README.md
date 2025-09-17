@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (today)
 - [charmbracelet/fang](https://github.com/charmbracelet/fang) - The CLI starter kit (2 days ago)
 - [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (2 days ago)
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘 (2 days ago)
 - [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (2 days ago)
-- [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -20,11 +20,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v1.3.10](https://github.com/charmbracelet/bubbletea/releases/tag/v1.3.10), today) - A powerful little TUI framework 🏗
 - [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.5.6](https://github.com/charmbracelet/catwalk/releases/tag/v0.5.6), today) - 🐈 A collection of LLM inference providers and models 
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), today) - The glamourous AI coding agent for your favourite terminal 💘
 - [charmbracelet/fang](https://github.com/charmbracelet/fang) ([v0.4.1](https://github.com/charmbracelet/fang/releases/tag/v0.4.1), 2 days ago) - The CLI starter kit
 - [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), 2 days ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v1.3.9](https://github.com/charmbracelet/bubbletea/releases/tag/v1.3.9), 6 days ago) - A powerful little TUI framework 🏗
 
 #### 🔨 My recent Pull Requests
 
