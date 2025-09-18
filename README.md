@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.5.7](https://github.com/charmbracelet/catwalk/releases/tag/v0.5.7), today) - 🐈 A collection of LLM inference providers and models 
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.9.0](https://github.com/charmbracelet/crush/releases/tag/v0.9.0), 1 day ago) - The glamourous AI coding agent for your favourite terminal 💘
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v1.3.10](https://github.com/charmbracelet/bubbletea/releases/tag/v1.3.10), 1 day ago) - A powerful little TUI framework 🏗
-- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.5.6](https://github.com/charmbracelet/catwalk/releases/tag/v0.5.6), 1 day ago) - 🐈 A collection of LLM inference providers and models 
 - [charmbracelet/fang](https://github.com/charmbracelet/fang) ([v0.4.1](https://github.com/charmbracelet/fang/releases/tag/v0.4.1), 3 days ago) - The CLI starter kit
 - [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), 3 days ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 
 #### 🔨 My recent Pull Requests
 
+- [fix(tui): yes/no init selection](https://github.com/charmbracelet/crush/pull/1074) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (today)
 - [windows: add FlushConsoleInputBuffer and GetNumberOfConsoleInputEvents](https://github.com/golang/sys/pull/264) on [golang/sys](https://github.com/golang/sys) (1 day ago)
 - [fix: windows: always enable VT processing on Windows](https://github.com/charmbracelet/fang/pull/72) on [charmbracelet/fang](https://github.com/charmbracelet/fang) (3 days ago)
 - [feat: add codecov coverage to all workflows](https://github.com/charmbracelet/x/pull/565) on [charmbracelet/x](https://github.com/charmbracelet/x) (3 days ago)
 - [Add E2E testing package via VT and XPty](https://github.com/charmbracelet/ultraviolet/pull/46) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (1 week ago)
-- [fix: properly calculate processed bytes in deserializeWin32Input and …](https://github.com/charmbracelet/ultraviolet/pull/45) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (1 week ago)
 
 #### 📜 My recent blog posts
 
