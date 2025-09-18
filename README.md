@@ -4,8 +4,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [charmbracelet/fang](https://github.com/charmbracelet/fang) - The CLI starter kit (today)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 day ago)
-- [charmbracelet/fang](https://github.com/charmbracelet/fang) - The CLI starter kit (3 days ago)
 - [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (3 days ago)
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘 (3 days ago)
 - [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (3 days ago)
@@ -20,10 +20,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/fang](https://github.com/charmbracelet/fang) ([v0.4.2](https://github.com/charmbracelet/fang/releases/tag/v0.4.2), today) - The CLI starter kit
 - [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.5.7](https://github.com/charmbracelet/catwalk/releases/tag/v0.5.7), today) - 🐈 A collection of LLM inference providers and models 
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.9.0](https://github.com/charmbracelet/crush/releases/tag/v0.9.0), 1 day ago) - The glamourous AI coding agent for your favourite terminal 💘
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v1.3.10](https://github.com/charmbracelet/bubbletea/releases/tag/v1.3.10), 1 day ago) - A powerful little TUI framework 🏗
-- [charmbracelet/fang](https://github.com/charmbracelet/fang) ([v0.4.1](https://github.com/charmbracelet/fang/releases/tag/v0.4.1), 3 days ago) - The CLI starter kit
 - [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), 3 days ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 
 #### 🔨 My recent Pull Requests
