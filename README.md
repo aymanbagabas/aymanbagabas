@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), today) - The glamourous AI coding agent for your favourite terminal 💘
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.9.1](https://github.com/charmbracelet/crush/releases/tag/v0.9.1), today) - The glamourous AI coding agent for your favourite terminal 💘
 - [charmbracelet/fang](https://github.com/charmbracelet/fang) ([v0.4.2](https://github.com/charmbracelet/fang/releases/tag/v0.4.2), 1 day ago) - The CLI starter kit
 - [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.5.7](https://github.com/charmbracelet/catwalk/releases/tag/v0.5.7), 1 day ago) - 🐈 A collection of LLM inference providers and models 
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v1.3.10](https://github.com/charmbracelet/bubbletea/releases/tag/v1.3.10), 2 days ago) - A powerful little TUI framework 🏗
