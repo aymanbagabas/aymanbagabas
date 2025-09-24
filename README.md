@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat(server): auto-start server if not running](https://github.com/charmbracelet/crush/pull/1121) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (today)
 - [fix kitty keyboard mode stack logic](https://github.com/raphamorim/rio/pull/1309) on [raphamorim/rio](https://github.com/raphamorim/rio) (today)
 - [refactor: decouple TUI from the rest of Crush](https://github.com/charmbracelet/crush/pull/1113) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (1 day ago)
 - [feat: server client architecture](https://github.com/charmbracelet/crush/pull/1110) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (1 day ago)
 - [fix(tui): yes/no init selection](https://github.com/charmbracelet/crush/pull/1074) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (6 days ago)
-- [windows: add FlushConsoleInputBuffer and GetNumberOfConsoleInputEvents](https://github.com/golang/sys/pull/264) on [golang/sys](https://github.com/golang/sys) (1 week ago)
 
 #### 📜 My recent blog posts
 
