@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.9.3](https://github.com/charmbracelet/crush/releases/tag/v0.9.3), today) - The glamourous AI coding agent for your favourite terminal 💘
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.10.0](https://github.com/charmbracelet/crush/releases/tag/v0.10.0), today) - The glamourous AI coding agent for your favourite terminal 💘
 - [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.6.1](https://github.com/charmbracelet/catwalk/releases/tag/v0.6.1), 1 day ago) - 🐈 A collection of LLM inference providers and models 
 - [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), 3 days ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 - [charmbracelet/fang](https://github.com/charmbracelet/fang) ([v0.4.2](https://github.com/charmbracelet/fang/releases/tag/v0.4.2), 6 days ago) - The CLI starter kit
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix kitty keyboard mode stack logic](https://github.com/raphamorim/rio/pull/1309) on [raphamorim/rio](https://github.com/raphamorim/rio) (today)
 - [refactor: decouple TUI from the rest of Crush](https://github.com/charmbracelet/crush/pull/1113) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (1 day ago)
 - [feat: server client architecture](https://github.com/charmbracelet/crush/pull/1110) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (1 day ago)
 - [fix(tui): yes/no init selection](https://github.com/charmbracelet/crush/pull/1074) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (6 days ago)
 - [windows: add FlushConsoleInputBuffer and GetNumberOfConsoleInputEvents](https://github.com/golang/sys/pull/264) on [golang/sys](https://github.com/golang/sys) (1 week ago)
-- [fix: windows: always enable VT processing on Windows](https://github.com/charmbracelet/fang/pull/72) on [charmbracelet/fang](https://github.com/charmbracelet/fang) (1 week ago)
 
 #### 📜 My recent blog posts
 
