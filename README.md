@@ -4,10 +4,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘 (4 days ago)
-- [charmbracelet/fang](https://github.com/charmbracelet/fang) - The CLI starter kit (5 days ago)
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (6 days ago)
-- [golang/sys](https://github.com/golang/sys) - [mirror] Go packages for low-level interaction with the operating system (6 days ago)
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘 (5 days ago)
+- [charmbracelet/fang](https://github.com/charmbracelet/fang) - The CLI starter kit (6 days ago)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 week ago)
+- [golang/sys](https://github.com/golang/sys) - [mirror] Go packages for low-level interaction with the operating system (1 week ago)
 - [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (1 week ago)
 
 #### 🌱 My latest projects
@@ -20,18 +20,18 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.6.1](https://github.com/charmbracelet/catwalk/releases/tag/v0.6.1), today) - 🐈 A collection of LLM inference providers and models 
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), today) - The glamourous AI coding agent for your favourite terminal 💘
-- [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), 2 days ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
-- [charmbracelet/fang](https://github.com/charmbracelet/fang) ([v0.4.2](https://github.com/charmbracelet/fang/releases/tag/v0.4.2), 5 days ago) - The CLI starter kit
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v1.3.10](https://github.com/charmbracelet/bubbletea/releases/tag/v1.3.10), 6 days ago) - A powerful little TUI framework 🏗
+- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.6.1](https://github.com/charmbracelet/catwalk/releases/tag/v0.6.1), 1 day ago) - 🐈 A collection of LLM inference providers and models 
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), 1 day ago) - The glamourous AI coding agent for your favourite terminal 💘
+- [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), 3 days ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
+- [charmbracelet/fang](https://github.com/charmbracelet/fang) ([v0.4.2](https://github.com/charmbracelet/fang/releases/tag/v0.4.2), 6 days ago) - The CLI starter kit
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v1.3.10](https://github.com/charmbracelet/bubbletea/releases/tag/v1.3.10), 1 week ago) - A powerful little TUI framework 🏗
 
 #### 🔨 My recent Pull Requests
 
-- [refactor: decouple TUI from the rest of Crush](https://github.com/charmbracelet/crush/pull/1113) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (today)
-- [feat: server client architecture](https://github.com/charmbracelet/crush/pull/1110) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (today)
-- [fix(tui): yes/no init selection](https://github.com/charmbracelet/crush/pull/1074) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (5 days ago)
-- [windows: add FlushConsoleInputBuffer and GetNumberOfConsoleInputEvents](https://github.com/golang/sys/pull/264) on [golang/sys](https://github.com/golang/sys) (6 days ago)
+- [refactor: decouple TUI from the rest of Crush](https://github.com/charmbracelet/crush/pull/1113) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (1 day ago)
+- [feat: server client architecture](https://github.com/charmbracelet/crush/pull/1110) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (1 day ago)
+- [fix(tui): yes/no init selection](https://github.com/charmbracelet/crush/pull/1074) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (6 days ago)
+- [windows: add FlushConsoleInputBuffer and GetNumberOfConsoleInputEvents](https://github.com/golang/sys/pull/264) on [golang/sys](https://github.com/golang/sys) (1 week ago)
 - [fix: windows: always enable VT processing on Windows](https://github.com/charmbracelet/fang/pull/72) on [charmbracelet/fang](https://github.com/charmbracelet/fang) (1 week ago)
 
 #### 📜 My recent blog posts
