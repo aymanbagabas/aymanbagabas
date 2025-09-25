@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers. (today)
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘 (6 days ago)
 - [charmbracelet/fang](https://github.com/charmbracelet/fang) - The CLI starter kit (1 week ago)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 week ago)
 - [golang/sys](https://github.com/golang/sys) - [mirror] Go packages for low-level interaction with the operating system (1 week ago)
-- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (1 week ago)
 
 #### 🌱 My latest projects
 
