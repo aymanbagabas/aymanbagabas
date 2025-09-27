@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers. (1 day ago)
+- [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers. (2 days ago)
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘 (1 week ago)
 - [charmbracelet/fang](https://github.com/charmbracelet/fang) - The CLI starter kit (1 week ago)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 week ago)
@@ -20,18 +20,18 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [microsoft/terminal](https://github.com/microsoft/terminal) ([v1.24.2682.0](https://github.com/microsoft/terminal/releases/tag/v1.24.2682.0), today) - The new Windows Terminal and the original Windows console host, all in the same place!
-- [raphamorim/rio](https://github.com/raphamorim/rio) ([v0.2.31](https://github.com/raphamorim/rio/releases/tag/v0.2.31), today) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), today) - The glamourous AI coding agent for your favourite terminal 💘
-- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.6.1](https://github.com/charmbracelet/catwalk/releases/tag/v0.6.1), 3 days ago) - 🐈 A collection of LLM inference providers and models 
+- [microsoft/terminal](https://github.com/microsoft/terminal) ([v1.24.2682.0](https://github.com/microsoft/terminal/releases/tag/v1.24.2682.0), 1 day ago) - The new Windows Terminal and the original Windows console host, all in the same place!
+- [raphamorim/rio](https://github.com/raphamorim/rio) ([v0.2.31](https://github.com/raphamorim/rio/releases/tag/v0.2.31), 1 day ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), 1 day ago) - The glamourous AI coding agent for your favourite terminal 💘
+- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.6.1](https://github.com/charmbracelet/catwalk/releases/tag/v0.6.1), 4 days ago) - 🐈 A collection of LLM inference providers and models 
 - [charmbracelet/fang](https://github.com/charmbracelet/fang) ([v0.4.2](https://github.com/charmbracelet/fang/releases/tag/v0.4.2), 1 week ago) - The CLI starter kit
 
 #### 🔨 My recent Pull Requests
 
-- [feat(server): auto-start server if not running](https://github.com/charmbracelet/crush/pull/1121) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (2 days ago)
-- [fix kitty keyboard mode stack logic](https://github.com/raphamorim/rio/pull/1309) on [raphamorim/rio](https://github.com/raphamorim/rio) (2 days ago)
-- [refactor: decouple TUI from the rest of Crush](https://github.com/charmbracelet/crush/pull/1113) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (3 days ago)
-- [feat: server client architecture](https://github.com/charmbracelet/crush/pull/1110) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (3 days ago)
+- [feat(server): auto-start server if not running](https://github.com/charmbracelet/crush/pull/1121) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (3 days ago)
+- [fix kitty keyboard mode stack logic](https://github.com/raphamorim/rio/pull/1309) on [raphamorim/rio](https://github.com/raphamorim/rio) (3 days ago)
+- [refactor: decouple TUI from the rest of Crush](https://github.com/charmbracelet/crush/pull/1113) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (4 days ago)
+- [feat: server client architecture](https://github.com/charmbracelet/crush/pull/1110) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (4 days ago)
 - [fix(tui): yes/no init selection](https://github.com/charmbracelet/crush/pull/1074) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (1 week ago)
 
 #### 📜 My recent blog posts
@@ -45,7 +45,7 @@
 #### ⭐ Recent Stars
 
 - [raphamorim/fuzzy](https://github.com/raphamorim/fuzzy) - fuzzy matching with Levenshtein, Damerau-Levenshtein, Bitap and n-gram (1 month ago)
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘 (1 month ago)
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘 (2 months ago)
 - [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (2 months ago)
 - [charmbracelet/fang](https://github.com/charmbracelet/fang) - The CLI starter kit (3 months ago)
 - [mr-karan/lil](https://github.com/mr-karan/lil) - URL Shortener with flexible analytics support, in-memory caching, and an admin UI. (3 months ago)
