@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (today)
 - [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (2 days ago)
 - [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers. (5 days ago)
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘 (1 week ago)
 - [charmbracelet/fang](https://github.com/charmbracelet/fang) - The CLI starter kit (1 week ago)
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: add support for terminal progress bars](https://github.com/charmbracelet/bubbletea/pull/1499) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [feat(server): auto-start server if not running](https://github.com/charmbracelet/crush/pull/1121) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (6 days ago)
 - [fix kitty keyboard mode stack logic](https://github.com/raphamorim/rio/pull/1309) on [raphamorim/rio](https://github.com/raphamorim/rio) (6 days ago)
 - [refactor: decouple TUI from the rest of Crush](https://github.com/charmbracelet/crush/pull/1113) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (1 week ago)
 - [feat: server client architecture](https://github.com/charmbracelet/crush/pull/1110) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (1 week ago)
-- [fix(tui): yes/no init selection](https://github.com/charmbracelet/crush/pull/1074) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (1 week ago)
 
 #### 📜 My recent blog posts
 
