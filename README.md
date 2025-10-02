@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (1 day ago)
-- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (3 days ago)
-- [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers. (6 days ago)
+- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (2 days ago)
+- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (4 days ago)
+- [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers. (1 week ago)
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘 (1 week ago)
-- [charmbracelet/fang](https://github.com/charmbracelet/fang) - The CLI starter kit (1 week ago)
+- [charmbracelet/fang](https://github.com/charmbracelet/fang) - The CLI starter kit (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -20,17 +20,17 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.10.4](https://github.com/charmbracelet/crush/releases/tag/v0.10.4), 1 day ago) - The glamourous AI coding agent for your favourite terminal 💘
-- [charmbracelet/fang](https://github.com/charmbracelet/fang) ([v0.4.3](https://github.com/charmbracelet/fang/releases/tag/v0.4.3), 1 day ago) - The CLI starter kit
-- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.6.3](https://github.com/charmbracelet/catwalk/releases/tag/v0.6.3), 1 day ago) - 🐈 A collection of LLM inference providers and models 
-- [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), 1 day ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
-- [microsoft/terminal](https://github.com/microsoft/terminal) ([v1.24.2682.0](https://github.com/microsoft/terminal/releases/tag/v1.24.2682.0), 5 days ago) - The new Windows Terminal and the original Windows console host, all in the same place!
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.10.4](https://github.com/charmbracelet/crush/releases/tag/v0.10.4), 2 days ago) - The glamourous AI coding agent for your favourite terminal 💘
+- [charmbracelet/fang](https://github.com/charmbracelet/fang) ([v0.4.3](https://github.com/charmbracelet/fang/releases/tag/v0.4.3), 2 days ago) - The CLI starter kit
+- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.6.3](https://github.com/charmbracelet/catwalk/releases/tag/v0.6.3), 2 days ago) - 🐈 A collection of LLM inference providers and models 
+- [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), 2 days ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
+- [microsoft/terminal](https://github.com/microsoft/terminal) ([v1.24.2682.0](https://github.com/microsoft/terminal/releases/tag/v1.24.2682.0), 6 days ago) - The new Windows Terminal and the original Windows console host, all in the same place!
 
 #### 🔨 My recent Pull Requests
 
-- [fix: protect output buffer with mutex](https://github.com/charmbracelet/bubbletea/pull/1502) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
-- [(v2) Bubble Tea idiomatic Go API](https://github.com/charmbracelet/bubbletea/pull/1500) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
-- [feat: add support for terminal progress bars](https://github.com/charmbracelet/bubbletea/pull/1499) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
+- [fix: protect output buffer with mutex](https://github.com/charmbracelet/bubbletea/pull/1502) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
+- [(v2) Bubble Tea idiomatic Go API](https://github.com/charmbracelet/bubbletea/pull/1500) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 days ago)
+- [feat: add support for terminal progress bars](https://github.com/charmbracelet/bubbletea/pull/1499) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 days ago)
 - [feat(server): auto-start server if not running](https://github.com/charmbracelet/crush/pull/1121) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (1 week ago)
 - [fix kitty keyboard mode stack logic](https://github.com/raphamorim/rio/pull/1309) on [raphamorim/rio](https://github.com/raphamorim/rio) (1 week ago)
 
