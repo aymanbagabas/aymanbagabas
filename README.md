@@ -20,8 +20,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), today) - The glamourous AI coding agent for your favourite terminal 💘
 - [charmbracelet/keygen](https://github.com/charmbracelet/keygen) ([v0.5.4](https://github.com/charmbracelet/keygen/releases/tag/v0.5.4), 1 day ago) - An SSH key pair generator 🗝️
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), 1 day ago) - The glamourous AI coding agent for your favourite terminal 💘
 - [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), 1 day ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 - [charmbracelet/fang](https://github.com/charmbracelet/fang) ([v0.4.3](https://github.com/charmbracelet/fang/releases/tag/v0.4.3), 3 days ago) - The CLI starter kit
 - [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.6.3](https://github.com/charmbracelet/catwalk/releases/tag/v0.6.3), 3 days ago) - 🐈 A collection of LLM inference providers and models 
