@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (6 days ago)
+- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (1 week ago)
 - [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (1 week ago)
 - [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers. (1 week ago)
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘 (2 weeks ago)
@@ -20,23 +20,23 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), today) - The glamourous AI coding agent for your favourite terminal 💘
-- [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), today) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
-- [go-git/go-git](https://github.com/go-git/go-git) ([v5.16.3](https://github.com/go-git/go-git/releases/tag/v5.16.3), 1 day ago) - A highly extensible Git implementation in pure Go.
-- [charmbracelet/keygen](https://github.com/charmbracelet/keygen) ([v0.5.4](https://github.com/charmbracelet/keygen/releases/tag/v0.5.4), 4 days ago) - An SSH key pair generator 🗝️
-- [charmbracelet/fang](https://github.com/charmbracelet/fang) ([v0.4.3](https://github.com/charmbracelet/fang/releases/tag/v0.4.3), 6 days ago) - The CLI starter kit
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), 1 day ago) - The glamourous AI coding agent for your favourite terminal 💘
+- [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), 1 day ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
+- [go-git/go-git](https://github.com/go-git/go-git) ([v5.16.3](https://github.com/go-git/go-git/releases/tag/v5.16.3), 2 days ago) - A highly extensible Git implementation in pure Go.
+- [charmbracelet/keygen](https://github.com/charmbracelet/keygen) ([v0.5.4](https://github.com/charmbracelet/keygen/releases/tag/v0.5.4), 5 days ago) - An SSH key pair generator 🗝️
+- [charmbracelet/fang](https://github.com/charmbracelet/fang) ([v0.4.3](https://github.com/charmbracelet/fang/releases/tag/v0.4.3), 1 week ago) - The CLI starter kit
 
 #### 🔨 My recent Pull Requests
 
-- [fix: protect output buffer with mutex](https://github.com/charmbracelet/bubbletea/pull/1502) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (5 days ago)
-- [(v2) Bubble Tea idiomatic Go API](https://github.com/charmbracelet/bubbletea/pull/1500) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (6 days ago)
-- [feat: add support for terminal progress bars](https://github.com/charmbracelet/bubbletea/pull/1499) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (6 days ago)
+- [fix: protect output buffer with mutex](https://github.com/charmbracelet/bubbletea/pull/1502) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (6 days ago)
+- [(v2) Bubble Tea idiomatic Go API](https://github.com/charmbracelet/bubbletea/pull/1500) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 week ago)
+- [feat: add support for terminal progress bars](https://github.com/charmbracelet/bubbletea/pull/1499) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 week ago)
 - [feat(server): auto-start server if not running](https://github.com/charmbracelet/crush/pull/1121) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (1 week ago)
 - [fix kitty keyboard mode stack logic](https://github.com/raphamorim/rio/pull/1309) on [raphamorim/rio](https://github.com/raphamorim/rio) (1 week ago)
 
 #### 📜 My recent blog posts
 
-- [A Brief History of Terminal Emulators](https://aymanbagabas.com/blog/2025/03/11/a-brief-history-of-terminal-emulators.html) (6 months ago)
+- [A Brief History of Terminal Emulators](https://aymanbagabas.com/blog/2025/03/11/a-brief-history-of-terminal-emulators.html) (7 months ago)
 - [Self-hosted Soft Serve](https://aymanbagabas.com/blog/2023/04/28/self-hosted-soft-serve.html) (2 years ago)
 - [Simple Vim Session Management](https://aymanbagabas.com/blog/2023/04/13/simple-vim-session-management.html) (2 years ago)
 - [Blue Mountain](https://aymanbagabas.com/blog/2022/06/02/blue-mountain.html) (3 years ago)
