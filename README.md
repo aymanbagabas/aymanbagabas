@@ -20,11 +20,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.6.4](https://github.com/charmbracelet/catwalk/releases/tag/v0.6.4), today) - 🐈 A collection of LLM inference providers and models 
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), today) - The glamourous AI coding agent for your favourite terminal 💘
 - [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), 4 days ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 - [go-git/go-git](https://github.com/go-git/go-git) ([v5.16.3](https://github.com/go-git/go-git/releases/tag/v5.16.3), 5 days ago) - A highly extensible Git implementation in pure Go.
 - [charmbracelet/keygen](https://github.com/charmbracelet/keygen) ([v0.5.4](https://github.com/charmbracelet/keygen/releases/tag/v0.5.4), 1 week ago) - An SSH key pair generator 🗝️
-- [charmbracelet/fang](https://github.com/charmbracelet/fang) ([v0.4.3](https://github.com/charmbracelet/fang/releases/tag/v0.4.3), 1 week ago) - The CLI starter kit
 
 #### 🔨 My recent Pull Requests
 
