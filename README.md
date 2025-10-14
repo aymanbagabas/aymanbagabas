@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/huh](https://github.com/charmbracelet/huh) ([v0.8.0](https://github.com/charmbracelet/huh/releases/tag/v0.8.0), today) - Build terminal forms and prompts 🤷🏻‍♀️
 - [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), today) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 - [microsoft/terminal](https://github.com/microsoft/terminal) ([v1.24.2812.0](https://github.com/microsoft/terminal/releases/tag/v1.24.2812.0), 1 day ago) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.11.0](https://github.com/charmbracelet/crush/releases/tag/v0.11.0), 1 day ago) - The glamourous AI coding agent for your favourite terminal 💘
 - [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.6.4](https://github.com/charmbracelet/catwalk/releases/tag/v0.6.4), 4 days ago) - 🐈 A collection of LLM inference providers and models 
-- [go-git/go-git](https://github.com/go-git/go-git) ([v5.16.3](https://github.com/go-git/go-git/releases/tag/v5.16.3), 1 week ago) - A highly extensible Git implementation in pure Go.
 
 #### 🔨 My recent Pull Requests
 
+- [refactor: use v2 declarative API](https://github.com/charmbracelet/crush/pull/1229) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (today)
 - [fix: protect output buffer with mutex](https://github.com/charmbracelet/bubbletea/pull/1502) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 week ago)
 - [(v2) Bubble Tea declarative View API](https://github.com/charmbracelet/bubbletea/pull/1500) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 weeks ago)
 - [feat: add support for terminal progress bars](https://github.com/charmbracelet/bubbletea/pull/1499) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 weeks ago)
 - [feat(server): auto-start server if not running](https://github.com/charmbracelet/crush/pull/1121) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (2 weeks ago)
-- [fix kitty keyboard mode stack logic](https://github.com/raphamorim/rio/pull/1309) on [raphamorim/rio](https://github.com/raphamorim/rio) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
