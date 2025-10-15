@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: renderer: add a trailing newline when exiting inline mode](https://github.com/charmbracelet/bubbletea/pull/1514) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [refactor: use v2 declarative API](https://github.com/charmbracelet/crush/pull/1229) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (1 day ago)
 - [fix: protect output buffer with mutex](https://github.com/charmbracelet/bubbletea/pull/1502) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 weeks ago)
 - [(v2) Bubble Tea declarative View API](https://github.com/charmbracelet/bubbletea/pull/1500) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 weeks ago)
 - [feat: add support for terminal progress bars](https://github.com/charmbracelet/bubbletea/pull/1499) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 weeks ago)
-- [feat(server): auto-start server if not running](https://github.com/charmbracelet/crush/pull/1121) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (3 weeks ago)
 
 #### 📜 My recent blog posts
 
