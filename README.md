@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (1 day ago)
+- [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (today)
 - [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (2 days ago)
 - [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (2 weeks ago)
 - [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers. (3 weeks ago)
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [refactor: introduce terminal lifecycle methods](https://github.com/charmbracelet/ultraviolet/pull/52) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (today)
 - [fix: renderer: add a trailing newline when exiting inline mode](https://github.com/charmbracelet/bubbletea/pull/1514) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
 - [refactor: use v2 declarative API](https://github.com/charmbracelet/crush/pull/1229) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (2 days ago)
 - [fix: protect output buffer with mutex](https://github.com/charmbracelet/bubbletea/pull/1502) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 weeks ago)
 - [(v2) Bubble Tea declarative View API](https://github.com/charmbracelet/bubbletea/pull/1500) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 weeks ago)
-- [feat: add support for terminal progress bars](https://github.com/charmbracelet/bubbletea/pull/1499) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
