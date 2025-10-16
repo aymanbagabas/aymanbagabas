@@ -20,9 +20,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), 1 day ago) - The glamourous AI coding agent for your favourite terminal 💘
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), today) - The glamourous AI coding agent for your favourite terminal 💘
+- [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), today) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 - [charmbracelet/huh](https://github.com/charmbracelet/huh) ([v0.8.0](https://github.com/charmbracelet/huh/releases/tag/v0.8.0), 2 days ago) - Build terminal forms and prompts 🤷🏻‍♀️
-- [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), 2 days ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 - [microsoft/terminal](https://github.com/microsoft/terminal) ([v1.24.2812.0](https://github.com/microsoft/terminal/releases/tag/v1.24.2812.0), 3 days ago) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.6.4](https://github.com/charmbracelet/catwalk/releases/tag/v0.6.4), 6 days ago) - 🐈 A collection of LLM inference providers and models 
 
