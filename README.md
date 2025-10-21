@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat(ansi): add URxvtExt function for URxvt perl extensions](https://github.com/charmbracelet/x/pull/603) on [charmbracelet/x](https://github.com/charmbracelet/x) (today)
 - [feat: implement Stringer for StyledString](https://github.com/charmbracelet/ultraviolet/pull/53) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (5 days ago)
 - [feat(ansi): add DesktopNotification function for OSC 99](https://github.com/charmbracelet/x/pull/600) on [charmbracelet/x](https://github.com/charmbracelet/x) (5 days ago)
 - [chore(ansi): add Notify function tests](https://github.com/charmbracelet/x/pull/599) on [charmbracelet/x](https://github.com/charmbracelet/x) (5 days ago)
 - [refactor: introduce terminal lifecycle methods](https://github.com/charmbracelet/ultraviolet/pull/52) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (5 days ago)
-- [fix: renderer: add a trailing newline when exiting inline mode](https://github.com/charmbracelet/bubbletea/pull/1514) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (6 days ago)
 
 #### 📜 My recent blog posts
 
