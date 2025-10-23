@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.13.0-beta.1](https://github.com/charmbracelet/crush/releases/tag/v0.13.0-beta.1), today) - The glamourous AI coding agent for your favourite terminal 💘
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.12.2](https://github.com/charmbracelet/crush/releases/tag/v0.12.2), today) - The glamourous AI coding agent for your favourite terminal 💘
 - [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), today) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v2.0.0-beta.5](https://github.com/charmbracelet/bubbletea/releases/tag/v2.0.0-beta.5), 1 day ago) - A powerful little TUI framework 🏗
 - [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.7.0](https://github.com/charmbracelet/catwalk/releases/tag/v0.7.0), 1 week ago) - 🐈 A collection of LLM inference providers and models 
@@ -44,11 +44,11 @@
 
 #### ⭐ Recent Stars
 
+- [charmbracelet/fantasy](https://github.com/charmbracelet/fantasy) - Build AI agents with Go. Multiple providers, multiple models, one API 🧙 (today)
 - [raphamorim/fuzzy](https://github.com/raphamorim/fuzzy) - fuzzy matching with Levenshtein, Damerau-Levenshtein, Bitap and n-gram (2 months ago)
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘 (2 months ago)
 - [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (3 months ago)
 - [charmbracelet/fang](https://github.com/charmbracelet/fang) - The CLI starter kit (4 months ago)
-- [mr-karan/lil](https://github.com/mr-karan/lil) - URL Shortener with flexible analytics support, in-memory caching, and an admin UI. (4 months ago)
 
 #### 📫 How to reach me
 
