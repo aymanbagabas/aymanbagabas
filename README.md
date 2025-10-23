@@ -4,10 +4,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (1 day ago)
-- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (2 days ago)
-- [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (6 days ago)
-- [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers. (3 weeks ago)
+- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (2 days ago)
+- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (3 days ago)
+- [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (1 week ago)
+- [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers. (4 weeks ago)
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘 (1 month ago)
 
 #### 🌱 My latest projects
@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.12.1](https://github.com/charmbracelet/crush/releases/tag/v0.12.1), today) - The glamourous AI coding agent for your favourite terminal 💘
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v2.0.0-beta.5](https://github.com/charmbracelet/bubbletea/releases/tag/v2.0.0-beta.5), today) - A powerful little TUI framework 🏗
-- [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), 2 days ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
-- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.7.0](https://github.com/charmbracelet/catwalk/releases/tag/v0.7.0), 6 days ago) - 🐈 A collection of LLM inference providers and models 
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.12.1](https://github.com/charmbracelet/crush/releases/tag/v0.12.1), 1 day ago) - The glamourous AI coding agent for your favourite terminal 💘
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v2.0.0-beta.5](https://github.com/charmbracelet/bubbletea/releases/tag/v2.0.0-beta.5), 1 day ago) - A powerful little TUI framework 🏗
+- [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), 3 days ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
+- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.7.0](https://github.com/charmbracelet/catwalk/releases/tag/v0.7.0), 1 week ago) - 🐈 A collection of LLM inference providers and models 
 - [charmbracelet/huh](https://github.com/charmbracelet/huh) ([v0.8.0](https://github.com/charmbracelet/huh/releases/tag/v0.8.0), 1 week ago) - Build terminal forms and prompts 🤷🏻‍♀️
 
 #### 🔨 My recent Pull Requests
 
-- [feat(ansi): add URxvtExt function for URxvt perl extensions](https://github.com/charmbracelet/x/pull/603) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 day ago)
-- [feat: implement Stringer for StyledString](https://github.com/charmbracelet/ultraviolet/pull/53) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (6 days ago)
-- [feat(ansi): add DesktopNotification function for OSC 99](https://github.com/charmbracelet/x/pull/600) on [charmbracelet/x](https://github.com/charmbracelet/x) (6 days ago)
-- [chore(ansi): add Notify function tests](https://github.com/charmbracelet/x/pull/599) on [charmbracelet/x](https://github.com/charmbracelet/x) (6 days ago)
-- [refactor: introduce terminal lifecycle methods](https://github.com/charmbracelet/ultraviolet/pull/52) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (6 days ago)
+- [feat(ansi): add URxvtExt function for URxvt perl extensions](https://github.com/charmbracelet/x/pull/603) on [charmbracelet/x](https://github.com/charmbracelet/x) (2 days ago)
+- [feat: implement Stringer for StyledString](https://github.com/charmbracelet/ultraviolet/pull/53) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (1 week ago)
+- [feat(ansi): add DesktopNotification function for OSC 99](https://github.com/charmbracelet/x/pull/600) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 week ago)
+- [chore(ansi): add Notify function tests](https://github.com/charmbracelet/x/pull/599) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 week ago)
+- [refactor: introduce terminal lifecycle methods](https://github.com/charmbracelet/ultraviolet/pull/52) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (1 week ago)
 
 #### 📜 My recent blog posts
 
