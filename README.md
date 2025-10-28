@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: add wrap implementation preserving styles and links](https://github.com/charmbracelet/lipgloss/pull/582) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (today)
+- [fix(ansi): double width multiple newlines wrapping](https://github.com/charmbracelet/x/pull/608) on [charmbracelet/x](https://github.com/charmbracelet/x) (today)
 - [fix(renderer): remove carriage returns from frames](https://github.com/charmbracelet/bubbletea/pull/1523) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [fix(ci): update lint directory paths](https://github.com/charmbracelet/x/pull/607) on [charmbracelet/x](https://github.com/charmbracelet/x) (today)
 - [fix(ci): lint working directory to use input directory](https://github.com/charmbracelet/meta/pull/255) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (today)
-- [Add OSC 110/111/112 Support](https://github.com/exg/rxvt-unicode/pull/6) on [exg/rxvt-unicode](https://github.com/exg/rxvt-unicode) (1 day ago)
-- [feat(ansi): add URxvtExt function for URxvt perl extensions](https://github.com/charmbracelet/x/pull/603) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 week ago)
 
 #### 📜 My recent blog posts
 
