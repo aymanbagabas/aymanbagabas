@@ -5,10 +5,10 @@
 #### 👷 Check out what I'm currently working on
 
 - [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (today)
+- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (today)
 - [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (1 day ago)
 - [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (1 day ago)
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘 (5 days ago)
-- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix(renderer): remove carriage returns from frames](https://github.com/charmbracelet/bubbletea/pull/1523) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [fix(ci): update lint directory paths](https://github.com/charmbracelet/x/pull/607) on [charmbracelet/x](https://github.com/charmbracelet/x) (today)
 - [fix(ci): lint working directory to use input directory](https://github.com/charmbracelet/meta/pull/255) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (today)
 - [Add OSC 110/111/112 Support](https://github.com/exg/rxvt-unicode/pull/6) on [exg/rxvt-unicode](https://github.com/exg/rxvt-unicode) (1 day ago)
 - [feat(ansi): add URxvtExt function for URxvt perl extensions](https://github.com/charmbracelet/x/pull/603) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 week ago)
-- [feat: implement Stringer for StyledString](https://github.com/charmbracelet/ultraviolet/pull/53) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (1 week ago)
 
 #### 📜 My recent blog posts
 
