@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: enhance tc support detection](https://github.com/charmbracelet/colorprofile/pull/60) on [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) (today)
+- [fix(tui): disable progress bar for iterm2 and over ssh](https://github.com/charmbracelet/crush/pull/1329) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (today)
 - [Fix issues related to push](https://github.com/go-git/go-git/pull/1705) on [go-git/go-git](https://github.com/go-git/go-git) (today)
 - [feat: add wrap implementation preserving styles and links](https://github.com/charmbracelet/lipgloss/pull/582) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (1 day ago)
 - [fix(ansi): double width multiple newlines wrapping](https://github.com/charmbracelet/x/pull/608) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 day ago)
-- [fix(renderer): remove carriage returns from frames](https://github.com/charmbracelet/bubbletea/pull/1523) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
-- [fix(ci): update lint directory paths](https://github.com/charmbracelet/x/pull/607) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 day ago)
 
 #### 📜 My recent blog posts
 
