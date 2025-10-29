@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) - Magical terminal color handling 🪄 (today)
 - [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers. (today)
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘 (today)
+- [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) - Magical terminal color handling 🪄 (today)
 - [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (1 day ago)
-- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (1 day ago)
-- [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (2 days ago)
+- [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go. (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix unrecognized OSC 9 ; 4 sequences](https://github.com/gnachman/iTerm2/pull/528) on [gnachman/iTerm2](https://github.com/gnachman/iTerm2) (today)
 - [feat: add XTVERSION support](https://github.com/raphamorim/rio/pull/1347) on [raphamorim/rio](https://github.com/raphamorim/rio) (today)
 - [feat: enhance tc support detection](https://github.com/charmbracelet/colorprofile/pull/60) on [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) (today)
 - [fix(tui): disable progress bar for iterm2 and over ssh](https://github.com/charmbracelet/crush/pull/1329) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (today)
 - [Fix issues related to push](https://github.com/go-git/go-git/pull/1705) on [go-git/go-git](https://github.com/go-git/go-git) (today)
-- [feat: add wrap implementation preserving styles and links](https://github.com/charmbracelet/lipgloss/pull/582) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (1 day ago)
 
 #### 📜 My recent blog posts
 
