@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Merge master into v2-exp](https://github.com/charmbracelet/lipgloss/pull/584) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (today)
 - [plumbing: transport, refactor transport Endpoint to use url.URL](https://github.com/go-git/go-git/pull/1706) on [go-git/go-git](https://github.com/go-git/go-git) (today)
 - [fix: upgrade bubbletea to fix rendering issues](https://github.com/charmbracelet/crush/pull/1340) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (today)
 - [fix: renderer: avoid requesting keyboard enhancements on close](https://github.com/charmbracelet/bubbletea/pull/1527) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [fix: renderer: ensure we reset cursor style and color on close](https://github.com/charmbracelet/bubbletea/pull/1526) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
-- [fix: renderer: sync buffer resize with frame rate](https://github.com/charmbracelet/bubbletea/pull/1525) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 
 #### 📜 My recent blog posts
 
