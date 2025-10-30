@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.8.2](https://github.com/charmbracelet/catwalk/releases/tag/v0.8.2), today) - 🐈 A collection of LLM inference providers and models 
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.13.6](https://github.com/charmbracelet/crush/releases/tag/v0.13.6), today) - The glamourous AI coding agent for your favourite terminal 💘
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v2.0.0-beta.6](https://github.com/charmbracelet/bubbletea/releases/tag/v2.0.0-beta.6), today) - A powerful little TUI framework 🏗
 - [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), today) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.13.5](https://github.com/charmbracelet/crush/releases/tag/v0.13.5), 1 day ago) - The glamourous AI coding agent for your favourite terminal 💘
-- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.8.1](https://github.com/charmbracelet/catwalk/releases/tag/v0.8.1), 2 days ago) - 🐈 A collection of LLM inference providers and models 
 - [charmbracelet/huh](https://github.com/charmbracelet/huh) ([v0.8.0](https://github.com/charmbracelet/huh/releases/tag/v0.8.0), 2 weeks ago) - Build terminal forms and prompts 🤷🏻‍♀️
 
 #### 🔨 My recent Pull Requests
 
+- [plumbing: transport, refactor transport Endpoint to use url.URL](https://github.com/go-git/go-git/pull/1706) on [go-git/go-git](https://github.com/go-git/go-git) (today)
 - [fix: upgrade bubbletea to fix rendering issues](https://github.com/charmbracelet/crush/pull/1340) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (today)
 - [fix: renderer: avoid requesting keyboard enhancements on close](https://github.com/charmbracelet/bubbletea/pull/1527) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [fix: renderer: ensure we reset cursor style and color on close](https://github.com/charmbracelet/bubbletea/pull/1526) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [fix: renderer: sync buffer resize with frame rate](https://github.com/charmbracelet/bubbletea/pull/1525) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
-- [Fix unrecognized OSC 9 ; 4 sequences](https://github.com/gnachman/iTerm2/pull/528) on [gnachman/iTerm2](https://github.com/gnachman/iTerm2) (1 day ago)
 
 #### 📜 My recent blog posts
 
