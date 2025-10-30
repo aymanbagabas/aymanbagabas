@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers. (today)
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘 (today)
-- [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) - Magical terminal color handling 🪄 (today)
-- [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (1 day ago)
-- [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go. (1 day ago)
+- [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers. (1 day ago)
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘 (1 day ago)
+- [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) - Magical terminal color handling 🪄 (1 day ago)
+- [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (2 days ago)
+- [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go. (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.13.5](https://github.com/charmbracelet/crush/releases/tag/v0.13.5), today) - The glamourous AI coding agent for your favourite terminal 💘
-- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.8.1](https://github.com/charmbracelet/catwalk/releases/tag/v0.8.1), 1 day ago) - 🐈 A collection of LLM inference providers and models 
-- [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), 6 days ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.13.5](https://github.com/charmbracelet/crush/releases/tag/v0.13.5), 1 day ago) - The glamourous AI coding agent for your favourite terminal 💘
+- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.8.1](https://github.com/charmbracelet/catwalk/releases/tag/v0.8.1), 2 days ago) - 🐈 A collection of LLM inference providers and models 
+- [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), 1 week ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v2.0.0-beta.5](https://github.com/charmbracelet/bubbletea/releases/tag/v2.0.0-beta.5), 1 week ago) - A powerful little TUI framework 🏗
 - [charmbracelet/huh](https://github.com/charmbracelet/huh) ([v0.8.0](https://github.com/charmbracelet/huh/releases/tag/v0.8.0), 2 weeks ago) - Build terminal forms and prompts 🤷🏻‍♀️
 
 #### 🔨 My recent Pull Requests
 
-- [Fix unrecognized OSC 9 ; 4 sequences](https://github.com/gnachman/iTerm2/pull/528) on [gnachman/iTerm2](https://github.com/gnachman/iTerm2) (today)
-- [feat: add XTVERSION support](https://github.com/raphamorim/rio/pull/1347) on [raphamorim/rio](https://github.com/raphamorim/rio) (today)
-- [feat: enhance tc support detection](https://github.com/charmbracelet/colorprofile/pull/60) on [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) (today)
-- [fix(tui): disable progress bar for iterm2 and over ssh](https://github.com/charmbracelet/crush/pull/1329) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (today)
-- [Fix issues related to push](https://github.com/go-git/go-git/pull/1705) on [go-git/go-git](https://github.com/go-git/go-git) (today)
+- [Fix unrecognized OSC 9 ; 4 sequences](https://github.com/gnachman/iTerm2/pull/528) on [gnachman/iTerm2](https://github.com/gnachman/iTerm2) (1 day ago)
+- [feat: add XTVERSION support](https://github.com/raphamorim/rio/pull/1347) on [raphamorim/rio](https://github.com/raphamorim/rio) (1 day ago)
+- [feat: enhance tc support detection](https://github.com/charmbracelet/colorprofile/pull/60) on [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) (1 day ago)
+- [fix(tui): disable progress bar for iterm2 and over ssh](https://github.com/charmbracelet/crush/pull/1329) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (1 day ago)
+- [Fix issues related to push](https://github.com/go-git/go-git/pull/1705) on [go-git/go-git](https://github.com/go-git/go-git) (1 day ago)
 
 #### 📜 My recent blog posts
 
@@ -44,7 +44,7 @@
 
 #### ⭐ Recent Stars
 
-- [charmbracelet/fantasy](https://github.com/charmbracelet/fantasy) - Build AI agents with Go. Multiple providers, multiple models, one API 🧙 (6 days ago)
+- [charmbracelet/fantasy](https://github.com/charmbracelet/fantasy) - Build AI agents with Go. Multiple providers, multiple models, one API 🧙 (1 week ago)
 - [raphamorim/fuzzy](https://github.com/raphamorim/fuzzy) - fuzzy matching with Levenshtein, Damerau-Levenshtein, Bitap and n-gram (3 months ago)
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘 (3 months ago)
 - [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (3 months ago)
