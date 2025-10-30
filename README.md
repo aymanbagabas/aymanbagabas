@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: renderer: avoid requesting keyboard enhancements on close](https://github.com/charmbracelet/bubbletea/pull/1527) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
+- [fix: renderer: ensure we reset cursor style and color on close](https://github.com/charmbracelet/bubbletea/pull/1526) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [fix: renderer: sync buffer resize with frame rate](https://github.com/charmbracelet/bubbletea/pull/1525) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [Fix unrecognized OSC 9 ; 4 sequences](https://github.com/gnachman/iTerm2/pull/528) on [gnachman/iTerm2](https://github.com/gnachman/iTerm2) (1 day ago)
 - [feat: add XTVERSION support](https://github.com/raphamorim/rio/pull/1347) on [raphamorim/rio](https://github.com/raphamorim/rio) (1 day ago)
-- [feat: enhance tc support detection](https://github.com/charmbracelet/colorprofile/pull/60) on [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) (1 day ago)
-- [fix(tui): disable progress bar for iterm2 and over ssh](https://github.com/charmbracelet/crush/pull/1329) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (1 day ago)
 
 #### 📜 My recent blog posts
 
