@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘 (1 day ago)
-- [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) - Magical terminal color handling 🪄 (2 days ago)
-- [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers. (2 days ago)
-- [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go. (3 days ago)
-- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (3 days ago)
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘 (2 days ago)
+- [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) - Magical terminal color handling 🪄 (3 days ago)
+- [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers. (3 days ago)
+- [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go. (4 days ago)
+- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.13.7](https://github.com/charmbracelet/crush/releases/tag/v0.13.7), today) - The glamourous AI coding agent for your favourite terminal 💘
-- [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), today) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
-- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.8.2](https://github.com/charmbracelet/catwalk/releases/tag/v0.8.2), 1 day ago) - 🐈 A collection of LLM inference providers and models 
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v2.0.0-beta.6](https://github.com/charmbracelet/bubbletea/releases/tag/v2.0.0-beta.6), 1 day ago) - A powerful little TUI framework 🏗
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.13.7](https://github.com/charmbracelet/crush/releases/tag/v0.13.7), 1 day ago) - The glamourous AI coding agent for your favourite terminal 💘
+- [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), 1 day ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
+- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.8.2](https://github.com/charmbracelet/catwalk/releases/tag/v0.8.2), 2 days ago) - 🐈 A collection of LLM inference providers and models 
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v2.0.0-beta.6](https://github.com/charmbracelet/bubbletea/releases/tag/v2.0.0-beta.6), 2 days ago) - A powerful little TUI framework 🏗
 - [charmbracelet/huh](https://github.com/charmbracelet/huh) ([v0.8.0](https://github.com/charmbracelet/huh/releases/tag/v0.8.0), 2 weeks ago) - Build terminal forms and prompts 🤷🏻‍♀️
 
 #### 🔨 My recent Pull Requests
 
-- [Merge master into v2-exp](https://github.com/charmbracelet/lipgloss/pull/584) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (1 day ago)
-- [plumbing: transport, refactor transport Endpoint to use url.URL](https://github.com/go-git/go-git/pull/1706) on [go-git/go-git](https://github.com/go-git/go-git) (1 day ago)
-- [fix: upgrade bubbletea to fix rendering issues](https://github.com/charmbracelet/crush/pull/1340) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (1 day ago)
-- [fix: renderer: avoid requesting keyboard enhancements on close](https://github.com/charmbracelet/bubbletea/pull/1527) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
-- [fix: renderer: ensure we reset cursor style and color on close](https://github.com/charmbracelet/bubbletea/pull/1526) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
+- [Merge master into v2-exp](https://github.com/charmbracelet/lipgloss/pull/584) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (2 days ago)
+- [plumbing: transport, refactor transport Endpoint to use url.URL](https://github.com/go-git/go-git/pull/1706) on [go-git/go-git](https://github.com/go-git/go-git) (2 days ago)
+- [fix: upgrade bubbletea to fix rendering issues](https://github.com/charmbracelet/crush/pull/1340) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (2 days ago)
+- [fix: renderer: avoid requesting keyboard enhancements on close](https://github.com/charmbracelet/bubbletea/pull/1527) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 days ago)
+- [fix: renderer: ensure we reset cursor style and color on close](https://github.com/charmbracelet/bubbletea/pull/1526) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 days ago)
 
 #### 📜 My recent blog posts
 
