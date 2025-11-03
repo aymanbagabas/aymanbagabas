@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [perft: lazy render model after event loop](https://github.com/charmbracelet/bubbletea/pull/1532) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [Revert &#34;ci: simplify dependabot config (#595)&#34;](https://github.com/charmbracelet/x/pull/614) on [charmbracelet/x](https://github.com/charmbracelet/x) (today)
 - [Merge master into v2-exp](https://github.com/charmbracelet/lipgloss/pull/584) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (4 days ago)
 - [plumbing: transport, refactor transport Endpoint to use url.URL](https://github.com/go-git/go-git/pull/1706) on [go-git/go-git](https://github.com/go-git/go-git) (4 days ago)
 - [fix: upgrade bubbletea to fix rendering issues](https://github.com/charmbracelet/crush/pull/1340) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (4 days ago)
-- [fix: renderer: avoid requesting keyboard enhancements on close](https://github.com/charmbracelet/bubbletea/pull/1527) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (4 days ago)
 
 #### 📜 My recent blog posts
 
