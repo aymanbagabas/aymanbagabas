@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) - Magical terminal color handling 🪄 (today)
 - [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (today)
 - [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (today)
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘 (4 days ago)
-- [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers. (5 days ago)
-- [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) - Magical terminal color handling 🪄 (5 days ago)
+- [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go. (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: show progress bar on boot for feedback](https://github.com/charmbracelet/crush/pull/1375) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (today)
 - [perft: lazy render model after event loop](https://github.com/charmbracelet/bubbletea/pull/1532) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [Revert &#34;ci: simplify dependabot config (#595)&#34;](https://github.com/charmbracelet/x/pull/614) on [charmbracelet/x](https://github.com/charmbracelet/x) (today)
 - [Merge master into v2-exp](https://github.com/charmbracelet/lipgloss/pull/584) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (4 days ago)
 - [plumbing: transport, refactor transport Endpoint to use url.URL](https://github.com/go-git/go-git/pull/1706) on [go-git/go-git](https://github.com/go-git/go-git) (4 days ago)
-- [fix: upgrade bubbletea to fix rendering issues](https://github.com/charmbracelet/crush/pull/1340) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (4 days ago)
 
 #### 📜 My recent blog posts
 
