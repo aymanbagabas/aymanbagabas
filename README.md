@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), 2 days ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
+- [raphamorim/rio](https://github.com/raphamorim/rio) ([v0.2.34](https://github.com/raphamorim/rio/releases/tag/v0.2.34), today) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.13.7](https://github.com/charmbracelet/crush/releases/tag/v0.13.7), 3 days ago) - The glamourous AI coding agent for your favourite terminal 💘
 - [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.8.2](https://github.com/charmbracelet/catwalk/releases/tag/v0.8.2), 4 days ago) - 🐈 A collection of LLM inference providers and models 
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v2.0.0-beta.6](https://github.com/charmbracelet/bubbletea/releases/tag/v2.0.0-beta.6), 4 days ago) - A powerful little TUI framework 🏗
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Revert &#34;ci: simplify dependabot config (#595)&#34;](https://github.com/charmbracelet/x/pull/614) on [charmbracelet/x](https://github.com/charmbracelet/x) (today)
 - [Merge master into v2-exp](https://github.com/charmbracelet/lipgloss/pull/584) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (4 days ago)
 - [plumbing: transport, refactor transport Endpoint to use url.URL](https://github.com/go-git/go-git/pull/1706) on [go-git/go-git](https://github.com/go-git/go-git) (4 days ago)
 - [fix: upgrade bubbletea to fix rendering issues](https://github.com/charmbracelet/crush/pull/1340) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (4 days ago)
 - [fix: renderer: avoid requesting keyboard enhancements on close](https://github.com/charmbracelet/bubbletea/pull/1527) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (4 days ago)
-- [fix: renderer: ensure we reset cursor style and color on close](https://github.com/charmbracelet/bubbletea/pull/1526) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (4 days ago)
 
 #### 📜 My recent blog posts
 
