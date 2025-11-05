@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (today)
-- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (1 day ago)
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘 (1 day ago)
-- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (1 day ago)
-- [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) - Magical terminal color handling 🪄 (1 day ago)
+- [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (1 day ago)
+- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (2 days ago)
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘 (2 days ago)
+- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (2 days ago)
+- [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) - Magical terminal color handling 🪄 (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v2.0.0-rc.1](https://github.com/charmbracelet/bubbletea/releases/tag/v2.0.0-rc.1), today) - A powerful little TUI framework 🏗
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.14.0](https://github.com/charmbracelet/crush/releases/tag/v0.14.0), today) - The glamourous AI coding agent for your favourite terminal 💘
-- [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), today) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
-- [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) ([v0.3.3](https://github.com/charmbracelet/colorprofile/releases/tag/v0.3.3), 1 day ago) - Magical terminal color handling 🪄
-- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.8.2](https://github.com/charmbracelet/catwalk/releases/tag/v0.8.2), 5 days ago) - 🐈 A collection of LLM inference providers and models 
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v2.0.0-rc.1](https://github.com/charmbracelet/bubbletea/releases/tag/v2.0.0-rc.1), 1 day ago) - A powerful little TUI framework 🏗
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.14.0](https://github.com/charmbracelet/crush/releases/tag/v0.14.0), 1 day ago) - The glamourous AI coding agent for your favourite terminal 💘
+- [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), 1 day ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
+- [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) ([v0.3.3](https://github.com/charmbracelet/colorprofile/releases/tag/v0.3.3), 2 days ago) - Magical terminal color handling 🪄
+- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.8.2](https://github.com/charmbracelet/catwalk/releases/tag/v0.8.2), 6 days ago) - 🐈 A collection of LLM inference providers and models 
 
 #### 🔨 My recent Pull Requests
 
-- [feat: show progress bar on boot for feedback](https://github.com/charmbracelet/crush/pull/1375) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (1 day ago)
-- [perft: lazy render model after event loop](https://github.com/charmbracelet/bubbletea/pull/1532) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
-- [Revert &#34;ci: simplify dependabot config (#595)&#34;](https://github.com/charmbracelet/x/pull/614) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 day ago)
-- [Merge master into v2-exp](https://github.com/charmbracelet/lipgloss/pull/584) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (5 days ago)
-- [plumbing: transport, refactor transport Endpoint to use url.URL](https://github.com/go-git/go-git/pull/1706) on [go-git/go-git](https://github.com/go-git/go-git) (5 days ago)
+- [feat: show progress bar on boot for feedback](https://github.com/charmbracelet/crush/pull/1375) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (2 days ago)
+- [perft: lazy render model after event loop](https://github.com/charmbracelet/bubbletea/pull/1532) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 days ago)
+- [Revert &#34;ci: simplify dependabot config (#595)&#34;](https://github.com/charmbracelet/x/pull/614) on [charmbracelet/x](https://github.com/charmbracelet/x) (2 days ago)
+- [Merge master into v2-exp](https://github.com/charmbracelet/lipgloss/pull/584) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (6 days ago)
+- [plumbing: transport, refactor transport Endpoint to use url.URL](https://github.com/go-git/go-git/pull/1706) on [go-git/go-git](https://github.com/go-git/go-git) (6 days ago)
 
 #### 📜 My recent blog posts
 
