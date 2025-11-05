@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [refactor(ansi): rename constants to use prefixed typing convention](https://github.com/charmbracelet/x/pull/629) on [charmbracelet/x](https://github.com/charmbracelet/x) (today)
 - [feat: show progress bar on boot for feedback](https://github.com/charmbracelet/crush/pull/1375) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (2 days ago)
 - [perft: lazy render model after event loop](https://github.com/charmbracelet/bubbletea/pull/1532) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 days ago)
 - [Revert &#34;ci: simplify dependabot config (#595)&#34;](https://github.com/charmbracelet/x/pull/614) on [charmbracelet/x](https://github.com/charmbracelet/x) (2 days ago)
 - [Merge master into v2-exp](https://github.com/charmbracelet/lipgloss/pull/584) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (6 days ago)
-- [plumbing: transport, refactor transport Endpoint to use url.URL](https://github.com/go-git/go-git/pull/1706) on [go-git/go-git](https://github.com/go-git/go-git) (6 days ago)
 
 #### 📜 My recent blog posts
 
