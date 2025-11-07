@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [chore: upgrade dependencies and fix related code](https://github.com/charmbracelet/crush/pull/1404) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (today)
 - [refactor: rename View.Layer to View.Content for clarity](https://github.com/charmbracelet/bubbletea/pull/1536) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
 - [refactor: keyboard enhancements api improvements](https://github.com/charmbracelet/bubbletea/pull/1534) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 days ago)
 - [refactor(ansi): rename constants to use prefixed typing convention](https://github.com/charmbracelet/x/pull/629) on [charmbracelet/x](https://github.com/charmbracelet/x) (2 days ago)
 - [feat: show progress bar on boot for feedback](https://github.com/charmbracelet/crush/pull/1375) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (4 days ago)
-- [perft: lazy render model after event loop](https://github.com/charmbracelet/bubbletea/pull/1532) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (4 days ago)
 
 #### 📜 My recent blog posts
 
