@@ -20,9 +20,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), today) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.16.1](https://github.com/charmbracelet/crush/releases/tag/v0.16.1), 1 day ago) - The glamourous AI coding agent for your favourite terminal 💘
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.11.0](https://github.com/charmbracelet/soft-serve/releases/tag/v0.11.0), 2 days ago) - The mighty, self-hostable Git server for the command line🍦
-- [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), 3 days ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v2.0.0-rc.1](https://github.com/charmbracelet/bubbletea/releases/tag/v2.0.0-rc.1), 4 days ago) - A powerful little TUI framework 🏗
 - [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) ([v0.3.3](https://github.com/charmbracelet/colorprofile/releases/tag/v0.3.3), 5 days ago) - Magical terminal color handling 🪄
 
