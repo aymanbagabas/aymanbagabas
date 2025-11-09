@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘 (1 day ago)
-- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (1 day ago)
-- [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (2 days ago)
-- [charmbracelet/fang](https://github.com/charmbracelet/fang) - The CLI starter kit (2 days ago)
-- [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (2 days ago)
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘 (2 days ago)
+- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (2 days ago)
+- [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (3 days ago)
+- [charmbracelet/fang](https://github.com/charmbracelet/fang) - The CLI starter kit (3 days ago)
+- [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), today) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.16.1](https://github.com/charmbracelet/crush/releases/tag/v0.16.1), 1 day ago) - The glamourous AI coding agent for your favourite terminal 💘
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.11.0](https://github.com/charmbracelet/soft-serve/releases/tag/v0.11.0), 2 days ago) - The mighty, self-hostable Git server for the command line🍦
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v2.0.0-rc.1](https://github.com/charmbracelet/bubbletea/releases/tag/v2.0.0-rc.1), 4 days ago) - A powerful little TUI framework 🏗
-- [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) ([v0.3.3](https://github.com/charmbracelet/colorprofile/releases/tag/v0.3.3), 5 days ago) - Magical terminal color handling 🪄
+- [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), 1 day ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.16.1](https://github.com/charmbracelet/crush/releases/tag/v0.16.1), 2 days ago) - The glamourous AI coding agent for your favourite terminal 💘
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.11.0](https://github.com/charmbracelet/soft-serve/releases/tag/v0.11.0), 3 days ago) - The mighty, self-hostable Git server for the command line🍦
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v2.0.0-rc.1](https://github.com/charmbracelet/bubbletea/releases/tag/v2.0.0-rc.1), 5 days ago) - A powerful little TUI framework 🏗
+- [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) ([v0.3.3](https://github.com/charmbracelet/colorprofile/releases/tag/v0.3.3), 6 days ago) - Magical terminal color handling 🪄
 
 #### 🔨 My recent Pull Requests
 
-- [feat(vttest): add vttest for testing actual terminal applications](https://github.com/charmbracelet/x/pull/630) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 day ago)
-- [chore: upgrade dependencies and fix related code](https://github.com/charmbracelet/crush/pull/1404) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (1 day ago)
-- [refactor: rename View.Layer to View.Content for clarity](https://github.com/charmbracelet/bubbletea/pull/1536) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 days ago)
-- [refactor: keyboard enhancements api improvements](https://github.com/charmbracelet/bubbletea/pull/1534) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (3 days ago)
-- [refactor(ansi): rename constants to use prefixed typing convention](https://github.com/charmbracelet/x/pull/629) on [charmbracelet/x](https://github.com/charmbracelet/x) (3 days ago)
+- [feat(vttest): add vttest for testing actual terminal applications](https://github.com/charmbracelet/x/pull/630) on [charmbracelet/x](https://github.com/charmbracelet/x) (2 days ago)
+- [chore: upgrade dependencies and fix related code](https://github.com/charmbracelet/crush/pull/1404) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (2 days ago)
+- [refactor: rename View.Layer to View.Content for clarity](https://github.com/charmbracelet/bubbletea/pull/1536) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (3 days ago)
+- [refactor: keyboard enhancements api improvements](https://github.com/charmbracelet/bubbletea/pull/1534) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (4 days ago)
+- [refactor(ansi): rename constants to use prefixed typing convention](https://github.com/charmbracelet/x/pull/629) on [charmbracelet/x](https://github.com/charmbracelet/x) (4 days ago)
 
 #### 📜 My recent blog posts
 
