@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), 1 day ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
+- [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), today) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.16.1](https://github.com/charmbracelet/crush/releases/tag/v0.16.1), 3 days ago) - The glamourous AI coding agent for your favourite terminal 💘
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.11.0](https://github.com/charmbracelet/soft-serve/releases/tag/v0.11.0), 4 days ago) - The mighty, self-hostable Git server for the command line🍦
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v2.0.0-rc.1](https://github.com/charmbracelet/bubbletea/releases/tag/v2.0.0-rc.1), 6 days ago) - A powerful little TUI framework 🏗
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [chore: bump dependencies to latest versions](https://github.com/opt-nc/geol/pull/149) on [opt-nc/geol](https://github.com/opt-nc/geol) (today)
 - [feat(vttest): add vttest for testing actual terminal applications](https://github.com/charmbracelet/x/pull/630) on [charmbracelet/x](https://github.com/charmbracelet/x) (3 days ago)
 - [chore: upgrade dependencies and fix related code](https://github.com/charmbracelet/crush/pull/1404) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (3 days ago)
 - [refactor: rename View.Layer to View.Content for clarity](https://github.com/charmbracelet/bubbletea/pull/1536) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (4 days ago)
 - [refactor: keyboard enhancements api improvements](https://github.com/charmbracelet/bubbletea/pull/1534) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (5 days ago)
-- [refactor(ansi): rename constants to use prefixed typing convention](https://github.com/charmbracelet/x/pull/629) on [charmbracelet/x](https://github.com/charmbracelet/x) (5 days ago)
 
 #### 📜 My recent blog posts
 
