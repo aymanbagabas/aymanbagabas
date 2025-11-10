@@ -28,7 +28,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [chore: bump dependencies to latest versions](https://github.com/opt-nc/geol/pull/149) on [opt-nc/geol](https://github.com/opt-nc/geol) (today)
+- [:gift: chore: bump dependencies to latest versions :raised_hands: ](https://github.com/opt-nc/geol/pull/149) on [opt-nc/geol](https://github.com/opt-nc/geol) (today)
 - [feat(vttest): add vttest for testing actual terminal applications](https://github.com/charmbracelet/x/pull/630) on [charmbracelet/x](https://github.com/charmbracelet/x) (3 days ago)
 - [chore: upgrade dependencies and fix related code](https://github.com/charmbracelet/crush/pull/1404) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (3 days ago)
 - [refactor: rename View.Layer to View.Content for clarity](https://github.com/charmbracelet/bubbletea/pull/1536) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (4 days ago)
