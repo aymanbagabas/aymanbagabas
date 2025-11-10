@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [refactor: migrate to charm.land module path](https://github.com/charmbracelet/fang/pull/81) on [charmbracelet/fang](https://github.com/charmbracelet/fang) (today)
+- [refactor: migrate to charm.land/wish/v2 module path](https://github.com/charmbracelet/wish/pull/510) on [charmbracelet/wish](https://github.com/charmbracelet/wish) (today)
+- [refactor: migrate to charm.land domain](https://github.com/charmbracelet/log/pull/190) on [charmbracelet/log](https://github.com/charmbracelet/log) (today)
+- [refactor: migrate to charm.land module path](https://github.com/charmbracelet/glamour/pull/489) on [charmbracelet/glamour](https://github.com/charmbracelet/glamour) (today)
 - [:gift: chore: bump dependencies to latest versions :raised_hands: ](https://github.com/opt-nc/geol/pull/149) on [opt-nc/geol](https://github.com/opt-nc/geol) (today)
-- [feat(vttest): add vttest for testing actual terminal applications](https://github.com/charmbracelet/x/pull/630) on [charmbracelet/x](https://github.com/charmbracelet/x) (3 days ago)
-- [chore: upgrade dependencies and fix related code](https://github.com/charmbracelet/crush/pull/1404) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (3 days ago)
-- [refactor: rename View.Layer to View.Content for clarity](https://github.com/charmbracelet/bubbletea/pull/1536) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (4 days ago)
-- [refactor: keyboard enhancements api improvements](https://github.com/charmbracelet/bubbletea/pull/1534) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (5 days ago)
 
 #### 📜 My recent blog posts
 
