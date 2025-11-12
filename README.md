@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (today)
+- [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go. (today)
 - [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (2 days ago)
-- [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (2 days ago)
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘 (5 days ago)
 - [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (6 days ago)
-- [charmbracelet/fang](https://github.com/charmbracelet/fang) - The CLI starter kit (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: a nil Cell is equal to an empty Cell](https://github.com/charmbracelet/ultraviolet/pull/58) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (today)
 - [plumbing: transport, fix ssh missing port in addr](https://github.com/go-git/go-git/pull/1720) on [go-git/go-git](https://github.com/go-git/go-git) (today)
 - [refactor: migrate to charm.land module path](https://github.com/charmbracelet/fang/pull/81) on [charmbracelet/fang](https://github.com/charmbracelet/fang) (2 days ago)
 - [refactor: migrate to charm.land/wish/v2 module path](https://github.com/charmbracelet/wish/pull/510) on [charmbracelet/wish](https://github.com/charmbracelet/wish) (2 days ago)
 - [refactor: migrate to charm.land domain](https://github.com/charmbracelet/log/pull/190) on [charmbracelet/log](https://github.com/charmbracelet/log) (2 days ago)
-- [refactor: migrate to charm.land module path](https://github.com/charmbracelet/glamour/pull/489) on [charmbracelet/glamour](https://github.com/charmbracelet/glamour) (2 days ago)
 
 #### 📜 My recent blog posts
 
