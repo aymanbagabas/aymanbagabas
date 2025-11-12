@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (1 day ago)
-- [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (1 day ago)
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘 (4 days ago)
-- [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (5 days ago)
-- [charmbracelet/fang](https://github.com/charmbracelet/fang) - The CLI starter kit (5 days ago)
+- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (2 days ago)
+- [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (2 days ago)
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘 (5 days ago)
+- [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (6 days ago)
+- [charmbracelet/fang](https://github.com/charmbracelet/fang) - The CLI starter kit (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.11.1](https://github.com/charmbracelet/soft-serve/releases/tag/v0.11.1), 1 day ago) - The mighty, self-hostable Git server for the command line🍦
-- [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), 1 day ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.16.1](https://github.com/charmbracelet/crush/releases/tag/v0.16.1), 4 days ago) - The glamourous AI coding agent for your favourite terminal 💘
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.11.1](https://github.com/charmbracelet/soft-serve/releases/tag/v0.11.1), 2 days ago) - The mighty, self-hostable Git server for the command line🍦
+- [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), 2 days ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.16.1](https://github.com/charmbracelet/crush/releases/tag/v0.16.1), 5 days ago) - The glamourous AI coding agent for your favourite terminal 💘
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v2.0.0-rc.1](https://github.com/charmbracelet/bubbletea/releases/tag/v2.0.0-rc.1), 1 week ago) - A powerful little TUI framework 🏗
 - [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) ([v0.3.3](https://github.com/charmbracelet/colorprofile/releases/tag/v0.3.3), 1 week ago) - Magical terminal color handling 🪄
 
 #### 🔨 My recent Pull Requests
 
-- [refactor: migrate to charm.land module path](https://github.com/charmbracelet/fang/pull/81) on [charmbracelet/fang](https://github.com/charmbracelet/fang) (1 day ago)
-- [refactor: migrate to charm.land/wish/v2 module path](https://github.com/charmbracelet/wish/pull/510) on [charmbracelet/wish](https://github.com/charmbracelet/wish) (1 day ago)
-- [refactor: migrate to charm.land domain](https://github.com/charmbracelet/log/pull/190) on [charmbracelet/log](https://github.com/charmbracelet/log) (1 day ago)
-- [refactor: migrate to charm.land module path](https://github.com/charmbracelet/glamour/pull/489) on [charmbracelet/glamour](https://github.com/charmbracelet/glamour) (1 day ago)
-- [:gift: chore: bump dependencies to latest versions :raised_hands: ](https://github.com/opt-nc/geol/pull/149) on [opt-nc/geol](https://github.com/opt-nc/geol) (1 day ago)
+- [refactor: migrate to charm.land module path](https://github.com/charmbracelet/fang/pull/81) on [charmbracelet/fang](https://github.com/charmbracelet/fang) (2 days ago)
+- [refactor: migrate to charm.land/wish/v2 module path](https://github.com/charmbracelet/wish/pull/510) on [charmbracelet/wish](https://github.com/charmbracelet/wish) (2 days ago)
+- [refactor: migrate to charm.land domain](https://github.com/charmbracelet/log/pull/190) on [charmbracelet/log](https://github.com/charmbracelet/log) (2 days ago)
+- [refactor: migrate to charm.land module path](https://github.com/charmbracelet/glamour/pull/489) on [charmbracelet/glamour](https://github.com/charmbracelet/glamour) (2 days ago)
+- [:gift: chore: bump dependencies to latest versions :raised_hands: ](https://github.com/opt-nc/geol/pull/149) on [opt-nc/geol](https://github.com/opt-nc/geol) (2 days ago)
 
 #### 📜 My recent blog posts
 
