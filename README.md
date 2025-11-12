@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [plumbing: transport, fix ssh missing port in addr](https://github.com/go-git/go-git/pull/1720) on [go-git/go-git](https://github.com/go-git/go-git) (today)
 - [refactor: migrate to charm.land module path](https://github.com/charmbracelet/fang/pull/81) on [charmbracelet/fang](https://github.com/charmbracelet/fang) (2 days ago)
 - [refactor: migrate to charm.land/wish/v2 module path](https://github.com/charmbracelet/wish/pull/510) on [charmbracelet/wish](https://github.com/charmbracelet/wish) (2 days ago)
 - [refactor: migrate to charm.land domain](https://github.com/charmbracelet/log/pull/190) on [charmbracelet/log](https://github.com/charmbracelet/log) (2 days ago)
 - [refactor: migrate to charm.land module path](https://github.com/charmbracelet/glamour/pull/489) on [charmbracelet/glamour](https://github.com/charmbracelet/glamour) (2 days ago)
-- [:gift: chore: bump dependencies to latest versions :raised_hands: ](https://github.com/opt-nc/geol/pull/149) on [opt-nc/geol](https://github.com/opt-nc/geol) (2 days ago)
 
 #### 📜 My recent blog posts
 
