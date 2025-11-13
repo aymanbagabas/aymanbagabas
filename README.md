@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (today)
-- [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go. (today)
-- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (2 days ago)
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘 (5 days ago)
-- [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (6 days ago)
+- [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (1 day ago)
+- [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go. (1 day ago)
+- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (3 days ago)
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘 (6 days ago)
+- [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.17.0](https://github.com/charmbracelet/crush/releases/tag/v0.17.0), today) - The glamourous AI coding agent for your favourite terminal 💘
-- [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), today) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.11.1](https://github.com/charmbracelet/soft-serve/releases/tag/v0.11.1), 2 days ago) - The mighty, self-hostable Git server for the command line🍦
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.17.0](https://github.com/charmbracelet/crush/releases/tag/v0.17.0), 1 day ago) - The glamourous AI coding agent for your favourite terminal 💘
+- [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), 1 day ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.11.1](https://github.com/charmbracelet/soft-serve/releases/tag/v0.11.1), 3 days ago) - The mighty, self-hostable Git server for the command line🍦
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v2.0.0-rc.1](https://github.com/charmbracelet/bubbletea/releases/tag/v2.0.0-rc.1), 1 week ago) - A powerful little TUI framework 🏗
 - [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) ([v0.3.3](https://github.com/charmbracelet/colorprofile/releases/tag/v0.3.3), 1 week ago) - Magical terminal color handling 🪄
 
 #### 🔨 My recent Pull Requests
 
-- [feat: renderer: make cursor auto-hide during flush configurable](https://github.com/charmbracelet/ultraviolet/pull/59) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (today)
-- [fix: a nil Cell is equal to an empty Cell](https://github.com/charmbracelet/ultraviolet/pull/58) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (today)
-- [plumbing: transport, fix ssh missing port in addr](https://github.com/go-git/go-git/pull/1720) on [go-git/go-git](https://github.com/go-git/go-git) (today)
-- [refactor: migrate to charm.land module path](https://github.com/charmbracelet/fang/pull/81) on [charmbracelet/fang](https://github.com/charmbracelet/fang) (2 days ago)
-- [refactor: migrate to charm.land/wish/v2 module path](https://github.com/charmbracelet/wish/pull/510) on [charmbracelet/wish](https://github.com/charmbracelet/wish) (2 days ago)
+- [feat: renderer: make cursor auto-hide during flush configurable](https://github.com/charmbracelet/ultraviolet/pull/59) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (1 day ago)
+- [fix: a nil Cell is equal to an empty Cell](https://github.com/charmbracelet/ultraviolet/pull/58) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (1 day ago)
+- [plumbing: transport, fix ssh missing port in addr](https://github.com/go-git/go-git/pull/1720) on [go-git/go-git](https://github.com/go-git/go-git) (1 day ago)
+- [refactor: migrate to charm.land module path](https://github.com/charmbracelet/fang/pull/81) on [charmbracelet/fang](https://github.com/charmbracelet/fang) (3 days ago)
+- [refactor: migrate to charm.land/wish/v2 module path](https://github.com/charmbracelet/wish/pull/510) on [charmbracelet/wish](https://github.com/charmbracelet/wish) (3 days ago)
 
 #### 📜 My recent blog posts
 
@@ -44,10 +44,10 @@
 
 #### ⭐ Recent Stars
 
-- [charmbracelet/fantasy](https://github.com/charmbracelet/fantasy) - Build AI agents with Go. Multiple providers, multiple models, one API 🧙 (2 weeks ago)
+- [charmbracelet/fantasy](https://github.com/charmbracelet/fantasy) - Build AI agents with Go. Multiple providers, multiple models, one API 🧙 (3 weeks ago)
 - [raphamorim/fuzzy](https://github.com/raphamorim/fuzzy) - fuzzy matching with Levenshtein, Damerau-Levenshtein, Bitap and n-gram (3 months ago)
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘 (3 months ago)
-- [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (3 months ago)
+- [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (4 months ago)
 - [charmbracelet/fang](https://github.com/charmbracelet/fang) - The CLI starter kit (4 months ago)
 
 #### 📫 How to reach me
