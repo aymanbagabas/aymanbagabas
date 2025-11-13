@@ -20,11 +20,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.8.3](https://github.com/charmbracelet/catwalk/releases/tag/v0.8.3), today) - 🐈 A collection of LLM inference providers and models 
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.17.0](https://github.com/charmbracelet/crush/releases/tag/v0.17.0), 1 day ago) - The glamourous AI coding agent for your favourite terminal 💘
 - [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), 1 day ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.11.1](https://github.com/charmbracelet/soft-serve/releases/tag/v0.11.1), 3 days ago) - The mighty, self-hostable Git server for the command line🍦
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v2.0.0-rc.1](https://github.com/charmbracelet/bubbletea/releases/tag/v2.0.0-rc.1), 1 week ago) - A powerful little TUI framework 🏗
-- [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) ([v0.3.3](https://github.com/charmbracelet/colorprofile/releases/tag/v0.3.3), 1 week ago) - Magical terminal color handling 🪄
 
 #### 🔨 My recent Pull Requests
 
