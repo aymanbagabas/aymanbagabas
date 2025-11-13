@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [v2: Support mode 2026 (synchronized output updates)](https://github.com/charmbracelet/bubbletea/pull/1542) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [fix: truncate last char in inline mode](https://github.com/charmbracelet/ultraviolet/pull/60) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (today)
 - [feat: renderer: make cursor auto-hide during flush configurable](https://github.com/charmbracelet/ultraviolet/pull/59) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (1 day ago)
 - [fix: a nil Cell is equal to an empty Cell](https://github.com/charmbracelet/ultraviolet/pull/58) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (1 day ago)
 - [plumbing: transport, fix ssh missing port in addr](https://github.com/go-git/go-git/pull/1720) on [go-git/go-git](https://github.com/go-git/go-git) (1 day ago)
-- [refactor: migrate to charm.land module path](https://github.com/charmbracelet/fang/pull/81) on [charmbracelet/fang](https://github.com/charmbracelet/fang) (3 days ago)
 
 #### 📜 My recent blog posts
 
