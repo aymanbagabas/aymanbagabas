@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers. (today)
 - [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (1 day ago)
 - [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (1 day ago)
 - [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go. (2 days ago)
 - [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (4 days ago)
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘 (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -31,7 +31,7 @@
 - [fix: handler should process two intermediate bytes in CSI sequences](https://github.com/raphamorim/rio/pull/1363) on [raphamorim/rio](https://github.com/raphamorim/rio) (1 day ago)
 - [v2: Support mode 2026 (synchronized output updates)](https://github.com/charmbracelet/bubbletea/pull/1542) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
 - [fix: truncate last char in inline mode](https://github.com/charmbracelet/ultraviolet/pull/60) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (1 day ago)
-- [feat: renderer: make cursor auto-hide during flush configurable](https://github.com/charmbracelet/ultraviolet/pull/59) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (2 days ago)
+- [refactor: renderer: remove cursor and altscreen state management](https://github.com/charmbracelet/ultraviolet/pull/59) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (2 days ago)
 - [fix: a nil Cell is equal to an empty Cell](https://github.com/charmbracelet/ultraviolet/pull/58) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (2 days ago)
 
 #### 📜 My recent blog posts
