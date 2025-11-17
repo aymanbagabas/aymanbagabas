@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), 2 days ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
+- [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), today) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 - [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.8.5](https://github.com/charmbracelet/catwalk/releases/tag/v0.8.5), 4 days ago) - 🐈 A collection of LLM inference providers and models 
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.18.1](https://github.com/charmbracelet/crush/releases/tag/v0.18.1), 4 days ago) - The glamourous AI coding agent for your favourite terminal 💘
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.11.1](https://github.com/charmbracelet/soft-serve/releases/tag/v0.11.1), 1 week ago) - The mighty, self-hostable Git server for the command line🍦
