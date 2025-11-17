@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [v2: fix: renderer: delay redraw on resize](https://github.com/charmbracelet/bubbletea/pull/1546) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [chore: bump dependencies to charm.land modules](https://github.com/lrstanley/bubblezone/pull/54) on [lrstanley/bubblezone](https://github.com/lrstanley/bubblezone) (1 day ago)
 - [fix: handler should process two intermediate bytes in CSI sequences](https://github.com/raphamorim/rio/pull/1363) on [raphamorim/rio](https://github.com/raphamorim/rio) (4 days ago)
 - [v2: Support mode 2026 (synchronized output updates)](https://github.com/charmbracelet/bubbletea/pull/1542) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (4 days ago)
 - [fix: truncate last char in inline mode](https://github.com/charmbracelet/ultraviolet/pull/60) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (4 days ago)
-- [refactor: renderer: remove cursor and altscreen state management](https://github.com/charmbracelet/ultraviolet/pull/59) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (5 days ago)
 
 #### 📜 My recent blog posts
 
