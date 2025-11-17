@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (today)
-- [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers. (2 days ago)
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘 (2 days ago)
-- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (2 days ago)
-- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (3 days ago)
+- [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (1 day ago)
+- [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers. (3 days ago)
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘 (3 days ago)
+- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (3 days ago)
+- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), 1 day ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
-- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.8.5](https://github.com/charmbracelet/catwalk/releases/tag/v0.8.5), 3 days ago) - 🐈 A collection of LLM inference providers and models 
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.18.1](https://github.com/charmbracelet/crush/releases/tag/v0.18.1), 3 days ago) - The glamourous AI coding agent for your favourite terminal 💘
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.11.1](https://github.com/charmbracelet/soft-serve/releases/tag/v0.11.1), 6 days ago) - The mighty, self-hostable Git server for the command line🍦
+- [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), 2 days ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
+- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.8.5](https://github.com/charmbracelet/catwalk/releases/tag/v0.8.5), 4 days ago) - 🐈 A collection of LLM inference providers and models 
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.18.1](https://github.com/charmbracelet/crush/releases/tag/v0.18.1), 4 days ago) - The glamourous AI coding agent for your favourite terminal 💘
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.11.1](https://github.com/charmbracelet/soft-serve/releases/tag/v0.11.1), 1 week ago) - The mighty, self-hostable Git server for the command line🍦
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v2.0.0-rc.1](https://github.com/charmbracelet/bubbletea/releases/tag/v2.0.0-rc.1), 1 week ago) - A powerful little TUI framework 🏗
 
 #### 🔨 My recent Pull Requests
 
-- [fix: handler should process two intermediate bytes in CSI sequences](https://github.com/raphamorim/rio/pull/1363) on [raphamorim/rio](https://github.com/raphamorim/rio) (3 days ago)
-- [v2: Support mode 2026 (synchronized output updates)](https://github.com/charmbracelet/bubbletea/pull/1542) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (3 days ago)
-- [fix: truncate last char in inline mode](https://github.com/charmbracelet/ultraviolet/pull/60) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (3 days ago)
-- [refactor: renderer: remove cursor and altscreen state management](https://github.com/charmbracelet/ultraviolet/pull/59) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (4 days ago)
-- [fix: a nil Cell is equal to an empty Cell](https://github.com/charmbracelet/ultraviolet/pull/58) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (4 days ago)
+- [chore: bump dependencies to charm.land modules](https://github.com/lrstanley/bubblezone/pull/54) on [lrstanley/bubblezone](https://github.com/lrstanley/bubblezone) (1 day ago)
+- [fix: handler should process two intermediate bytes in CSI sequences](https://github.com/raphamorim/rio/pull/1363) on [raphamorim/rio](https://github.com/raphamorim/rio) (4 days ago)
+- [v2: Support mode 2026 (synchronized output updates)](https://github.com/charmbracelet/bubbletea/pull/1542) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (4 days ago)
+- [fix: truncate last char in inline mode](https://github.com/charmbracelet/ultraviolet/pull/60) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (4 days ago)
+- [refactor: renderer: remove cursor and altscreen state management](https://github.com/charmbracelet/ultraviolet/pull/59) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (5 days ago)
 
 #### 📜 My recent blog posts
 
