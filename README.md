@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat(vt): add damage callbacks for terminal updates](https://github.com/charmbracelet/x/pull/652) on [charmbracelet/x](https://github.com/charmbracelet/x) (today)
 - [chore: bump bubbletea and ultraviolet to reduce resize tearing](https://github.com/charmbracelet/crush/pull/1460) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (1 day ago)
 - [v2: fix: renderer: delay redraw on resize](https://github.com/charmbracelet/bubbletea/pull/1546) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
 - [chore: bump dependencies to charm.land modules](https://github.com/lrstanley/bubblezone/pull/54) on [lrstanley/bubblezone](https://github.com/lrstanley/bubblezone) (2 days ago)
 - [fix: handler should process two intermediate bytes in CSI sequences](https://github.com/raphamorim/rio/pull/1363) on [raphamorim/rio](https://github.com/raphamorim/rio) (5 days ago)
-- [v2: Support mode 2026 (synchronized output updates)](https://github.com/charmbracelet/bubbletea/pull/1542) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (5 days ago)
 
 #### 📜 My recent blog posts
 
