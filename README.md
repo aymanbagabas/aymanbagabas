@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [aymanbagabas/go-udiff](https://github.com/aymanbagabas/go-udiff) - µDiff - a micro Go diffing library (today)
-- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (today)
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘 (today)
-- [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (1 day ago)
-- [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers. (3 days ago)
+- [aymanbagabas/go-udiff](https://github.com/aymanbagabas/go-udiff) - µDiff - a micro Go diffing library (1 day ago)
+- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (1 day ago)
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘 (1 day ago)
+- [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (2 days ago)
+- [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers. (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [opt-nc/geol](https://github.com/opt-nc/geol) ([v1.4.0](https://github.com/opt-nc/geol/releases/tag/v1.4.0), today) - Efficiently show end-of-life dates for a number of products in your terminal  using https://endoflife.date/ API
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.18.2](https://github.com/charmbracelet/crush/releases/tag/v0.18.2), today) - The glamourous AI coding agent for your favourite terminal 💘
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v2.0.0-rc.1](https://github.com/charmbracelet/bubbles/releases/tag/v2.0.0-rc.1), today) - TUI components for Bubble Tea 🫧
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v2.0.0-rc.2](https://github.com/charmbracelet/bubbletea/releases/tag/v2.0.0-rc.2), today) - A powerful little TUI framework 🏗
-- [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), today) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
+- [raphamorim/rio](https://github.com/raphamorim/rio) ([v0.2.36](https://github.com/raphamorim/rio/releases/tag/v0.2.36), 1 day ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
+- [opt-nc/geol](https://github.com/opt-nc/geol) ([v1.4.0](https://github.com/opt-nc/geol/releases/tag/v1.4.0), 1 day ago) - Efficiently show end-of-life dates for a number of products in your terminal  using https://endoflife.date/ API
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.18.2](https://github.com/charmbracelet/crush/releases/tag/v0.18.2), 1 day ago) - The glamourous AI coding agent for your favourite terminal 💘
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v2.0.0-rc.1](https://github.com/charmbracelet/bubbles/releases/tag/v2.0.0-rc.1), 1 day ago) - TUI components for Bubble Tea 🫧
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v2.0.0-rc.2](https://github.com/charmbracelet/bubbletea/releases/tag/v2.0.0-rc.2), 1 day ago) - A powerful little TUI framework 🏗
 
 #### 🔨 My recent Pull Requests
 
-- [chore: bump bubbletea and ultraviolet to reduce resize tearing](https://github.com/charmbracelet/crush/pull/1460) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (today)
-- [v2: fix: renderer: delay redraw on resize](https://github.com/charmbracelet/bubbletea/pull/1546) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
-- [chore: bump dependencies to charm.land modules](https://github.com/lrstanley/bubblezone/pull/54) on [lrstanley/bubblezone](https://github.com/lrstanley/bubblezone) (1 day ago)
-- [fix: handler should process two intermediate bytes in CSI sequences](https://github.com/raphamorim/rio/pull/1363) on [raphamorim/rio](https://github.com/raphamorim/rio) (4 days ago)
-- [v2: Support mode 2026 (synchronized output updates)](https://github.com/charmbracelet/bubbletea/pull/1542) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (4 days ago)
+- [chore: bump bubbletea and ultraviolet to reduce resize tearing](https://github.com/charmbracelet/crush/pull/1460) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (1 day ago)
+- [v2: fix: renderer: delay redraw on resize](https://github.com/charmbracelet/bubbletea/pull/1546) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
+- [chore: bump dependencies to charm.land modules](https://github.com/lrstanley/bubblezone/pull/54) on [lrstanley/bubblezone](https://github.com/lrstanley/bubblezone) (2 days ago)
+- [fix: handler should process two intermediate bytes in CSI sequences](https://github.com/raphamorim/rio/pull/1363) on [raphamorim/rio](https://github.com/raphamorim/rio) (5 days ago)
+- [v2: Support mode 2026 (synchronized output updates)](https://github.com/charmbracelet/bubbletea/pull/1542) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (5 days ago)
 
 #### 📜 My recent blog posts
 
