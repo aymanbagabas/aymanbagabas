@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [raphamorim/rio](https://github.com/raphamorim/rio) ([v0.2.36](https://github.com/raphamorim/rio/releases/tag/v0.2.36), 1 day ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
+- [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), today) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 - [opt-nc/geol](https://github.com/opt-nc/geol) ([v1.4.0](https://github.com/opt-nc/geol/releases/tag/v1.4.0), 1 day ago) - Efficiently show end-of-life dates for a number of products in your terminal  using https://endoflife.date/ API
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.18.2](https://github.com/charmbracelet/crush/releases/tag/v0.18.2), 1 day ago) - The glamourous AI coding agent for your favourite terminal 💘
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v2.0.0-rc.1](https://github.com/charmbracelet/bubbles/releases/tag/v2.0.0-rc.1), 1 day ago) - TUI components for Bubble Tea 🫧
