@@ -20,8 +20,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.9.0](https://github.com/charmbracelet/catwalk/releases/tag/v0.9.0), today) - 🐈 A collection of LLM inference providers and models 
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.18.3](https://github.com/charmbracelet/crush/releases/tag/v0.18.3), today) - The glamourous AI coding agent for your favourite terminal 💘
+- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.9.2](https://github.com/charmbracelet/catwalk/releases/tag/v0.9.2), today) - 🐈 A collection of LLM inference providers and models 
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.18.4](https://github.com/charmbracelet/crush/releases/tag/v0.18.4), today) - The glamourous AI coding agent for your favourite terminal 💘
 - [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), 1 day ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 - [opt-nc/geol](https://github.com/opt-nc/geol) ([v1.4.0](https://github.com/opt-nc/geol/releases/tag/v1.4.0), 2 days ago) - Efficiently show end-of-life dates for a number of products in your terminal  using https://endoflife.date/ API
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v2.0.0-rc.1](https://github.com/charmbracelet/bubbles/releases/tag/v2.0.0-rc.1), 2 days ago) - TUI components for Bubble Tea 🫧
