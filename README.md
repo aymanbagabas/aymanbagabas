@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat(tone): remove dependencies on go-colorful and exp/color](https://github.com/charmbracelet/x/pull/653) on [charmbracelet/x](https://github.com/charmbracelet/x) (today)
 - [feat(vt): add damage callbacks for terminal updates](https://github.com/charmbracelet/x/pull/652) on [charmbracelet/x](https://github.com/charmbracelet/x) (2 days ago)
 - [chore: bump bubbletea and ultraviolet to reduce resize tearing](https://github.com/charmbracelet/crush/pull/1460) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (3 days ago)
 - [v2: fix: renderer: delay redraw on resize](https://github.com/charmbracelet/bubbletea/pull/1546) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (3 days ago)
 - [chore: bump dependencies to charm.land modules](https://github.com/lrstanley/bubblezone/pull/54) on [lrstanley/bubblezone](https://github.com/lrstanley/bubblezone) (4 days ago)
-- [fix: handler should process two intermediate bytes in CSI sequences](https://github.com/raphamorim/rio/pull/1363) on [raphamorim/rio](https://github.com/raphamorim/rio) (1 week ago)
 
 #### 📜 My recent blog posts
 
