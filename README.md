@@ -28,7 +28,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [v2: feat: add view callback support](https://github.com/charmbracelet/bubbletea/pull/1549) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
+- [v2: feat: make view content a string and add view callback support](https://github.com/charmbracelet/bubbletea/pull/1549) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
 - [v2: refactor: new Canvas and Layer API](https://github.com/charmbracelet/lipgloss/pull/591) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (1 day ago)
 - [feat(tone): remove dependencies on go-colorful and exp/color](https://github.com/charmbracelet/x/pull/653) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 day ago)
 - [feat(vt): add damage callbacks for terminal updates](https://github.com/charmbracelet/x/pull/652) on [charmbracelet/x](https://github.com/charmbracelet/x) (3 days ago)
