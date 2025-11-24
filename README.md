@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [v2: fix(renderer): debounce resize renders](https://github.com/charmbracelet/bubbletea/pull/1551) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [v2: feat: make view content a string and add view callback support](https://github.com/charmbracelet/bubbletea/pull/1549) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (4 days ago)
 - [v2: refactor: new Canvas, Compositor, and Layer API](https://github.com/charmbracelet/lipgloss/pull/591) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (4 days ago)
 - [feat(tone): remove dependencies on go-colorful and exp/color](https://github.com/charmbracelet/x/pull/653) on [charmbracelet/x](https://github.com/charmbracelet/x) (4 days ago)
 - [feat(vt): add damage callbacks for terminal updates](https://github.com/charmbracelet/x/pull/652) on [charmbracelet/x](https://github.com/charmbracelet/x) (6 days ago)
-- [chore: bump bubbletea and ultraviolet to reduce resize tearing](https://github.com/charmbracelet/crush/pull/1460) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (1 week ago)
 
 #### 📜 My recent blog posts
 
