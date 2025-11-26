@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat(ui): add optimized list component with focus navigation](https://github.com/charmbracelet/crush/pull/1516) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (today)
 - [fix: properly downsample styles and replace fatih/color with lipgloss](https://github.com/opt-nc/geol/pull/191) on [opt-nc/geol](https://github.com/opt-nc/geol) (2 days ago)
 - [v2: fix(renderer): debounce resize renders](https://github.com/charmbracelet/bubbletea/pull/1551) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 days ago)
 - [v2: feat: make view content a string and add view callback support](https://github.com/charmbracelet/bubbletea/pull/1549) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (6 days ago)
 - [v2: refactor: new Canvas, Compositor, and Layer API](https://github.com/charmbracelet/lipgloss/pull/591) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (6 days ago)
-- [feat(tone): remove dependencies on go-colorful and exp/color](https://github.com/charmbracelet/x/pull/653) on [charmbracelet/x](https://github.com/charmbracelet/x) (6 days ago)
 
 #### 📜 My recent blog posts
 
