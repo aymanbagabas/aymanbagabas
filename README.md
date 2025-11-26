@@ -4,10 +4,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [opt-nc/geol](https://github.com/opt-nc/geol) - Efficiently show end-of-life dates for a number of products in your terminal  using https://endoflife.date/ API (1 day ago)
-- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (1 day ago)
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘 (1 day ago)
-- [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (1 day ago)
+- [opt-nc/geol](https://github.com/opt-nc/geol) - Efficiently show end-of-life dates for a number of products in your terminal  using https://endoflife.date/ API (2 days ago)
+- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (2 days ago)
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘 (2 days ago)
+- [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (2 days ago)
 - [aymanbagabas/go-udiff](https://github.com/aymanbagabas/go-udiff) - µDiff - a micro Go diffing library (1 week ago)
 
 #### 🌱 My latest projects
@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.9.4](https://github.com/charmbracelet/catwalk/releases/tag/v0.9.4), today) - 🐈 A collection of LLM inference providers and models 
-- [opt-nc/geol](https://github.com/opt-nc/geol) ([v1.5.0](https://github.com/opt-nc/geol/releases/tag/v1.5.0), today) - Efficiently show end-of-life dates for a number of products in your terminal  using https://endoflife.date/ API
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.18.6](https://github.com/charmbracelet/crush/releases/tag/v0.18.6), 1 day ago) - The glamourous AI coding agent for your favourite terminal 💘
-- [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), 1 day ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
-- [go-git/go-git](https://github.com/go-git/go-git) ([v5.16.4](https://github.com/go-git/go-git/releases/tag/v5.16.4), 2 days ago) - A highly extensible Git implementation in pure Go.
+- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.9.4](https://github.com/charmbracelet/catwalk/releases/tag/v0.9.4), 1 day ago) - 🐈 A collection of LLM inference providers and models 
+- [opt-nc/geol](https://github.com/opt-nc/geol) ([v1.5.0](https://github.com/opt-nc/geol/releases/tag/v1.5.0), 1 day ago) - Efficiently show end-of-life dates for a number of products in your terminal  using https://endoflife.date/ API
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.18.6](https://github.com/charmbracelet/crush/releases/tag/v0.18.6), 2 days ago) - The glamourous AI coding agent for your favourite terminal 💘
+- [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), 2 days ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
+- [go-git/go-git](https://github.com/go-git/go-git) ([v5.16.4](https://github.com/go-git/go-git/releases/tag/v5.16.4), 3 days ago) - A highly extensible Git implementation in pure Go.
 
 #### 🔨 My recent Pull Requests
 
-- [fix: properly downsample styles and replace fatih/color with lipgloss](https://github.com/opt-nc/geol/pull/191) on [opt-nc/geol](https://github.com/opt-nc/geol) (1 day ago)
-- [v2: fix(renderer): debounce resize renders](https://github.com/charmbracelet/bubbletea/pull/1551) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
-- [v2: feat: make view content a string and add view callback support](https://github.com/charmbracelet/bubbletea/pull/1549) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (5 days ago)
-- [v2: refactor: new Canvas, Compositor, and Layer API](https://github.com/charmbracelet/lipgloss/pull/591) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (5 days ago)
-- [feat(tone): remove dependencies on go-colorful and exp/color](https://github.com/charmbracelet/x/pull/653) on [charmbracelet/x](https://github.com/charmbracelet/x) (5 days ago)
+- [fix: properly downsample styles and replace fatih/color with lipgloss](https://github.com/opt-nc/geol/pull/191) on [opt-nc/geol](https://github.com/opt-nc/geol) (2 days ago)
+- [v2: fix(renderer): debounce resize renders](https://github.com/charmbracelet/bubbletea/pull/1551) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 days ago)
+- [v2: feat: make view content a string and add view callback support](https://github.com/charmbracelet/bubbletea/pull/1549) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (6 days ago)
+- [v2: refactor: new Canvas, Compositor, and Layer API](https://github.com/charmbracelet/lipgloss/pull/591) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (6 days ago)
+- [feat(tone): remove dependencies on go-colorful and exp/color](https://github.com/charmbracelet/x/pull/653) on [charmbracelet/x](https://github.com/charmbracelet/x) (6 days ago)
 
 #### 📜 My recent blog posts
 
@@ -46,7 +46,7 @@
 
 - [charmbracelet/fantasy](https://github.com/charmbracelet/fantasy) - Build AI agents with Go. Multiple providers, multiple models, one API 🧙 (1 month ago)
 - [raphamorim/fuzzy](https://github.com/raphamorim/fuzzy) - fuzzy matching with Levenshtein, Damerau-Levenshtein, Bitap and n-gram (3 months ago)
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘 (3 months ago)
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘 (4 months ago)
 - [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (4 months ago)
 - [charmbracelet/fang](https://github.com/charmbracelet/fang) - The CLI starter kit (5 months ago)
 
