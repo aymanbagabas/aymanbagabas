@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: implement text highlighting in list items](https://github.com/charmbracelet/crush/pull/1536) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (today)
 - [fix(renderer): restore state when restarting cursed renderer](https://github.com/charmbracelet/bubbletea/pull/1553) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (5 days ago)
 - [Revert &#34;fix(editor): fix opening `$EDITOR` when it contains arguments…](https://github.com/charmbracelet/crush/pull/1519) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (5 days ago)
 - [feat(ui): add optimized list component with focus navigation](https://github.com/charmbracelet/crush/pull/1516) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (5 days ago)
 - [fix: properly downsample styles and replace fatih/color with lipgloss](https://github.com/opt-nc/geol/pull/191) on [opt-nc/geol](https://github.com/opt-nc/geol) (1 week ago)
-- [v2: fix(renderer): debounce resize renders](https://github.com/charmbracelet/bubbletea/pull/1551) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 week ago)
 
 #### 📜 My recent blog posts
 
