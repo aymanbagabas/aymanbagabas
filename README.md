@@ -44,11 +44,11 @@
 
 #### ⭐ Recent Stars
 
+- [rockorager/prise](https://github.com/rockorager/prise) -  (today)
 - [charmbracelet/fantasy](https://github.com/charmbracelet/fantasy) - Build AI agents with Go. Multiple providers, multiple models, one API 🧙 (1 month ago)
 - [raphamorim/fuzzy](https://github.com/raphamorim/fuzzy) - fuzzy matching with Levenshtein, Damerau-Levenshtein, Bitap and n-gram (4 months ago)
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘 (4 months ago)
 - [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (4 months ago)
-- [charmbracelet/fang](https://github.com/charmbracelet/fang) - The CLI starter kit (5 months ago)
 
 #### 📫 How to reach me
 
