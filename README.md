@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [perf(tui): debounce window resize rendering](https://github.com/charmbracelet/crush/pull/1556) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (today)
 - [fix(renderer): reset kitty keyboard protocol on alt screen switch](https://github.com/charmbracelet/bubbletea/pull/1554) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
 - [feat: implement text highlighting in list items](https://github.com/charmbracelet/crush/pull/1536) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (4 days ago)
 - [fix(renderer): restore state when restarting cursed renderer](https://github.com/charmbracelet/bubbletea/pull/1553) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 week ago)
 - [Revert &#34;fix(editor): fix opening `$EDITOR` when it contains arguments…](https://github.com/charmbracelet/crush/pull/1519) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (1 week ago)
-- [feat(ui): add optimized list component with focus navigation](https://github.com/charmbracelet/crush/pull/1516) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (1 week ago)
 
 #### 📜 My recent blog posts
 
