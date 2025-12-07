@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [docs: update rspamd arc domain dkim file path](https://github.com/docker-mailserver/docker-mailserver/pull/4616) on [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) (today)
 - [perf(tui): debounce window resize rendering](https://github.com/charmbracelet/crush/pull/1556) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (2 days ago)
 - [fix(renderer): reset kitty keyboard protocol on alt screen switch](https://github.com/charmbracelet/bubbletea/pull/1554) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (3 days ago)
 - [feat: implement text highlighting in list items](https://github.com/charmbracelet/crush/pull/1536) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (6 days ago)
 - [fix(renderer): restore state when restarting cursed renderer](https://github.com/charmbracelet/bubbletea/pull/1553) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 week ago)
-- [Revert &#34;fix(editor): fix opening `$EDITOR` when it contains arguments…](https://github.com/charmbracelet/crush/pull/1519) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (1 week ago)
 
 #### 📜 My recent blog posts
 
