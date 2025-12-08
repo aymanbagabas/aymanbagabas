@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.22.0](https://github.com/charmbracelet/crush/releases/tag/v0.22.0), today) - The glamourous AI coding agent for your favourite terminal 💘
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.22.1](https://github.com/charmbracelet/crush/releases/tag/v0.22.1), today) - The glamourous AI coding agent for your favourite terminal 💘
 - [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), 1 day ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 - [opt-nc/geol](https://github.com/opt-nc/geol) ([v2.0.1](https://github.com/opt-nc/geol/releases/tag/v2.0.1), 3 days ago) - Efficiently show end-of-life dates for a number of products in your terminal  using https://endoflife.date/ API
 - [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.9.5](https://github.com/charmbracelet/catwalk/releases/tag/v0.9.5), 6 days ago) - 🐈 A collection of LLM inference providers and models 
