@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.9.6](https://github.com/charmbracelet/catwalk/releases/tag/v0.9.6), today) - 🐈 A collection of LLM inference providers and models 
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.22.1](https://github.com/charmbracelet/crush/releases/tag/v0.22.1), today) - The glamourous AI coding agent for your favourite terminal 💘
 - [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), 1 day ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 - [opt-nc/geol](https://github.com/opt-nc/geol) ([v2.0.1](https://github.com/opt-nc/geol/releases/tag/v2.0.1), 3 days ago) - Efficiently show end-of-life dates for a number of products in your terminal  using https://endoflife.date/ API
-- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.9.5](https://github.com/charmbracelet/catwalk/releases/tag/v0.9.5), 6 days ago) - 🐈 A collection of LLM inference providers and models 
 - [go-git/go-git](https://github.com/go-git/go-git) ([v5.16.4](https://github.com/go-git/go-git/releases/tag/v5.16.4), 2 weeks ago) - A highly extensible Git implementation in pure Go.
 
 #### 🔨 My recent Pull Requests
 
+- [fix(ui): list highlight selection scrolling](https://github.com/charmbracelet/crush/pull/1575) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (today)
 - [docs: update rspamd arc domain dkim file path](https://github.com/docker-mailserver/docker-mailserver/pull/4616) on [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) (1 day ago)
 - [perf(tui): debounce window resize rendering](https://github.com/charmbracelet/crush/pull/1556) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (3 days ago)
 - [fix(renderer): reset kitty keyboard protocol on alt screen switch](https://github.com/charmbracelet/bubbletea/pull/1554) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (4 days ago)
 - [feat: implement text highlighting in list items](https://github.com/charmbracelet/crush/pull/1536) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (1 week ago)
-- [fix(renderer): restore state when restarting cursed renderer](https://github.com/charmbracelet/bubbletea/pull/1553) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 week ago)
 
 #### 📜 My recent blog posts
 
