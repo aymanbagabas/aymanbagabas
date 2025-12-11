@@ -20,9 +20,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.23.0](https://github.com/charmbracelet/crush/releases/tag/v0.23.0), today) - The glamourous AI coding agent for your favourite terminal 💘
 - [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.10.1](https://github.com/charmbracelet/catwalk/releases/tag/v0.10.1), today) - 🐈 A collection of LLM inference providers and models 
 - [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) ([v0.4.1](https://github.com/charmbracelet/colorprofile/releases/tag/v0.4.1), today) - Magical terminal color handling 🪄
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.22.2](https://github.com/charmbracelet/crush/releases/tag/v0.22.2), 1 day ago) - The glamourous AI coding agent for your favourite terminal 💘
 - [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), 4 days ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 - [opt-nc/geol](https://github.com/opt-nc/geol) ([v2.0.1](https://github.com/opt-nc/geol/releases/tag/v2.0.1), 6 days ago) - Efficiently show end-of-life dates for a number of products in your terminal  using https://endoflife.date/ API
 
