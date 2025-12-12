@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container. (today)
 - [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) - Magical terminal color handling 🪄 (1 day ago)
 - [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (1 day ago)
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘 (1 day ago)
 - [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (1 day ago)
-- [opt-nc/geol](https://github.com/opt-nc/geol) - Efficiently show end-of-life dates for a number of products in your terminal  using https://endoflife.date/ API (2 weeks ago)
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘 (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -29,7 +29,7 @@
 #### 🔨 My recent Pull Requests
 
 - [fix(ui): list highlight selection scrolling](https://github.com/charmbracelet/crush/pull/1575) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (4 days ago)
-- [docs: update rspamd arc domain dkim file path](https://github.com/docker-mailserver/docker-mailserver/pull/4616) on [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) (5 days ago)
+- [docs: Rspamd ARC section align private key filename with `setup config dkim`](https://github.com/docker-mailserver/docker-mailserver/pull/4616) on [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) (5 days ago)
 - [perf(tui): debounce window resize rendering](https://github.com/charmbracelet/crush/pull/1556) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (1 week ago)
 - [fix(renderer): reset kitty keyboard protocol on alt screen switch](https://github.com/charmbracelet/bubbletea/pull/1554) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 week ago)
 - [feat: implement text highlighting in list items](https://github.com/charmbracelet/crush/pull/1536) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (1 week ago)
