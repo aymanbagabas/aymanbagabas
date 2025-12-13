@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (today)
-- [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container. (today)
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘 (today)
-- [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) - Magical terminal color handling 🪄 (1 day ago)
-- [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (1 day ago)
+- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (1 day ago)
+- [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container. (1 day ago)
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘 (1 day ago)
+- [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) - Magical terminal color handling 🪄 (2 days ago)
+- [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -20,17 +20,17 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.24.0](https://github.com/charmbracelet/crush/releases/tag/v0.24.0), today) - The glamourous AI coding agent for your favourite terminal 💘
-- [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), today) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
-- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.10.1](https://github.com/charmbracelet/catwalk/releases/tag/v0.10.1), 1 day ago) - 🐈 A collection of LLM inference providers and models 
-- [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) ([v0.4.1](https://github.com/charmbracelet/colorprofile/releases/tag/v0.4.1), 1 day ago) - Magical terminal color handling 🪄
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.24.0](https://github.com/charmbracelet/crush/releases/tag/v0.24.0), 1 day ago) - The glamourous AI coding agent for your favourite terminal 💘
+- [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), 1 day ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
+- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.10.1](https://github.com/charmbracelet/catwalk/releases/tag/v0.10.1), 2 days ago) - 🐈 A collection of LLM inference providers and models 
+- [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) ([v0.4.1](https://github.com/charmbracelet/colorprofile/releases/tag/v0.4.1), 2 days ago) - Magical terminal color handling 🪄
 - [opt-nc/geol](https://github.com/opt-nc/geol) ([v2.0.1](https://github.com/opt-nc/geol/releases/tag/v2.0.1), 1 week ago) - Efficiently show end-of-life dates for a number of products in your terminal  using https://endoflife.date/ API
 
 #### 🔨 My recent Pull Requests
 
-- [set screen and window background color when changed via OSC](https://github.com/raphamorim/rio/pull/1382) on [raphamorim/rio](https://github.com/raphamorim/rio) (today)
-- [fix(ui): list highlight selection scrolling](https://github.com/charmbracelet/crush/pull/1575) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (4 days ago)
-- [docs: Rspamd ARC section align private key filename with `setup config dkim`](https://github.com/docker-mailserver/docker-mailserver/pull/4616) on [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) (5 days ago)
+- [set screen and window background color when changed via OSC](https://github.com/raphamorim/rio/pull/1382) on [raphamorim/rio](https://github.com/raphamorim/rio) (1 day ago)
+- [fix(ui): list highlight selection scrolling](https://github.com/charmbracelet/crush/pull/1575) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (5 days ago)
+- [docs: Rspamd ARC section align private key filename with `setup config dkim`](https://github.com/docker-mailserver/docker-mailserver/pull/4616) on [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) (6 days ago)
 - [perf(tui): debounce window resize rendering](https://github.com/charmbracelet/crush/pull/1556) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (1 week ago)
 - [fix(renderer): reset kitty keyboard protocol on alt screen switch](https://github.com/charmbracelet/bubbletea/pull/1554) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 week ago)
 
@@ -44,9 +44,9 @@
 
 #### ⭐ Recent Stars
 
-- [antonmedv/gitmal](https://github.com/antonmedv/gitmal) - A static page generator for repos (5 days ago)
-- [webmin/webmin](https://github.com/webmin/webmin) - Powerful and flexible web-based server management control panel (6 days ago)
-- [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container. (6 days ago)
+- [antonmedv/gitmal](https://github.com/antonmedv/gitmal) - A static page generator for repos (6 days ago)
+- [webmin/webmin](https://github.com/webmin/webmin) - Powerful and flexible web-based server management control panel (1 week ago)
+- [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container. (1 week ago)
 - [rockorager/prise](https://github.com/rockorager/prise) -  (1 week ago)
 - [charmbracelet/fantasy](https://github.com/charmbracelet/fantasy) - Build AI agents with Go. Multiple providers, multiple models, one API 🧙 (1 month ago)
 
