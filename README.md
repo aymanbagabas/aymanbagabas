@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), 1 day ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
+- [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), today) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.24.0](https://github.com/charmbracelet/crush/releases/tag/v0.24.0), 4 days ago) - The glamourous AI coding agent for your favourite terminal 💘
 - [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.10.1](https://github.com/charmbracelet/catwalk/releases/tag/v0.10.1), 5 days ago) - 🐈 A collection of LLM inference providers and models 
 - [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) ([v0.4.1](https://github.com/charmbracelet/colorprofile/releases/tag/v0.4.1), 5 days ago) - Magical terminal color handling 🪄
