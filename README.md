@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (today)
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘 (1 day ago)
 - [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container. (5 days ago)
 - [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (5 days ago)
 - [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (6 days ago)
-- [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat(renderer): add ContentDrawable to View for direct drawing](https://github.com/charmbracelet/bubbletea/pull/1562) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [set screen and window background color when changed via OSC](https://github.com/raphamorim/rio/pull/1382) on [raphamorim/rio](https://github.com/raphamorim/rio) (5 days ago)
 - [fix(ui): list highlight selection scrolling](https://github.com/charmbracelet/crush/pull/1575) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (1 week ago)
 - [docs: Rspamd ARC section align private key filename with `setup config dkim`](https://github.com/docker-mailserver/docker-mailserver/pull/4616) on [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) (1 week ago)
 - [perf(tui): debounce window resize rendering](https://github.com/charmbracelet/crush/pull/1556) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (1 week ago)
-- [fix(renderer): reset kitty keyboard protocol on alt screen switch](https://github.com/charmbracelet/bubbletea/pull/1554) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 week ago)
 
 #### 📜 My recent blog posts
 
