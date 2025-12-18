@@ -47,7 +47,7 @@
 - [antonmedv/gitmal](https://github.com/antonmedv/gitmal) - A static page generator for repos (1 week ago)
 - [webmin/webmin](https://github.com/webmin/webmin) - Powerful and flexible web-based server management control panel (1 week ago)
 - [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container. (1 week ago)
-- [rockorager/prise](https://github.com/rockorager/prise) -  (1 week ago)
+- [rockorager/prise](https://github.com/rockorager/prise) - a terminal multiplexer for modern terminals (1 week ago)
 - [charmbracelet/fantasy](https://github.com/charmbracelet/fantasy) - Build AI agents with Go. Multiple providers, multiple models, one API 🧙 (1 month ago)
 
 #### 📫 How to reach me
