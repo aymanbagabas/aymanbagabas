@@ -20,8 +20,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.29.0](https://github.com/charmbracelet/crush/releases/tag/v0.29.0), today) - The glamourous AI coding agent for your favourite terminal 💘
 - [raphamorim/rio](https://github.com/raphamorim/rio) ([v0.2.37](https://github.com/raphamorim/rio/releases/tag/v0.2.37), today) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), today) - The glamourous AI coding agent for your favourite terminal 💘
 - [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.11.2](https://github.com/charmbracelet/catwalk/releases/tag/v0.11.2), 1 day ago) - 🐈 A collection of LLM inference providers and models 
 - [microsoft/terminal](https://github.com/microsoft/terminal) ([v1.24.3504.0](https://github.com/microsoft/terminal/releases/tag/v1.24.3504.0), 2 days ago) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) ([v0.4.1](https://github.com/charmbracelet/colorprofile/releases/tag/v0.4.1), 1 week ago) - Magical terminal color handling 🪄
