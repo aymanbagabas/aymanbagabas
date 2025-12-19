@@ -6,9 +6,9 @@
 
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘 (1 day ago)
 - [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (2 days ago)
-- [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container. (1 week ago)
+- [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers. (1 week ago)
 - [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (1 week ago)
-- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (1 week ago)
+- [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container. (1 week ago)
 
 #### 🌱 My latest projects
 
