@@ -4,8 +4,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘 (1 day ago)
-- [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (2 days ago)
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘 (2 days ago)
+- [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (3 days ago)
 - [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers. (1 week ago)
 - [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (1 week ago)
 - [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container. (1 week ago)
@@ -20,17 +20,17 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.29.0](https://github.com/charmbracelet/crush/releases/tag/v0.29.0), today) - The glamourous AI coding agent for your favourite terminal 💘
-- [raphamorim/rio](https://github.com/raphamorim/rio) ([v0.2.37](https://github.com/raphamorim/rio/releases/tag/v0.2.37), today) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
-- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.11.2](https://github.com/charmbracelet/catwalk/releases/tag/v0.11.2), 1 day ago) - 🐈 A collection of LLM inference providers and models 
-- [microsoft/terminal](https://github.com/microsoft/terminal) ([v1.24.3504.0](https://github.com/microsoft/terminal/releases/tag/v1.24.3504.0), 2 days ago) - The new Windows Terminal and the original Windows console host, all in the same place!
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.29.0](https://github.com/charmbracelet/crush/releases/tag/v0.29.0), 1 day ago) - The glamourous AI coding agent for your favourite terminal 💘
+- [raphamorim/rio](https://github.com/raphamorim/rio) ([v0.2.37](https://github.com/raphamorim/rio/releases/tag/v0.2.37), 1 day ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
+- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.11.2](https://github.com/charmbracelet/catwalk/releases/tag/v0.11.2), 2 days ago) - 🐈 A collection of LLM inference providers and models 
+- [microsoft/terminal](https://github.com/microsoft/terminal) ([v1.24.3504.0](https://github.com/microsoft/terminal/releases/tag/v1.24.3504.0), 3 days ago) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) ([v0.4.1](https://github.com/charmbracelet/colorprofile/releases/tag/v0.4.1), 1 week ago) - Magical terminal color handling 🪄
 
 #### 🔨 My recent Pull Requests
 
-- [chore: remove cspell.json](https://github.com/charmbracelet/crush/pull/1664) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (1 day ago)
-- [WIP: refactor(ui):  reimplement UI components](https://github.com/charmbracelet/crush/pull/1652) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (2 days ago)
-- [feat(renderer): add ContentDrawable to View for direct drawing](https://github.com/charmbracelet/bubbletea/pull/1562) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 days ago)
+- [chore: remove cspell.json](https://github.com/charmbracelet/crush/pull/1664) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (2 days ago)
+- [WIP: refactor(ui):  reimplement UI components](https://github.com/charmbracelet/crush/pull/1652) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (3 days ago)
+- [feat(renderer): add ContentDrawable to View for direct drawing](https://github.com/charmbracelet/bubbletea/pull/1562) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (3 days ago)
 - [set screen and window background color when changed via OSC](https://github.com/raphamorim/rio/pull/1382) on [raphamorim/rio](https://github.com/raphamorim/rio) (1 week ago)
 - [fix(ui): list highlight selection scrolling](https://github.com/charmbracelet/crush/pull/1575) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (1 week ago)
 
@@ -45,8 +45,8 @@
 #### ⭐ Recent Stars
 
 - [antonmedv/gitmal](https://github.com/antonmedv/gitmal) - A static page generator for repos (1 week ago)
-- [webmin/webmin](https://github.com/webmin/webmin) - Powerful and flexible web-based server management control panel (1 week ago)
-- [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container. (1 week ago)
+- [webmin/webmin](https://github.com/webmin/webmin) - Powerful and flexible web-based server management control panel (2 weeks ago)
+- [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container. (2 weeks ago)
 - [rockorager/prise](https://github.com/rockorager/prise) - a terminal multiplexer for modern terminals (2 weeks ago)
 - [charmbracelet/fantasy](https://github.com/charmbracelet/fantasy) - Build AI agents with Go. Multiple providers, multiple models, one API 🧙 (1 month ago)
 
