@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [aymanbagabas/go-udiff](https://github.com/aymanbagabas/go-udiff) - µDiff - a micro Go diffing library (today)
+- [aymanbagabas/go-udiff](https://github.com/aymanbagabas/go-udiff) - µDiff - a micro Go diffing library (1 day ago)
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘 (1 week ago)
 - [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (1 week ago)
-- [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container. (1 week ago)
-- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (1 week ago)
+- [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container. (2 weeks ago)
+- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -20,10 +20,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), 1 day ago) - The glamourous AI coding agent for your favourite terminal 💘
-- [opt-nc/geol](https://github.com/opt-nc/geol) ([v2.1.0](https://github.com/opt-nc/geol/releases/tag/v2.1.0), 1 day ago) - Efficiently show end-of-life dates for a number of products in your terminal  using https://endoflife.date/ API
-- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.11.4](https://github.com/charmbracelet/catwalk/releases/tag/v0.11.4), 3 days ago) - 🐈 A collection of LLM inference providers and models 
-- [raphamorim/rio](https://github.com/raphamorim/rio) ([v0.2.37](https://github.com/raphamorim/rio/releases/tag/v0.2.37), 6 days ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), 2 days ago) - The glamourous AI coding agent for your favourite terminal 💘
+- [opt-nc/geol](https://github.com/opt-nc/geol) ([v2.1.0](https://github.com/opt-nc/geol/releases/tag/v2.1.0), 2 days ago) - Efficiently show end-of-life dates for a number of products in your terminal  using https://endoflife.date/ API
+- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.11.4](https://github.com/charmbracelet/catwalk/releases/tag/v0.11.4), 4 days ago) - 🐈 A collection of LLM inference providers and models 
+- [raphamorim/rio](https://github.com/raphamorim/rio) ([v0.2.37](https://github.com/raphamorim/rio/releases/tag/v0.2.37), 1 week ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 - [microsoft/terminal](https://github.com/microsoft/terminal) ([v1.24.3504.0](https://github.com/microsoft/terminal/releases/tag/v1.24.3504.0), 1 week ago) - The new Windows Terminal and the original Windows console host, all in the same place!
 
 #### 🔨 My recent Pull Requests
@@ -31,7 +31,7 @@
 - [chore: remove cspell.json](https://github.com/charmbracelet/crush/pull/1664) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (1 week ago)
 - [WIP: refactor(ui):  reimplement UI components](https://github.com/charmbracelet/crush/pull/1652) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (1 week ago)
 - [feat(renderer): add ContentDrawable to View for direct drawing](https://github.com/charmbracelet/bubbletea/pull/1562) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 week ago)
-- [set screen and window background color when changed via OSC](https://github.com/raphamorim/rio/pull/1382) on [raphamorim/rio](https://github.com/raphamorim/rio) (1 week ago)
+- [set screen and window background color when changed via OSC](https://github.com/raphamorim/rio/pull/1382) on [raphamorim/rio](https://github.com/raphamorim/rio) (2 weeks ago)
 - [fix(ui): list highlight selection scrolling](https://github.com/charmbracelet/crush/pull/1575) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (2 weeks ago)
 
 #### 📜 My recent blog posts
@@ -47,7 +47,7 @@
 - [antonmedv/gitmal](https://github.com/antonmedv/gitmal) - A static page generator for repos (2 weeks ago)
 - [webmin/webmin](https://github.com/webmin/webmin) - Powerful and flexible web-based server management control panel (2 weeks ago)
 - [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container. (2 weeks ago)
-- [rockorager/prise](https://github.com/rockorager/prise) - a terminal multiplexer for modern terminals (2 weeks ago)
+- [rockorager/prise](https://github.com/rockorager/prise) - a terminal multiplexer for modern terminals (3 weeks ago)
 - [charmbracelet/fantasy](https://github.com/charmbracelet/fantasy) - Build AI agents with Go. Multiple providers, multiple models, one API 🧙 (2 months ago)
 
 #### 📫 How to reach me
