@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [aymanbagabas/go-nativeclipboard](https://github.com/aymanbagabas/go-nativeclipboard) -  (1 day ago)
+- [aymanbagabas/go-nativeclipboard](https://github.com/aymanbagabas/go-nativeclipboard) - A cross-platform clipboard library for Go that works without cgo (1 day ago)
 - [aymanbagabas/go-udiff](https://github.com/aymanbagabas/go-udiff) - µDiff - a micro Go diffing library (1 week ago)
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘 (2 weeks ago)
 - [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (2 weeks ago)
@@ -12,7 +12,7 @@
 
 #### 🌱 My latest projects
 
-- [aymanbagabas/go-nativeclipboard](https://github.com/aymanbagabas/go-nativeclipboard) - 
+- [aymanbagabas/go-nativeclipboard](https://github.com/aymanbagabas/go-nativeclipboard) - A cross-platform clipboard library for Go that works without cgo
 - [aymanbagabas/st](https://github.com/aymanbagabas/st) - 
 - [aymanbagabas/wstty](https://github.com/aymanbagabas/wstty) - Windows stty replacement
 - [aymanbagabas/ca66r3](https://github.com/aymanbagabas/ca66r3) - CA66 R3 keyboard firmware
@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [aymanbagabas/go-nativeclipboard](https://github.com/aymanbagabas/go-nativeclipboard) ([v0.1.0](https://github.com/aymanbagabas/go-nativeclipboard/releases/tag/v0.1.0), today) - 
+- [aymanbagabas/go-nativeclipboard](https://github.com/aymanbagabas/go-nativeclipboard) ([v0.1.0](https://github.com/aymanbagabas/go-nativeclipboard/releases/tag/v0.1.0), today) - A cross-platform clipboard library for Go that works without cgo
 - [opt-nc/geol](https://github.com/opt-nc/geol) ([v2.3.0](https://github.com/opt-nc/geol/releases/tag/v2.3.0), 2 days ago) - Efficiently show end-of-life dates for a number of products in your terminal  using https://endoflife.date/ API
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.30.0](https://github.com/charmbracelet/crush/releases/tag/v0.30.0), 5 days ago) - The glamourous AI coding agent for your favourite terminal 💘
 - [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.11.5](https://github.com/charmbracelet/catwalk/releases/tag/v0.11.5), 5 days ago) - 🐈 A collection of LLM inference providers and models 
