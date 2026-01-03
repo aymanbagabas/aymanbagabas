@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [aymanbagabas/go-nativeclipboard](https://github.com/aymanbagabas/go-nativeclipboard) - A cross-platform clipboard library for Go that works without cgo (today)
+- [aymanbagabas/go-nativeclipboard](https://github.com/aymanbagabas/go-nativeclipboard) - A cross-platform clipboard library for Go that works without cgo (1 day ago)
 - [aymanbagabas/go-udiff](https://github.com/aymanbagabas/go-udiff) - µDiff - a micro Go diffing library (1 week ago)
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘 (2 weeks ago)
 - [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (2 weeks ago)
@@ -20,10 +20,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [aymanbagabas/go-nativeclipboard](https://github.com/aymanbagabas/go-nativeclipboard) ([v0.1.0](https://github.com/aymanbagabas/go-nativeclipboard/releases/tag/v0.1.0), 1 day ago) - A cross-platform clipboard library for Go that works without cgo
-- [opt-nc/geol](https://github.com/opt-nc/geol) ([v2.3.0](https://github.com/opt-nc/geol/releases/tag/v2.3.0), 3 days ago) - Efficiently show end-of-life dates for a number of products in your terminal  using https://endoflife.date/ API
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.30.0](https://github.com/charmbracelet/crush/releases/tag/v0.30.0), 6 days ago) - The glamourous AI coding agent for your favourite terminal 💘
-- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.11.5](https://github.com/charmbracelet/catwalk/releases/tag/v0.11.5), 6 days ago) - 🐈 A collection of LLM inference providers and models 
+- [aymanbagabas/go-nativeclipboard](https://github.com/aymanbagabas/go-nativeclipboard) ([v0.1.0](https://github.com/aymanbagabas/go-nativeclipboard/releases/tag/v0.1.0), 2 days ago) - A cross-platform clipboard library for Go that works without cgo
+- [opt-nc/geol](https://github.com/opt-nc/geol) ([v2.3.0](https://github.com/opt-nc/geol/releases/tag/v2.3.0), 4 days ago) - Efficiently show end-of-life dates for a number of products in your terminal  using https://endoflife.date/ API
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.30.0](https://github.com/charmbracelet/crush/releases/tag/v0.30.0), 1 week ago) - The glamourous AI coding agent for your favourite terminal 💘
+- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.11.5](https://github.com/charmbracelet/catwalk/releases/tag/v0.11.5), 1 week ago) - 🐈 A collection of LLM inference providers and models 
 - [raphamorim/rio](https://github.com/raphamorim/rio) ([v0.2.37](https://github.com/raphamorim/rio/releases/tag/v0.2.37), 2 weeks ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 
 #### 🔨 My recent Pull Requests
@@ -45,8 +45,8 @@
 #### ⭐ Recent Stars
 
 - [antonmedv/gitmal](https://github.com/antonmedv/gitmal) - A static page generator for repos (3 weeks ago)
-- [webmin/webmin](https://github.com/webmin/webmin) - Powerful and flexible web-based server management control panel (3 weeks ago)
-- [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container. (3 weeks ago)
+- [webmin/webmin](https://github.com/webmin/webmin) - Powerful and flexible web-based server management control panel (4 weeks ago)
+- [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container. (4 weeks ago)
 - [rockorager/prise](https://github.com/rockorager/prise) - a terminal multiplexer for modern terminals (4 weeks ago)
 - [charmbracelet/fantasy](https://github.com/charmbracelet/fantasy) - Build AI agents with Go. Multiple providers, multiple models, one API 🧙 (2 months ago)
 
