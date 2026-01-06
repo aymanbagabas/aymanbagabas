@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [aymanbagabas/go-nativeclipboard](https://github.com/aymanbagabas/go-nativeclipboard) - A cross-platform clipboard library for Go that works without cgo (today)
+- [aymanbagabas/go-nativeclipboard](https://github.com/aymanbagabas/go-nativeclipboard) - A cross-platform clipboard library for Go that works without cgo (1 day ago)
 - [aymanbagabas/go-udiff](https://github.com/aymanbagabas/go-udiff) - µDiff - a micro Go diffing library (1 week ago)
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘 (2 weeks ago)
 - [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (2 weeks ago)
@@ -20,10 +20,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.30.3](https://github.com/charmbracelet/crush/releases/tag/v0.30.3), today) - The glamourous AI coding agent for your favourite terminal 💘
-- [aymanbagabas/go-nativeclipboard](https://github.com/aymanbagabas/go-nativeclipboard) ([v0.1.2](https://github.com/aymanbagabas/go-nativeclipboard/releases/tag/v0.1.2), today) - A cross-platform clipboard library for Go that works without cgo
-- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.12.0](https://github.com/charmbracelet/catwalk/releases/tag/v0.12.0), today) - 🐈 A collection of LLM inference providers and models 
-- [opt-nc/geol](https://github.com/opt-nc/geol) ([v2.4.0](https://github.com/opt-nc/geol/releases/tag/v2.4.0), 1 day ago) - Efficiently show end-of-life dates for a number of products in your terminal  using https://endoflife.date/ API
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.30.3](https://github.com/charmbracelet/crush/releases/tag/v0.30.3), 1 day ago) - The glamourous AI coding agent for your favourite terminal 💘
+- [aymanbagabas/go-nativeclipboard](https://github.com/aymanbagabas/go-nativeclipboard) ([v0.1.2](https://github.com/aymanbagabas/go-nativeclipboard/releases/tag/v0.1.2), 1 day ago) - A cross-platform clipboard library for Go that works without cgo
+- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.12.0](https://github.com/charmbracelet/catwalk/releases/tag/v0.12.0), 1 day ago) - 🐈 A collection of LLM inference providers and models 
+- [opt-nc/geol](https://github.com/opt-nc/geol) ([v2.4.0](https://github.com/opt-nc/geol/releases/tag/v2.4.0), 2 days ago) - Efficiently show end-of-life dates for a number of products in your terminal  using https://endoflife.date/ API
 - [raphamorim/rio](https://github.com/raphamorim/rio) ([v0.2.37](https://github.com/raphamorim/rio/releases/tag/v0.2.37), 2 weeks ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 
 #### 🔨 My recent Pull Requests
@@ -44,7 +44,7 @@
 
 #### ⭐ Recent Stars
 
-- [antonmedv/gitmal](https://github.com/antonmedv/gitmal) - A static page generator for repos (4 weeks ago)
+- [antonmedv/gitmal](https://github.com/antonmedv/gitmal) - A static page generator for repos (1 month ago)
 - [webmin/webmin](https://github.com/webmin/webmin) - Powerful and flexible web-based server management control panel (1 month ago)
 - [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container. (1 month ago)
 - [rockorager/prise](https://github.com/rockorager/prise) - a terminal multiplexer for modern terminals (1 month ago)
