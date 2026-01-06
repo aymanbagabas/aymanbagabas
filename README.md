@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [opt-nc/geol](https://github.com/opt-nc/geol) ([v2.5.0](https://github.com/opt-nc/geol/releases/tag/v2.5.0), today) - Efficiently show end-of-life dates for a number of products in your terminal  using https://endoflife.date/ API
 - [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.12.2](https://github.com/charmbracelet/catwalk/releases/tag/v0.12.2), today) - 🐈 A collection of LLM inference providers and models 
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.30.3](https://github.com/charmbracelet/crush/releases/tag/v0.30.3), 1 day ago) - The glamourous AI coding agent for your favourite terminal 💘
 - [aymanbagabas/go-nativeclipboard](https://github.com/aymanbagabas/go-nativeclipboard) ([v0.1.2](https://github.com/aymanbagabas/go-nativeclipboard/releases/tag/v0.1.2), 1 day ago) - A cross-platform clipboard library for Go that works without cgo
-- [opt-nc/geol](https://github.com/opt-nc/geol) ([v2.4.0](https://github.com/opt-nc/geol/releases/tag/v2.4.0), 2 days ago) - Efficiently show end-of-life dates for a number of products in your terminal  using https://endoflife.date/ API
 - [raphamorim/rio](https://github.com/raphamorim/rio) ([v0.2.37](https://github.com/raphamorim/rio/releases/tag/v0.2.37), 2 weeks ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 
 #### 🔨 My recent Pull Requests
 
+- [winrt: implement await async operation helper](https://github.com/saltosystems/winrt-go/pull/108) on [saltosystems/winrt-go](https://github.com/saltosystems/winrt-go) (today)
 - [chore: remove cspell.json](https://github.com/charmbracelet/crush/pull/1664) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (2 weeks ago)
 - [WIP: refactor(ui):  reimplement UI components](https://github.com/charmbracelet/crush/pull/1652) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (2 weeks ago)
 - [feat(renderer): add ContentDrawable to View for direct drawing](https://github.com/charmbracelet/bubbletea/pull/1562) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 weeks ago)
 - [set screen and window background color when changed via OSC](https://github.com/raphamorim/rio/pull/1382) on [raphamorim/rio](https://github.com/raphamorim/rio) (3 weeks ago)
-- [fix(ui): list highlight selection scrolling](https://github.com/charmbracelet/crush/pull/1575) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (4 weeks ago)
 
 #### 📜 My recent blog posts
 
