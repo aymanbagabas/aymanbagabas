@@ -20,8 +20,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.31.0](https://github.com/charmbracelet/crush/releases/tag/v0.31.0), today) - The glamourous AI coding agent for your favourite terminal 💘
 - [opt-nc/geol](https://github.com/opt-nc/geol) ([v2.5.1](https://github.com/opt-nc/geol/releases/tag/v2.5.1), today) - Efficiently show end-of-life dates for a number of products in your terminal  using https://endoflife.date/ API
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), today) - The glamourous AI coding agent for your favourite terminal 💘
 - [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.12.2](https://github.com/charmbracelet/catwalk/releases/tag/v0.12.2), 1 day ago) - 🐈 A collection of LLM inference providers and models 
 - [aymanbagabas/go-nativeclipboard](https://github.com/aymanbagabas/go-nativeclipboard) ([v0.1.2](https://github.com/aymanbagabas/go-nativeclipboard/releases/tag/v0.1.2), 2 days ago) - A cross-platform clipboard library for Go that works without cgo
 - [raphamorim/rio](https://github.com/raphamorim/rio) ([v0.2.37](https://github.com/raphamorim/rio/releases/tag/v0.2.37), 2 weeks ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
