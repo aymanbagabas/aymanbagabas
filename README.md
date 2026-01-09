@@ -4,8 +4,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦 (1 day ago)
-- [aymanbagabas/go-nativeclipboard](https://github.com/aymanbagabas/go-nativeclipboard) - A cross-platform clipboard library for Go that works without cgo (3 days ago)
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦 (2 days ago)
+- [aymanbagabas/go-nativeclipboard](https://github.com/aymanbagabas/go-nativeclipboard) - A cross-platform clipboard library for Go that works without cgo (4 days ago)
 - [aymanbagabas/go-udiff](https://github.com/aymanbagabas/go-udiff) - µDiff - a micro Go diffing library (2 weeks ago)
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘 (3 weeks ago)
 - [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (3 weeks ago)
@@ -20,17 +20,17 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.11.2](https://github.com/charmbracelet/soft-serve/releases/tag/v0.11.2), today) - The mighty, self-hostable Git server for the command line🍦
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), today) - The glamourous AI coding agent for your favourite terminal 💘
-- [opt-nc/geol](https://github.com/opt-nc/geol) ([v2.5.1](https://github.com/opt-nc/geol/releases/tag/v2.5.1), 1 day ago) - Efficiently show end-of-life dates for a number of products in your terminal  using https://endoflife.date/ API
-- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.12.2](https://github.com/charmbracelet/catwalk/releases/tag/v0.12.2), 2 days ago) - 🐈 A collection of LLM inference providers and models 
-- [aymanbagabas/go-nativeclipboard](https://github.com/aymanbagabas/go-nativeclipboard) ([v0.1.2](https://github.com/aymanbagabas/go-nativeclipboard/releases/tag/v0.1.2), 3 days ago) - A cross-platform clipboard library for Go that works without cgo
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.11.2](https://github.com/charmbracelet/soft-serve/releases/tag/v0.11.2), 1 day ago) - The mighty, self-hostable Git server for the command line🍦
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), 1 day ago) - The glamourous AI coding agent for your favourite terminal 💘
+- [opt-nc/geol](https://github.com/opt-nc/geol) ([v2.5.1](https://github.com/opt-nc/geol/releases/tag/v2.5.1), 2 days ago) - Efficiently show end-of-life dates for a number of products in your terminal  using https://endoflife.date/ API
+- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.12.2](https://github.com/charmbracelet/catwalk/releases/tag/v0.12.2), 3 days ago) - 🐈 A collection of LLM inference providers and models 
+- [aymanbagabas/go-nativeclipboard](https://github.com/aymanbagabas/go-nativeclipboard) ([v0.1.2](https://github.com/aymanbagabas/go-nativeclipboard/releases/tag/v0.1.2), 4 days ago) - A cross-platform clipboard library for Go that works without cgo
 
 #### 🔨 My recent Pull Requests
 
-- [example: add media control play/pause example](https://github.com/saltosystems/winrt-go/pull/110) on [saltosystems/winrt-go](https://github.com/saltosystems/winrt-go) (2 days ago)
-- [winrt: add media control classes](https://github.com/saltosystems/winrt-go/pull/109) on [saltosystems/winrt-go](https://github.com/saltosystems/winrt-go) (2 days ago)
-- [winrt: implement await async operation helper](https://github.com/saltosystems/winrt-go/pull/108) on [saltosystems/winrt-go](https://github.com/saltosystems/winrt-go) (2 days ago)
+- [example: add media control play/pause example](https://github.com/saltosystems/winrt-go/pull/110) on [saltosystems/winrt-go](https://github.com/saltosystems/winrt-go) (3 days ago)
+- [winrt: add media control classes](https://github.com/saltosystems/winrt-go/pull/109) on [saltosystems/winrt-go](https://github.com/saltosystems/winrt-go) (3 days ago)
+- [winrt: implement await async operation helper](https://github.com/saltosystems/winrt-go/pull/108) on [saltosystems/winrt-go](https://github.com/saltosystems/winrt-go) (3 days ago)
 - [chore: remove cspell.json](https://github.com/charmbracelet/crush/pull/1664) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (3 weeks ago)
 - [WIP: refactor(ui):  reimplement UI components](https://github.com/charmbracelet/crush/pull/1652) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (3 weeks ago)
 
