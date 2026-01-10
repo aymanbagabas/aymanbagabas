@@ -44,11 +44,11 @@
 
 #### ⭐ Recent Stars
 
+- [M2Team/NanaZip](https://github.com/M2Team/NanaZip) - The 7-Zip derivative intended for the modern Windows experience (today)
 - [FRIGN/libgrapheme](https://github.com/FRIGN/libgrapheme) -  (1 day ago)
 - [antonmedv/gitmal](https://github.com/antonmedv/gitmal) - A static page generator for repos (1 month ago)
 - [webmin/webmin](https://github.com/webmin/webmin) - Powerful and flexible web-based server management control panel (1 month ago)
 - [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container. (1 month ago)
-- [rockorager/prise](https://github.com/rockorager/prise) - a terminal multiplexer for modern terminals (1 month ago)
 
 #### 📫 How to reach me
 
