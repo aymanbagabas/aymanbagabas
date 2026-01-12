@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [perf(ui): dialog: cache diff content and always use viewport](https://github.com/charmbracelet/crush/pull/1843) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (today)
 - [refactor(ui): dialog: message and draw handling](https://github.com/charmbracelet/crush/pull/1822) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (3 days ago)
 - [feat(ui): dialog: add file picker dialog with image preview](https://github.com/charmbracelet/crush/pull/1813) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (3 days ago)
 - [example: add media control play/pause example](https://github.com/saltosystems/winrt-go/pull/110) on [saltosystems/winrt-go](https://github.com/saltosystems/winrt-go) (6 days ago)
 - [winrt: add media control classes](https://github.com/saltosystems/winrt-go/pull/109) on [saltosystems/winrt-go](https://github.com/saltosystems/winrt-go) (6 days ago)
-- [winrt: implement await async operation helper](https://github.com/saltosystems/winrt-go/pull/108) on [saltosystems/winrt-go](https://github.com/saltosystems/winrt-go) (6 days ago)
 
 #### 📜 My recent blog posts
 
