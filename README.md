@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [perf: combine event and render loops into single loop](https://github.com/charmbracelet/bubbletea/pull/1568) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [perf(ui): dialog: cache diff content and always use viewport](https://github.com/charmbracelet/crush/pull/1843) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (1 day ago)
 - [refactor(ui): dialog: message and draw handling](https://github.com/charmbracelet/crush/pull/1822) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (4 days ago)
 - [feat(ui): dialog: add file picker dialog with image preview](https://github.com/charmbracelet/crush/pull/1813) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (4 days ago)
 - [example: add media control play/pause example](https://github.com/saltosystems/winrt-go/pull/110) on [saltosystems/winrt-go](https://github.com/saltosystems/winrt-go) (1 week ago)
-- [winrt: add media control classes](https://github.com/saltosystems/winrt-go/pull/109) on [saltosystems/winrt-go](https://github.com/saltosystems/winrt-go) (1 week ago)
 
 #### 📜 My recent blog posts
 
