@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for all 💘 (1 day ago)
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for all 💘 (today)
 - [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (1 day ago)
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦 (5 days ago)
 - [aymanbagabas/go-nativeclipboard](https://github.com/aymanbagabas/go-nativeclipboard) - A cross-platform clipboard library for Go that works without cgo (1 week ago)
