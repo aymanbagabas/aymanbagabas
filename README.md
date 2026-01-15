@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (today)
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘 (1 day ago)
 - [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (2 days ago)
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦 (6 days ago)
 - [aymanbagabas/go-nativeclipboard](https://github.com/aymanbagabas/go-nativeclipboard) - A cross-platform clipboard library for Go that works without cgo (1 week ago)
-- [aymanbagabas/go-udiff](https://github.com/aymanbagabas/go-udiff) - µDiff - a micro Go diffing library (3 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat(ui): filepicker: support kitty graphics in tmux](https://github.com/charmbracelet/crush/pull/1884) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (today)
 - [refactor(ui): dialog: cleanup render logic and use RenderContext](https://github.com/charmbracelet/crush/pull/1871) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (1 day ago)
 - [perf: combine event and render loops into single loop](https://github.com/charmbracelet/bubbletea/pull/1568) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 days ago)
 - [perf(ui): dialog: cache diff content and always use viewport](https://github.com/charmbracelet/crush/pull/1843) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (3 days ago)
 - [refactor(ui): dialog: message and draw handling](https://github.com/charmbracelet/crush/pull/1822) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (6 days ago)
-- [feat(ui): dialog: add file picker dialog with image preview](https://github.com/charmbracelet/crush/pull/1813) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (6 days ago)
 
 #### 📜 My recent blog posts
 
