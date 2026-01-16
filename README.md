@@ -20,8 +20,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.33.2](https://github.com/charmbracelet/crush/releases/tag/v0.33.2), today) - Glamourous agentic coding for all 💘
 - [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.14.2](https://github.com/charmbracelet/catwalk/releases/tag/v0.14.2), today) - 🐈 A collection of LLM inference providers and models 
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.32.1](https://github.com/charmbracelet/crush/releases/tag/v0.32.1), 3 days ago) - Glamourous agentic coding for all 💘
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.11.2](https://github.com/charmbracelet/soft-serve/releases/tag/v0.11.2), 1 week ago) - The mighty, self-hostable Git server for the command line🍦
 - [opt-nc/geol](https://github.com/opt-nc/geol) ([v2.5.1](https://github.com/opt-nc/geol/releases/tag/v2.5.1), 1 week ago) - Efficiently show end-of-life dates for a number of products in your terminal  using https://endoflife.date/ API
 - [aymanbagabas/go-nativeclipboard](https://github.com/aymanbagabas/go-nativeclipboard) ([v0.1.2](https://github.com/aymanbagabas/go-nativeclipboard/releases/tag/v0.1.2), 1 week ago) - A cross-platform clipboard library for Go that works without cgo
