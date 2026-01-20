@@ -4,9 +4,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘 (3 days ago)
-- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (4 days ago)
-- [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (6 days ago)
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘 (4 days ago)
+- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (5 days ago)
+- [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (1 week ago)
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦 (1 week ago)
 - [aymanbagabas/go-nativeclipboard](https://github.com/aymanbagabas/go-nativeclipboard) - A cross-platform clipboard library for Go that works without cgo (2 weeks ago)
 
@@ -20,18 +20,18 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.14.3](https://github.com/charmbracelet/catwalk/releases/tag/v0.14.3), today) - 🐈 A collection of LLM inference providers and models 
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), today) - Glamourous agentic coding for all 💘
-- [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), 2 days ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
+- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.14.3](https://github.com/charmbracelet/catwalk/releases/tag/v0.14.3), 1 day ago) - 🐈 A collection of LLM inference providers and models 
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), 1 day ago) - Glamourous agentic coding for all 💘
+- [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), 3 days ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.11.2](https://github.com/charmbracelet/soft-serve/releases/tag/v0.11.2), 1 week ago) - The mighty, self-hostable Git server for the command line🍦
 - [opt-nc/geol](https://github.com/opt-nc/geol) ([v2.5.1](https://github.com/opt-nc/geol/releases/tag/v2.5.1), 1 week ago) - Efficiently show end-of-life dates for a number of products in your terminal  using https://endoflife.date/ API
 
 #### 🔨 My recent Pull Requests
 
-- [fix: editor: exclude native clipboard support from linux/386 builds](https://github.com/charmbracelet/crush/pull/1903) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (3 days ago)
-- [feat(ui): filepicker: support kitty graphics in tmux](https://github.com/charmbracelet/crush/pull/1884) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (4 days ago)
-- [refactor(ui): dialog: cleanup render logic and use RenderContext](https://github.com/charmbracelet/crush/pull/1871) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (5 days ago)
-- [perf: combine event and render loops into single loop](https://github.com/charmbracelet/bubbletea/pull/1568) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (6 days ago)
+- [fix: editor: exclude native clipboard support from linux/386 builds](https://github.com/charmbracelet/crush/pull/1903) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (4 days ago)
+- [feat(ui): filepicker: support kitty graphics in tmux](https://github.com/charmbracelet/crush/pull/1884) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (5 days ago)
+- [refactor(ui): dialog: cleanup render logic and use RenderContext](https://github.com/charmbracelet/crush/pull/1871) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (6 days ago)
+- [perf: combine event and render loops into single loop](https://github.com/charmbracelet/bubbletea/pull/1568) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 week ago)
 - [perf(ui): dialog: cache diff content and always use viewport](https://github.com/charmbracelet/crush/pull/1843) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (1 week ago)
 
 #### 📜 My recent blog posts
