@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ui: copy mouse highlighted content to clipboard](https://github.com/charmbracelet/crush/pull/1938) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (today)
 - [chore: bump dependencies](https://github.com/charmbracelet/gum/pull/1009) on [charmbracelet/gum](https://github.com/charmbracelet/gum) (today)
 - [fix: editor: exclude native clipboard support from linux/386 builds](https://github.com/charmbracelet/crush/pull/1903) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (5 days ago)
 - [feat(ui): filepicker: support kitty graphics in tmux](https://github.com/charmbracelet/crush/pull/1884) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (6 days ago)
 - [refactor(ui): dialog: cleanup render logic and use RenderContext](https://github.com/charmbracelet/crush/pull/1871) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (1 week ago)
-- [perf: combine event and render loops into single loop](https://github.com/charmbracelet/bubbletea/pull/1568) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 week ago)
 
 #### 📜 My recent blog posts
 
