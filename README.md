@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (today)
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘 (5 days ago)
 - [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (6 days ago)
 - [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (1 week ago)
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦 (1 week ago)
-- [aymanbagabas/go-nativeclipboard](https://github.com/aymanbagabas/go-nativeclipboard) - A cross-platform clipboard library for Go that works without cgo (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [chore: bump dependencies](https://github.com/charmbracelet/gum/pull/1009) on [charmbracelet/gum](https://github.com/charmbracelet/gum) (today)
 - [fix: editor: exclude native clipboard support from linux/386 builds](https://github.com/charmbracelet/crush/pull/1903) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (5 days ago)
 - [feat(ui): filepicker: support kitty graphics in tmux](https://github.com/charmbracelet/crush/pull/1884) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (6 days ago)
 - [refactor(ui): dialog: cleanup render logic and use RenderContext](https://github.com/charmbracelet/crush/pull/1871) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (1 week ago)
 - [perf: combine event and render loops into single loop](https://github.com/charmbracelet/bubbletea/pull/1568) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 week ago)
-- [perf(ui): dialog: cache diff content and always use viewport](https://github.com/charmbracelet/crush/pull/1843) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (1 week ago)
 
 #### 📜 My recent blog posts
 
