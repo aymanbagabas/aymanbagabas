@@ -20,10 +20,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.11.3](https://github.com/charmbracelet/soft-serve/releases/tag/v0.11.3), today) - The mighty, self-hostable Git server for the command line🍦
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.34.0](https://github.com/charmbracelet/crush/releases/tag/v0.34.0), today) - Glamourous agentic coding for all 💘
 - [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.14.3](https://github.com/charmbracelet/catwalk/releases/tag/v0.14.3), 2 days ago) - 🐈 A collection of LLM inference providers and models 
 - [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), 4 days ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.11.2](https://github.com/charmbracelet/soft-serve/releases/tag/v0.11.2), 1 week ago) - The mighty, self-hostable Git server for the command line🍦
 - [opt-nc/geol](https://github.com/opt-nc/geol) ([v2.5.1](https://github.com/opt-nc/geol/releases/tag/v2.5.1), 2 weeks ago) - Efficiently show end-of-life dates for a number of products in your terminal  using https://endoflife.date/ API
 
 #### 🔨 My recent Pull Requests
