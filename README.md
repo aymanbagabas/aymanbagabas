@@ -5,10 +5,10 @@
 #### 👷 Check out what I'm currently working on
 
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘 (today)
+- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (today)
+- [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (today)
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦 (1 day ago)
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (1 day ago)
-- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (1 week ago)
-- [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: add new poll reader for cross-platform I/O polling](https://github.com/charmbracelet/ultraviolet/pull/71) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (today)
+- [fix(ui): rework cursor can appear out of place on multi-line](https://github.com/charmbracelet/crush/pull/1948) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (today)
+- [feat(ui): add keybinding to copy chat message content to clipboard](https://github.com/charmbracelet/crush/pull/1947) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (today)
 - [feat: add Window type for managing rectangular areas on the screen](https://github.com/charmbracelet/ultraviolet/pull/70) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (today)
 - [ui: copy mouse highlighted content to clipboard](https://github.com/charmbracelet/crush/pull/1938) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (1 day ago)
-- [chore: bump dependencies](https://github.com/charmbracelet/gum/pull/1009) on [charmbracelet/gum](https://github.com/charmbracelet/gum) (1 day ago)
-- [fix: editor: exclude native clipboard support from linux/386 builds](https://github.com/charmbracelet/crush/pull/1903) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (6 days ago)
-- [feat(ui): filepicker: support kitty graphics in tmux](https://github.com/charmbracelet/crush/pull/1884) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (1 week ago)
 
 #### 📜 My recent blog posts
 
