@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘 (today)
-- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (today)
-- [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (today)
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦 (1 day ago)
-- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (1 day ago)
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘 (1 day ago)
+- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (1 day ago)
+- [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (1 day ago)
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦 (2 days ago)
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [opt-nc/geol](https://github.com/opt-nc/geol) ([v2.6.0-develop.1](https://github.com/opt-nc/geol/releases/tag/v2.6.0-develop.1), today) - Efficiently show end-of-life dates for a number of products in your terminal  using https://endoflife.date/ API
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), today) - Glamourous agentic coding for all 💘
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.11.3](https://github.com/charmbracelet/soft-serve/releases/tag/v0.11.3), 1 day ago) - The mighty, self-hostable Git server for the command line🍦
-- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.14.3](https://github.com/charmbracelet/catwalk/releases/tag/v0.14.3), 3 days ago) - 🐈 A collection of LLM inference providers and models 
-- [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), 5 days ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
+- [opt-nc/geol](https://github.com/opt-nc/geol) ([v2.6.0-develop.1](https://github.com/opt-nc/geol/releases/tag/v2.6.0-develop.1), 1 day ago) - Efficiently show end-of-life dates for a number of products in your terminal  using https://endoflife.date/ API
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), 1 day ago) - Glamourous agentic coding for all 💘
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.11.3](https://github.com/charmbracelet/soft-serve/releases/tag/v0.11.3), 2 days ago) - The mighty, self-hostable Git server for the command line🍦
+- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.14.3](https://github.com/charmbracelet/catwalk/releases/tag/v0.14.3), 4 days ago) - 🐈 A collection of LLM inference providers and models 
+- [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), 6 days ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 
 #### 🔨 My recent Pull Requests
 
-- [feat: add new poll reader for cross-platform I/O polling](https://github.com/charmbracelet/ultraviolet/pull/71) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (today)
-- [fix(ui): rework cursor can appear out of place on multi-line](https://github.com/charmbracelet/crush/pull/1948) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (today)
-- [feat(ui): add keybinding to copy chat message content to clipboard](https://github.com/charmbracelet/crush/pull/1947) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (today)
-- [feat: add Window type for managing rectangular areas on the screen](https://github.com/charmbracelet/ultraviolet/pull/70) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (today)
-- [ui: copy mouse highlighted content to clipboard](https://github.com/charmbracelet/crush/pull/1938) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (1 day ago)
+- [feat: add new poll reader for cross-platform I/O polling](https://github.com/charmbracelet/ultraviolet/pull/71) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (1 day ago)
+- [fix(ui): rework cursor can appear out of place on multi-line](https://github.com/charmbracelet/crush/pull/1948) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (1 day ago)
+- [feat(ui): add keybinding to copy chat message content to clipboard](https://github.com/charmbracelet/crush/pull/1947) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (1 day ago)
+- [feat: add Window type for managing rectangular areas on the screen](https://github.com/charmbracelet/ultraviolet/pull/70) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (1 day ago)
+- [ui: copy mouse highlighted content to clipboard](https://github.com/charmbracelet/crush/pull/1938) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (2 days ago)
 
 #### 📜 My recent blog posts
 
@@ -45,7 +45,7 @@
 #### ⭐ Recent Stars
 
 - [M2Team/NanaZip](https://github.com/M2Team/NanaZip) - The 7-Zip derivative intended for the modern Windows experience (1 week ago)
-- [FRIGN/libgrapheme](https://github.com/FRIGN/libgrapheme) -  (1 week ago)
+- [FRIGN/libgrapheme](https://github.com/FRIGN/libgrapheme) -  (2 weeks ago)
 - [antonmedv/gitmal](https://github.com/antonmedv/gitmal) - A static page generator for repos (1 month ago)
 - [webmin/webmin](https://github.com/webmin/webmin) - Powerful and flexible web-based server management control panel (1 month ago)
 - [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container. (1 month ago)
