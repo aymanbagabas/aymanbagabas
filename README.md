@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat(styled): add Lines method to StyledString](https://github.com/charmbracelet/ultraviolet/pull/72) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (today)
 - [Unicode 17](https://github.com/clipperhouse/uax29/pull/44) on [clipperhouse/uax29](https://github.com/clipperhouse/uax29) (1 day ago)
 - [feat: add new poll reader for cross-platform I/O polling](https://github.com/charmbracelet/ultraviolet/pull/71) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (3 days ago)
 - [fix(ui): rework cursor can appear out of place on multi-line](https://github.com/charmbracelet/crush/pull/1948) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (3 days ago)
 - [feat(ui): add keybinding to copy chat message content to clipboard](https://github.com/charmbracelet/crush/pull/1947) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (3 days ago)
-- [feat: add Window type for managing rectangular areas on the screen](https://github.com/charmbracelet/ultraviolet/pull/70) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (3 days ago)
 
 #### 📜 My recent blog posts
 
