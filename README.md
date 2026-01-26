@@ -4,8 +4,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘 (3 days ago)
 - [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (3 days ago)
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘 (3 days ago)
 - [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (4 days ago)
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦 (5 days ago)
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (5 days ago)
@@ -20,10 +20,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [opt-nc/geol](https://github.com/opt-nc/geol) ([v2.6.0-develop.2](https://github.com/opt-nc/geol/releases/tag/v2.6.0-develop.2), today) - Efficiently show end-of-life dates for a number of products in your terminal  using https://endoflife.date/ API
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), 1 day ago) - Glamourous agentic coding for all 💘
 - [microsoft/terminal](https://github.com/microsoft/terminal) ([v1.24.10212.0](https://github.com/microsoft/terminal/releases/tag/v1.24.10212.0), 2 days ago) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.15.0](https://github.com/charmbracelet/catwalk/releases/tag/v0.15.0), 3 days ago) - 🐈 A collection of LLM inference providers and models 
-- [opt-nc/geol](https://github.com/opt-nc/geol) ([v2.6.0-develop.1](https://github.com/opt-nc/geol/releases/tag/v2.6.0-develop.1), 4 days ago) - Efficiently show end-of-life dates for a number of products in your terminal  using https://endoflife.date/ API
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.11.3](https://github.com/charmbracelet/soft-serve/releases/tag/v0.11.3), 5 days ago) - The mighty, self-hostable Git server for the command line🍦
 
 #### 🔨 My recent Pull Requests
