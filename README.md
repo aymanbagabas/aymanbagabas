@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘 (2 days ago)
-- [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (2 days ago)
-- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (3 days ago)
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦 (4 days ago)
-- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (4 days ago)
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘 (3 days ago)
+- [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (3 days ago)
+- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (4 days ago)
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦 (5 days ago)
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), today) - Glamourous agentic coding for all 💘
-- [microsoft/terminal](https://github.com/microsoft/terminal) ([v1.24.10212.0](https://github.com/microsoft/terminal/releases/tag/v1.24.10212.0), 1 day ago) - The new Windows Terminal and the original Windows console host, all in the same place!
-- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.15.0](https://github.com/charmbracelet/catwalk/releases/tag/v0.15.0), 2 days ago) - 🐈 A collection of LLM inference providers and models 
-- [opt-nc/geol](https://github.com/opt-nc/geol) ([v2.6.0-develop.1](https://github.com/opt-nc/geol/releases/tag/v2.6.0-develop.1), 3 days ago) - Efficiently show end-of-life dates for a number of products in your terminal  using https://endoflife.date/ API
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.11.3](https://github.com/charmbracelet/soft-serve/releases/tag/v0.11.3), 4 days ago) - The mighty, self-hostable Git server for the command line🍦
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), 1 day ago) - Glamourous agentic coding for all 💘
+- [microsoft/terminal](https://github.com/microsoft/terminal) ([v1.24.10212.0](https://github.com/microsoft/terminal/releases/tag/v1.24.10212.0), 2 days ago) - The new Windows Terminal and the original Windows console host, all in the same place!
+- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.15.0](https://github.com/charmbracelet/catwalk/releases/tag/v0.15.0), 3 days ago) - 🐈 A collection of LLM inference providers and models 
+- [opt-nc/geol](https://github.com/opt-nc/geol) ([v2.6.0-develop.1](https://github.com/opt-nc/geol/releases/tag/v2.6.0-develop.1), 4 days ago) - Efficiently show end-of-life dates for a number of products in your terminal  using https://endoflife.date/ API
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.11.3](https://github.com/charmbracelet/soft-serve/releases/tag/v0.11.3), 5 days ago) - The mighty, self-hostable Git server for the command line🍦
 
 #### 🔨 My recent Pull Requests
 
-- [feat(styled): add Lines method to StyledString](https://github.com/charmbracelet/ultraviolet/pull/72) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (today)
-- [Unicode 17](https://github.com/clipperhouse/uax29/pull/44) on [clipperhouse/uax29](https://github.com/clipperhouse/uax29) (1 day ago)
-- [feat: add new poll reader for cross-platform I/O polling](https://github.com/charmbracelet/ultraviolet/pull/71) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (3 days ago)
-- [fix(ui): rework cursor can appear out of place on multi-line](https://github.com/charmbracelet/crush/pull/1948) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (3 days ago)
-- [feat(ui): add keybinding to copy chat message content to clipboard](https://github.com/charmbracelet/crush/pull/1947) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (3 days ago)
+- [feat(styled): add Lines method to StyledString](https://github.com/charmbracelet/ultraviolet/pull/72) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (1 day ago)
+- [Unicode 17](https://github.com/clipperhouse/uax29/pull/44) on [clipperhouse/uax29](https://github.com/clipperhouse/uax29) (2 days ago)
+- [feat: add new poll reader for cross-platform I/O polling](https://github.com/charmbracelet/ultraviolet/pull/71) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (4 days ago)
+- [fix(ui): rework cursor can appear out of place on multi-line](https://github.com/charmbracelet/crush/pull/1948) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (4 days ago)
+- [feat(ui): add keybinding to copy chat message content to clipboard](https://github.com/charmbracelet/crush/pull/1947) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (4 days ago)
 
 #### 📜 My recent blog posts
 
