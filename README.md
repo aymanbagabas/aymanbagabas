@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat(render): add option to show render time in the view](https://github.com/charmbracelet/bubbletea/pull/1575) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [feat(styled): add Lines method to StyledString](https://github.com/charmbracelet/ultraviolet/pull/72) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (1 day ago)
 - [Unicode 17](https://github.com/clipperhouse/uax29/pull/44) on [clipperhouse/uax29](https://github.com/clipperhouse/uax29) (2 days ago)
 - [feat: add new poll reader for cross-platform I/O polling](https://github.com/charmbracelet/ultraviolet/pull/71) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (4 days ago)
 - [fix(ui): rework cursor can appear out of place on multi-line](https://github.com/charmbracelet/crush/pull/1948) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (4 days ago)
-- [feat(ui): add keybinding to copy chat message content to clipboard](https://github.com/charmbracelet/crush/pull/1947) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (4 days ago)
 
 #### 📜 My recent blog posts
 
