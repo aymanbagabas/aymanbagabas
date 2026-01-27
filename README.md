@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat(ansi): sequences: add iterator and reader for ANSI escape sequences](https://github.com/charmbracelet/x/pull/756) on [charmbracelet/x](https://github.com/charmbracelet/x) (today)
 - [fix(ui): use setState method to change UI state and focus](https://github.com/charmbracelet/crush/pull/1994) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (today)
 - [fix(ui): ensure the message list does not scroll beyond the last item](https://github.com/charmbracelet/crush/pull/1993) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (1 day ago)
 - [feat(render): add option to show render time in the view](https://github.com/charmbracelet/bubbletea/pull/1575) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
 - [feat(styled): add Lines method to StyledString](https://github.com/charmbracelet/ultraviolet/pull/72) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (2 days ago)
-- [Unicode 17](https://github.com/clipperhouse/uax29/pull/44) on [clipperhouse/uax29](https://github.com/clipperhouse/uax29) (3 days ago)
 
 #### 📜 My recent blog posts
 
