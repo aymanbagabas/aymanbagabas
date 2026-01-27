@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘 (3 days ago)
-- [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (3 days ago)
-- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (4 days ago)
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦 (5 days ago)
-- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (5 days ago)
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘 (4 days ago)
+- [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (4 days ago)
+- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (5 days ago)
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦 (6 days ago)
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [opt-nc/geol](https://github.com/opt-nc/geol) ([v2.6.0-develop.2](https://github.com/opt-nc/geol/releases/tag/v2.6.0-develop.2), today) - Efficiently show end-of-life dates for a number of products in your terminal  using https://endoflife.date/ API
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), 1 day ago) - Glamourous agentic coding for all 💘
-- [microsoft/terminal](https://github.com/microsoft/terminal) ([v1.24.10212.0](https://github.com/microsoft/terminal/releases/tag/v1.24.10212.0), 2 days ago) - The new Windows Terminal and the original Windows console host, all in the same place!
-- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.15.0](https://github.com/charmbracelet/catwalk/releases/tag/v0.15.0), 3 days ago) - 🐈 A collection of LLM inference providers and models 
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.11.3](https://github.com/charmbracelet/soft-serve/releases/tag/v0.11.3), 5 days ago) - The mighty, self-hostable Git server for the command line🍦
+- [opt-nc/geol](https://github.com/opt-nc/geol) ([v2.6.0-develop.2](https://github.com/opt-nc/geol/releases/tag/v2.6.0-develop.2), 1 day ago) - Efficiently show end-of-life dates for a number of products in your terminal  using https://endoflife.date/ API
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), 2 days ago) - Glamourous agentic coding for all 💘
+- [microsoft/terminal](https://github.com/microsoft/terminal) ([v1.24.10212.0](https://github.com/microsoft/terminal/releases/tag/v1.24.10212.0), 3 days ago) - The new Windows Terminal and the original Windows console host, all in the same place!
+- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.15.0](https://github.com/charmbracelet/catwalk/releases/tag/v0.15.0), 4 days ago) - 🐈 A collection of LLM inference providers and models 
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.11.3](https://github.com/charmbracelet/soft-serve/releases/tag/v0.11.3), 6 days ago) - The mighty, self-hostable Git server for the command line🍦
 
 #### 🔨 My recent Pull Requests
 
-- [feat(render): add option to show render time in the view](https://github.com/charmbracelet/bubbletea/pull/1575) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
-- [feat(styled): add Lines method to StyledString](https://github.com/charmbracelet/ultraviolet/pull/72) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (1 day ago)
-- [Unicode 17](https://github.com/clipperhouse/uax29/pull/44) on [clipperhouse/uax29](https://github.com/clipperhouse/uax29) (2 days ago)
-- [feat: add new poll reader for cross-platform I/O polling](https://github.com/charmbracelet/ultraviolet/pull/71) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (4 days ago)
-- [fix(ui): rework cursor can appear out of place on multi-line](https://github.com/charmbracelet/crush/pull/1948) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (4 days ago)
+- [fix(ui): ensure the message list does not scroll beyond the last item](https://github.com/charmbracelet/crush/pull/1993) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (1 day ago)
+- [feat(render): add option to show render time in the view](https://github.com/charmbracelet/bubbletea/pull/1575) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
+- [feat(styled): add Lines method to StyledString](https://github.com/charmbracelet/ultraviolet/pull/72) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (2 days ago)
+- [Unicode 17](https://github.com/clipperhouse/uax29/pull/44) on [clipperhouse/uax29](https://github.com/clipperhouse/uax29) (3 days ago)
+- [feat: add new poll reader for cross-platform I/O polling](https://github.com/charmbracelet/ultraviolet/pull/71) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (5 days ago)
 
 #### 📜 My recent blog posts
 
