@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘 (today)
-- [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (4 days ago)
-- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (5 days ago)
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦 (6 days ago)
-- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (6 days ago)
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘 (1 day ago)
+- [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (5 days ago)
+- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (6 days ago)
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦 (1 week ago)
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.36.0](https://github.com/charmbracelet/crush/releases/tag/v0.36.0), today) - Glamourous agentic coding for all 💘
-- [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), today) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
-- [opt-nc/geol](https://github.com/opt-nc/geol) ([v2.6.0-develop.2](https://github.com/opt-nc/geol/releases/tag/v2.6.0-develop.2), 1 day ago) - Efficiently show end-of-life dates for a number of products in your terminal  using https://endoflife.date/ API
-- [microsoft/terminal](https://github.com/microsoft/terminal) ([v1.24.10212.0](https://github.com/microsoft/terminal/releases/tag/v1.24.10212.0), 3 days ago) - The new Windows Terminal and the original Windows console host, all in the same place!
-- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.15.0](https://github.com/charmbracelet/catwalk/releases/tag/v0.15.0), 4 days ago) - 🐈 A collection of LLM inference providers and models 
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.36.0](https://github.com/charmbracelet/crush/releases/tag/v0.36.0), 1 day ago) - Glamourous agentic coding for all 💘
+- [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), 1 day ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
+- [opt-nc/geol](https://github.com/opt-nc/geol) ([v2.6.0-develop.2](https://github.com/opt-nc/geol/releases/tag/v2.6.0-develop.2), 2 days ago) - Efficiently show end-of-life dates for a number of products in your terminal  using https://endoflife.date/ API
+- [microsoft/terminal](https://github.com/microsoft/terminal) ([v1.24.10212.0](https://github.com/microsoft/terminal/releases/tag/v1.24.10212.0), 4 days ago) - The new Windows Terminal and the original Windows console host, all in the same place!
+- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.15.0](https://github.com/charmbracelet/catwalk/releases/tag/v0.15.0), 5 days ago) - 🐈 A collection of LLM inference providers and models 
 
 #### 🔨 My recent Pull Requests
 
-- [refactor: terminal capability handling](https://github.com/charmbracelet/crush/pull/2014) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (today)
-- [feat(ansi): sequences: add iterator and reader for ANSI escape sequences](https://github.com/charmbracelet/x/pull/756) on [charmbracelet/x](https://github.com/charmbracelet/x) (today)
-- [fix(ui): use setState method to change UI state and focus](https://github.com/charmbracelet/crush/pull/1994) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (today)
-- [fix(ui): ensure the message list does not scroll beyond the last item](https://github.com/charmbracelet/crush/pull/1993) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (1 day ago)
-- [feat(render): add option to show render time in the view](https://github.com/charmbracelet/bubbletea/pull/1575) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
+- [refactor: terminal capability handling](https://github.com/charmbracelet/crush/pull/2014) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (1 day ago)
+- [feat(ansi): sequences: add iterator and reader for ANSI escape sequences](https://github.com/charmbracelet/x/pull/756) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 day ago)
+- [fix(ui): use setState method to change UI state and focus](https://github.com/charmbracelet/crush/pull/1994) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (1 day ago)
+- [fix(ui): ensure the message list does not scroll beyond the last item](https://github.com/charmbracelet/crush/pull/1993) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (2 days ago)
+- [feat(render): add option to show render time in the view](https://github.com/charmbracelet/bubbletea/pull/1575) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 days ago)
 
 #### 📜 My recent blog posts
 
