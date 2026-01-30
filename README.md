@@ -20,8 +20,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.16.0](https://github.com/charmbracelet/catwalk/releases/tag/v0.16.0), today) - 🐈 A collection of LLM inference providers and models 
 - [opt-nc/geol](https://github.com/opt-nc/geol) ([v2.6.0-develop.5](https://github.com/opt-nc/geol/releases/tag/v2.6.0-develop.5), today) - Efficiently show end-of-life dates for a number of products in your terminal  using https://endoflife.date/ API
-- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.15.1](https://github.com/charmbracelet/catwalk/releases/tag/v0.15.1), 2 days ago) - 🐈 A collection of LLM inference providers and models 
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), 2 days ago) - Glamourous agentic coding for all 💘
 - [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), 3 days ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 - [microsoft/terminal](https://github.com/microsoft/terminal) ([v1.24.10212.0](https://github.com/microsoft/terminal/releases/tag/v1.24.10212.0), 6 days ago) - The new Windows Terminal and the original Windows console host, all in the same place!
