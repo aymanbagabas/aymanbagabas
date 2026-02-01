@@ -20,11 +20,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [clipperhouse/uax29](https://github.com/clipperhouse/uax29) ([v2.5.0](https://github.com/clipperhouse/uax29/releases/tag/v2.5.0), today) - A tokenizer based on Unicode text segmentation (UAX #29), for Go. Split graphemes, words, sentences.
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.37.0](https://github.com/charmbracelet/crush/releases/tag/v0.37.0), 2 days ago) - Glamourous agentic coding for all 💘
 - [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.16.0](https://github.com/charmbracelet/catwalk/releases/tag/v0.16.0), 2 days ago) - 🐈 A collection of LLM inference providers and models 
 - [opt-nc/geol](https://github.com/opt-nc/geol) ([v2.6.0-develop.5](https://github.com/opt-nc/geol/releases/tag/v2.6.0-develop.5), 2 days ago) - Efficiently show end-of-life dates for a number of products in your terminal  using https://endoflife.date/ API
 - [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), 5 days ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
-- [clipperhouse/uax29](https://github.com/clipperhouse/uax29) ([v2.4.0](https://github.com/clipperhouse/uax29/releases/tag/v2.4.0), 1 week ago) - A tokenizer based on Unicode text segmentation (UAX #29), for Go. Split graphemes, words, sentences.
 
 #### 🔨 My recent Pull Requests
 
