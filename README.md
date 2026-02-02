@@ -4,8 +4,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [clipperhouse/uax29](https://github.com/clipperhouse/uax29) - A tokenizer based on Unicode text segmentation (UAX #29), for Go. Split graphemes, words, sentences. (1 day ago)
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘 (2 days ago)
+- [clipperhouse/uax29](https://github.com/clipperhouse/uax29) - A tokenizer based on Unicode text segmentation (UAX #29), for Go. Split graphemes, words, sentences. (2 days ago)
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘 (3 days ago)
 - [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (1 week ago)
 - [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (1 week ago)
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (1 week ago)
@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [clipperhouse/uax29](https://github.com/clipperhouse/uax29) ([v2.5.0](https://github.com/clipperhouse/uax29/releases/tag/v2.5.0), today) - A tokenizer based on Unicode text segmentation (UAX #29), for Go. Split graphemes, words, sentences.
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.37.0](https://github.com/charmbracelet/crush/releases/tag/v0.37.0), 2 days ago) - Glamourous agentic coding for all 💘
-- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.16.0](https://github.com/charmbracelet/catwalk/releases/tag/v0.16.0), 2 days ago) - 🐈 A collection of LLM inference providers and models 
-- [opt-nc/geol](https://github.com/opt-nc/geol) ([v2.6.0-develop.5](https://github.com/opt-nc/geol/releases/tag/v2.6.0-develop.5), 2 days ago) - Efficiently show end-of-life dates for a number of products in your terminal  using https://endoflife.date/ API
-- [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), 5 days ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
+- [clipperhouse/uax29](https://github.com/clipperhouse/uax29) ([v2.5.0](https://github.com/clipperhouse/uax29/releases/tag/v2.5.0), 1 day ago) - A tokenizer based on Unicode text segmentation (UAX #29), for Go. Split graphemes, words, sentences.
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.37.0](https://github.com/charmbracelet/crush/releases/tag/v0.37.0), 3 days ago) - Glamourous agentic coding for all 💘
+- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.16.0](https://github.com/charmbracelet/catwalk/releases/tag/v0.16.0), 3 days ago) - 🐈 A collection of LLM inference providers and models 
+- [opt-nc/geol](https://github.com/opt-nc/geol) ([v2.6.0-develop.5](https://github.com/opt-nc/geol/releases/tag/v2.6.0-develop.5), 3 days ago) - Efficiently show end-of-life dates for a number of products in your terminal  using https://endoflife.date/ API
+- [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), 6 days ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 
 #### 🔨 My recent Pull Requests
 
-- [fix: simplify PasteStringToPaths to handle quoted paths only](https://github.com/charmbracelet/crush/pull/2063) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (2 days ago)
-- [refactor: terminal capability handling](https://github.com/charmbracelet/crush/pull/2014) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (5 days ago)
-- [feat(ansi): sequences: add iterator and reader for ANSI escape sequences](https://github.com/charmbracelet/x/pull/756) on [charmbracelet/x](https://github.com/charmbracelet/x) (5 days ago)
-- [fix(ui): use setState method to change UI state and focus](https://github.com/charmbracelet/crush/pull/1994) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (5 days ago)
-- [fix(ui): ensure the message list does not scroll beyond the last item](https://github.com/charmbracelet/crush/pull/1993) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (6 days ago)
+- [fix: simplify PasteStringToPaths to handle quoted paths only](https://github.com/charmbracelet/crush/pull/2063) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (3 days ago)
+- [refactor: terminal capability handling](https://github.com/charmbracelet/crush/pull/2014) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (6 days ago)
+- [feat(ansi): sequences: add iterator and reader for ANSI escape sequences](https://github.com/charmbracelet/x/pull/756) on [charmbracelet/x](https://github.com/charmbracelet/x) (6 days ago)
+- [fix(ui): use setState method to change UI state and focus](https://github.com/charmbracelet/crush/pull/1994) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (6 days ago)
+- [fix(ui): ensure the message list does not scroll beyond the last item](https://github.com/charmbracelet/crush/pull/1993) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (1 week ago)
 
 #### 📜 My recent blog posts
 
@@ -44,7 +44,7 @@
 
 #### ⭐ Recent Stars
 
-- [taigrr/trophy](https://github.com/taigrr/trophy) - Terminal 3D Model Viewer - View OBJ and GLB files in your terminal (today)
+- [taigrr/trophy](https://github.com/taigrr/trophy) - Terminal 3D Model Viewer - View OBJ and GLB files in your terminal (1 day ago)
 - [M2Team/NanaZip](https://github.com/M2Team/NanaZip) - The 7-Zip derivative intended for the modern Windows experience (3 weeks ago)
 - [FRIGN/libgrapheme](https://github.com/FRIGN/libgrapheme) -  (3 weeks ago)
 - [antonmedv/gitmal](https://github.com/antonmedv/gitmal) - A static page generator for repos (1 month ago)
