@@ -44,7 +44,7 @@
 
 #### ⭐ Recent Stars
 
-- [taigrr/trophy](https://github.com/taigrr/trophy) - Terminal 3D Model Viewer - View OBJ and GLB files in your terminal (1 day ago)
+- [taigrr/trophy](https://github.com/taigrr/trophy) - Terminal 3D Model Viewer - View 3D model files in your terminal (1 day ago)
 - [M2Team/NanaZip](https://github.com/M2Team/NanaZip) - The 7-Zip derivative intended for the modern Windows experience (3 weeks ago)
 - [FRIGN/libgrapheme](https://github.com/FRIGN/libgrapheme) -  (3 weeks ago)
 - [antonmedv/gitmal](https://github.com/antonmedv/gitmal) - A static page generator for repos (1 month ago)
