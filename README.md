@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix(ui): scroll to expanded item](https://github.com/charmbracelet/crush/pull/2088) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (today)
 - [fix: simplify PasteStringToPaths to handle quoted paths only](https://github.com/charmbracelet/crush/pull/2063) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (3 days ago)
 - [refactor: terminal capability handling](https://github.com/charmbracelet/crush/pull/2014) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (6 days ago)
 - [feat(ansi): sequences: add iterator and reader for ANSI escape sequences](https://github.com/charmbracelet/x/pull/756) on [charmbracelet/x](https://github.com/charmbracelet/x) (6 days ago)
 - [fix(ui): use setState method to change UI state and focus](https://github.com/charmbracelet/crush/pull/1994) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (6 days ago)
-- [fix(ui): ensure the message list does not scroll beyond the last item](https://github.com/charmbracelet/crush/pull/1993) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (1 week ago)
 
 #### 📜 My recent blog posts
 
