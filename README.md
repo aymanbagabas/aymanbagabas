@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [lfshttp: fix auth response ExpiresIn data type](https://github.com/git-lfs/git-lfs/pull/6200) on [git-lfs/git-lfs](https://github.com/git-lfs/git-lfs) (today)
 - [fix(ui): scroll to expanded item](https://github.com/charmbracelet/crush/pull/2088) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (1 day ago)
 - [fix: simplify PasteStringToPaths to handle quoted paths only](https://github.com/charmbracelet/crush/pull/2063) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (4 days ago)
 - [refactor: terminal capability handling](https://github.com/charmbracelet/crush/pull/2014) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (1 week ago)
 - [feat(ansi): sequences: add iterator and reader for ANSI escape sequences](https://github.com/charmbracelet/x/pull/756) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 week ago)
-- [fix(ui): use setState method to change UI state and focus](https://github.com/charmbracelet/crush/pull/1994) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (1 week ago)
 
 #### 📜 My recent blog posts
 
