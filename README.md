@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: separate screen and input handling in terminal](https://github.com/charmbracelet/ultraviolet/pull/80) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (today)
 - [refactor(event): separate event scanning logic into eventScanner struct](https://github.com/charmbracelet/ultraviolet/pull/79) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (today)
 - [feat: add cross-platform console I/O interface](https://github.com/charmbracelet/ultraviolet/pull/78) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (today)
 - [lfshttp: fix auth response ExpiresIn data type](https://github.com/git-lfs/git-lfs/pull/6200) on [git-lfs/git-lfs](https://github.com/git-lfs/git-lfs) (today)
 - [fix(ui): scroll to expanded item](https://github.com/charmbracelet/crush/pull/2088) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (1 day ago)
-- [fix: simplify PasteStringToPaths to handle quoted paths only](https://github.com/charmbracelet/crush/pull/2063) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (4 days ago)
 
 #### 📜 My recent blog posts
 
