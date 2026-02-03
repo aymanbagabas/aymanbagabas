@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: bump ansi and use ansi.GetParser/PutParser](https://github.com/charmbracelet/ultraviolet/pull/82) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (today)
 - [Add Context for drawing operations and move layout to its own package](https://github.com/charmbracelet/ultraviolet/pull/81) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (today)
 - [feat: separate screen and input handling in terminal](https://github.com/charmbracelet/ultraviolet/pull/80) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (today)
 - [refactor(event): separate event scanning logic into eventScanner struct](https://github.com/charmbracelet/ultraviolet/pull/79) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (today)
 - [feat: add cross-platform console I/O interface](https://github.com/charmbracelet/ultraviolet/pull/78) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (today)
-- [lfshttp: fix auth response ExpiresIn data type](https://github.com/git-lfs/git-lfs/pull/6200) on [git-lfs/git-lfs](https://github.com/git-lfs/git-lfs) (today)
 
 #### 📜 My recent blog posts
 
