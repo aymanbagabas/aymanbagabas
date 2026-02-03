@@ -6,9 +6,9 @@
 
 - [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (today)
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧 (today)
+- [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (today)
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘 (1 day ago)
 - [clipperhouse/uax29](https://github.com/clipperhouse/uax29) - A tokenizer based on Unicode text segmentation (UAX #29), for Go. Split graphemes, words, sentences. (3 days ago)
-- [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [refactor(event): separate event scanning logic into eventScanner struct](https://github.com/charmbracelet/ultraviolet/pull/79) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (today)
+- [feat: add cross-platform console I/O interface](https://github.com/charmbracelet/ultraviolet/pull/78) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (today)
 - [lfshttp: fix auth response ExpiresIn data type](https://github.com/git-lfs/git-lfs/pull/6200) on [git-lfs/git-lfs](https://github.com/git-lfs/git-lfs) (today)
 - [fix(ui): scroll to expanded item](https://github.com/charmbracelet/crush/pull/2088) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (1 day ago)
 - [fix: simplify PasteStringToPaths to handle quoted paths only](https://github.com/charmbracelet/crush/pull/2063) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (4 days ago)
-- [refactor: terminal capability handling](https://github.com/charmbracelet/crush/pull/2014) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (1 week ago)
-- [feat(ansi): sequences: add iterator and reader for ANSI escape sequences](https://github.com/charmbracelet/x/pull/756) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 week ago)
 
 #### 📜 My recent blog posts
 
