@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix(render): execute insert above immediately](https://github.com/charmbracelet/bubbletea/pull/1576) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [fix: bump ansi and use ansi.GetParser/PutParser](https://github.com/charmbracelet/ultraviolet/pull/82) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (1 day ago)
 - [Add Context for drawing operations and move layout to its own package](https://github.com/charmbracelet/ultraviolet/pull/81) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (1 day ago)
 - [feat: separate screen and input handling in terminal](https://github.com/charmbracelet/ultraviolet/pull/80) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (1 day ago)
 - [refactor(event): separate event scanning logic into eventScanner struct](https://github.com/charmbracelet/ultraviolet/pull/79) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (1 day ago)
-- [feat: add cross-platform console I/O interface](https://github.com/charmbracelet/ultraviolet/pull/78) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (1 day ago)
 
 #### 📜 My recent blog posts
 
