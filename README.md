@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix(ui): cursor mispositioned when pasting large blocks of text in textarea](https://github.com/charmbracelet/crush/pull/2113) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (today)
 - [fix(render): execute insert above immediately](https://github.com/charmbracelet/bubbletea/pull/1576) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [fix: bump ansi and use ansi.GetParser/PutParser](https://github.com/charmbracelet/ultraviolet/pull/82) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (1 day ago)
 - [Add Context for drawing operations and move layout to its own package](https://github.com/charmbracelet/ultraviolet/pull/81) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (1 day ago)
 - [feat: separate screen and input handling in terminal](https://github.com/charmbracelet/ultraviolet/pull/80) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (1 day ago)
-- [refactor(event): separate event scanning logic into eventScanner struct](https://github.com/charmbracelet/ultraviolet/pull/79) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (1 day ago)
 
 #### 📜 My recent blog posts
 
