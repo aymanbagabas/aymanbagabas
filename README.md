@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.39.1](https://github.com/charmbracelet/crush/releases/tag/v0.39.1), today) - Glamourous agentic coding for all 💘
 - [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), today) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.39.0](https://github.com/charmbracelet/crush/releases/tag/v0.39.0), 1 day ago) - Glamourous agentic coding for all 💘
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.21.1](https://github.com/charmbracelet/bubbles/releases/tag/v0.21.1), 1 day ago) - TUI components for Bubble Tea 🫧
 - [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.16.1](https://github.com/charmbracelet/catwalk/releases/tag/v0.16.1), 2 days ago) - 🐈 A collection of LLM inference providers and models 
 - [clipperhouse/uax29](https://github.com/clipperhouse/uax29) ([v2.5.0](https://github.com/clipperhouse/uax29/releases/tag/v2.5.0), 3 days ago) - A tokenizer based on Unicode text segmentation (UAX #29), for Go. Split graphemes, words, sentences.
 
 #### 🔨 My recent Pull Requests
 
+- [feat: make background color transparent by default](https://github.com/taigrr/trophy/pull/2) on [taigrr/trophy](https://github.com/taigrr/trophy) (today)
+- [chore: use UV Screen API](https://github.com/taigrr/trophy/pull/1) on [taigrr/trophy](https://github.com/taigrr/trophy) (today)
 - [fix(ansi): use our own configuration for CJK width handling](https://github.com/charmbracelet/x/pull/758) on [charmbracelet/x](https://github.com/charmbracelet/x) (today)
 - [fix(ui): ensure we anchor the chat view to the bottom when toggling](https://github.com/charmbracelet/crush/pull/2117) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (today)
 - [fix(ui): context percentage updates](https://github.com/charmbracelet/crush/pull/2115) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (today)
-- [fix(ui): cursor mispositioned when pasting large blocks of text in textarea](https://github.com/charmbracelet/crush/pull/2113) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (today)
-- [fix(render): execute insert above immediately](https://github.com/charmbracelet/bubbletea/pull/1576) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 
 #### 📜 My recent blog posts
 
