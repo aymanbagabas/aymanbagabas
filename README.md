@@ -28,7 +28,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [feat: make background color transparent by default](https://github.com/taigrr/trophy/pull/2) on [taigrr/trophy](https://github.com/taigrr/trophy) (today)
+- [Make background color transparent by default and refactor fb and rast resizing](https://github.com/taigrr/trophy/pull/2) on [taigrr/trophy](https://github.com/taigrr/trophy) (today)
 - [chore: use UV Screen API](https://github.com/taigrr/trophy/pull/1) on [taigrr/trophy](https://github.com/taigrr/trophy) (today)
 - [fix(ansi): use our own configuration for CJK width handling](https://github.com/charmbracelet/x/pull/758) on [charmbracelet/x](https://github.com/charmbracelet/x) (today)
 - [fix(ui): ensure we anchor the chat view to the bottom when toggling](https://github.com/charmbracelet/crush/pull/2117) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (today)
