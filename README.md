@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘 (today)
-- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (today)
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧 (today)
-- [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (today)
-- [clipperhouse/uax29](https://github.com/clipperhouse/uax29) - A tokenizer based on Unicode text segmentation (UAX #29), for Go. Split graphemes, words, sentences. (3 days ago)
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘 (1 day ago)
+- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (1 day ago)
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧 (1 day ago)
+- [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (1 day ago)
+- [clipperhouse/uax29](https://github.com/clipperhouse/uax29) - A tokenizer based on Unicode text segmentation (UAX #29), for Go. Split graphemes, words, sentences. (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -20,23 +20,23 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.39.0](https://github.com/charmbracelet/crush/releases/tag/v0.39.0), today) - Glamourous agentic coding for all 💘
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.21.1](https://github.com/charmbracelet/bubbles/releases/tag/v0.21.1), today) - TUI components for Bubble Tea 🫧
-- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.16.1](https://github.com/charmbracelet/catwalk/releases/tag/v0.16.1), 1 day ago) - 🐈 A collection of LLM inference providers and models 
-- [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), 1 day ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
-- [clipperhouse/uax29](https://github.com/clipperhouse/uax29) ([v2.5.0](https://github.com/clipperhouse/uax29/releases/tag/v2.5.0), 2 days ago) - A tokenizer based on Unicode text segmentation (UAX #29), for Go. Split graphemes, words, sentences.
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.39.0](https://github.com/charmbracelet/crush/releases/tag/v0.39.0), 1 day ago) - Glamourous agentic coding for all 💘
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.21.1](https://github.com/charmbracelet/bubbles/releases/tag/v0.21.1), 1 day ago) - TUI components for Bubble Tea 🫧
+- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.16.1](https://github.com/charmbracelet/catwalk/releases/tag/v0.16.1), 2 days ago) - 🐈 A collection of LLM inference providers and models 
+- [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), 2 days ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
+- [clipperhouse/uax29](https://github.com/clipperhouse/uax29) ([v2.5.0](https://github.com/clipperhouse/uax29/releases/tag/v2.5.0), 3 days ago) - A tokenizer based on Unicode text segmentation (UAX #29), for Go. Split graphemes, words, sentences.
 
 #### 🔨 My recent Pull Requests
 
-- [fix: bump ansi and use ansi.GetParser/PutParser](https://github.com/charmbracelet/ultraviolet/pull/82) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (today)
-- [Add Context for drawing operations and move layout to its own package](https://github.com/charmbracelet/ultraviolet/pull/81) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (today)
-- [feat: separate screen and input handling in terminal](https://github.com/charmbracelet/ultraviolet/pull/80) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (today)
-- [refactor(event): separate event scanning logic into eventScanner struct](https://github.com/charmbracelet/ultraviolet/pull/79) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (today)
-- [feat: add cross-platform console I/O interface](https://github.com/charmbracelet/ultraviolet/pull/78) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (today)
+- [fix: bump ansi and use ansi.GetParser/PutParser](https://github.com/charmbracelet/ultraviolet/pull/82) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (1 day ago)
+- [Add Context for drawing operations and move layout to its own package](https://github.com/charmbracelet/ultraviolet/pull/81) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (1 day ago)
+- [feat: separate screen and input handling in terminal](https://github.com/charmbracelet/ultraviolet/pull/80) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (1 day ago)
+- [refactor(event): separate event scanning logic into eventScanner struct](https://github.com/charmbracelet/ultraviolet/pull/79) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (1 day ago)
+- [feat: add cross-platform console I/O interface](https://github.com/charmbracelet/ultraviolet/pull/78) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (1 day ago)
 
 #### 📜 My recent blog posts
 
-- [A Brief History of Terminal Emulators](https://aymanbagabas.com/blog/2025/03/11/a-brief-history-of-terminal-emulators.html) (10 months ago)
+- [A Brief History of Terminal Emulators](https://aymanbagabas.com/blog/2025/03/11/a-brief-history-of-terminal-emulators.html) (11 months ago)
 - [Self-hosted Soft Serve](https://aymanbagabas.com/blog/2023/04/28/self-hosted-soft-serve.html) (2 years ago)
 - [Simple Vim Session Management](https://aymanbagabas.com/blog/2023/04/13/simple-vim-session-management.html) (2 years ago)
 - [Blue Mountain](https://aymanbagabas.com/blog/2022/06/02/blue-mountain.html) (3 years ago)
@@ -44,11 +44,11 @@
 
 #### ⭐ Recent Stars
 
-- [taigrr/trophy](https://github.com/taigrr/trophy) - Terminal 3D Model Viewer - View 3D model files in your terminal (2 days ago)
+- [taigrr/trophy](https://github.com/taigrr/trophy) - Terminal 3D Model Viewer - View 3D model files in your terminal (3 days ago)
 - [M2Team/NanaZip](https://github.com/M2Team/NanaZip) - The 7-Zip derivative intended for the modern Windows experience (3 weeks ago)
 - [FRIGN/libgrapheme](https://github.com/FRIGN/libgrapheme) -  (3 weeks ago)
 - [antonmedv/gitmal](https://github.com/antonmedv/gitmal) - A static page generator for repos (1 month ago)
-- [webmin/webmin](https://github.com/webmin/webmin) - Powerful and flexible web-based server management control panel (1 month ago)
+- [webmin/webmin](https://github.com/webmin/webmin) - Powerful and flexible web-based server management control panel (2 months ago)
 
 #### 📫 How to reach me
 
