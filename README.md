@@ -20,11 +20,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.39.1](https://github.com/charmbracelet/crush/releases/tag/v0.39.1), 1 day ago) - Glamourous agentic coding for all 💘
 - [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), 1 day ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.21.1](https://github.com/charmbracelet/bubbles/releases/tag/v0.21.1), 2 days ago) - TUI components for Bubble Tea 🫧
 - [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.16.1](https://github.com/charmbracelet/catwalk/releases/tag/v0.16.1), 3 days ago) - 🐈 A collection of LLM inference providers and models 
 - [clipperhouse/uax29](https://github.com/clipperhouse/uax29) ([v2.5.0](https://github.com/clipperhouse/uax29/releases/tag/v2.5.0), 4 days ago) - A tokenizer based on Unicode text segmentation (UAX #29), for Go. Split graphemes, words, sentences.
+- [opt-nc/geol](https://github.com/opt-nc/geol) ([v2.6.0-develop.5](https://github.com/opt-nc/geol/releases/tag/v2.6.0-develop.5), 6 days ago) - Efficiently show and monitor end-of-life dates for a number of products in your terminal  using https://endoflife.date/ API
 
 #### 🔨 My recent Pull Requests
 
