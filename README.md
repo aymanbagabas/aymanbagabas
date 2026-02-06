@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘 (today)
-- [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (today)
-- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (1 day ago)
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧 (2 days ago)
-- [clipperhouse/uax29](https://github.com/clipperhouse/uax29) - A tokenizer based on Unicode text segmentation (UAX #29), for Go. Split graphemes, words, sentences. (5 days ago)
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘 (1 day ago)
+- [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (1 day ago)
+- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (2 days ago)
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧 (3 days ago)
+- [clipperhouse/uax29](https://github.com/clipperhouse/uax29) - A tokenizer based on Unicode text segmentation (UAX #29), for Go. Split graphemes, words, sentences. (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.17.0](https://github.com/charmbracelet/catwalk/releases/tag/v0.17.0), today) - 🐈 A collection of LLM inference providers and models 
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.39.3](https://github.com/charmbracelet/crush/releases/tag/v0.39.3), today) - Glamourous agentic coding for all 💘
-- [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), 1 day ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.21.1](https://github.com/charmbracelet/bubbles/releases/tag/v0.21.1), 2 days ago) - TUI components for Bubble Tea 🫧
-- [clipperhouse/uax29](https://github.com/clipperhouse/uax29) ([v2.5.0](https://github.com/clipperhouse/uax29/releases/tag/v2.5.0), 4 days ago) - A tokenizer based on Unicode text segmentation (UAX #29), for Go. Split graphemes, words, sentences.
+- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.17.0](https://github.com/charmbracelet/catwalk/releases/tag/v0.17.0), 1 day ago) - 🐈 A collection of LLM inference providers and models 
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.39.3](https://github.com/charmbracelet/crush/releases/tag/v0.39.3), 1 day ago) - Glamourous agentic coding for all 💘
+- [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), 2 days ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.21.1](https://github.com/charmbracelet/bubbles/releases/tag/v0.21.1), 3 days ago) - TUI components for Bubble Tea 🫧
+- [clipperhouse/uax29](https://github.com/clipperhouse/uax29) ([v2.5.0](https://github.com/clipperhouse/uax29/releases/tag/v2.5.0), 5 days ago) - A tokenizer based on Unicode text segmentation (UAX #29), for Go. Split graphemes, words, sentences.
 
 #### 🔨 My recent Pull Requests
 
-- [Make background color transparent by default and refactor fb and rast resizing](https://github.com/taigrr/trophy/pull/2) on [taigrr/trophy](https://github.com/taigrr/trophy) (1 day ago)
-- [chore: use UV Screen API](https://github.com/taigrr/trophy/pull/1) on [taigrr/trophy](https://github.com/taigrr/trophy) (1 day ago)
-- [fix(ansi): use our own configuration for CJK width handling](https://github.com/charmbracelet/x/pull/758) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 day ago)
-- [fix(ui): ensure we anchor the chat view to the bottom when toggling](https://github.com/charmbracelet/crush/pull/2117) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (1 day ago)
-- [fix(ui): context percentage updates](https://github.com/charmbracelet/crush/pull/2115) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (1 day ago)
+- [Make background color transparent by default and refactor fb and rast resizing](https://github.com/taigrr/trophy/pull/2) on [taigrr/trophy](https://github.com/taigrr/trophy) (2 days ago)
+- [chore: use UV Screen API](https://github.com/taigrr/trophy/pull/1) on [taigrr/trophy](https://github.com/taigrr/trophy) (2 days ago)
+- [fix(ansi): use our own configuration for CJK width handling](https://github.com/charmbracelet/x/pull/758) on [charmbracelet/x](https://github.com/charmbracelet/x) (2 days ago)
+- [fix(ui): ensure we anchor the chat view to the bottom when toggling](https://github.com/charmbracelet/crush/pull/2117) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (2 days ago)
+- [fix(ui): context percentage updates](https://github.com/charmbracelet/crush/pull/2115) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (2 days ago)
 
 #### 📜 My recent blog posts
 
@@ -44,9 +44,9 @@
 
 #### ⭐ Recent Stars
 
-- [taigrr/trophy](https://github.com/taigrr/trophy) - Terminal 3D Model Viewer - View 3D model files in your terminal (4 days ago)
+- [taigrr/trophy](https://github.com/taigrr/trophy) - Terminal 3D Model Viewer - View 3D model files in your terminal (5 days ago)
 - [M2Team/NanaZip](https://github.com/M2Team/NanaZip) - The 7-Zip derivative intended for the modern Windows experience (3 weeks ago)
-- [FRIGN/libgrapheme](https://github.com/FRIGN/libgrapheme) -  (3 weeks ago)
+- [FRIGN/libgrapheme](https://github.com/FRIGN/libgrapheme) -  (4 weeks ago)
 - [antonmedv/gitmal](https://github.com/antonmedv/gitmal) - A static page generator for repos (2 months ago)
 - [webmin/webmin](https://github.com/webmin/webmin) - Powerful and flexible web-based server management control panel (2 months ago)
 
