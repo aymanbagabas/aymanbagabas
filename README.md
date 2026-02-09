@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (today)
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘 (4 days ago)
 - [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (4 days ago)
 - [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (5 days ago)
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧 (6 days ago)
-- [clipperhouse/uax29](https://github.com/clipperhouse/uax29) - A tokenizer based on Unicode text segmentation (UAX #29), for Go. Split graphemes, words, sentences. (1 week ago)
 
 #### 🌱 My latest projects
 
