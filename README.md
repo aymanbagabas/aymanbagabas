@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.40.0](https://github.com/charmbracelet/crush/releases/tag/v0.40.0), today) - Glamourous agentic coding for all 💘
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.41.0](https://github.com/charmbracelet/crush/releases/tag/v0.41.0), today) - Glamourous agentic coding for all 💘
 - [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.17.2](https://github.com/charmbracelet/catwalk/releases/tag/v0.17.2), today) - 🐈 A collection of LLM inference providers and models 
 - [go-git/go-git](https://github.com/go-git/go-git) ([v5.16.5](https://github.com/go-git/go-git/releases/tag/v5.16.5), today) - A highly extensible Git implementation in pure Go.
 - [opt-nc/geol](https://github.com/opt-nc/geol) ([v2.6.0](https://github.com/opt-nc/geol/releases/tag/v2.6.0), 3 days ago) - Efficiently show and monitor end-of-life dates for a number of products in your terminal  using https://endoflife.date/ API
