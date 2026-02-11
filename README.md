@@ -4,10 +4,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘 (1 day ago)
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (1 day ago)
-- [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (5 days ago)
-- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (6 days ago)
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘 (2 days ago)
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (2 days ago)
+- [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (6 days ago)
+- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (1 week ago)
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧 (1 week ago)
 
 #### 🌱 My latest projects
@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.17.3](https://github.com/charmbracelet/catwalk/releases/tag/v0.17.3), today) - 🐈 A collection of LLM inference providers and models 
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v1.0.0](https://github.com/charmbracelet/bubbles/releases/tag/v1.0.0), today) - TUI components for Bubble Tea 🫧
-- [opt-nc/geol](https://github.com/opt-nc/geol) ([v2.7.1](https://github.com/opt-nc/geol/releases/tag/v2.7.1), today) - Efficiently show and monitor end-of-life dates for a number of products in your terminal  using https://endoflife.date/ API
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.41.0](https://github.com/charmbracelet/crush/releases/tag/v0.41.0), 1 day ago) - Glamourous agentic coding for all 💘
-- [go-git/go-git](https://github.com/go-git/go-git) ([v5.16.5](https://github.com/go-git/go-git/releases/tag/v5.16.5), 1 day ago) - A highly extensible Git implementation in pure Go.
+- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.17.3](https://github.com/charmbracelet/catwalk/releases/tag/v0.17.3), 1 day ago) - 🐈 A collection of LLM inference providers and models 
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v1.0.0](https://github.com/charmbracelet/bubbles/releases/tag/v1.0.0), 1 day ago) - TUI components for Bubble Tea 🫧
+- [opt-nc/geol](https://github.com/opt-nc/geol) ([v2.7.1](https://github.com/opt-nc/geol/releases/tag/v2.7.1), 1 day ago) - Efficiently show and monitor end-of-life dates for a number of products in your terminal  using https://endoflife.date/ API
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.41.0](https://github.com/charmbracelet/crush/releases/tag/v0.41.0), 2 days ago) - Glamourous agentic coding for all 💘
+- [go-git/go-git](https://github.com/go-git/go-git) ([v5.16.5](https://github.com/go-git/go-git/releases/tag/v5.16.5), 2 days ago) - A highly extensible Git implementation in pure Go.
 
 #### 🔨 My recent Pull Requests
 
-- [Make background color transparent by default and refactor fb and rast resizing](https://github.com/taigrr/trophy/pull/2) on [taigrr/trophy](https://github.com/taigrr/trophy) (6 days ago)
-- [chore: use UV Screen API](https://github.com/taigrr/trophy/pull/1) on [taigrr/trophy](https://github.com/taigrr/trophy) (6 days ago)
-- [fix(ansi): use our own configuration for CJK width handling](https://github.com/charmbracelet/x/pull/758) on [charmbracelet/x](https://github.com/charmbracelet/x) (6 days ago)
-- [fix(ui): ensure we anchor the chat view to the bottom when toggling](https://github.com/charmbracelet/crush/pull/2117) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (6 days ago)
-- [fix(ui): context percentage updates](https://github.com/charmbracelet/crush/pull/2115) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (6 days ago)
+- [Make background color transparent by default and refactor fb and rast resizing](https://github.com/taigrr/trophy/pull/2) on [taigrr/trophy](https://github.com/taigrr/trophy) (1 week ago)
+- [chore: use UV Screen API](https://github.com/taigrr/trophy/pull/1) on [taigrr/trophy](https://github.com/taigrr/trophy) (1 week ago)
+- [fix(ansi): use our own configuration for CJK width handling](https://github.com/charmbracelet/x/pull/758) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 week ago)
+- [fix(ui): ensure we anchor the chat view to the bottom when toggling](https://github.com/charmbracelet/crush/pull/2117) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (1 week ago)
+- [fix(ui): context percentage updates](https://github.com/charmbracelet/crush/pull/2115) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (1 week ago)
 
 #### 📜 My recent blog posts
 
