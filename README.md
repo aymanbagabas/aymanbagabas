@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix(ui): adjust sessions dialog size](https://github.com/charmbracelet/crush/pull/2191) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (today)
+- [fix(ui): correctly position cursor when attachments are present](https://github.com/charmbracelet/crush/pull/2190) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (today)
 - [Make background color transparent by default and refactor fb and rast resizing](https://github.com/taigrr/trophy/pull/2) on [taigrr/trophy](https://github.com/taigrr/trophy) (1 week ago)
 - [chore: use UV Screen API](https://github.com/taigrr/trophy/pull/1) on [taigrr/trophy](https://github.com/taigrr/trophy) (1 week ago)
 - [fix(ansi): use our own configuration for CJK width handling](https://github.com/charmbracelet/x/pull/758) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 week ago)
-- [fix(ui): ensure we anchor the chat view to the bottom when toggling](https://github.com/charmbracelet/crush/pull/2117) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (1 week ago)
-- [fix(ui): context percentage updates](https://github.com/charmbracelet/crush/pull/2115) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (1 week ago)
 
 #### 📜 My recent blog posts
 
