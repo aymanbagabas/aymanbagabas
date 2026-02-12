@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix(ui): chat: use follow indicator to determine auto-scrolling behavior](https://github.com/charmbracelet/crush/pull/2204) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (today)
 - [fix: detect bash running in windows terminal](https://github.com/charmbracelet/colorprofile/pull/72) on [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) (today)
 - [fix(ui): adjust sessions dialog size](https://github.com/charmbracelet/crush/pull/2191) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (1 day ago)
 - [fix(ui): correctly position cursor when attachments are present](https://github.com/charmbracelet/crush/pull/2190) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (1 day ago)
 - [Make background color transparent by default and refactor fb and rast resizing](https://github.com/taigrr/trophy/pull/2) on [taigrr/trophy](https://github.com/taigrr/trophy) (1 week ago)
-- [chore: use UV Screen API](https://github.com/taigrr/trophy/pull/1) on [taigrr/trophy](https://github.com/taigrr/trophy) (1 week ago)
 
 #### 📜 My recent blog posts
 
