@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘 (1 day ago)
+- [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) - Magical terminal color handling 🪄 (today)
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘 (today)
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (3 days ago)
 - [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (1 week ago)
 - [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (1 week ago)
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧 (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) ([v0.4.2](https://github.com/charmbracelet/colorprofile/releases/tag/v0.4.2), today) - Magical terminal color handling 🪄
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.42.0](https://github.com/charmbracelet/crush/releases/tag/v0.42.0), 1 day ago) - Glamourous agentic coding for all 💘
 - [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.18.0](https://github.com/charmbracelet/catwalk/releases/tag/v0.18.0), 1 day ago) - 🐈 A collection of LLM inference providers and models 
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v1.0.0](https://github.com/charmbracelet/bubbles/releases/tag/v1.0.0), 2 days ago) - TUI components for Bubble Tea 🫧
 - [opt-nc/geol](https://github.com/opt-nc/geol) ([v2.7.1](https://github.com/opt-nc/geol/releases/tag/v2.7.1), 2 days ago) - Efficiently show and monitor end-of-life dates for a number of products in your terminal  using https://endoflife.date/ API
-- [go-git/go-git](https://github.com/go-git/go-git) ([v5.16.5](https://github.com/go-git/go-git/releases/tag/v5.16.5), 3 days ago) - A highly extensible Git implementation in pure Go.
 
 #### 🔨 My recent Pull Requests
 
+- [fix: detect bash running in windows terminal](https://github.com/charmbracelet/colorprofile/pull/72) on [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) (today)
 - [fix(ui): adjust sessions dialog size](https://github.com/charmbracelet/crush/pull/2191) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (1 day ago)
 - [fix(ui): correctly position cursor when attachments are present](https://github.com/charmbracelet/crush/pull/2190) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (1 day ago)
 - [Make background color transparent by default and refactor fb and rast resizing](https://github.com/taigrr/trophy/pull/2) on [taigrr/trophy](https://github.com/taigrr/trophy) (1 week ago)
 - [chore: use UV Screen API](https://github.com/taigrr/trophy/pull/1) on [taigrr/trophy](https://github.com/taigrr/trophy) (1 week ago)
-- [fix(ansi): use our own configuration for CJK width handling](https://github.com/charmbracelet/x/pull/758) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 week ago)
 
 #### 📜 My recent blog posts
 
