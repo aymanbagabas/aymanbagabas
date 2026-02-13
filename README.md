@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [docs: add v2 upgrade and changes guide](https://github.com/charmbracelet/bubbletea/pull/1585) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
+- [feat(render): enable Unicode mode (2027) for accurate width calculation](https://github.com/charmbracelet/bubbletea/pull/1584) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [fix(ui): chat: use follow indicator to determine auto-scrolling behavior](https://github.com/charmbracelet/crush/pull/2204) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (1 day ago)
 - [fix: detect bash running in windows terminal](https://github.com/charmbracelet/colorprofile/pull/72) on [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) (1 day ago)
 - [fix(ui): adjust sessions dialog size](https://github.com/charmbracelet/crush/pull/2191) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (2 days ago)
-- [fix(ui): correctly position cursor when attachments are present](https://github.com/charmbracelet/crush/pull/2190) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (2 days ago)
-- [Make background color transparent by default and refactor fb and rast resizing](https://github.com/taigrr/trophy/pull/2) on [taigrr/trophy](https://github.com/taigrr/trophy) (1 week ago)
 
 #### 📜 My recent blog posts
 
