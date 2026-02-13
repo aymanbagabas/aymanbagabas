@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.18.1](https://github.com/charmbracelet/catwalk/releases/tag/v0.18.1), 1 day ago) - 🐈 A collection of LLM inference providers and models 
+- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.19.0](https://github.com/charmbracelet/catwalk/releases/tag/v0.19.0), today) - 🐈 A collection of LLM inference providers and models 
 - [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) ([v0.4.2](https://github.com/charmbracelet/colorprofile/releases/tag/v0.4.2), 1 day ago) - Magical terminal color handling 🪄
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.42.0](https://github.com/charmbracelet/crush/releases/tag/v0.42.0), 2 days ago) - Glamourous agentic coding for all 💘
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v1.0.0](https://github.com/charmbracelet/bubbles/releases/tag/v1.0.0), 3 days ago) - TUI components for Bubble Tea 🫧
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [docs: add v2 upgrade and changes guide](https://github.com/charmbracelet/lipgloss/pull/611) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (today)
+- [docs: add v2 upgrade and changes guide](https://github.com/charmbracelet/bubbles/pull/885) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (today)
 - [docs: add v2 upgrade and changes guide](https://github.com/charmbracelet/bubbletea/pull/1585) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [feat(render): enable Unicode mode (2027) for accurate width calculation](https://github.com/charmbracelet/bubbletea/pull/1584) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [fix(ui): chat: use follow indicator to determine auto-scrolling behavior](https://github.com/charmbracelet/crush/pull/2204) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (1 day ago)
-- [fix: detect bash running in windows terminal](https://github.com/charmbracelet/colorprofile/pull/72) on [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) (1 day ago)
-- [fix(ui): adjust sessions dialog size](https://github.com/charmbracelet/crush/pull/2191) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (2 days ago)
 
 #### 📜 My recent blog posts
 
