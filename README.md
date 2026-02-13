@@ -4,10 +4,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) - Magical terminal color handling 🪄 (today)
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘 (today)
-- [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (today)
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (3 days ago)
+- [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) - Magical terminal color handling 🪄 (1 day ago)
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘 (1 day ago)
+- [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (1 day ago)
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (4 days ago)
 - [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (1 week ago)
 
 #### 🌱 My latest projects
@@ -20,18 +20,18 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.18.1](https://github.com/charmbracelet/catwalk/releases/tag/v0.18.1), today) - 🐈 A collection of LLM inference providers and models 
-- [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) ([v0.4.2](https://github.com/charmbracelet/colorprofile/releases/tag/v0.4.2), today) - Magical terminal color handling 🪄
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.42.0](https://github.com/charmbracelet/crush/releases/tag/v0.42.0), 1 day ago) - Glamourous agentic coding for all 💘
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v1.0.0](https://github.com/charmbracelet/bubbles/releases/tag/v1.0.0), 2 days ago) - TUI components for Bubble Tea 🫧
-- [opt-nc/geol](https://github.com/opt-nc/geol) ([v2.7.1](https://github.com/opt-nc/geol/releases/tag/v2.7.1), 2 days ago) - Efficiently show and monitor end-of-life dates for a number of products in your terminal  using https://endoflife.date/ API
+- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.18.1](https://github.com/charmbracelet/catwalk/releases/tag/v0.18.1), 1 day ago) - 🐈 A collection of LLM inference providers and models 
+- [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) ([v0.4.2](https://github.com/charmbracelet/colorprofile/releases/tag/v0.4.2), 1 day ago) - Magical terminal color handling 🪄
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.42.0](https://github.com/charmbracelet/crush/releases/tag/v0.42.0), 2 days ago) - Glamourous agentic coding for all 💘
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v1.0.0](https://github.com/charmbracelet/bubbles/releases/tag/v1.0.0), 3 days ago) - TUI components for Bubble Tea 🫧
+- [opt-nc/geol](https://github.com/opt-nc/geol) ([v2.7.1](https://github.com/opt-nc/geol/releases/tag/v2.7.1), 3 days ago) - Efficiently show and monitor end-of-life dates for a number of products in your terminal  using https://endoflife.date/ API
 
 #### 🔨 My recent Pull Requests
 
-- [fix(ui): chat: use follow indicator to determine auto-scrolling behavior](https://github.com/charmbracelet/crush/pull/2204) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (today)
-- [fix: detect bash running in windows terminal](https://github.com/charmbracelet/colorprofile/pull/72) on [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) (today)
-- [fix(ui): adjust sessions dialog size](https://github.com/charmbracelet/crush/pull/2191) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (1 day ago)
-- [fix(ui): correctly position cursor when attachments are present](https://github.com/charmbracelet/crush/pull/2190) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (1 day ago)
+- [fix(ui): chat: use follow indicator to determine auto-scrolling behavior](https://github.com/charmbracelet/crush/pull/2204) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (1 day ago)
+- [fix: detect bash running in windows terminal](https://github.com/charmbracelet/colorprofile/pull/72) on [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) (1 day ago)
+- [fix(ui): adjust sessions dialog size](https://github.com/charmbracelet/crush/pull/2191) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (2 days ago)
+- [fix(ui): correctly position cursor when attachments are present](https://github.com/charmbracelet/crush/pull/2190) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (2 days ago)
 - [Make background color transparent by default and refactor fb and rast resizing](https://github.com/taigrr/trophy/pull/2) on [taigrr/trophy](https://github.com/taigrr/trophy) (1 week ago)
 
 #### 📜 My recent blog posts
