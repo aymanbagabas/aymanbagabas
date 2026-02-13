@@ -20,9 +20,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.19.0](https://github.com/charmbracelet/catwalk/releases/tag/v0.19.0), today) - 🐈 A collection of LLM inference providers and models 
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.43.0](https://github.com/charmbracelet/crush/releases/tag/v0.43.0), today) - Glamourous agentic coding for all 💘
+- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.19.2](https://github.com/charmbracelet/catwalk/releases/tag/v0.19.2), today) - 🐈 A collection of LLM inference providers and models 
 - [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) ([v0.4.2](https://github.com/charmbracelet/colorprofile/releases/tag/v0.4.2), 1 day ago) - Magical terminal color handling 🪄
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.42.0](https://github.com/charmbracelet/crush/releases/tag/v0.42.0), 2 days ago) - Glamourous agentic coding for all 💘
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v1.0.0](https://github.com/charmbracelet/bubbles/releases/tag/v1.0.0), 3 days ago) - TUI components for Bubble Tea 🫧
 - [opt-nc/geol](https://github.com/opt-nc/geol) ([v2.7.1](https://github.com/opt-nc/geol/releases/tag/v2.7.1), 3 days ago) - Efficiently show and monitor end-of-life dates for a number of products in your terminal  using https://endoflife.date/ API
 
