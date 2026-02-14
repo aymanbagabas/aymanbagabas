@@ -4,10 +4,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘 (today)
-- [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (today)
-- [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) - Magical terminal color handling 🪄 (1 day ago)
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (4 days ago)
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘 (1 day ago)
+- [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (1 day ago)
+- [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) - Magical terminal color handling 🪄 (2 days ago)
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (5 days ago)
 - [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (1 week ago)
 
 #### 🌱 My latest projects
@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.19.3](https://github.com/charmbracelet/catwalk/releases/tag/v0.19.3), today) - 🐈 A collection of LLM inference providers and models 
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.43.0](https://github.com/charmbracelet/crush/releases/tag/v0.43.0), today) - Glamourous agentic coding for all 💘
-- [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) ([v0.4.2](https://github.com/charmbracelet/colorprofile/releases/tag/v0.4.2), 1 day ago) - Magical terminal color handling 🪄
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v1.0.0](https://github.com/charmbracelet/bubbles/releases/tag/v1.0.0), 3 days ago) - TUI components for Bubble Tea 🫧
-- [opt-nc/geol](https://github.com/opt-nc/geol) ([v2.7.1](https://github.com/opt-nc/geol/releases/tag/v2.7.1), 3 days ago) - Efficiently show and monitor end-of-life dates for a number of products in your terminal  using https://endoflife.date/ API
+- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.19.3](https://github.com/charmbracelet/catwalk/releases/tag/v0.19.3), 1 day ago) - 🐈 A collection of LLM inference providers and models 
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.43.0](https://github.com/charmbracelet/crush/releases/tag/v0.43.0), 1 day ago) - Glamourous agentic coding for all 💘
+- [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) ([v0.4.2](https://github.com/charmbracelet/colorprofile/releases/tag/v0.4.2), 2 days ago) - Magical terminal color handling 🪄
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v1.0.0](https://github.com/charmbracelet/bubbles/releases/tag/v1.0.0), 4 days ago) - TUI components for Bubble Tea 🫧
+- [opt-nc/geol](https://github.com/opt-nc/geol) ([v2.7.1](https://github.com/opt-nc/geol/releases/tag/v2.7.1), 4 days ago) - Efficiently show and monitor end-of-life dates for a number of products in your terminal  using https://endoflife.date/ API
 
 #### 🔨 My recent Pull Requests
 
-- [fix(ui): toggle pills to follow scroll](https://github.com/charmbracelet/crush/pull/2218) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (today)
-- [docs: add v2 upgrade and changes guide](https://github.com/charmbracelet/lipgloss/pull/611) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (today)
-- [docs: add v2 upgrade and changes guide](https://github.com/charmbracelet/bubbles/pull/885) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (today)
-- [docs: add v2 upgrade and changes guide](https://github.com/charmbracelet/bubbletea/pull/1585) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
-- [feat(render): enable Unicode mode (2027) for accurate width calculation](https://github.com/charmbracelet/bubbletea/pull/1584) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
+- [fix(ui): toggle pills to follow scroll](https://github.com/charmbracelet/crush/pull/2218) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (1 day ago)
+- [docs: add v2 upgrade and changes guide](https://github.com/charmbracelet/lipgloss/pull/611) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (1 day ago)
+- [docs: add v2 upgrade and changes guide](https://github.com/charmbracelet/bubbles/pull/885) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (1 day ago)
+- [docs: add v2 upgrade and changes guide](https://github.com/charmbracelet/bubbletea/pull/1585) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
+- [feat(render): enable Unicode mode (2027) for accurate width calculation](https://github.com/charmbracelet/bubbletea/pull/1584) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
 
 #### 📜 My recent blog posts
 
