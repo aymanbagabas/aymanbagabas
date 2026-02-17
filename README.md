@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [docs: update readme in prep for v2](https://github.com/charmbracelet/lipgloss/pull/613) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (today)
+- [docs: update README.md for v2](https://github.com/charmbracelet/bubbletea/pull/1589) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [docs: typo on 8-bit escape sequence recognition](https://github.com/wezterm/wezterm/pull/7585) on [wezterm/wezterm](https://github.com/wezterm/wezterm) (3 days ago)
 - [fix(ui): toggle pills to follow scroll](https://github.com/charmbracelet/crush/pull/2218) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (4 days ago)
 - [docs: add v2 upgrade and changes guide](https://github.com/charmbracelet/lipgloss/pull/611) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (4 days ago)
-- [docs: add v2 upgrade and changes guide](https://github.com/charmbracelet/bubbles/pull/885) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (4 days ago)
-- [docs: add v2 upgrade and changes guide](https://github.com/charmbracelet/bubbletea/pull/1585) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (4 days ago)
 
 #### 📜 My recent blog posts
 
