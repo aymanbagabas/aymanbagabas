@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix(ci): allow Unlicense in dependency review action](https://github.com/charmbracelet/crush/pull/2259) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (today)
+- [fix(ui): optimize assistant message rendering to improve performance](https://github.com/charmbracelet/crush/pull/2258) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (today)
 - [fix(ui): cache blurred and focused renderings separately for assistan…](https://github.com/charmbracelet/crush/pull/2252) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (1 day ago)
 - [docs: update readme in prep for v2](https://github.com/charmbracelet/lipgloss/pull/613) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (2 days ago)
 - [docs: update README.md for v2](https://github.com/charmbracelet/bubbletea/pull/1589) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 days ago)
-- [docs: typo on 8-bit escape sequence recognition](https://github.com/wezterm/wezterm/pull/7585) on [wezterm/wezterm](https://github.com/wezterm/wezterm) (5 days ago)
-- [fix(ui): toggle pills to follow scroll](https://github.com/charmbracelet/crush/pull/2218) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (6 days ago)
 
 #### 📜 My recent blog posts
 
