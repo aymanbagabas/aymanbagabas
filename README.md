@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘 (today)
 - [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (today)
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘 (today)
+- [aymanbagabas/go-udiff](https://github.com/aymanbagabas/go-udiff) - µDiff - a micro Go diffing library (today)
 - [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (3 days ago)
 - [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) - Magical terminal color handling 🪄 (1 week ago)
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -20,11 +20,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [aymanbagabas/go-udiff](https://github.com/aymanbagabas/go-udiff) ([v0.4.0](https://github.com/aymanbagabas/go-udiff/releases/tag/v0.4.0), today) - µDiff - a micro Go diffing library
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.43.2](https://github.com/charmbracelet/crush/releases/tag/v0.43.2), today) - Glamourous agentic coding for all 💘
 - [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.20.0](https://github.com/charmbracelet/catwalk/releases/tag/v0.20.0), 1 day ago) - 🐈 A collection of LLM inference providers and models 
 - [taigrr/trophy](https://github.com/taigrr/trophy) ([v1.3.0](https://github.com/taigrr/trophy/releases/tag/v1.3.0), 4 days ago) - Terminal 3D Model Viewer - View 3D model files in your terminal
 - [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) ([v0.4.2](https://github.com/charmbracelet/colorprofile/releases/tag/v0.4.2), 1 week ago) - Magical terminal color handling 🪄
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v1.0.0](https://github.com/charmbracelet/bubbles/releases/tag/v1.0.0), 1 week ago) - TUI components for Bubble Tea 🫧
 
 #### 🔨 My recent Pull Requests
 
@@ -44,11 +44,11 @@
 
 #### ⭐ Recent Stars
 
+- [jiangcuo/pxvirt](https://github.com/jiangcuo/pxvirt) - A fork of Proxmox VE for ARM and LoongArch architectures (today)
 - [taigrr/trophy](https://github.com/taigrr/trophy) - Terminal 3D Model Viewer - View 3D model files in your terminal (2 weeks ago)
 - [M2Team/NanaZip](https://github.com/M2Team/NanaZip) - The 7-Zip derivative intended for the modern Windows experience (1 month ago)
 - [FRIGN/libgrapheme](https://github.com/FRIGN/libgrapheme) -  (1 month ago)
 - [antonmedv/gitmal](https://github.com/antonmedv/gitmal) - A static page generator for repos (2 months ago)
-- [webmin/webmin](https://github.com/webmin/webmin) - Powerful and flexible web-based server management control panel (2 months ago)
 
 #### 📫 How to reach me
 
