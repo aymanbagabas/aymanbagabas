@@ -5,9 +5,9 @@
 #### 👷 Check out what I'm currently working on
 
 - [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (today)
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘 (today)
-- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (2 days ago)
-- [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) - Magical terminal color handling 🪄 (6 days ago)
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘 (1 day ago)
+- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (3 days ago)
+- [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) - Magical terminal color handling 🪄 (1 week ago)
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (1 week ago)
 
 #### 🌱 My latest projects
@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.43.1](https://github.com/charmbracelet/crush/releases/tag/v0.43.1), today) - Glamourous agentic coding for all 💘
-- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.20.0](https://github.com/charmbracelet/catwalk/releases/tag/v0.20.0), today) - 🐈 A collection of LLM inference providers and models 
-- [taigrr/trophy](https://github.com/taigrr/trophy) ([v1.3.0](https://github.com/taigrr/trophy/releases/tag/v1.3.0), 3 days ago) - Terminal 3D Model Viewer - View 3D model files in your terminal
-- [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) ([v0.4.2](https://github.com/charmbracelet/colorprofile/releases/tag/v0.4.2), 6 days ago) - Magical terminal color handling 🪄
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.43.1](https://github.com/charmbracelet/crush/releases/tag/v0.43.1), 1 day ago) - Glamourous agentic coding for all 💘
+- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.20.0](https://github.com/charmbracelet/catwalk/releases/tag/v0.20.0), 1 day ago) - 🐈 A collection of LLM inference providers and models 
+- [taigrr/trophy](https://github.com/taigrr/trophy) ([v1.3.0](https://github.com/taigrr/trophy/releases/tag/v1.3.0), 4 days ago) - Terminal 3D Model Viewer - View 3D model files in your terminal
+- [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) ([v0.4.2](https://github.com/charmbracelet/colorprofile/releases/tag/v0.4.2), 1 week ago) - Magical terminal color handling 🪄
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v1.0.0](https://github.com/charmbracelet/bubbles/releases/tag/v1.0.0), 1 week ago) - TUI components for Bubble Tea 🫧
 
 #### 🔨 My recent Pull Requests
 
-- [fix(ui): cache blurred and focused renderings separately for assistan…](https://github.com/charmbracelet/crush/pull/2252) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (today)
-- [docs: update readme in prep for v2](https://github.com/charmbracelet/lipgloss/pull/613) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (1 day ago)
-- [docs: update README.md for v2](https://github.com/charmbracelet/bubbletea/pull/1589) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
-- [docs: typo on 8-bit escape sequence recognition](https://github.com/wezterm/wezterm/pull/7585) on [wezterm/wezterm](https://github.com/wezterm/wezterm) (4 days ago)
-- [fix(ui): toggle pills to follow scroll](https://github.com/charmbracelet/crush/pull/2218) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (5 days ago)
+- [fix(ui): cache blurred and focused renderings separately for assistan…](https://github.com/charmbracelet/crush/pull/2252) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (1 day ago)
+- [docs: update readme in prep for v2](https://github.com/charmbracelet/lipgloss/pull/613) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (2 days ago)
+- [docs: update README.md for v2](https://github.com/charmbracelet/bubbletea/pull/1589) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 days ago)
+- [docs: typo on 8-bit escape sequence recognition](https://github.com/wezterm/wezterm/pull/7585) on [wezterm/wezterm](https://github.com/wezterm/wezterm) (5 days ago)
+- [fix(ui): toggle pills to follow scroll](https://github.com/charmbracelet/crush/pull/2218) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (6 days ago)
 
 #### 📜 My recent blog posts
 
