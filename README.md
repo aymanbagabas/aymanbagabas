@@ -20,9 +20,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.20.1](https://github.com/charmbracelet/catwalk/releases/tag/v0.20.1), today) - 🐈 A collection of LLM inference providers and models 
 - [aymanbagabas/go-udiff](https://github.com/aymanbagabas/go-udiff) ([v0.4.0](https://github.com/aymanbagabas/go-udiff/releases/tag/v0.4.0), today) - µDiff - a micro Go diffing library
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.43.2](https://github.com/charmbracelet/crush/releases/tag/v0.43.2), today) - Glamourous agentic coding for all 💘
-- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.20.0](https://github.com/charmbracelet/catwalk/releases/tag/v0.20.0), 1 day ago) - 🐈 A collection of LLM inference providers and models 
 - [taigrr/trophy](https://github.com/taigrr/trophy) ([v1.3.0](https://github.com/taigrr/trophy/releases/tag/v1.3.0), 4 days ago) - Terminal 3D Model Viewer - View 3D model files in your terminal
 - [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) ([v0.4.2](https://github.com/charmbracelet/colorprofile/releases/tag/v0.4.2), 1 week ago) - Magical terminal color handling 🪄
 
