@@ -4,10 +4,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (today)
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘 (today)
-- [aymanbagabas/go-udiff](https://github.com/aymanbagabas/go-udiff) - µDiff - a micro Go diffing library (today)
-- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (3 days ago)
+- [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (1 day ago)
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘 (1 day ago)
+- [aymanbagabas/go-udiff](https://github.com/aymanbagabas/go-udiff) - µDiff - a micro Go diffing library (1 day ago)
+- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (4 days ago)
 - [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) - Magical terminal color handling 🪄 (1 week ago)
 
 #### 🌱 My latest projects
@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.20.1](https://github.com/charmbracelet/catwalk/releases/tag/v0.20.1), today) - 🐈 A collection of LLM inference providers and models 
-- [aymanbagabas/go-udiff](https://github.com/aymanbagabas/go-udiff) ([v0.4.0](https://github.com/aymanbagabas/go-udiff/releases/tag/v0.4.0), today) - µDiff - a micro Go diffing library
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.43.2](https://github.com/charmbracelet/crush/releases/tag/v0.43.2), today) - Glamourous agentic coding for all 💘
-- [taigrr/trophy](https://github.com/taigrr/trophy) ([v1.3.0](https://github.com/taigrr/trophy/releases/tag/v1.3.0), 4 days ago) - Terminal 3D Model Viewer - View 3D model files in your terminal
+- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.20.1](https://github.com/charmbracelet/catwalk/releases/tag/v0.20.1), 1 day ago) - 🐈 A collection of LLM inference providers and models 
+- [aymanbagabas/go-udiff](https://github.com/aymanbagabas/go-udiff) ([v0.4.0](https://github.com/aymanbagabas/go-udiff/releases/tag/v0.4.0), 1 day ago) - µDiff - a micro Go diffing library
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.43.2](https://github.com/charmbracelet/crush/releases/tag/v0.43.2), 1 day ago) - Glamourous agentic coding for all 💘
+- [taigrr/trophy](https://github.com/taigrr/trophy) ([v1.3.0](https://github.com/taigrr/trophy/releases/tag/v1.3.0), 5 days ago) - Terminal 3D Model Viewer - View 3D model files in your terminal
 - [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) ([v0.4.2](https://github.com/charmbracelet/colorprofile/releases/tag/v0.4.2), 1 week ago) - Magical terminal color handling 🪄
 
 #### 🔨 My recent Pull Requests
 
-- [fix(ci): allow Unlicense in dependency review action](https://github.com/charmbracelet/crush/pull/2259) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (today)
-- [fix(ui): optimize assistant message rendering to improve performance](https://github.com/charmbracelet/crush/pull/2258) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (today)
-- [fix(ui): cache blurred and focused renderings separately for assistan…](https://github.com/charmbracelet/crush/pull/2252) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (1 day ago)
-- [docs: update readme in prep for v2](https://github.com/charmbracelet/lipgloss/pull/613) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (2 days ago)
-- [docs: update README.md for v2](https://github.com/charmbracelet/bubbletea/pull/1589) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 days ago)
+- [fix(ci): allow Unlicense in dependency review action](https://github.com/charmbracelet/crush/pull/2259) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (1 day ago)
+- [fix(ui): optimize assistant message rendering to improve performance](https://github.com/charmbracelet/crush/pull/2258) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (1 day ago)
+- [fix(ui): cache blurred and focused renderings separately for assistan…](https://github.com/charmbracelet/crush/pull/2252) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (2 days ago)
+- [docs: update readme in prep for v2](https://github.com/charmbracelet/lipgloss/pull/613) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (3 days ago)
+- [docs: update README.md for v2](https://github.com/charmbracelet/bubbletea/pull/1589) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (3 days ago)
 
 #### 📜 My recent blog posts
 
@@ -44,7 +44,7 @@
 
 #### ⭐ Recent Stars
 
-- [jiangcuo/pxvirt](https://github.com/jiangcuo/pxvirt) - A fork of Proxmox VE for ARM and LoongArch architectures (today)
+- [jiangcuo/pxvirt](https://github.com/jiangcuo/pxvirt) - A fork of Proxmox VE for ARM and LoongArch architectures (1 day ago)
 - [taigrr/trophy](https://github.com/taigrr/trophy) - Terminal 3D Model Viewer - View 3D model files in your terminal (2 weeks ago)
 - [M2Team/NanaZip](https://github.com/M2Team/NanaZip) - The 7-Zip derivative intended for the modern Windows experience (1 month ago)
 - [FRIGN/libgrapheme](https://github.com/FRIGN/libgrapheme) -  (1 month ago)
