@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [docs: update README header image](https://github.com/charmbracelet/bubbles/pull/888) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (today)
 - [fix(ci): allow Unlicense in dependency review action](https://github.com/charmbracelet/crush/pull/2259) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (3 days ago)
 - [fix(ui): optimize assistant message rendering to improve performance](https://github.com/charmbracelet/crush/pull/2258) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (3 days ago)
 - [fix(ui): cache blurred and focused renderings separately for assistan…](https://github.com/charmbracelet/crush/pull/2252) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (4 days ago)
 - [docs: update readme in prep for v2](https://github.com/charmbracelet/lipgloss/pull/613) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (5 days ago)
-- [docs: update README.md for v2](https://github.com/charmbracelet/bubbletea/pull/1589) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (5 days ago)
 
 #### 📜 My recent blog posts
 
