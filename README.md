@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), today) - Glamourous agentic coding for all 💘
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.44.0](https://github.com/charmbracelet/crush/releases/tag/v0.44.0), today) - Glamourous agentic coding for all 💘
 - [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.21.1](https://github.com/charmbracelet/catwalk/releases/tag/v0.21.1), 2 days ago) - 🐈 A collection of LLM inference providers and models 
 - [aymanbagabas/go-udiff](https://github.com/aymanbagabas/go-udiff) ([v0.4.0](https://github.com/aymanbagabas/go-udiff/releases/tag/v0.4.0), 3 days ago) - µDiff - a micro Go diffing library
 - [taigrr/trophy](https://github.com/taigrr/trophy) ([v1.3.0](https://github.com/taigrr/trophy/releases/tag/v1.3.0), 1 week ago) - Terminal 3D Model Viewer - View 3D model files in your terminal
