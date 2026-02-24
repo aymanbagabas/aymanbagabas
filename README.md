@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧 (today)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (today)
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (today)
 - [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (1 day ago)
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘 (3 days ago)
-- [aymanbagabas/go-udiff](https://github.com/aymanbagabas/go-udiff) - µDiff - a micro Go diffing library (5 days ago)
-- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (1 week ago)
-- [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) - Magical terminal color handling 🪄 (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Lip Gloss v2](https://github.com/charmbracelet/lipgloss/pull/617) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (today)
 - [docs: update README header image](https://github.com/charmbracelet/bubbles/pull/888) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (2 days ago)
 - [fix(ci): allow Unlicense in dependency review action](https://github.com/charmbracelet/crush/pull/2259) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (5 days ago)
 - [fix(ui): optimize assistant message rendering to improve performance](https://github.com/charmbracelet/crush/pull/2258) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (5 days ago)
 - [fix(ui): cache blurred and focused renderings separately for assistan…](https://github.com/charmbracelet/crush/pull/2252) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (6 days ago)
-- [docs: update readme in prep for v2](https://github.com/charmbracelet/lipgloss/pull/613) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (1 week ago)
 
 #### 📜 My recent blog posts
 
