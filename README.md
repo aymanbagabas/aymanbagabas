@@ -20,11 +20,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.45.0](https://github.com/charmbracelet/crush/releases/tag/v0.45.0), today) - Glamourous agentic coding for all 💘
+- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.22.0](https://github.com/charmbracelet/catwalk/releases/tag/v0.22.0), today) - 🐈 A collection of LLM inference providers and models 
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v2.0.0](https://github.com/charmbracelet/bubbles/releases/tag/v2.0.0), today) - TUI components for Bubble Tea 🫧
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v2.0.0](https://github.com/charmbracelet/lipgloss/releases/tag/v2.0.0), today) - Style definitions for nice terminal layouts 👄
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v2.0.0](https://github.com/charmbracelet/bubbletea/releases/tag/v2.0.0), today) - A powerful little TUI framework 🏗
-- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.21.3](https://github.com/charmbracelet/catwalk/releases/tag/v0.21.3), today) - 🐈 A collection of LLM inference providers and models 
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), today) - Glamourous agentic coding for all 💘
 
 #### 🔨 My recent Pull Requests
 
