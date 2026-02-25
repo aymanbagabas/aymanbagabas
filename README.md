@@ -20,11 +20,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [go-git/go-git](https://github.com/go-git/go-git) ([v5.17.0](https://github.com/go-git/go-git/releases/tag/v5.17.0), today) - A highly extensible Git implementation in pure Go.
 - [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.22.1](https://github.com/charmbracelet/catwalk/releases/tag/v0.22.1), today) - 🐈 A collection of LLM inference providers and models 
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), today) - Glamourous agentic coding for all 💘
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v2.0.0](https://github.com/charmbracelet/bubbles/releases/tag/v2.0.0), 1 day ago) - TUI components for Bubble Tea 🫧
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v2.0.0](https://github.com/charmbracelet/lipgloss/releases/tag/v2.0.0), 1 day ago) - Style definitions for nice terminal layouts 👄
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v2.0.0](https://github.com/charmbracelet/bubbletea/releases/tag/v2.0.0), 1 day ago) - A powerful little TUI framework 🏗
 
 #### 🔨 My recent Pull Requests
 
