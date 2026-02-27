@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (today)
-- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (1 day ago)
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (2 days ago)
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧 (2 days ago)
-- [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (3 days ago)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 day ago)
+- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (2 days ago)
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (3 days ago)
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧 (3 days ago)
+- [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -20,18 +20,18 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.46.0](https://github.com/charmbracelet/crush/releases/tag/v0.46.0), today) - Glamourous agentic coding for all 💘
-- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.24.0](https://github.com/charmbracelet/catwalk/releases/tag/v0.24.0), today) - 🐈 A collection of LLM inference providers and models 
-- [go-git/go-git](https://github.com/go-git/go-git) ([v5.17.0](https://github.com/go-git/go-git/releases/tag/v5.17.0), 1 day ago) - A highly extensible Git implementation in pure Go.
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v2.0.0](https://github.com/charmbracelet/bubbles/releases/tag/v2.0.0), 2 days ago) - TUI components for Bubble Tea 🫧
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v2.0.0](https://github.com/charmbracelet/lipgloss/releases/tag/v2.0.0), 2 days ago) - Style definitions for nice terminal layouts 👄
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.46.0](https://github.com/charmbracelet/crush/releases/tag/v0.46.0), 1 day ago) - Glamourous agentic coding for all 💘
+- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.24.0](https://github.com/charmbracelet/catwalk/releases/tag/v0.24.0), 1 day ago) - 🐈 A collection of LLM inference providers and models 
+- [go-git/go-git](https://github.com/go-git/go-git) ([v5.17.0](https://github.com/go-git/go-git/releases/tag/v5.17.0), 2 days ago) - A highly extensible Git implementation in pure Go.
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v2.0.0](https://github.com/charmbracelet/bubbles/releases/tag/v2.0.0), 3 days ago) - TUI components for Bubble Tea 🫧
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v2.0.0](https://github.com/charmbracelet/lipgloss/releases/tag/v2.0.0), 3 days ago) - Style definitions for nice terminal layouts 👄
 
 #### 🔨 My recent Pull Requests
 
-- [feat: character cells and line wrapping](https://github.com/charmbracelet/ultraviolet/pull/93) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (1 day ago)
-- [fix: check if os.Stdin is a terminal before opening the TTY](https://github.com/charmbracelet/bubbletea/pull/1596) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
-- [Lip Gloss v2](https://github.com/charmbracelet/lipgloss/pull/617) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (2 days ago)
-- [docs: update README header image](https://github.com/charmbracelet/bubbles/pull/888) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (4 days ago)
+- [feat: character cells and line wrapping](https://github.com/charmbracelet/ultraviolet/pull/93) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (2 days ago)
+- [fix: check if os.Stdin is a terminal before opening the TTY](https://github.com/charmbracelet/bubbletea/pull/1596) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 days ago)
+- [Lip Gloss v2](https://github.com/charmbracelet/lipgloss/pull/617) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (3 days ago)
+- [docs: update README header image](https://github.com/charmbracelet/bubbles/pull/888) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (5 days ago)
 - [fix(ci): allow Unlicense in dependency review action](https://github.com/charmbracelet/crush/pull/2259) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (1 week ago)
 
 #### 📜 My recent blog posts
