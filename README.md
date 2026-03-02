@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (today)
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (1 day ago)
-- [lrstanley/bubblezone](https://github.com/lrstanley/bubblezone) - helper utility for BubbleTea, allowing easy mouse event tracking (1 day ago)
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 day ago)
-- [charmbracelet/fang](https://github.com/charmbracelet/fang) - The CLI starter kit (1 day ago)
+- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (1 day ago)
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (2 days ago)
+- [lrstanley/bubblezone](https://github.com/lrstanley/bubblezone) - helper utility for BubbleTea, allowing easy mouse event tracking (2 days ago)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (2 days ago)
+- [charmbracelet/fang](https://github.com/charmbracelet/fang) - The CLI starter kit (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), today) - Glamourous agentic coding for all 💘
-- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.25.0](https://github.com/charmbracelet/catwalk/releases/tag/v0.25.0), 2 days ago) - 🐈 A collection of LLM inference providers and models 
-- [opt-nc/geol](https://github.com/opt-nc/geol) ([v2.8.0](https://github.com/opt-nc/geol/releases/tag/v2.8.0), 2 days ago) - Efficiently show and monitor end-of-life dates for a number of products in your terminal  using https://endoflife.date/ API
-- [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), 2 days ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
-- [go-git/go-git](https://github.com/go-git/go-git) ([v5.17.0](https://github.com/go-git/go-git/releases/tag/v5.17.0), 4 days ago) - A highly extensible Git implementation in pure Go.
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), 1 day ago) - Glamourous agentic coding for all 💘
+- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.25.0](https://github.com/charmbracelet/catwalk/releases/tag/v0.25.0), 3 days ago) - 🐈 A collection of LLM inference providers and models 
+- [opt-nc/geol](https://github.com/opt-nc/geol) ([v2.8.0](https://github.com/opt-nc/geol/releases/tag/v2.8.0), 3 days ago) - Efficiently show and monitor end-of-life dates for a number of products in your terminal  using https://endoflife.date/ API
+- [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), 3 days ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
+- [go-git/go-git](https://github.com/go-git/go-git) ([v5.17.0](https://github.com/go-git/go-git/releases/tag/v5.17.0), 5 days ago) - A highly extensible Git implementation in pure Go.
 
 #### 🔨 My recent Pull Requests
 
-- [fix(ui): follow scroll when at bottom](https://github.com/charmbracelet/crush/pull/2336) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (today)
-- [fix(powernap): suppress or redirect jsonrpc2 log messages](https://github.com/charmbracelet/x/pull/788) on [charmbracelet/x](https://github.com/charmbracelet/x) (2 days ago)
-- [feat: character cells and line wrapping](https://github.com/charmbracelet/ultraviolet/pull/93) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (4 days ago)
-- [fix: check if os.Stdin is a terminal before opening the TTY](https://github.com/charmbracelet/bubbletea/pull/1596) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (4 days ago)
-- [Lip Gloss v2](https://github.com/charmbracelet/lipgloss/pull/617) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (5 days ago)
+- [fix(ui): follow scroll when at bottom](https://github.com/charmbracelet/crush/pull/2336) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (1 day ago)
+- [fix(powernap): suppress or redirect jsonrpc2 log messages](https://github.com/charmbracelet/x/pull/788) on [charmbracelet/x](https://github.com/charmbracelet/x) (3 days ago)
+- [feat: character cells and line wrapping](https://github.com/charmbracelet/ultraviolet/pull/93) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (5 days ago)
+- [fix: check if os.Stdin is a terminal before opening the TTY](https://github.com/charmbracelet/bubbletea/pull/1596) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (5 days ago)
+- [Lip Gloss v2](https://github.com/charmbracelet/lipgloss/pull/617) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (6 days ago)
 
 #### 📜 My recent blog posts
 
