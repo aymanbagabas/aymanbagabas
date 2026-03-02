@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [docs: update README with v2 import paths and color downsampling example](https://github.com/charmbracelet/glamour/pull/507) on [charmbracelet/glamour](https://github.com/charmbracelet/glamour) (today)
 - [fix(ui): follow scroll when at bottom](https://github.com/charmbracelet/crush/pull/2336) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (1 day ago)
 - [fix(powernap): suppress or redirect jsonrpc2 log messages](https://github.com/charmbracelet/x/pull/788) on [charmbracelet/x](https://github.com/charmbracelet/x) (3 days ago)
 - [feat: character cells and line wrapping](https://github.com/charmbracelet/ultraviolet/pull/93) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (5 days ago)
 - [fix: check if os.Stdin is a terminal before opening the TTY](https://github.com/charmbracelet/bubbletea/pull/1596) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (5 days ago)
-- [Lip Gloss v2](https://github.com/charmbracelet/lipgloss/pull/617) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (6 days ago)
 
 #### 📜 My recent blog posts
 
