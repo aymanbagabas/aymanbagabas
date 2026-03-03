@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.46.2](https://github.com/charmbracelet/crush/releases/tag/v0.46.2), 1 day ago) - Glamourous agentic coding for all 💘
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), today) - Glamourous agentic coding for all 💘
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v2.0.1](https://github.com/charmbracelet/bubbletea/releases/tag/v2.0.1), 1 day ago) - A powerful little TUI framework 🏗
 - [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.25.1](https://github.com/charmbracelet/catwalk/releases/tag/v0.25.1), 1 day ago) - 🐈 A collection of LLM inference providers and models 
 - [opt-nc/geol](https://github.com/opt-nc/geol) ([v2.8.0](https://github.com/opt-nc/geol/releases/tag/v2.8.0), 4 days ago) - Efficiently show and monitor end-of-life dates for a number of products in your terminal  using https://endoflife.date/ API
