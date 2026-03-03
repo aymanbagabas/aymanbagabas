@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
-- [docs: add v2 upgrade guide](https://github.com/charmbracelet/glamour/pull/509) on [charmbracelet/glamour](https://github.com/charmbracelet/glamour) (today)
-- [docs: update README with v2 import paths and color downsampling example](https://github.com/charmbracelet/glamour/pull/507) on [charmbracelet/glamour](https://github.com/charmbracelet/glamour) (1 day ago)
-- [fix(ui): follow scroll when at bottom](https://github.com/charmbracelet/crush/pull/2336) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (2 days ago)
-- [fix(powernap): suppress or redirect jsonrpc2 log messages](https://github.com/charmbracelet/x/pull/788) on [charmbracelet/x](https://github.com/charmbracelet/x) (4 days ago)
-- [feat: character cells and line wrapping](https://github.com/charmbracelet/ultraviolet/pull/93) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (6 days ago)
+- [docs: add upgrade guide for Wish v2 &#43; release notes](https://github.com/charmbracelet/wish/pull/531) on [charmbracelet/wish](https://github.com/charmbracelet/wish) (today)
+- [docs: add upgrade guide for v2 &#43; release notes](https://github.com/charmbracelet/fang/pull/84) on [charmbracelet/fang](https://github.com/charmbracelet/fang) (today)
+- [docs: add upgrade guide for Log v2 &#43; release notes](https://github.com/charmbracelet/log/pull/195) on [charmbracelet/log](https://github.com/charmbracelet/log) (today)
+- [docs: add v2 upgrade guide &#43; release notes](https://github.com/charmbracelet/huh/pull/741) on [charmbracelet/huh](https://github.com/charmbracelet/huh) (today)
+- [docs: add v2 upgrade guide &#43; release notes](https://github.com/charmbracelet/glamour/pull/509) on [charmbracelet/glamour](https://github.com/charmbracelet/glamour) (today)
 
 #### 📜 My recent blog posts
 
