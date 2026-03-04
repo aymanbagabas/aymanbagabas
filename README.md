@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘 (1 day ago)
-- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (2 days ago)
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (3 days ago)
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (3 days ago)
-- [lrstanley/bubblezone](https://github.com/lrstanley/bubblezone) - helper utility for BubbleTea, allowing easy mouse event tracking (3 days ago)
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘 (2 days ago)
+- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (3 days ago)
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (4 days ago)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (4 days ago)
+- [lrstanley/bubblezone](https://github.com/lrstanley/bubblezone) - helper utility for BubbleTea, allowing easy mouse event tracking (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), today) - Glamourous agentic coding for all 💘
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v2.0.1](https://github.com/charmbracelet/bubbletea/releases/tag/v2.0.1), 1 day ago) - A powerful little TUI framework 🏗
-- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.25.1](https://github.com/charmbracelet/catwalk/releases/tag/v0.25.1), 1 day ago) - 🐈 A collection of LLM inference providers and models 
-- [opt-nc/geol](https://github.com/opt-nc/geol) ([v2.8.0](https://github.com/opt-nc/geol/releases/tag/v2.8.0), 4 days ago) - Efficiently show and monitor end-of-life dates for a number of products in your terminal  using https://endoflife.date/ API
-- [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), 4 days ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), 1 day ago) - Glamourous agentic coding for all 💘
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v2.0.1](https://github.com/charmbracelet/bubbletea/releases/tag/v2.0.1), 2 days ago) - A powerful little TUI framework 🏗
+- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.25.1](https://github.com/charmbracelet/catwalk/releases/tag/v0.25.1), 2 days ago) - 🐈 A collection of LLM inference providers and models 
+- [opt-nc/geol](https://github.com/opt-nc/geol) ([v2.8.0](https://github.com/opt-nc/geol/releases/tag/v2.8.0), 5 days ago) - Efficiently show and monitor end-of-life dates for a number of products in your terminal  using https://endoflife.date/ API
+- [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), 5 days ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 
 #### 🔨 My recent Pull Requests
 
-- [docs: add upgrade guide for Wish v2 &#43; release notes](https://github.com/charmbracelet/wish/pull/531) on [charmbracelet/wish](https://github.com/charmbracelet/wish) (today)
-- [docs: add upgrade guide for v2 &#43; release notes](https://github.com/charmbracelet/fang/pull/84) on [charmbracelet/fang](https://github.com/charmbracelet/fang) (today)
-- [docs: add upgrade guide for Log v2 &#43; release notes](https://github.com/charmbracelet/log/pull/195) on [charmbracelet/log](https://github.com/charmbracelet/log) (today)
-- [docs: add v2 upgrade guide &#43; release notes](https://github.com/charmbracelet/huh/pull/741) on [charmbracelet/huh](https://github.com/charmbracelet/huh) (today)
-- [docs: add v2 upgrade guide &#43; release notes](https://github.com/charmbracelet/glamour/pull/509) on [charmbracelet/glamour](https://github.com/charmbracelet/glamour) (today)
+- [docs: add upgrade guide for Wish v2 &#43; release notes](https://github.com/charmbracelet/wish/pull/531) on [charmbracelet/wish](https://github.com/charmbracelet/wish) (1 day ago)
+- [docs: add upgrade guide for v2 &#43; release notes](https://github.com/charmbracelet/fang/pull/84) on [charmbracelet/fang](https://github.com/charmbracelet/fang) (1 day ago)
+- [docs: add upgrade guide for Log v2 &#43; release notes](https://github.com/charmbracelet/log/pull/195) on [charmbracelet/log](https://github.com/charmbracelet/log) (1 day ago)
+- [docs: add v2 upgrade guide &#43; release notes](https://github.com/charmbracelet/huh/pull/741) on [charmbracelet/huh](https://github.com/charmbracelet/huh) (1 day ago)
+- [docs: add v2 upgrade guide &#43; release notes](https://github.com/charmbracelet/glamour/pull/509) on [charmbracelet/glamour](https://github.com/charmbracelet/glamour) (1 day ago)
 
 #### 📜 My recent blog posts
 
