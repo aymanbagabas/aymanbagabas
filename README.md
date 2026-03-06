@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix(renderer): use mapNl optimization when not on Windows and no PTY …](https://github.com/charmbracelet/bubbletea/pull/1615) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [docs: add upgrade guide for Wish v2 &#43; release notes](https://github.com/charmbracelet/wish/pull/531) on [charmbracelet/wish](https://github.com/charmbracelet/wish) (3 days ago)
 - [docs: add upgrade guide for v2 &#43; release notes](https://github.com/charmbracelet/fang/pull/84) on [charmbracelet/fang](https://github.com/charmbracelet/fang) (3 days ago)
 - [docs: add upgrade guide for Log v2 &#43; release notes](https://github.com/charmbracelet/log/pull/195) on [charmbracelet/log](https://github.com/charmbracelet/log) (3 days ago)
 - [docs: add v2 upgrade guide &#43; release notes](https://github.com/charmbracelet/huh/pull/741) on [charmbracelet/huh](https://github.com/charmbracelet/huh) (3 days ago)
-- [docs: add v2 upgrade guide &#43; release notes](https://github.com/charmbracelet/glamour/pull/509) on [charmbracelet/glamour](https://github.com/charmbracelet/glamour) (3 days ago)
 
 #### 📜 My recent blog posts
 
