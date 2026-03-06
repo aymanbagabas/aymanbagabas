@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦 (today)
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘 (1 day ago)
-- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (1 day ago)
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (5 days ago)
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (5 days ago)
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦 (1 day ago)
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘 (2 days ago)
+- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (2 days ago)
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (6 days ago)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -20,23 +20,23 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [microsoft/terminal](https://github.com/microsoft/terminal) ([v1.25.622.0](https://github.com/microsoft/terminal/releases/tag/v1.25.622.0), today) - The new Windows Terminal and the original Windows console host, all in the same place!
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.11.4](https://github.com/charmbracelet/soft-serve/releases/tag/v0.11.4), today) - The mighty, self-hostable Git server for the command line🍦
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.47.2](https://github.com/charmbracelet/crush/releases/tag/v0.47.2), today) - Glamourous agentic coding for all 💘
-- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.28.1](https://github.com/charmbracelet/catwalk/releases/tag/v0.28.1), today) - 🐈 A collection of LLM inference providers and models 
-- [opt-nc/geol](https://github.com/opt-nc/geol) ([v2.9.0](https://github.com/opt-nc/geol/releases/tag/v2.9.0), 1 day ago) - Efficiently show and monitor end-of-life dates for a number of products in your terminal  using https://endoflife.date/ API
+- [microsoft/terminal](https://github.com/microsoft/terminal) ([v1.25.622.0](https://github.com/microsoft/terminal/releases/tag/v1.25.622.0), 1 day ago) - The new Windows Terminal and the original Windows console host, all in the same place!
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.11.4](https://github.com/charmbracelet/soft-serve/releases/tag/v0.11.4), 1 day ago) - The mighty, self-hostable Git server for the command line🍦
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.47.2](https://github.com/charmbracelet/crush/releases/tag/v0.47.2), 1 day ago) - Glamourous agentic coding for all 💘
+- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.28.1](https://github.com/charmbracelet/catwalk/releases/tag/v0.28.1), 1 day ago) - 🐈 A collection of LLM inference providers and models 
+- [opt-nc/geol](https://github.com/opt-nc/geol) ([v2.9.0](https://github.com/opt-nc/geol/releases/tag/v2.9.0), 2 days ago) - Efficiently show and monitor end-of-life dates for a number of products in your terminal  using https://endoflife.date/ API
 
 #### 🔨 My recent Pull Requests
 
-- [docs: add upgrade guide for Wish v2 &#43; release notes](https://github.com/charmbracelet/wish/pull/531) on [charmbracelet/wish](https://github.com/charmbracelet/wish) (2 days ago)
-- [docs: add upgrade guide for v2 &#43; release notes](https://github.com/charmbracelet/fang/pull/84) on [charmbracelet/fang](https://github.com/charmbracelet/fang) (2 days ago)
-- [docs: add upgrade guide for Log v2 &#43; release notes](https://github.com/charmbracelet/log/pull/195) on [charmbracelet/log](https://github.com/charmbracelet/log) (2 days ago)
-- [docs: add v2 upgrade guide &#43; release notes](https://github.com/charmbracelet/huh/pull/741) on [charmbracelet/huh](https://github.com/charmbracelet/huh) (2 days ago)
-- [docs: add v2 upgrade guide &#43; release notes](https://github.com/charmbracelet/glamour/pull/509) on [charmbracelet/glamour](https://github.com/charmbracelet/glamour) (2 days ago)
+- [docs: add upgrade guide for Wish v2 &#43; release notes](https://github.com/charmbracelet/wish/pull/531) on [charmbracelet/wish](https://github.com/charmbracelet/wish) (3 days ago)
+- [docs: add upgrade guide for v2 &#43; release notes](https://github.com/charmbracelet/fang/pull/84) on [charmbracelet/fang](https://github.com/charmbracelet/fang) (3 days ago)
+- [docs: add upgrade guide for Log v2 &#43; release notes](https://github.com/charmbracelet/log/pull/195) on [charmbracelet/log](https://github.com/charmbracelet/log) (3 days ago)
+- [docs: add v2 upgrade guide &#43; release notes](https://github.com/charmbracelet/huh/pull/741) on [charmbracelet/huh](https://github.com/charmbracelet/huh) (3 days ago)
+- [docs: add v2 upgrade guide &#43; release notes](https://github.com/charmbracelet/glamour/pull/509) on [charmbracelet/glamour](https://github.com/charmbracelet/glamour) (3 days ago)
 
 #### 📜 My recent blog posts
 
-- [A Brief History of Terminal Emulators](https://aymanbagabas.com/blog/2025/03/11/a-brief-history-of-terminal-emulators.html) (11 months ago)
+- [A Brief History of Terminal Emulators](https://aymanbagabas.com/blog/2025/03/11/a-brief-history-of-terminal-emulators.html) (1 year ago)
 - [Self-hosted Soft Serve](https://aymanbagabas.com/blog/2023/04/28/self-hosted-soft-serve.html) (2 years ago)
 - [Simple Vim Session Management](https://aymanbagabas.com/blog/2023/04/13/simple-vim-session-management.html) (2 years ago)
 - [Blue Mountain](https://aymanbagabas.com/blog/2022/06/02/blue-mountain.html) (3 years ago)
