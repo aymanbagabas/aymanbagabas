@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), 1 day ago) - Glamourous agentic coding for all 💘
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), today) - Glamourous agentic coding for all 💘
 - [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.28.3](https://github.com/charmbracelet/catwalk/releases/tag/v0.28.3), 2 days ago) - 🐈 A collection of LLM inference providers and models 
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.11.5](https://github.com/charmbracelet/soft-serve/releases/tag/v0.11.5), 2 days ago) - The mighty, self-hostable Git server for the command line🍦
 - [microsoft/terminal](https://github.com/microsoft/terminal) ([v1.25.622.0](https://github.com/microsoft/terminal/releases/tag/v1.25.622.0), 3 days ago) - The new Windows Terminal and the original Windows console host, all in the same place!
