@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/xunicode](https://github.com/charmbracelet/xunicode) - Experimental Unicode algorithm packages  (today)
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦 (1 day ago)
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 day ago)
-- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (3 days ago)
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘 (3 days ago)
+- [charmbracelet/xunicode](https://github.com/charmbracelet/xunicode) - Experimental Unicode algorithm packages  (1 day ago)
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦 (2 days ago)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (2 days ago)
+- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (4 days ago)
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘 (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), today) - Glamourous agentic coding for all 💘
-- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.28.3](https://github.com/charmbracelet/catwalk/releases/tag/v0.28.3), 1 day ago) - 🐈 A collection of LLM inference providers and models 
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.11.5](https://github.com/charmbracelet/soft-serve/releases/tag/v0.11.5), 1 day ago) - The mighty, self-hostable Git server for the command line🍦
-- [microsoft/terminal](https://github.com/microsoft/terminal) ([v1.25.622.0](https://github.com/microsoft/terminal/releases/tag/v1.25.622.0), 2 days ago) - The new Windows Terminal and the original Windows console host, all in the same place!
-- [opt-nc/geol](https://github.com/opt-nc/geol) ([v2.9.0](https://github.com/opt-nc/geol/releases/tag/v2.9.0), 3 days ago) - Efficiently show and monitor end-of-life dates for a number of products in your terminal  using https://endoflife.date/ API
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), 1 day ago) - Glamourous agentic coding for all 💘
+- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.28.3](https://github.com/charmbracelet/catwalk/releases/tag/v0.28.3), 2 days ago) - 🐈 A collection of LLM inference providers and models 
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.11.5](https://github.com/charmbracelet/soft-serve/releases/tag/v0.11.5), 2 days ago) - The mighty, self-hostable Git server for the command line🍦
+- [microsoft/terminal](https://github.com/microsoft/terminal) ([v1.25.622.0](https://github.com/microsoft/terminal/releases/tag/v1.25.622.0), 3 days ago) - The new Windows Terminal and the original Windows console host, all in the same place!
+- [opt-nc/geol](https://github.com/opt-nc/geol) ([v2.9.0](https://github.com/opt-nc/geol/releases/tag/v2.9.0), 4 days ago) - Efficiently show and monitor end-of-life dates for a number of products in your terminal  using https://endoflife.date/ API
 
 #### 🔨 My recent Pull Requests
 
-- [fix(ui): properly truncate info message](https://github.com/charmbracelet/crush/pull/2379) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (today)
-- [fix(renderer): use mapNl optimization when not on Windows and no PTY …](https://github.com/charmbracelet/bubbletea/pull/1615) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
-- [docs: add upgrade guide for Wish v2 &#43; release notes](https://github.com/charmbracelet/wish/pull/531) on [charmbracelet/wish](https://github.com/charmbracelet/wish) (4 days ago)
-- [docs: add upgrade guide for v2 &#43; release notes](https://github.com/charmbracelet/fang/pull/84) on [charmbracelet/fang](https://github.com/charmbracelet/fang) (4 days ago)
-- [docs: add upgrade guide for Log v2 &#43; release notes](https://github.com/charmbracelet/log/pull/195) on [charmbracelet/log](https://github.com/charmbracelet/log) (4 days ago)
+- [fix(ui): properly truncate info message](https://github.com/charmbracelet/crush/pull/2379) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (1 day ago)
+- [fix(renderer): use mapNl optimization when not on Windows and no PTY …](https://github.com/charmbracelet/bubbletea/pull/1615) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 days ago)
+- [docs: add upgrade guide for Wish v2 &#43; release notes](https://github.com/charmbracelet/wish/pull/531) on [charmbracelet/wish](https://github.com/charmbracelet/wish) (5 days ago)
+- [docs: add upgrade guide for v2 &#43; release notes](https://github.com/charmbracelet/fang/pull/84) on [charmbracelet/fang](https://github.com/charmbracelet/fang) (5 days ago)
+- [docs: add upgrade guide for Log v2 &#43; release notes](https://github.com/charmbracelet/log/pull/195) on [charmbracelet/log](https://github.com/charmbracelet/log) (5 days ago)
 
 #### 📜 My recent blog posts
 
@@ -40,7 +40,7 @@
 - [Self-hosted Soft Serve](https://aymanbagabas.com/blog/2023/04/28/self-hosted-soft-serve.html) (2 years ago)
 - [Simple Vim Session Management](https://aymanbagabas.com/blog/2023/04/13/simple-vim-session-management.html) (2 years ago)
 - [Blue Mountain](https://aymanbagabas.com/blog/2022/06/02/blue-mountain.html) (3 years ago)
-- [Import Notion Pages to Jekyll](https://aymanbagabas.com/blog/2022/03/29/import-notion-pages-to-jekyll.html) (3 years ago)
+- [Import Notion Pages to Jekyll](https://aymanbagabas.com/blog/2022/03/29/import-notion-pages-to-jekyll.html) (4 years ago)
 
 #### ⭐ Recent Stars
 
