@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/log](https://github.com/charmbracelet/log) - A minimal, colorful Go logging library 🪵 (today)
+- [charmbracelet/fang](https://github.com/charmbracelet/fang) - The CLI starter kit (today)
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘 (today)
 - [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (today)
-- [charmbracelet/huh](https://github.com/charmbracelet/huh) - Build terminal forms and prompts 🤷🏻‍♀️ (today)
-- [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️ (today)
-- [charmbracelet/xunicode](https://github.com/charmbracelet/xunicode) - Experimental Unicode algorithm packages  (1 day ago)
+- [charmbracelet/log](https://github.com/charmbracelet/log) - A minimal, colorful Go logging library 🪵 (today)
+- [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (today)
 
 #### 🌱 My latest projects
 
@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/fang](https://github.com/charmbracelet/fang) ([v2.0.0](https://github.com/charmbracelet/fang/releases/tag/v2.0.0), today) - The CLI starter kit
+- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v2.0.0](https://github.com/charmbracelet/wish/releases/tag/v2.0.0), today) - Make SSH apps, just like that! 💫
+- [charmbracelet/log](https://github.com/charmbracelet/log) ([v2.0.0](https://github.com/charmbracelet/log/releases/tag/v2.0.0), today) - A minimal, colorful Go logging library 🪵
 - [charmbracelet/huh](https://github.com/charmbracelet/huh) ([v2.0.1](https://github.com/charmbracelet/huh/releases/tag/v2.0.1), today) - Build terminal forms and prompts 🤷🏻‍♀️
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v2.0.1](https://github.com/charmbracelet/lipgloss/releases/tag/v2.0.1), today) - Style definitions for nice terminal layouts 👄
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v2.0.2](https://github.com/charmbracelet/bubbletea/releases/tag/v2.0.2), today) - A powerful little TUI framework 🏗
-- [charmbracelet/glamour](https://github.com/charmbracelet/glamour) ([v2.0.0](https://github.com/charmbracelet/glamour/releases/tag/v2.0.0), today) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️
-- [opt-nc/geol](https://github.com/opt-nc/geol) ([v2.9.1-develop.1](https://github.com/opt-nc/geol/releases/tag/v2.9.1-develop.1), today) - Efficiently show and monitor end-of-life dates for a number of products in your terminal and CI using endoflife.date API
 
 #### 🔨 My recent Pull Requests
 
+- [chore: bump dependencies](https://github.com/charmbracelet/wish/pull/535) on [charmbracelet/wish](https://github.com/charmbracelet/wish) (today)
 - [fix(ui): properly truncate info message](https://github.com/charmbracelet/crush/pull/2379) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (2 days ago)
 - [fix(renderer): use mapNl optimization when not on Windows and no PTY …](https://github.com/charmbracelet/bubbletea/pull/1615) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (3 days ago)
 - [docs: add upgrade guide for Wish v2 &#43; release notes](https://github.com/charmbracelet/wish/pull/531) on [charmbracelet/wish](https://github.com/charmbracelet/wish) (6 days ago)
 - [docs: add upgrade guide for v2 &#43; release notes](https://github.com/charmbracelet/fang/pull/84) on [charmbracelet/fang](https://github.com/charmbracelet/fang) (6 days ago)
-- [docs: add upgrade guide for Log v2 &#43; release notes](https://github.com/charmbracelet/log/pull/195) on [charmbracelet/log](https://github.com/charmbracelet/log) (6 days ago)
 
 #### 📜 My recent blog posts
 
