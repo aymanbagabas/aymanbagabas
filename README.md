@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/xunicode](https://github.com/charmbracelet/xunicode) - Experimental Unicode algorithm packages  (today)
+- [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (today)
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘 (today)
-- [charmbracelet/fang](https://github.com/charmbracelet/fang) - The CLI starter kit (today)
 - [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (today)
-- [charmbracelet/log](https://github.com/charmbracelet/log) - A minimal, colorful Go logging library 🪵 (today)
+- [charmbracelet/fang](https://github.com/charmbracelet/fang) - The CLI starter kit (today)
+- [charmbracelet/xunicode](https://github.com/charmbracelet/xunicode) - Experimental Unicode algorithm packages  (today)
 
 #### 🌱 My latest projects
 
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix(writer): ensure Write returns the number of processed bytes](https://github.com/charmbracelet/colorprofile/pull/75) on [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) (today)
 - [chore: bump dependencies](https://github.com/charmbracelet/wish/pull/535) on [charmbracelet/wish](https://github.com/charmbracelet/wish) (today)
 - [fix(ui): properly truncate info message](https://github.com/charmbracelet/crush/pull/2379) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (2 days ago)
 - [fix(renderer): use mapNl optimization when not on Windows and no PTY …](https://github.com/charmbracelet/bubbletea/pull/1615) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (3 days ago)
 - [docs: add upgrade guide for Wish v2 &#43; release notes](https://github.com/charmbracelet/wish/pull/531) on [charmbracelet/wish](https://github.com/charmbracelet/wish) (6 days ago)
-- [docs: add upgrade guide for v2 &#43; release notes](https://github.com/charmbracelet/fang/pull/84) on [charmbracelet/fang](https://github.com/charmbracelet/fang) (6 days ago)
 
 #### 📜 My recent blog posts
 
