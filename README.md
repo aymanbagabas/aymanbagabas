@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [charmbracelet/huh](https://github.com/charmbracelet/huh) - Build terminal forms and prompts 🤷🏻‍♀️ (today)
+- [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (today)
 - [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️ (today)
 - [aymanbagabas/go-udiff](https://github.com/aymanbagabas/go-udiff) - µDiff - a micro Go diffing library (1 day ago)
 - [charmbracelet/xunicode](https://github.com/charmbracelet/xunicode) - Experimental Unicode algorithm packages  (1 day ago)
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (1 day ago)
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦 (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -20,11 +20,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/huh](https://github.com/charmbracelet/huh) ([v2.0.1](https://github.com/charmbracelet/huh/releases/tag/v2.0.1), today) - Build terminal forms and prompts 🤷🏻‍♀️
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v2.0.1](https://github.com/charmbracelet/lipgloss/releases/tag/v2.0.1), today) - Style definitions for nice terminal layouts 👄
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v2.0.2](https://github.com/charmbracelet/bubbletea/releases/tag/v2.0.2), today) - A powerful little TUI framework 🏗
+- [charmbracelet/glamour](https://github.com/charmbracelet/glamour) ([v2.0.0](https://github.com/charmbracelet/glamour/releases/tag/v2.0.0), today) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️
 - [opt-nc/geol](https://github.com/opt-nc/geol) ([v2.9.1-develop.1](https://github.com/opt-nc/geol/releases/tag/v2.9.1-develop.1), today) - Efficiently show and monitor end-of-life dates for a number of products in your terminal and CI using endoflife.date API
-- [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), today) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), 1 day ago) - Glamourous agentic coding for all 💘
-- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.28.3](https://github.com/charmbracelet/catwalk/releases/tag/v0.28.3), 3 days ago) - 🐈 A collection of LLM inference providers and models 
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.11.5](https://github.com/charmbracelet/soft-serve/releases/tag/v0.11.5), 3 days ago) - The mighty, self-hostable Git server for the command line🍦
 
 #### 🔨 My recent Pull Requests
 
