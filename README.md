@@ -20,11 +20,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), today) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), today) - Glamourous agentic coding for all 💘
 - [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) ([v0.4.3](https://github.com/charmbracelet/colorprofile/releases/tag/v0.4.3), 1 day ago) - Magical terminal color handling 🪄
 - [charmbracelet/fang](https://github.com/charmbracelet/fang) ([v2.0.0](https://github.com/charmbracelet/fang/releases/tag/v2.0.0), 1 day ago) - The CLI starter kit
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v2.0.0](https://github.com/charmbracelet/wish/releases/tag/v2.0.0), 1 day ago) - Make SSH apps, just like that! 💫
-- [charmbracelet/log](https://github.com/charmbracelet/log) ([v2.0.0](https://github.com/charmbracelet/log/releases/tag/v2.0.0), 1 day ago) - A minimal, colorful Go logging library 🪵
-- [charmbracelet/huh](https://github.com/charmbracelet/huh) ([v2.0.1](https://github.com/charmbracelet/huh/releases/tag/v2.0.1), 1 day ago) - Build terminal forms and prompts 🤷🏻‍♀️
 
 #### 🔨 My recent Pull Requests
 
