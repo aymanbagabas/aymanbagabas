@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [refactor(config): introduce ConfigStore and Scope for better config m…](https://github.com/charmbracelet/crush/pull/2395) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (today)
 - [fix(select): ensure cursor visibility when navigating multiline options](https://github.com/charmbracelet/huh/pull/749) on [charmbracelet/huh](https://github.com/charmbracelet/huh) (today)
 - [fix(writer): ensure Write returns the number of processed bytes](https://github.com/charmbracelet/colorprofile/pull/75) on [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) (1 day ago)
 - [chore: bump dependencies](https://github.com/charmbracelet/wish/pull/535) on [charmbracelet/wish](https://github.com/charmbracelet/wish) (1 day ago)
 - [fix(ui): properly truncate info message](https://github.com/charmbracelet/crush/pull/2379) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (3 days ago)
-- [fix(renderer): use mapNl optimization when not on Windows and no PTY …](https://github.com/charmbracelet/bubbletea/pull/1615) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (4 days ago)
 
 #### 📜 My recent blog posts
 
