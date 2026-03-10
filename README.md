@@ -4,8 +4,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/huh](https://github.com/charmbracelet/huh) - Build terminal forms and prompts 🤷🏻‍♀️ (today)
 - [charmbracelet/xunicode](https://github.com/charmbracelet/xunicode) - Experimental Unicode algorithm packages  (today)
+- [charmbracelet/huh](https://github.com/charmbracelet/huh) - Build terminal forms and prompts 🤷🏻‍♀️ (today)
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (1 day ago)
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘 (1 day ago)
 - [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (1 day ago)
@@ -20,11 +20,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) ([v0.11.0](https://github.com/charmbracelet/vhs/releases/tag/v0.11.0), today) - Your CLI home video recorder 📼
 - [charmbracelet/huh](https://github.com/charmbracelet/huh) ([v2.0.3](https://github.com/charmbracelet/huh/releases/tag/v2.0.3), today) - Build terminal forms and prompts 🤷🏻‍♀️
 - [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.29.0](https://github.com/charmbracelet/catwalk/releases/tag/v0.29.0), today) - 🐈 A collection of LLM inference providers and models 
 - [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), today) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), today) - Glamourous agentic coding for all 💘
-- [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) ([v0.4.3](https://github.com/charmbracelet/colorprofile/releases/tag/v0.4.3), 1 day ago) - Magical terminal color handling 🪄
 
 #### 🔨 My recent Pull Requests
 
