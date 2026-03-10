@@ -20,11 +20,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.28.4](https://github.com/charmbracelet/catwalk/releases/tag/v0.28.4), today) - 🐈 A collection of LLM inference providers and models 
 - [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), today) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), today) - Glamourous agentic coding for all 💘
 - [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) ([v0.4.3](https://github.com/charmbracelet/colorprofile/releases/tag/v0.4.3), 1 day ago) - Magical terminal color handling 🪄
 - [charmbracelet/fang](https://github.com/charmbracelet/fang) ([v2.0.0](https://github.com/charmbracelet/fang/releases/tag/v2.0.0), 1 day ago) - The CLI starter kit
-- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v2.0.0](https://github.com/charmbracelet/wish/releases/tag/v2.0.0), 1 day ago) - Make SSH apps, just like that! 💫
 
 #### 🔨 My recent Pull Requests
 
