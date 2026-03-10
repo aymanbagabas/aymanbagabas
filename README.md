@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️ (today)
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘 (today)
-- [charmbracelet/log](https://github.com/charmbracelet/log) - A minimal, colorful Go logging library 🪵 (today)
-- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼 (today)
-- [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (today)
+- [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️ (1 day ago)
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘 (1 day ago)
+- [charmbracelet/fang](https://github.com/charmbracelet/fang) - The CLI starter kit (1 day ago)
+- [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (1 day ago)
+- [charmbracelet/log](https://github.com/charmbracelet/log) - A minimal, colorful Go logging library 🪵 (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/fang](https://github.com/charmbracelet/fang) ([v2.0.0](https://github.com/charmbracelet/fang/releases/tag/v2.0.0), today) - The CLI starter kit
-- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v2.0.0](https://github.com/charmbracelet/wish/releases/tag/v2.0.0), today) - Make SSH apps, just like that! 💫
-- [charmbracelet/log](https://github.com/charmbracelet/log) ([v2.0.0](https://github.com/charmbracelet/log/releases/tag/v2.0.0), today) - A minimal, colorful Go logging library 🪵
-- [charmbracelet/huh](https://github.com/charmbracelet/huh) ([v2.0.1](https://github.com/charmbracelet/huh/releases/tag/v2.0.1), today) - Build terminal forms and prompts 🤷🏻‍♀️
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v2.0.1](https://github.com/charmbracelet/lipgloss/releases/tag/v2.0.1), today) - Style definitions for nice terminal layouts 👄
+- [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) ([v0.4.3](https://github.com/charmbracelet/colorprofile/releases/tag/v0.4.3), 1 day ago) - Magical terminal color handling 🪄
+- [charmbracelet/fang](https://github.com/charmbracelet/fang) ([v2.0.0](https://github.com/charmbracelet/fang/releases/tag/v2.0.0), 1 day ago) - The CLI starter kit
+- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v2.0.0](https://github.com/charmbracelet/wish/releases/tag/v2.0.0), 1 day ago) - Make SSH apps, just like that! 💫
+- [charmbracelet/log](https://github.com/charmbracelet/log) ([v2.0.0](https://github.com/charmbracelet/log/releases/tag/v2.0.0), 1 day ago) - A minimal, colorful Go logging library 🪵
+- [charmbracelet/huh](https://github.com/charmbracelet/huh) ([v2.0.1](https://github.com/charmbracelet/huh/releases/tag/v2.0.1), 1 day ago) - Build terminal forms and prompts 🤷🏻‍♀️
 
 #### 🔨 My recent Pull Requests
 
-- [fix(writer): ensure Write returns the number of processed bytes](https://github.com/charmbracelet/colorprofile/pull/75) on [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) (today)
-- [chore: bump dependencies](https://github.com/charmbracelet/wish/pull/535) on [charmbracelet/wish](https://github.com/charmbracelet/wish) (today)
-- [fix(ui): properly truncate info message](https://github.com/charmbracelet/crush/pull/2379) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (2 days ago)
-- [fix(renderer): use mapNl optimization when not on Windows and no PTY …](https://github.com/charmbracelet/bubbletea/pull/1615) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (3 days ago)
-- [docs: add upgrade guide for Wish v2 &#43; release notes](https://github.com/charmbracelet/wish/pull/531) on [charmbracelet/wish](https://github.com/charmbracelet/wish) (6 days ago)
+- [fix(writer): ensure Write returns the number of processed bytes](https://github.com/charmbracelet/colorprofile/pull/75) on [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) (1 day ago)
+- [chore: bump dependencies](https://github.com/charmbracelet/wish/pull/535) on [charmbracelet/wish](https://github.com/charmbracelet/wish) (1 day ago)
+- [fix(ui): properly truncate info message](https://github.com/charmbracelet/crush/pull/2379) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (3 days ago)
+- [fix(renderer): use mapNl optimization when not on Windows and no PTY …](https://github.com/charmbracelet/bubbletea/pull/1615) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (4 days ago)
+- [docs: add upgrade guide for Wish v2 &#43; release notes](https://github.com/charmbracelet/wish/pull/531) on [charmbracelet/wish](https://github.com/charmbracelet/wish) (1 week ago)
 
 #### 📜 My recent blog posts
 
@@ -47,7 +47,7 @@
 - [jiangcuo/pxvirt](https://github.com/jiangcuo/pxvirt) - A fork of Proxmox VE for ARM and LoongArch architectures (2 weeks ago)
 - [taigrr/trophy](https://github.com/taigrr/trophy) - Terminal 3D Model Viewer - View 3D model files in your terminal (1 month ago)
 - [M2Team/NanaZip](https://github.com/M2Team/NanaZip) - The 7-Zip derivative intended for the modern Windows experience (1 month ago)
-- [FRIGN/libgrapheme](https://github.com/FRIGN/libgrapheme) -  (1 month ago)
+- [FRIGN/libgrapheme](https://github.com/FRIGN/libgrapheme) -  (2 months ago)
 - [antonmedv/gitmal](https://github.com/antonmedv/gitmal) - A static page generator for repos (3 months ago)
 
 #### 📫 How to reach me
