@@ -20,11 +20,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v2.0.2](https://github.com/charmbracelet/lipgloss/releases/tag/v2.0.2), today) - Style definitions for nice terminal layouts 👄
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), today) - Glamourous agentic coding for all 💘
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) ([v0.11.0](https://github.com/charmbracelet/vhs/releases/tag/v0.11.0), 1 day ago) - Your CLI home video recorder 📼
 - [charmbracelet/huh](https://github.com/charmbracelet/huh) ([v2.0.3](https://github.com/charmbracelet/huh/releases/tag/v2.0.3), 1 day ago) - Build terminal forms and prompts 🤷🏻‍♀️
 - [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.29.0](https://github.com/charmbracelet/catwalk/releases/tag/v0.29.0), 1 day ago) - 🐈 A collection of LLM inference providers and models 
-- [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), 1 day ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 
 #### 🔨 My recent Pull Requests
 
