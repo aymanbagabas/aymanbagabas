@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/xunicode](https://github.com/charmbracelet/xunicode) - Experimental Unicode algorithm packages  (today)
-- [charmbracelet/huh](https://github.com/charmbracelet/huh) - Build terminal forms and prompts 🤷🏻‍♀️ (today)
-- [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (1 day ago)
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘 (1 day ago)
-- [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (1 day ago)
+- [charmbracelet/xunicode](https://github.com/charmbracelet/xunicode) - Experimental Unicode algorithm packages  (1 day ago)
+- [charmbracelet/huh](https://github.com/charmbracelet/huh) - Build terminal forms and prompts 🤷🏻‍♀️ (1 day ago)
+- [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (2 days ago)
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘 (2 days ago)
+- [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) ([v0.11.0](https://github.com/charmbracelet/vhs/releases/tag/v0.11.0), today) - Your CLI home video recorder 📼
-- [charmbracelet/huh](https://github.com/charmbracelet/huh) ([v2.0.3](https://github.com/charmbracelet/huh/releases/tag/v2.0.3), today) - Build terminal forms and prompts 🤷🏻‍♀️
-- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.29.0](https://github.com/charmbracelet/catwalk/releases/tag/v0.29.0), today) - 🐈 A collection of LLM inference providers and models 
-- [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), today) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), today) - Glamourous agentic coding for all 💘
+- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) ([v0.11.0](https://github.com/charmbracelet/vhs/releases/tag/v0.11.0), 1 day ago) - Your CLI home video recorder 📼
+- [charmbracelet/huh](https://github.com/charmbracelet/huh) ([v2.0.3](https://github.com/charmbracelet/huh/releases/tag/v2.0.3), 1 day ago) - Build terminal forms and prompts 🤷🏻‍♀️
+- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.29.0](https://github.com/charmbracelet/catwalk/releases/tag/v0.29.0), 1 day ago) - 🐈 A collection of LLM inference providers and models 
+- [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), 1 day ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), 1 day ago) - Glamourous agentic coding for all 💘
 
 #### 🔨 My recent Pull Requests
 
-- [refactor(config): introduce ConfigStore and Scope for better config m…](https://github.com/charmbracelet/crush/pull/2395) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (today)
-- [fix(select): ensure cursor visibility when navigating multiline options](https://github.com/charmbracelet/huh/pull/749) on [charmbracelet/huh](https://github.com/charmbracelet/huh) (today)
-- [fix(writer): ensure Write returns the number of processed bytes](https://github.com/charmbracelet/colorprofile/pull/75) on [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) (1 day ago)
-- [chore: bump dependencies](https://github.com/charmbracelet/wish/pull/535) on [charmbracelet/wish](https://github.com/charmbracelet/wish) (1 day ago)
-- [fix(ui): properly truncate info message](https://github.com/charmbracelet/crush/pull/2379) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (3 days ago)
+- [refactor(config): introduce ConfigStore and Scope for better config m…](https://github.com/charmbracelet/crush/pull/2395) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (1 day ago)
+- [fix(select): ensure cursor visibility when navigating multiline options](https://github.com/charmbracelet/huh/pull/749) on [charmbracelet/huh](https://github.com/charmbracelet/huh) (1 day ago)
+- [fix(writer): ensure Write returns the number of processed bytes](https://github.com/charmbracelet/colorprofile/pull/75) on [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) (2 days ago)
+- [chore: bump dependencies](https://github.com/charmbracelet/wish/pull/535) on [charmbracelet/wish](https://github.com/charmbracelet/wish) (2 days ago)
+- [fix(ui): properly truncate info message](https://github.com/charmbracelet/crush/pull/2379) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (4 days ago)
 
 #### 📜 My recent blog posts
 
@@ -46,7 +46,7 @@
 
 - [jiangcuo/pxvirt](https://github.com/jiangcuo/pxvirt) - A fork of Proxmox VE for ARM and LoongArch architectures (2 weeks ago)
 - [taigrr/trophy](https://github.com/taigrr/trophy) - Terminal 3D Model Viewer - View 3D model files in your terminal (1 month ago)
-- [M2Team/NanaZip](https://github.com/M2Team/NanaZip) - The 7-Zip derivative intended for the modern Windows experience (1 month ago)
+- [M2Team/NanaZip](https://github.com/M2Team/NanaZip) - The 7-Zip derivative intended for the modern Windows experience (2 months ago)
 - [FRIGN/libgrapheme](https://github.com/FRIGN/libgrapheme) -  (2 months ago)
 - [antonmedv/gitmal](https://github.com/antonmedv/gitmal) - A static page generator for repos (3 months ago)
 
