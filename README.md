@@ -20,11 +20,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.29.1](https://github.com/charmbracelet/catwalk/releases/tag/v0.29.1), today) - 🐈 A collection of LLM inference providers and models 
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), today) - Glamourous agentic coding for all 💘
 - [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), today) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 - [opt-nc/geol](https://github.com/opt-nc/geol) ([v2.9.1](https://github.com/opt-nc/geol/releases/tag/v2.9.1), today) - Efficiently show and monitor end-of-life dates for a number of products in your terminal and CI using endoflife.date API
 - [charmbracelet/fang](https://github.com/charmbracelet/fang) ([v2.0.1](https://github.com/charmbracelet/fang/releases/tag/v2.0.1), 1 day ago) - The CLI starter kit
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v2.0.2](https://github.com/charmbracelet/lipgloss/releases/tag/v2.0.2), 1 day ago) - Style definitions for nice terminal layouts 👄
 
 #### 🔨 My recent Pull Requests
 
