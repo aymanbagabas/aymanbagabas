@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (today)
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘 (4 days ago)
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (4 days ago)
-- [charmbracelet/fang](https://github.com/charmbracelet/fang) - The CLI starter kit (4 days ago)
-- [charmbracelet/huh](https://github.com/charmbracelet/huh) - Build terminal forms and prompts 🤷🏻‍♀️ (5 days ago)
+- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (1 day ago)
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘 (5 days ago)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (5 days ago)
+- [charmbracelet/fang](https://github.com/charmbracelet/fang) - The CLI starter kit (5 days ago)
+- [charmbracelet/huh](https://github.com/charmbracelet/huh) - Build terminal forms and prompts 🤷🏻‍♀️ (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.30.0](https://github.com/charmbracelet/catwalk/releases/tag/v0.30.0), today) - 🐈 A collection of LLM inference providers and models 
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), 1 day ago) - Glamourous agentic coding for all 💘
-- [opt-nc/geol](https://github.com/opt-nc/geol) ([v2.10.0](https://github.com/opt-nc/geol/releases/tag/v2.10.0), 2 days ago) - Efficiently show and monitor end-of-life dates for a number of products in your terminal and CI using endoflife.date API
-- [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), 3 days ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
-- [charmbracelet/fang](https://github.com/charmbracelet/fang) ([v2.0.1](https://github.com/charmbracelet/fang/releases/tag/v2.0.1), 4 days ago) - The CLI starter kit
+- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.30.0](https://github.com/charmbracelet/catwalk/releases/tag/v0.30.0), 1 day ago) - 🐈 A collection of LLM inference providers and models 
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), 2 days ago) - Glamourous agentic coding for all 💘
+- [opt-nc/geol](https://github.com/opt-nc/geol) ([v2.10.0](https://github.com/opt-nc/geol/releases/tag/v2.10.0), 3 days ago) - Efficiently show and monitor end-of-life dates for a number of products in your terminal and CI using endoflife.date API
+- [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), 4 days ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
+- [charmbracelet/fang](https://github.com/charmbracelet/fang) ([v2.0.1](https://github.com/charmbracelet/fang/releases/tag/v2.0.1), 5 days ago) - The CLI starter kit
 
 #### 🔨 My recent Pull Requests
 
-- [feat: support extended keyboard enhancements](https://github.com/charmbracelet/bubbletea/pull/1626) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
-- [refactor(config): introduce ConfigStore and Scope for better config m…](https://github.com/charmbracelet/crush/pull/2395) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (5 days ago)
-- [fix(select): ensure cursor visibility when navigating multiline options](https://github.com/charmbracelet/huh/pull/749) on [charmbracelet/huh](https://github.com/charmbracelet/huh) (5 days ago)
-- [fix(writer): ensure Write returns the number of processed bytes](https://github.com/charmbracelet/colorprofile/pull/75) on [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) (6 days ago)
-- [chore: bump dependencies](https://github.com/charmbracelet/wish/pull/535) on [charmbracelet/wish](https://github.com/charmbracelet/wish) (6 days ago)
+- [feat: support extended keyboard enhancements](https://github.com/charmbracelet/bubbletea/pull/1626) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 days ago)
+- [refactor(config): introduce ConfigStore and Scope for better config m…](https://github.com/charmbracelet/crush/pull/2395) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (6 days ago)
+- [fix(select): ensure cursor visibility when navigating multiline options](https://github.com/charmbracelet/huh/pull/749) on [charmbracelet/huh](https://github.com/charmbracelet/huh) (6 days ago)
+- [fix(writer): ensure Write returns the number of processed bytes](https://github.com/charmbracelet/colorprofile/pull/75) on [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) (1 week ago)
+- [chore: bump dependencies](https://github.com/charmbracelet/wish/pull/535) on [charmbracelet/wish](https://github.com/charmbracelet/wish) (1 week ago)
 
 #### 📜 My recent blog posts
 
