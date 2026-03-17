@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat(bazarr): support yaml config and apikey field](https://github.com/onedr0p/exportarr/pull/427) on [onedr0p/exportarr](https://github.com/onedr0p/exportarr) (today)
 - [feat: support extended keyboard enhancements](https://github.com/charmbracelet/bubbletea/pull/1626) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (3 days ago)
 - [refactor(config): introduce ConfigStore and Scope for better config m…](https://github.com/charmbracelet/crush/pull/2395) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (1 week ago)
 - [fix(select): ensure cursor visibility when navigating multiline options](https://github.com/charmbracelet/huh/pull/749) on [charmbracelet/huh](https://github.com/charmbracelet/huh) (1 week ago)
 - [fix(writer): ensure Write returns the number of processed bytes](https://github.com/charmbracelet/colorprofile/pull/75) on [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) (1 week ago)
-- [chore: bump dependencies](https://github.com/charmbracelet/wish/pull/535) on [charmbracelet/wish](https://github.com/charmbracelet/wish) (1 week ago)
 
 #### 📜 My recent blog posts
 
