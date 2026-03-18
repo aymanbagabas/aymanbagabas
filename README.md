@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.30.5](https://github.com/charmbracelet/catwalk/releases/tag/v0.30.5), today) - 🐈 A collection of LLM inference providers and models 
+- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.30.7](https://github.com/charmbracelet/catwalk/releases/tag/v0.30.7), today) - 🐈 A collection of LLM inference providers and models 
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), today) - Glamourous agentic coding for all 💘
 - [opt-nc/geol](https://github.com/opt-nc/geol) ([v2.10.0](https://github.com/opt-nc/geol/releases/tag/v2.10.0), 5 days ago) - Efficiently show and monitor end-of-life dates for a number of products in your terminal and CI using endoflife.date API
 - [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), 6 days ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
