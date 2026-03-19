@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (3 days ago)
+- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (4 days ago)
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘 (1 week ago)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 week ago)
 - [charmbracelet/fang](https://github.com/charmbracelet/fang) - The CLI starter kit (1 week ago)
@@ -20,16 +20,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.30.7](https://github.com/charmbracelet/catwalk/releases/tag/v0.30.7), today) - 🐈 A collection of LLM inference providers and models 
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), today) - Glamourous agentic coding for all 💘
-- [opt-nc/geol](https://github.com/opt-nc/geol) ([v2.10.0](https://github.com/opt-nc/geol/releases/tag/v2.10.0), 5 days ago) - Efficiently show and monitor end-of-life dates for a number of products in your terminal and CI using endoflife.date API
-- [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), 6 days ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
+- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.30.7](https://github.com/charmbracelet/catwalk/releases/tag/v0.30.7), 1 day ago) - 🐈 A collection of LLM inference providers and models 
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), 1 day ago) - Glamourous agentic coding for all 💘
+- [opt-nc/geol](https://github.com/opt-nc/geol) ([v2.10.0](https://github.com/opt-nc/geol/releases/tag/v2.10.0), 6 days ago) - Efficiently show and monitor end-of-life dates for a number of products in your terminal and CI using endoflife.date API
+- [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), 1 week ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 - [charmbracelet/fang](https://github.com/charmbracelet/fang) ([v2.0.1](https://github.com/charmbracelet/fang/releases/tag/v2.0.1), 1 week ago) - The CLI starter kit
 
 #### 🔨 My recent Pull Requests
 
-- [feat(bazarr): support yaml config and apikey field](https://github.com/onedr0p/exportarr/pull/427) on [onedr0p/exportarr](https://github.com/onedr0p/exportarr) (1 day ago)
-- [feat: support extended keyboard enhancements](https://github.com/charmbracelet/bubbletea/pull/1626) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (4 days ago)
+- [feat(bazarr): support yaml config and apikey field](https://github.com/onedr0p/exportarr/pull/427) on [onedr0p/exportarr](https://github.com/onedr0p/exportarr) (2 days ago)
+- [feat: support extended keyboard enhancements](https://github.com/charmbracelet/bubbletea/pull/1626) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (5 days ago)
 - [refactor(config): introduce ConfigStore and Scope for better config m…](https://github.com/charmbracelet/crush/pull/2395) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (1 week ago)
 - [fix(select): ensure cursor visibility when navigating multiline options](https://github.com/charmbracelet/huh/pull/749) on [charmbracelet/huh](https://github.com/charmbracelet/huh) (1 week ago)
 - [fix(writer): ensure Write returns the number of processed bytes](https://github.com/charmbracelet/colorprofile/pull/75) on [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) (1 week ago)
@@ -44,7 +44,7 @@
 
 #### ⭐ Recent Stars
 
-- [jiangcuo/pxvirt](https://github.com/jiangcuo/pxvirt) - A fork of Proxmox VE for ARM and LoongArch architectures (3 weeks ago)
+- [jiangcuo/pxvirt](https://github.com/jiangcuo/pxvirt) - A fork of Proxmox VE for ARM and LoongArch architectures (4 weeks ago)
 - [taigrr/trophy](https://github.com/taigrr/trophy) - Terminal 3D Model Viewer - View 3D model files in your terminal (1 month ago)
 - [M2Team/NanaZip](https://github.com/M2Team/NanaZip) - The 7-Zip derivative intended for the modern Windows experience (2 months ago)
 - [FRIGN/libgrapheme](https://github.com/FRIGN/libgrapheme) -  (2 months ago)
