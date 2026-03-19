@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦 (today)
 - [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (4 days ago)
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘 (1 week ago)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 week ago)
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘 (1 week ago)
 - [charmbracelet/fang](https://github.com/charmbracelet/fang) - The CLI starter kit (1 week ago)
-- [charmbracelet/xunicode](https://github.com/charmbracelet/xunicode) - Experimental Unicode algorithm packages  (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -20,11 +20,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.11.6](https://github.com/charmbracelet/soft-serve/releases/tag/v0.11.6), today) - The mighty, self-hostable Git server for the command line🍦
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), today) - Glamourous agentic coding for all 💘
 - [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.30.7](https://github.com/charmbracelet/catwalk/releases/tag/v0.30.7), 1 day ago) - 🐈 A collection of LLM inference providers and models 
 - [opt-nc/geol](https://github.com/opt-nc/geol) ([v2.10.0](https://github.com/opt-nc/geol/releases/tag/v2.10.0), 6 days ago) - Efficiently show and monitor end-of-life dates for a number of products in your terminal and CI using endoflife.date API
 - [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), 1 week ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
-- [charmbracelet/fang](https://github.com/charmbracelet/fang) ([v2.0.1](https://github.com/charmbracelet/fang/releases/tag/v2.0.1), 1 week ago) - The CLI starter kit
 
 #### 🔨 My recent Pull Requests
 
