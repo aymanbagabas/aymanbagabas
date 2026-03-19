@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.51.0](https://github.com/charmbracelet/crush/releases/tag/v0.51.0), today) - Glamourous agentic coding for all 💘
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.51.1](https://github.com/charmbracelet/crush/releases/tag/v0.51.1), today) - Glamourous agentic coding for all 💘
 - [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.30.8](https://github.com/charmbracelet/catwalk/releases/tag/v0.30.8), today) - 🐈 A collection of LLM inference providers and models 
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.11.6](https://github.com/charmbracelet/soft-serve/releases/tag/v0.11.6), today) - The mighty, self-hostable Git server for the command line🍦
 - [opt-nc/geol](https://github.com/opt-nc/geol) ([v2.10.0](https://github.com/opt-nc/geol/releases/tag/v2.10.0), 6 days ago) - Efficiently show and monitor end-of-life dates for a number of products in your terminal and CI using endoflife.date API
