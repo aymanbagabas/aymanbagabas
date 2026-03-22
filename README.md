@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Feat/Refactor: Server Client architecture and API](https://github.com/charmbracelet/crush/pull/2455) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (today)
 - [feat(bazarr): support yaml config and apikey field](https://github.com/onedr0p/exportarr/pull/427) on [onedr0p/exportarr](https://github.com/onedr0p/exportarr) (5 days ago)
 - [feat: support extended keyboard enhancements](https://github.com/charmbracelet/bubbletea/pull/1626) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 week ago)
 - [refactor(config): introduce ConfigStore and Scope for better config m…](https://github.com/charmbracelet/crush/pull/2395) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (1 week ago)
 - [fix(select): ensure cursor visibility when navigating multiline options](https://github.com/charmbracelet/huh/pull/749) on [charmbracelet/huh](https://github.com/charmbracelet/huh) (1 week ago)
-- [fix(writer): ensure Write returns the number of processed bytes](https://github.com/charmbracelet/colorprofile/pull/75) on [charmbracelet/colorprofile](https://github.com/charmbracelet/colorprofile) (1 week ago)
 
 #### 📜 My recent blog posts
 
@@ -44,11 +44,11 @@
 
 #### ⭐ Recent Stars
 
+- [gavinmcfall/home-ops](https://github.com/gavinmcfall/home-ops) - HomeOps driven by Kubernetes and GitOps using Flux (today)
 - [jiangcuo/pxvirt](https://github.com/jiangcuo/pxvirt) - A fork of Proxmox VE for ARM and LoongArch architectures (1 month ago)
 - [taigrr/trophy](https://github.com/taigrr/trophy) - Terminal 3D Model Viewer - View 3D model files in your terminal (1 month ago)
 - [M2Team/NanaZip](https://github.com/M2Team/NanaZip) - The 7-Zip derivative intended for the modern Windows experience (2 months ago)
 - [FRIGN/libgrapheme](https://github.com/FRIGN/libgrapheme) -  (2 months ago)
-- [antonmedv/gitmal](https://github.com/antonmedv/gitmal) - A static page generator for repos (3 months ago)
 
 #### 📫 How to reach me
 
