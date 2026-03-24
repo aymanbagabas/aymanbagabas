@@ -20,9 +20,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.51.3](https://github.com/charmbracelet/crush/releases/tag/v0.51.3), today) - Glamourous agentic coding for all 💘
 - [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.31.1](https://github.com/charmbracelet/catwalk/releases/tag/v0.31.1), today) - 🐈 A collection of LLM inference providers and models 
 - [aymanbagabas/cloudflare-prometheus-exporter](https://github.com/aymanbagabas/cloudflare-prometheus-exporter) ([v0.0.5](https://github.com/aymanbagabas/cloudflare-prometheus-exporter/releases/tag/v0.0.5), today) - Cloudfront Prometheus exporter
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), today) - Glamourous agentic coding for all 💘
 - [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), today) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 - [opt-nc/geol](https://github.com/opt-nc/geol) ([v2.10.1](https://github.com/opt-nc/geol/releases/tag/v2.10.1), 4 days ago) - Efficiently show and monitor end-of-life dates for a number of products in your terminal and CI using endoflife.date API
 
