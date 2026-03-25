@@ -4,10 +4,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [aymanbagabas/cloudflare-prometheus-exporter](https://github.com/aymanbagabas/cloudflare-prometheus-exporter) - Cloudfront Prometheus exporter (today)
-- [charmbracelet/log](https://github.com/charmbracelet/log) - A minimal, colorful Go logging library 🪵 (2 days ago)
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (2 days ago)
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦 (5 days ago)
+- [aymanbagabas/cloudflare-prometheus-exporter](https://github.com/aymanbagabas/cloudflare-prometheus-exporter) - Cloudfront Prometheus exporter (1 day ago)
+- [charmbracelet/log](https://github.com/charmbracelet/log) - A minimal, colorful Go logging library 🪵 (3 days ago)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (3 days ago)
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦 (6 days ago)
 - [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (1 week ago)
 
 #### 🌱 My latest projects
@@ -20,18 +20,18 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.51.3](https://github.com/charmbracelet/crush/releases/tag/v0.51.3), today) - Glamourous agentic coding for all 💘
-- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.31.1](https://github.com/charmbracelet/catwalk/releases/tag/v0.31.1), today) - 🐈 A collection of LLM inference providers and models 
-- [aymanbagabas/cloudflare-prometheus-exporter](https://github.com/aymanbagabas/cloudflare-prometheus-exporter) ([v0.0.5](https://github.com/aymanbagabas/cloudflare-prometheus-exporter/releases/tag/v0.0.5), today) - Cloudfront Prometheus exporter
-- [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), today) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
-- [opt-nc/geol](https://github.com/opt-nc/geol) ([v2.10.1](https://github.com/opt-nc/geol/releases/tag/v2.10.1), 4 days ago) - Efficiently show and monitor end-of-life dates for a number of products in your terminal and CI using endoflife.date API
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.51.3](https://github.com/charmbracelet/crush/releases/tag/v0.51.3), 1 day ago) - Glamourous agentic coding for all 💘
+- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.31.1](https://github.com/charmbracelet/catwalk/releases/tag/v0.31.1), 1 day ago) - 🐈 A collection of LLM inference providers and models 
+- [aymanbagabas/cloudflare-prometheus-exporter](https://github.com/aymanbagabas/cloudflare-prometheus-exporter) ([v0.0.5](https://github.com/aymanbagabas/cloudflare-prometheus-exporter/releases/tag/v0.0.5), 1 day ago) - Cloudfront Prometheus exporter
+- [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), 1 day ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
+- [opt-nc/geol](https://github.com/opt-nc/geol) ([v2.10.1](https://github.com/opt-nc/geol/releases/tag/v2.10.1), 5 days ago) - Efficiently show and monitor end-of-life dates for a number of products in your terminal and CI using endoflife.date API
 
 #### 🔨 My recent Pull Requests
 
-- [fix: bypass GetAccounts API call when CF_ACCOUNTS is set](https://github.com/aymanbagabas/cloudflare-prometheus-exporter/pull/1) on [aymanbagabas/cloudflare-prometheus-exporter](https://github.com/aymanbagabas/cloudflare-prometheus-exporter) (today)
-- [feat: ci: add GitHub Actions workflow to publish Docker images to GHCR on tag push](https://github.com/cloudflare/cloudflare-prometheus-exporter/pull/21) on [cloudflare/cloudflare-prometheus-exporter](https://github.com/cloudflare/cloudflare-prometheus-exporter) (1 day ago)
-- [Fix sed substitute issues for FServer, Cisco, and Yamaha MIBs](https://github.com/prometheus/snmp_exporter/pull/1595) on [prometheus/snmp_exporter](https://github.com/prometheus/snmp_exporter) (2 days ago)
-- [Feat/Refactor: Server Client architecture and API](https://github.com/charmbracelet/crush/pull/2455) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (2 days ago)
+- [fix: bypass GetAccounts API call when CF_ACCOUNTS is set](https://github.com/aymanbagabas/cloudflare-prometheus-exporter/pull/1) on [aymanbagabas/cloudflare-prometheus-exporter](https://github.com/aymanbagabas/cloudflare-prometheus-exporter) (1 day ago)
+- [feat: ci: add GitHub Actions workflow to publish Docker images to GHCR on tag push](https://github.com/cloudflare/cloudflare-prometheus-exporter/pull/21) on [cloudflare/cloudflare-prometheus-exporter](https://github.com/cloudflare/cloudflare-prometheus-exporter) (2 days ago)
+- [Fix sed substitute issues for FServer, Cisco, and Yamaha MIBs](https://github.com/prometheus/snmp_exporter/pull/1595) on [prometheus/snmp_exporter](https://github.com/prometheus/snmp_exporter) (3 days ago)
+- [Feat/Refactor: Server Client architecture and API](https://github.com/charmbracelet/crush/pull/2455) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (3 days ago)
 - [feat(bazarr): support yaml config and apikey field](https://github.com/onedr0p/exportarr/pull/427) on [onedr0p/exportarr](https://github.com/onedr0p/exportarr) (1 week ago)
 
 #### 📜 My recent blog posts
@@ -44,7 +44,7 @@
 
 #### ⭐ Recent Stars
 
-- [gavinmcfall/home-ops](https://github.com/gavinmcfall/home-ops) - HomeOps driven by Kubernetes and GitOps using Flux (2 days ago)
+- [gavinmcfall/home-ops](https://github.com/gavinmcfall/home-ops) - HomeOps driven by Kubernetes and GitOps using Flux (3 days ago)
 - [jiangcuo/pxvirt](https://github.com/jiangcuo/pxvirt) - A fork of Proxmox VE for ARM and LoongArch architectures (1 month ago)
 - [taigrr/trophy](https://github.com/taigrr/trophy) - Terminal 3D Model Viewer - View 3D model files in your terminal (1 month ago)
 - [M2Team/NanaZip](https://github.com/M2Team/NanaZip) - The 7-Zip derivative intended for the modern Windows experience (2 months ago)
