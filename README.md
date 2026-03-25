@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.51.3](https://github.com/charmbracelet/crush/releases/tag/v0.51.3), 1 day ago) - Glamourous agentic coding for all 💘
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), today) - Glamourous agentic coding for all 💘
 - [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.31.1](https://github.com/charmbracelet/catwalk/releases/tag/v0.31.1), 1 day ago) - 🐈 A collection of LLM inference providers and models 
 - [aymanbagabas/cloudflare-prometheus-exporter](https://github.com/aymanbagabas/cloudflare-prometheus-exporter) ([v0.0.5](https://github.com/aymanbagabas/cloudflare-prometheus-exporter/releases/tag/v0.0.5), 1 day ago) - Cloudfront Prometheus exporter
 - [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), 1 day ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
