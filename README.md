@@ -20,10 +20,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), today) - Glamourous agentic coding for all 💘
+- [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), today) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 - [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.31.2](https://github.com/charmbracelet/catwalk/releases/tag/v0.31.2), 1 day ago) - 🐈 A collection of LLM inference providers and models 
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v2.1.0](https://github.com/charmbracelet/bubbles/releases/tag/v2.1.0), 1 day ago) - TUI components for Bubble Tea 🫧
-- [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), 1 day ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), 1 day ago) - Glamourous agentic coding for all 💘
 - [aymanbagabas/cloudflare-prometheus-exporter](https://github.com/aymanbagabas/cloudflare-prometheus-exporter) ([v0.0.5](https://github.com/aymanbagabas/cloudflare-prometheus-exporter/releases/tag/v0.0.5), 3 days ago) - Cloudfront Prometheus exporter
 
 #### 🔨 My recent Pull Requests
