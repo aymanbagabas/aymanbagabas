@@ -4,9 +4,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [aymanbagabas/cloudflare-prometheus-exporter](https://github.com/aymanbagabas/cloudflare-prometheus-exporter) - Cloudfront Prometheus exporter (3 days ago)
-- [charmbracelet/log](https://github.com/charmbracelet/log) - A minimal, colorful Go logging library 🪵 (5 days ago)
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (5 days ago)
+- [aymanbagabas/cloudflare-prometheus-exporter](https://github.com/aymanbagabas/cloudflare-prometheus-exporter) - Cloudfront Prometheus exporter (4 days ago)
+- [charmbracelet/log](https://github.com/charmbracelet/log) - A minimal, colorful Go logging library 🪵 (6 days ago)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (6 days ago)
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦 (1 week ago)
 - [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (1 week ago)
 
@@ -20,31 +20,31 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.53.0](https://github.com/charmbracelet/crush/releases/tag/v0.53.0), today) - Glamourous agentic coding for all 💘
-- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.32.1](https://github.com/charmbracelet/catwalk/releases/tag/v0.32.1), today) - 🐈 A collection of LLM inference providers and models 
-- [opt-nc/geol](https://github.com/opt-nc/geol) ([v2.11.0-develop.1](https://github.com/opt-nc/geol/releases/tag/v2.11.0-develop.1), today) - Efficiently show and monitor end-of-life dates for a number of products in your terminal and CI using endoflife.date API
-- [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), today) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v2.1.0](https://github.com/charmbracelet/bubbles/releases/tag/v2.1.0), 1 day ago) - TUI components for Bubble Tea 🫧
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.53.0](https://github.com/charmbracelet/crush/releases/tag/v0.53.0), 1 day ago) - Glamourous agentic coding for all 💘
+- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.32.1](https://github.com/charmbracelet/catwalk/releases/tag/v0.32.1), 1 day ago) - 🐈 A collection of LLM inference providers and models 
+- [opt-nc/geol](https://github.com/opt-nc/geol) ([v2.11.0-develop.1](https://github.com/opt-nc/geol/releases/tag/v2.11.0-develop.1), 1 day ago) - Efficiently show and monitor end-of-life dates for a number of products in your terminal and CI using endoflife.date API
+- [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), 1 day ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v2.1.0](https://github.com/charmbracelet/bubbles/releases/tag/v2.1.0), 2 days ago) - TUI components for Bubble Tea 🫧
 
 #### 🔨 My recent Pull Requests
 
-- [fix: bypass GetAccounts API call when CF_ACCOUNTS is set](https://github.com/aymanbagabas/cloudflare-prometheus-exporter/pull/1) on [aymanbagabas/cloudflare-prometheus-exporter](https://github.com/aymanbagabas/cloudflare-prometheus-exporter) (3 days ago)
-- [feat: ci: add GitHub Actions workflow to publish Docker images to GHCR on tag push](https://github.com/cloudflare/cloudflare-prometheus-exporter/pull/21) on [cloudflare/cloudflare-prometheus-exporter](https://github.com/cloudflare/cloudflare-prometheus-exporter) (4 days ago)
-- [Fix sed substitute issues for FServer, Cisco, and Yamaha MIBs](https://github.com/prometheus/snmp_exporter/pull/1595) on [prometheus/snmp_exporter](https://github.com/prometheus/snmp_exporter) (5 days ago)
-- [Feat/Refactor: Server Client architecture and API](https://github.com/charmbracelet/crush/pull/2455) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (5 days ago)
+- [fix: bypass GetAccounts API call when CF_ACCOUNTS is set](https://github.com/aymanbagabas/cloudflare-prometheus-exporter/pull/1) on [aymanbagabas/cloudflare-prometheus-exporter](https://github.com/aymanbagabas/cloudflare-prometheus-exporter) (4 days ago)
+- [feat: ci: add GitHub Actions workflow to publish Docker images to GHCR on tag push](https://github.com/cloudflare/cloudflare-prometheus-exporter/pull/21) on [cloudflare/cloudflare-prometheus-exporter](https://github.com/cloudflare/cloudflare-prometheus-exporter) (5 days ago)
+- [Fix sed substitute issues for FServer, Cisco, and Yamaha MIBs](https://github.com/prometheus/snmp_exporter/pull/1595) on [prometheus/snmp_exporter](https://github.com/prometheus/snmp_exporter) (6 days ago)
+- [Feat/Refactor: Server Client architecture and API](https://github.com/charmbracelet/crush/pull/2455) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (6 days ago)
 - [feat(bazarr): support yaml config and apikey field](https://github.com/onedr0p/exportarr/pull/427) on [onedr0p/exportarr](https://github.com/onedr0p/exportarr) (1 week ago)
 
 #### 📜 My recent blog posts
 
 - [A Brief History of Terminal Emulators](https://aymanbagabas.com/blog/2025/03/11/a-brief-history-of-terminal-emulators.html) (1 year ago)
 - [Self-hosted Soft Serve](https://aymanbagabas.com/blog/2023/04/28/self-hosted-soft-serve.html) (2 years ago)
-- [Simple Vim Session Management](https://aymanbagabas.com/blog/2023/04/13/simple-vim-session-management.html) (2 years ago)
+- [Simple Vim Session Management](https://aymanbagabas.com/blog/2023/04/13/simple-vim-session-management.html) (3 years ago)
 - [Blue Mountain](https://aymanbagabas.com/blog/2022/06/02/blue-mountain.html) (3 years ago)
 - [Import Notion Pages to Jekyll](https://aymanbagabas.com/blog/2022/03/29/import-notion-pages-to-jekyll.html) (4 years ago)
 
 #### ⭐ Recent Stars
 
-- [gavinmcfall/home-ops](https://github.com/gavinmcfall/home-ops) - HomeOps driven by Kubernetes and GitOps using Flux (5 days ago)
+- [gavinmcfall/home-ops](https://github.com/gavinmcfall/home-ops) - HomeOps driven by Kubernetes and GitOps using Flux (6 days ago)
 - [jiangcuo/pxvirt](https://github.com/jiangcuo/pxvirt) - A fork of Proxmox VE for ARM and LoongArch architectures (1 month ago)
 - [taigrr/trophy](https://github.com/taigrr/trophy) - Terminal 3D Model Viewer - View 3D model files in your terminal (1 month ago)
 - [M2Team/NanaZip](https://github.com/M2Team/NanaZip) - The 7-Zip derivative intended for the modern Windows experience (2 months ago)
