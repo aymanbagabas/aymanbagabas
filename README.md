@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [opt-nc/geol](https://github.com/opt-nc/geol) ([v2.11.0-develop.2](https://github.com/opt-nc/geol/releases/tag/v2.11.0-develop.2), today) - Efficiently show and monitor end-of-life dates for a number of products in your terminal and CI using endoflife.date API
+- [opt-nc/geol](https://github.com/opt-nc/geol) ([v2.11.0](https://github.com/opt-nc/geol/releases/tag/v2.11.0), today) - Efficiently show and monitor end-of-life dates for a number of products in your terminal and CI using endoflife.date API
 - [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), today) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 - [go-git/go-git](https://github.com/go-git/go-git) ([v5.17.1](https://github.com/go-git/go-git/releases/tag/v5.17.1), today) - A highly extensible Git implementation in pure Go.
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), 1 day ago) - Glamourous agentic coding for all 💘
