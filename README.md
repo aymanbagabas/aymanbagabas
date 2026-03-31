@@ -6,8 +6,8 @@
 
 - [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (1 day ago)
 - [aymanbagabas/cloudflare-prometheus-exporter](https://github.com/aymanbagabas/cloudflare-prometheus-exporter) - Cloudfront Prometheus exporter (1 week ago)
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 week ago)
 - [charmbracelet/log](https://github.com/charmbracelet/log) - A minimal, colorful Go logging library 🪵 (1 week ago)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 week ago)
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦 (1 week ago)
 
 #### 🌱 My latest projects
@@ -20,9 +20,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.33.2](https://github.com/charmbracelet/catwalk/releases/tag/v0.33.2), today) - 🐈 A collection of LLM inference providers and models 
 - [go-git/go-git](https://github.com/go-git/go-git) ([v5.17.2](https://github.com/go-git/go-git/releases/tag/v5.17.2), today) - A highly extensible Git implementation in pure Go.
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), today) - Glamourous agentic coding for all 💘
-- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.33.1](https://github.com/charmbracelet/catwalk/releases/tag/v0.33.1), 1 day ago) - 🐈 A collection of LLM inference providers and models 
 - [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), 1 day ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 - [opt-nc/geol](https://github.com/opt-nc/geol) ([v2.11.0](https://github.com/opt-nc/geol/releases/tag/v2.11.0), 2 days ago) - Efficiently show and monitor end-of-life dates for a number of products in your terminal and CI using endoflife.date API
 
