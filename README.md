@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [raphamorim/rio](https://github.com/raphamorim/rio) ([v0.3.0](https://github.com/raphamorim/rio/releases/tag/v0.3.0), today) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
+- [raphamorim/rio](https://github.com/raphamorim/rio) ([v0.3.1](https://github.com/raphamorim/rio/releases/tag/v0.3.1), today) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 - [opt-nc/geol](https://github.com/opt-nc/geol) ([v2.12.0](https://github.com/opt-nc/geol/releases/tag/v2.12.0), today) - Efficiently show and monitor end-of-life dates for a number of products in your terminal and CI using endoflife.date API
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), today) - Glamourous agentic coding for all 💘
 - [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.34.3](https://github.com/charmbracelet/catwalk/releases/tag/v0.34.3), 1 day ago) - 🐈 A collection of LLM inference providers and models 
