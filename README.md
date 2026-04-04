@@ -44,11 +44,11 @@
 
 #### ⭐ Recent Stars
 
+- [maaslalani/sheets](https://github.com/maaslalani/sheets) - Terminal based spreadsheet tool (today)
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations. (6 days ago)
 - [gavinmcfall/home-ops](https://github.com/gavinmcfall/home-ops) - HomeOps driven by Kubernetes and GitOps using Flux (1 week ago)
 - [jiangcuo/pxvirt](https://github.com/jiangcuo/pxvirt) - A fork of Proxmox VE for ARM and LoongArch architectures (1 month ago)
 - [taigrr/trophy](https://github.com/taigrr/trophy) - Terminal 3D Model Viewer - View 3D model files in your terminal (2 months ago)
-- [M2Team/NanaZip](https://github.com/M2Team/NanaZip) - The 7-Zip derivative intended for the modern Windows experience (2 months ago)
 
 #### 📫 How to reach me
 
