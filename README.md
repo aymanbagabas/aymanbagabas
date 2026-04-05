@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [internal: transport/test, replace test suites with new transport API](https://github.com/go-git/go-git/pull/1963) on [go-git/go-git](https://github.com/go-git/go-git) (today)
+- [plumbing: transport, replace core package with new transport API](https://github.com/go-git/go-git/pull/1962) on [go-git/go-git](https://github.com/go-git/go-git) (today)
 - [fix: bypass GetAccounts API call when CF_ACCOUNTS is set](https://github.com/aymanbagabas/cloudflare-prometheus-exporter/pull/1) on [aymanbagabas/cloudflare-prometheus-exporter](https://github.com/aymanbagabas/cloudflare-prometheus-exporter) (1 week ago)
 - [feat: ci: add GitHub Actions workflow to publish Docker images to GHCR on tag push](https://github.com/cloudflare/cloudflare-prometheus-exporter/pull/21) on [cloudflare/cloudflare-prometheus-exporter](https://github.com/cloudflare/cloudflare-prometheus-exporter) (1 week ago)
 - [Fix sed substitute issues for FServer, Cisco, and Yamaha MIBs](https://github.com/prometheus/snmp_exporter/pull/1595) on [prometheus/snmp_exporter](https://github.com/prometheus/snmp_exporter) (2 weeks ago)
-- [Feat/Refactor: Server Client architecture and API](https://github.com/charmbracelet/crush/pull/2455) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (2 weeks ago)
-- [feat(bazarr): support yaml config and apikey field](https://github.com/onedr0p/exportarr/pull/427) on [onedr0p/exportarr](https://github.com/onedr0p/exportarr) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
