@@ -4,8 +4,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘 (3 days ago)
-- [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (6 days ago)
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘 (4 days ago)
+- [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (1 week ago)
 - [aymanbagabas/cloudflare-prometheus-exporter](https://github.com/aymanbagabas/cloudflare-prometheus-exporter) - Cloudfront Prometheus exporter (1 week ago)
 - [charmbracelet/log](https://github.com/charmbracelet/log) - A minimal, colorful Go logging library 🪵 (2 weeks ago)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (2 weeks ago)
@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), today) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), today) - Glamourous agentic coding for all 💘
-- [microsoft/terminal](https://github.com/microsoft/terminal) ([v1.25.923.0](https://github.com/microsoft/terminal/releases/tag/v1.25.923.0), 2 days ago) - The new Windows Terminal and the original Windows console host, all in the same place!
-- [opt-nc/geol](https://github.com/opt-nc/geol) ([v2.12.0](https://github.com/opt-nc/geol/releases/tag/v2.12.0), 2 days ago) - Efficiently show and monitor end-of-life dates for a number of products in your terminal and CI using endoflife.date API
-- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.34.3](https://github.com/charmbracelet/catwalk/releases/tag/v0.34.3), 3 days ago) - 🐈 A collection of LLM inference providers and models 
+- [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), 1 day ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), 1 day ago) - Glamourous agentic coding for all 💘
+- [microsoft/terminal](https://github.com/microsoft/terminal) ([v1.25.923.0](https://github.com/microsoft/terminal/releases/tag/v1.25.923.0), 3 days ago) - The new Windows Terminal and the original Windows console host, all in the same place!
+- [opt-nc/geol](https://github.com/opt-nc/geol) ([v2.12.0](https://github.com/opt-nc/geol/releases/tag/v2.12.0), 3 days ago) - Efficiently show and monitor end-of-life dates for a number of products in your terminal and CI using endoflife.date API
+- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.34.3](https://github.com/charmbracelet/catwalk/releases/tag/v0.34.3), 4 days ago) - 🐈 A collection of LLM inference providers and models 
 
 #### 🔨 My recent Pull Requests
 
-- [internal: transport/test, replace test suites with new transport API](https://github.com/go-git/go-git/pull/1963) on [go-git/go-git](https://github.com/go-git/go-git) (today)
-- [plumbing: transport, replace core package with new transport API](https://github.com/go-git/go-git/pull/1962) on [go-git/go-git](https://github.com/go-git/go-git) (today)
-- [fix: bypass GetAccounts API call when CF_ACCOUNTS is set](https://github.com/aymanbagabas/cloudflare-prometheus-exporter/pull/1) on [aymanbagabas/cloudflare-prometheus-exporter](https://github.com/aymanbagabas/cloudflare-prometheus-exporter) (1 week ago)
-- [feat: ci: add GitHub Actions workflow to publish Docker images to GHCR on tag push](https://github.com/cloudflare/cloudflare-prometheus-exporter/pull/21) on [cloudflare/cloudflare-prometheus-exporter](https://github.com/cloudflare/cloudflare-prometheus-exporter) (1 week ago)
-- [Fix sed substitute issues for FServer, Cisco, and Yamaha MIBs](https://github.com/prometheus/snmp_exporter/pull/1595) on [prometheus/snmp_exporter](https://github.com/prometheus/snmp_exporter) (2 weeks ago)
+- [PR 11: build: fix compilation errors from transport migration](https://github.com/aymanbagabas/go-git/pull/15) on [aymanbagabas/go-git](https://github.com/aymanbagabas/go-git) (1 day ago)
+- [PR 10: examples: update for new transport client API](https://github.com/aymanbagabas/go-git/pull/14) on [aymanbagabas/go-git](https://github.com/aymanbagabas/go-git) (1 day ago)
+- [PR 9: internal: server, backend: rewire to new transport API](https://github.com/aymanbagabas/go-git/pull/13) on [aymanbagabas/go-git](https://github.com/aymanbagabas/go-git) (1 day ago)
+- [PR 8: git: rewire callers to new transport API](https://github.com/aymanbagabas/go-git/pull/12) on [aymanbagabas/go-git](https://github.com/aymanbagabas/go-git) (1 day ago)
+- [PR 7: plumbing: client, add new client package](https://github.com/aymanbagabas/go-git/pull/11) on [aymanbagabas/go-git](https://github.com/aymanbagabas/go-git) (1 day ago)
 
 #### 📜 My recent blog posts
 
@@ -44,7 +44,7 @@
 
 #### ⭐ Recent Stars
 
-- [maaslalani/sheets](https://github.com/maaslalani/sheets) - Terminal based spreadsheet tool (1 day ago)
+- [maaslalani/sheets](https://github.com/maaslalani/sheets) - Terminal based spreadsheet tool (2 days ago)
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations. (1 week ago)
 - [gavinmcfall/home-ops](https://github.com/gavinmcfall/home-ops) - HomeOps driven by Kubernetes and GitOps using Flux (2 weeks ago)
 - [jiangcuo/pxvirt](https://github.com/jiangcuo/pxvirt) - A fork of Proxmox VE for ARM and LoongArch architectures (1 month ago)
