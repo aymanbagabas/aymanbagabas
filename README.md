@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [plumbing: transport, replace transport API with new design](https://github.com/go-git/go-git/pull/1972) on [go-git/go-git](https://github.com/go-git/go-git) (today)
 - [PR 12: backend: unify git and http backends into single package](https://github.com/aymanbagabas/go-git/pull/16) on [aymanbagabas/go-git](https://github.com/aymanbagabas/go-git) (2 days ago)
 - [PR 11: build: fix compilation, lint, and test errors from transport migration](https://github.com/aymanbagabas/go-git/pull/15) on [aymanbagabas/go-git](https://github.com/aymanbagabas/go-git) (3 days ago)
 - [PR 10: examples: update for new transport client API](https://github.com/aymanbagabas/go-git/pull/14) on [aymanbagabas/go-git](https://github.com/aymanbagabas/go-git) (3 days ago)
 - [PR 9: internal: server, backend: rewire to new transport API](https://github.com/aymanbagabas/go-git/pull/13) on [aymanbagabas/go-git](https://github.com/aymanbagabas/go-git) (3 days ago)
-- [PR 8: git: rewire callers to new transport API](https://github.com/aymanbagabas/go-git/pull/12) on [aymanbagabas/go-git](https://github.com/aymanbagabas/go-git) (3 days ago)
 
 #### 📜 My recent blog posts
 
