@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Transport migrate/08 callers](https://github.com/aymanbagabas/go-git/pull/21) on [aymanbagabas/go-git](https://github.com/aymanbagabas/go-git) (today)
+- [plumbing: client, add new client package](https://github.com/aymanbagabas/go-git/pull/20) on [aymanbagabas/go-git](https://github.com/aymanbagabas/go-git) (today)
+- [plumbing: transport/http, replace with new HTTP transport](https://github.com/aymanbagabas/go-git/pull/19) on [aymanbagabas/go-git](https://github.com/aymanbagabas/go-git) (today)
 - [Transport migrate/02 internal test](https://github.com/aymanbagabas/go-git/pull/18) on [aymanbagabas/go-git](https://github.com/aymanbagabas/go-git) (today)
 - [PR 13: plumbing: transport, add missing trace logs for ssh auth and known_hosts loading](https://github.com/aymanbagabas/go-git/pull/17) on [aymanbagabas/go-git](https://github.com/aymanbagabas/go-git) (today)
-- [plumbing: transport, replace transport API with new design](https://github.com/go-git/go-git/pull/1972) on [go-git/go-git](https://github.com/go-git/go-git) (2 days ago)
-- [PR 12: backend: unify git and http backends into single package](https://github.com/aymanbagabas/go-git/pull/16) on [aymanbagabas/go-git](https://github.com/aymanbagabas/go-git) (4 days ago)
-- [PR 11: build: fix compilation, lint, and test errors from transport migration](https://github.com/aymanbagabas/go-git/pull/15) on [aymanbagabas/go-git](https://github.com/aymanbagabas/go-git) (5 days ago)
 
 #### 📜 My recent blog posts
 
