@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), today) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), today) - Glamourous agentic coding for all 💘
 - [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.35.1](https://github.com/charmbracelet/catwalk/releases/tag/v0.35.1), 1 day ago) - 🐈 A collection of LLM inference providers and models 
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), 1 day ago) - Glamourous agentic coding for all 💘
-- [raphamorim/rio](https://github.com/raphamorim/rio) ([v0.3.2](https://github.com/raphamorim/rio/releases/tag/v0.3.2), 2 days ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 - [microsoft/terminal](https://github.com/microsoft/terminal) ([v1.25.923.0](https://github.com/microsoft/terminal/releases/tag/v1.25.923.0), 1 week ago) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [opt-nc/geol](https://github.com/opt-nc/geol) ([v2.12.0](https://github.com/opt-nc/geol/releases/tag/v2.12.0), 1 week ago) - Efficiently show and monitor end-of-life dates for a number of products in your terminal and CI using endoflife.date API
 
 #### 🔨 My recent Pull Requests
 
+- [PR 13: plumbing: transport, add missing trace logs for ssh auth and known_hosts loading](https://github.com/aymanbagabas/go-git/pull/17) on [aymanbagabas/go-git](https://github.com/aymanbagabas/go-git) (today)
 - [plumbing: transport, replace transport API with new design](https://github.com/go-git/go-git/pull/1972) on [go-git/go-git](https://github.com/go-git/go-git) (2 days ago)
 - [PR 12: backend: unify git and http backends into single package](https://github.com/aymanbagabas/go-git/pull/16) on [aymanbagabas/go-git](https://github.com/aymanbagabas/go-git) (4 days ago)
 - [PR 11: build: fix compilation, lint, and test errors from transport migration](https://github.com/aymanbagabas/go-git/pull/15) on [aymanbagabas/go-git](https://github.com/aymanbagabas/go-git) (5 days ago)
 - [PR 10: examples: update for new transport client API](https://github.com/aymanbagabas/go-git/pull/14) on [aymanbagabas/go-git](https://github.com/aymanbagabas/go-git) (5 days ago)
-- [PR 9: internal: server, backend: rewire to new transport API](https://github.com/aymanbagabas/go-git/pull/13) on [aymanbagabas/go-git](https://github.com/aymanbagabas/go-git) (5 days ago)
 
 #### 📜 My recent blog posts
 
