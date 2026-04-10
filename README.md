@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), today) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
+- [raphamorim/rio](https://github.com/raphamorim/rio) ([v0.3.3](https://github.com/raphamorim/rio/releases/tag/v0.3.3), today) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), today) - Glamourous agentic coding for all 💘
 - [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.35.1](https://github.com/charmbracelet/catwalk/releases/tag/v0.35.1), 1 day ago) - 🐈 A collection of LLM inference providers and models 
 - [microsoft/terminal](https://github.com/microsoft/terminal) ([v1.25.923.0](https://github.com/microsoft/terminal/releases/tag/v1.25.923.0), 1 week ago) - The new Windows Terminal and the original Windows console host, all in the same place!
