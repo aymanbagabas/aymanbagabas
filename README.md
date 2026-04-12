@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [plumbing: transport, add git-upload-archive support](https://github.com/go-git/go-git/pull/1985) on [go-git/go-git](https://github.com/go-git/go-git) (today)
 - [plumbing: packp, refactor AdvRefs and capability packages](https://github.com/go-git/go-git/pull/1984) on [go-git/go-git](https://github.com/go-git/go-git) (today)
 - [docs: add transport API redesign section to v5-to-v6 migration guide](https://github.com/aymanbagabas/go-git-docs/pull/1) on [aymanbagabas/go-git-docs](https://github.com/aymanbagabas/go-git-docs) (today)
 - [Transport migrate/08 callers](https://github.com/aymanbagabas/go-git/pull/21) on [aymanbagabas/go-git](https://github.com/aymanbagabas/go-git) (2 days ago)
 - [plumbing: client, add new client package](https://github.com/aymanbagabas/go-git/pull/20) on [aymanbagabas/go-git](https://github.com/aymanbagabas/go-git) (2 days ago)
-- [plumbing: transport/http, replace with new HTTP transport](https://github.com/aymanbagabas/go-git/pull/19) on [aymanbagabas/go-git](https://github.com/aymanbagabas/go-git) (2 days ago)
 
 #### 📜 My recent blog posts
 
