@@ -4,19 +4,19 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [aymanbagabas/go-git-docs](https://github.com/aymanbagabas/go-git-docs) - go-git documentation fork (today)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (5 days ago)
 - [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (6 days ago)
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘 (1 week ago)
 - [aymanbagabas/cloudflare-prometheus-exporter](https://github.com/aymanbagabas/cloudflare-prometheus-exporter) - Cloudfront Prometheus exporter (2 weeks ago)
-- [charmbracelet/log](https://github.com/charmbracelet/log) - A minimal, colorful Go logging library 🪵 (3 weeks ago)
 
 #### 🌱 My latest projects
 
+- [aymanbagabas/go-git-docs](https://github.com/aymanbagabas/go-git-docs) - go-git documentation fork
 - [aymanbagabas/cloudflare-prometheus-exporter](https://github.com/aymanbagabas/cloudflare-prometheus-exporter) - Cloudfront Prometheus exporter
 - [aymanbagabas/go-nativeclipboard](https://github.com/aymanbagabas/go-nativeclipboard) - A cross-platform clipboard library for Go that works without cgo
 - [aymanbagabas/st](https://github.com/aymanbagabas/st) - 
 - [aymanbagabas/wstty](https://github.com/aymanbagabas/wstty) - Windows stty replacement
-- [aymanbagabas/ca66r3](https://github.com/aymanbagabas/ca66r3) - CA66 R3 keyboard firmware
 
 #### 🔭 Latest releases I've contributed to
 
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [docs: add transport API redesign section to v5-to-v6 migration guide](https://github.com/aymanbagabas/go-git-docs/pull/1) on [aymanbagabas/go-git-docs](https://github.com/aymanbagabas/go-git-docs) (today)
 - [Transport migrate/08 callers](https://github.com/aymanbagabas/go-git/pull/21) on [aymanbagabas/go-git](https://github.com/aymanbagabas/go-git) (2 days ago)
 - [plumbing: client, add new client package](https://github.com/aymanbagabas/go-git/pull/20) on [aymanbagabas/go-git](https://github.com/aymanbagabas/go-git) (2 days ago)
 - [plumbing: transport/http, replace with new HTTP transport](https://github.com/aymanbagabas/go-git/pull/19) on [aymanbagabas/go-git](https://github.com/aymanbagabas/go-git) (2 days ago)
 - [Transport migrate/02 internal test](https://github.com/aymanbagabas/go-git/pull/18) on [aymanbagabas/go-git](https://github.com/aymanbagabas/go-git) (2 days ago)
-- [PR 13: plumbing: transport, add missing trace logs for ssh auth and known_hosts loading](https://github.com/aymanbagabas/go-git/pull/17) on [aymanbagabas/go-git](https://github.com/aymanbagabas/go-git) (2 days ago)
 
 #### 📜 My recent blog posts
 
