@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (today)
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘 (today)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (today)
-- [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go. (today)
+- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (today)
 - [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (today)
-- [aymanbagabas/go-git-docs](https://github.com/aymanbagabas/go-git-docs) - go-git documentation fork (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -20,11 +20,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v2.0.3](https://github.com/charmbracelet/bubbletea/releases/tag/v2.0.3), today) - A powerful little TUI framework 🏗
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v2.0.3](https://github.com/charmbracelet/lipgloss/releases/tag/v2.0.3), today) - Style definitions for nice terminal layouts 👄
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v2.0.4](https://github.com/charmbracelet/bubbletea/releases/tag/v2.0.4), today) - A powerful little TUI framework 🏗
 - [raphamorim/rio](https://github.com/raphamorim/rio) ([v0.3.8](https://github.com/raphamorim/rio/releases/tag/v0.3.8), today) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 - [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.35.4](https://github.com/charmbracelet/catwalk/releases/tag/v0.35.4), today) - 🐈 A collection of LLM inference providers and models 
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), today) - Glamourous agentic coding for all 💘
-- [microsoft/terminal](https://github.com/microsoft/terminal) ([v1.25.923.0](https://github.com/microsoft/terminal/releases/tag/v1.25.923.0), 1 week ago) - The new Windows Terminal and the original Windows console host, all in the same place!
 
 #### 🔨 My recent Pull Requests
 
