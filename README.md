@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [raphamorim/rio](https://github.com/raphamorim/rio) ([v0.3.6](https://github.com/raphamorim/rio/releases/tag/v0.3.6), today) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
+- [raphamorim/rio](https://github.com/raphamorim/rio) ([v0.3.7](https://github.com/raphamorim/rio/releases/tag/v0.3.7), today) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
+- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.35.4](https://github.com/charmbracelet/catwalk/releases/tag/v0.35.4), today) - 🐈 A collection of LLM inference providers and models 
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), today) - Glamourous agentic coding for all 💘
-- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.35.3](https://github.com/charmbracelet/catwalk/releases/tag/v0.35.3), 3 days ago) - 🐈 A collection of LLM inference providers and models 
 - [microsoft/terminal](https://github.com/microsoft/terminal) ([v1.25.923.0](https://github.com/microsoft/terminal/releases/tag/v1.25.923.0), 1 week ago) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [opt-nc/geol](https://github.com/opt-nc/geol) ([v2.12.0](https://github.com/opt-nc/geol/releases/tag/v2.12.0), 1 week ago) - Efficiently show and monitor end-of-life dates for a number of products in your terminal and CI using endoflife.date API
 
 #### 🔨 My recent Pull Requests
 
+- [fix(renderer): restore tab stops if hard tabs are enabled](https://github.com/charmbracelet/bubbletea/pull/1677) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [plumbing: transport, add git-upload-archive support](https://github.com/go-git/go-git/pull/1985) on [go-git/go-git](https://github.com/go-git/go-git) (1 day ago)
 - [plumbing: packp, refactor AdvRefs and capability packages](https://github.com/go-git/go-git/pull/1984) on [go-git/go-git](https://github.com/go-git/go-git) (1 day ago)
 - [docs: add transport API redesign section to v5-to-v6 migration guide](https://github.com/aymanbagabas/go-git-docs/pull/1) on [aymanbagabas/go-git-docs](https://github.com/aymanbagabas/go-git-docs) (1 day ago)
 - [Transport migrate/08 callers](https://github.com/aymanbagabas/go-git/pull/21) on [aymanbagabas/go-git](https://github.com/aymanbagabas/go-git) (3 days ago)
-- [plumbing: client, add new client package](https://github.com/aymanbagabas/go-git/pull/20) on [aymanbagabas/go-git](https://github.com/aymanbagabas/go-git) (3 days ago)
 
 #### 📜 My recent blog posts
 
