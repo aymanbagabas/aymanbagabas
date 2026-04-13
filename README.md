@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (today)
+- [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (today)
+- [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go. (1 day ago)
 - [aymanbagabas/go-git-docs](https://github.com/aymanbagabas/go-git-docs) - go-git documentation fork (1 day ago)
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (6 days ago)
 - [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (1 week ago)
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘 (1 week ago)
-- [aymanbagabas/cloudflare-prometheus-exporter](https://github.com/aymanbagabas/cloudflare-prometheus-exporter) - Cloudfront Prometheus exporter (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [raphamorim/rio](https://github.com/raphamorim/rio) ([v0.3.7](https://github.com/raphamorim/rio/releases/tag/v0.3.7), today) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
+- [raphamorim/rio](https://github.com/raphamorim/rio) ([v0.3.8](https://github.com/raphamorim/rio/releases/tag/v0.3.8), today) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 - [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.35.4](https://github.com/charmbracelet/catwalk/releases/tag/v0.35.4), today) - 🐈 A collection of LLM inference providers and models 
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), today) - Glamourous agentic coding for all 💘
 - [microsoft/terminal](https://github.com/microsoft/terminal) ([v1.25.923.0](https://github.com/microsoft/terminal/releases/tag/v1.25.923.0), 1 week ago) - The new Windows Terminal and the original Windows console host, all in the same place!
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [chore: bump ultraviolet to v0.0.0-20260413133134-73592393e1ad](https://github.com/charmbracelet/bubbletea/pull/1678) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [fix(renderer): restore tab stops if hard tabs are enabled](https://github.com/charmbracelet/bubbletea/pull/1677) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [plumbing: transport, add git-upload-archive support](https://github.com/go-git/go-git/pull/1985) on [go-git/go-git](https://github.com/go-git/go-git) (1 day ago)
 - [plumbing: packp, refactor AdvRefs and capability packages](https://github.com/go-git/go-git/pull/1984) on [go-git/go-git](https://github.com/go-git/go-git) (1 day ago)
 - [docs: add transport API redesign section to v5-to-v6 migration guide](https://github.com/aymanbagabas/go-git-docs/pull/1) on [aymanbagabas/go-git-docs](https://github.com/aymanbagabas/go-git-docs) (1 day ago)
-- [Transport migrate/08 callers](https://github.com/aymanbagabas/go-git/pull/21) on [aymanbagabas/go-git](https://github.com/aymanbagabas/go-git) (3 days ago)
 
 #### 📜 My recent blog posts
 
