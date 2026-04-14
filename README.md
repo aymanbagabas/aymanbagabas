@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (today)
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘 (today)
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (today)
-- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (today)
-- [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (today)
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (1 day ago)
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘 (1 day ago)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 day ago)
+- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (1 day ago)
+- [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v2.0.5](https://github.com/charmbracelet/bubbletea/releases/tag/v2.0.5), today) - A powerful little TUI framework 🏗
-- [opt-nc/geol](https://github.com/opt-nc/geol) ([v2.12.1-develop.1](https://github.com/opt-nc/geol/releases/tag/v2.12.1-develop.1), today) - Efficiently show and monitor end-of-life dates for a number of products in your terminal and CI using endoflife.date API
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.57.0](https://github.com/charmbracelet/crush/releases/tag/v0.57.0), today) - Glamourous agentic coding for all 💘
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v2.0.3](https://github.com/charmbracelet/lipgloss/releases/tag/v2.0.3), today) - Style definitions for nice terminal layouts 👄
-- [raphamorim/rio](https://github.com/raphamorim/rio) ([v0.3.8](https://github.com/raphamorim/rio/releases/tag/v0.3.8), today) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v2.0.5](https://github.com/charmbracelet/bubbletea/releases/tag/v2.0.5), 1 day ago) - A powerful little TUI framework 🏗
+- [opt-nc/geol](https://github.com/opt-nc/geol) ([v2.12.1-develop.1](https://github.com/opt-nc/geol/releases/tag/v2.12.1-develop.1), 1 day ago) - Efficiently show and monitor end-of-life dates for a number of products in your terminal and CI using endoflife.date API
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.57.0](https://github.com/charmbracelet/crush/releases/tag/v0.57.0), 1 day ago) - Glamourous agentic coding for all 💘
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v2.0.3](https://github.com/charmbracelet/lipgloss/releases/tag/v2.0.3), 1 day ago) - Style definitions for nice terminal layouts 👄
+- [raphamorim/rio](https://github.com/raphamorim/rio) ([v0.3.8](https://github.com/raphamorim/rio/releases/tag/v0.3.8), 1 day ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 
 #### 🔨 My recent Pull Requests
 
-- [plumbing: transport, correct the test to use the correct receive-pack…](https://github.com/go-git/go-git/pull/1988) on [go-git/go-git](https://github.com/go-git/go-git) (today)
-- [plumbing: packp, refactor AdvRefs and capability packages](https://github.com/go-git/go-git/pull/1987) on [go-git/go-git](https://github.com/go-git/go-git) (today)
-- [plumbing: transport, add git-upload-archive support](https://github.com/go-git/go-git/pull/1986) on [go-git/go-git](https://github.com/go-git/go-git) (today)
-- [chore: bump ultraviolet to v0.0.0-20260413133134-73592393e1ad](https://github.com/charmbracelet/bubbletea/pull/1678) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
-- [fix(renderer): restore tab stops if hard tabs are enabled](https://github.com/charmbracelet/bubbletea/pull/1677) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
+- [plumbing: transport, correct the test to use the correct receive-pack…](https://github.com/go-git/go-git/pull/1988) on [go-git/go-git](https://github.com/go-git/go-git) (1 day ago)
+- [plumbing: packp, refactor AdvRefs and capability packages](https://github.com/go-git/go-git/pull/1987) on [go-git/go-git](https://github.com/go-git/go-git) (1 day ago)
+- [plumbing: transport, add git-upload-archive support](https://github.com/go-git/go-git/pull/1986) on [go-git/go-git](https://github.com/go-git/go-git) (1 day ago)
+- [chore: bump ultraviolet to v0.0.0-20260413133134-73592393e1ad](https://github.com/charmbracelet/bubbletea/pull/1678) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
+- [fix(renderer): restore tab stops if hard tabs are enabled](https://github.com/charmbracelet/bubbletea/pull/1677) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
 
 #### 📜 My recent blog posts
 
