@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [plumbing: transport/http, harden redirect handling to match canonical git](https://github.com/go-git/go-git/pull/1997) on [go-git/go-git](https://github.com/go-git/go-git) (today)
+- [RFC: x/config — struct-tag-based Git config marshaling](https://github.com/go-git/go-git/pull/1995) on [go-git/go-git](https://github.com/go-git/go-git) (today)
+- [Support CBT and CHT control sequences in the emulator and terminal model](https://github.com/JetBrains/jediterm/pull/331) on [JetBrains/jediterm](https://github.com/JetBrains/jediterm) (today)
 - [plumbing: transport, correct the test to use the correct receive-pack…](https://github.com/go-git/go-git/pull/1988) on [go-git/go-git](https://github.com/go-git/go-git) (1 day ago)
 - [plumbing: packp, refactor AdvRefs and capability packages](https://github.com/go-git/go-git/pull/1987) on [go-git/go-git](https://github.com/go-git/go-git) (1 day ago)
-- [plumbing: transport, add git-upload-archive support](https://github.com/go-git/go-git/pull/1986) on [go-git/go-git](https://github.com/go-git/go-git) (1 day ago)
-- [chore: bump ultraviolet to v0.0.0-20260413133134-73592393e1ad](https://github.com/charmbracelet/bubbletea/pull/1678) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
-- [fix(renderer): restore tab stops if hard tabs are enabled](https://github.com/charmbracelet/bubbletea/pull/1677) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
 
 #### 📜 My recent blog posts
 
