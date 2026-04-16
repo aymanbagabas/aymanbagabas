@@ -20,11 +20,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [opt-nc/geol](https://github.com/opt-nc/geol) ([v2.12.1-develop.2](https://github.com/opt-nc/geol/releases/tag/v2.12.1-develop.2), today) - Efficiently show and monitor end-of-life dates for a number of products in your terminal and CI using endoflife.date API
+- [go-git/go-git](https://github.com/go-git/go-git) ([v5.18.0](https://github.com/go-git/go-git/releases/tag/v5.18.0), today) - A highly extensible Git implementation in pure Go.
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.59.0](https://github.com/charmbracelet/crush/releases/tag/v0.59.0), today) - Glamourous agentic coding for all 💘
 - [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.37.1](https://github.com/charmbracelet/catwalk/releases/tag/v0.37.1), today) - 🐈 A collection of LLM inference providers and models 
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v2.0.6](https://github.com/charmbracelet/bubbletea/releases/tag/v2.0.6), today) - A powerful little TUI framework 🏗
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), today) - Glamourous agentic coding for all 💘
-- [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), 1 day ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
-- [opt-nc/geol](https://github.com/opt-nc/geol) ([v2.12.1-develop.1](https://github.com/opt-nc/geol/releases/tag/v2.12.1-develop.1), 3 days ago) - Efficiently show and monitor end-of-life dates for a number of products in your terminal and CI using endoflife.date API
 
 #### 🔨 My recent Pull Requests
 
