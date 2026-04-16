@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘 (today)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (today)
+- [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (today)
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (3 days ago)
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘 (3 days ago)
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (3 days ago)
 - [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages (3 days ago)
-- [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -20,10 +20,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v2.0.6](https://github.com/charmbracelet/bubbletea/releases/tag/v2.0.6), today) - A powerful little TUI framework 🏗
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), today) - Glamourous agentic coding for all 💘
 - [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), 1 day ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 - [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.37.0](https://github.com/charmbracelet/catwalk/releases/tag/v0.37.0), 1 day ago) - 🐈 A collection of LLM inference providers and models 
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v2.0.5](https://github.com/charmbracelet/bubbletea/releases/tag/v2.0.5), 3 days ago) - A powerful little TUI framework 🏗
 - [opt-nc/geol](https://github.com/opt-nc/geol) ([v2.12.1-develop.1](https://github.com/opt-nc/geol/releases/tag/v2.12.1-develop.1), 3 days ago) - Efficiently show and monitor end-of-life dates for a number of products in your terminal and CI using endoflife.date API
 
 #### 🔨 My recent Pull Requests
