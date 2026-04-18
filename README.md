@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (today)
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘 (1 day ago)
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 day ago)
-- [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (1 day ago)
-- [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go. (3 days ago)
+- [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (1 day ago)
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘 (2 days ago)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (2 days ago)
+- [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (2 days ago)
+- [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go. (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v2.0.1](https://github.com/charmbracelet/wish/releases/tag/v2.0.1), today) - Make SSH apps, just like that! 💫
-- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.37.3](https://github.com/charmbracelet/catwalk/releases/tag/v0.37.3), today) - 🐈 A collection of LLM inference providers and models 
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.60.0](https://github.com/charmbracelet/crush/releases/tag/v0.60.0), today) - Glamourous agentic coding for all 💘
-- [opt-nc/geol](https://github.com/opt-nc/geol) ([v2.12.3](https://github.com/opt-nc/geol/releases/tag/v2.12.3), today) - Efficiently show and monitor end-of-life dates for a number of products in your terminal and CI using endoflife.date API
-- [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), today) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
+- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v2.0.1](https://github.com/charmbracelet/wish/releases/tag/v2.0.1), 1 day ago) - Make SSH apps, just like that! 💫
+- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.37.3](https://github.com/charmbracelet/catwalk/releases/tag/v0.37.3), 1 day ago) - 🐈 A collection of LLM inference providers and models 
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.60.0](https://github.com/charmbracelet/crush/releases/tag/v0.60.0), 1 day ago) - Glamourous agentic coding for all 💘
+- [opt-nc/geol](https://github.com/opt-nc/geol) ([v2.12.3](https://github.com/opt-nc/geol/releases/tag/v2.12.3), 1 day ago) - Efficiently show and monitor end-of-life dates for a number of products in your terminal and CI using endoflife.date API
+- [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), 1 day ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 
 #### 🔨 My recent Pull Requests
 
-- [plumbing: transport/http, harden redirect handling to match canonical git](https://github.com/go-git/go-git/pull/1997) on [go-git/go-git](https://github.com/go-git/go-git) (3 days ago)
-- [RFC: x/config — struct-tag-based Git config marshaling](https://github.com/go-git/go-git/pull/1995) on [go-git/go-git](https://github.com/go-git/go-git) (3 days ago)
-- [Support CBT and CHT control sequences in the emulator and terminal model](https://github.com/JetBrains/jediterm/pull/331) on [JetBrains/jediterm](https://github.com/JetBrains/jediterm) (3 days ago)
-- [plumbing: transport, correct the test to use the correct receive-pack…](https://github.com/go-git/go-git/pull/1988) on [go-git/go-git](https://github.com/go-git/go-git) (4 days ago)
-- [plumbing: packp, refactor AdvRefs and capability packages](https://github.com/go-git/go-git/pull/1987) on [go-git/go-git](https://github.com/go-git/go-git) (4 days ago)
+- [plumbing: transport/http, harden redirect handling to match canonical git](https://github.com/go-git/go-git/pull/1997) on [go-git/go-git](https://github.com/go-git/go-git) (4 days ago)
+- [RFC: x/config — struct-tag-based Git config marshaling](https://github.com/go-git/go-git/pull/1995) on [go-git/go-git](https://github.com/go-git/go-git) (4 days ago)
+- [Support CBT and CHT control sequences in the emulator and terminal model](https://github.com/JetBrains/jediterm/pull/331) on [JetBrains/jediterm](https://github.com/JetBrains/jediterm) (4 days ago)
+- [plumbing: transport, correct the test to use the correct receive-pack…](https://github.com/go-git/go-git/pull/1988) on [go-git/go-git](https://github.com/go-git/go-git) (5 days ago)
+- [plumbing: packp, refactor AdvRefs and capability packages](https://github.com/go-git/go-git/pull/1987) on [go-git/go-git](https://github.com/go-git/go-git) (5 days ago)
 
 #### 📜 My recent blog posts
 
@@ -44,7 +44,7 @@
 
 #### ⭐ Recent Stars
 
-- [maaslalani/sheets](https://github.com/maaslalani/sheets) - Terminal based spreadsheet tool (1 week ago)
+- [maaslalani/sheets](https://github.com/maaslalani/sheets) - Terminal based spreadsheet tool (2 weeks ago)
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations. (2 weeks ago)
 - [gavinmcfall/home-ops](https://github.com/gavinmcfall/home-ops) - HomeOps driven by Kubernetes and GitOps using Flux (3 weeks ago)
 - [jiangcuo/pxvirt](https://github.com/jiangcuo/pxvirt) - A fork of Proxmox VE for ARM and LoongArch architectures (1 month ago)
