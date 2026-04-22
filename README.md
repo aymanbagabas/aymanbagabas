@@ -20,9 +20,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.37.9](https://github.com/charmbracelet/catwalk/releases/tag/v0.37.9), today) - 🐈 A collection of LLM inference providers and models 
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.62.0](https://github.com/charmbracelet/crush/releases/tag/v0.62.0), today) - Glamourous agentic coding for all 💘
+- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.37.10](https://github.com/charmbracelet/catwalk/releases/tag/v0.37.10), today) - 🐈 A collection of LLM inference providers and models 
 - [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), today) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), today) - Glamourous agentic coding for all 💘
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v2.0.1](https://github.com/charmbracelet/wish/releases/tag/v2.0.1), 5 days ago) - Make SSH apps, just like that! 💫
 - [opt-nc/geol](https://github.com/opt-nc/geol) ([v2.12.3](https://github.com/opt-nc/geol/releases/tag/v2.12.3), 5 days ago) - Efficiently show and monitor end-of-life dates for a number of products in your terminal and CI using endoflife.date API
 
