@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) - 🐈 A collection of LLM inference providers and models  (today)
-- [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (4 days ago)
-- [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (5 days ago)
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘 (5 days ago)
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (5 days ago)
+- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) - 🐈 A collection of LLM inference providers and models  (1 day ago)
+- [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (5 days ago)
+- [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (6 days ago)
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘 (6 days ago)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -20,15 +20,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.37.8](https://github.com/charmbracelet/catwalk/releases/tag/v0.37.8), today) - 🐈 A collection of LLM inference providers and models 
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.61.1](https://github.com/charmbracelet/crush/releases/tag/v0.61.1), today) - Glamourous agentic coding for all 💘
-- [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), 1 day ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
-- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v2.0.1](https://github.com/charmbracelet/wish/releases/tag/v2.0.1), 4 days ago) - Make SSH apps, just like that! 💫
-- [opt-nc/geol](https://github.com/opt-nc/geol) ([v2.12.3](https://github.com/opt-nc/geol/releases/tag/v2.12.3), 4 days ago) - Efficiently show and monitor end-of-life dates for a number of products in your terminal and CI using endoflife.date API
+- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.37.8](https://github.com/charmbracelet/catwalk/releases/tag/v0.37.8), 1 day ago) - 🐈 A collection of LLM inference providers and models 
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.61.1](https://github.com/charmbracelet/crush/releases/tag/v0.61.1), 1 day ago) - Glamourous agentic coding for all 💘
+- [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), 2 days ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
+- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v2.0.1](https://github.com/charmbracelet/wish/releases/tag/v2.0.1), 5 days ago) - Make SSH apps, just like that! 💫
+- [opt-nc/geol](https://github.com/opt-nc/geol) ([v2.12.3](https://github.com/opt-nc/geol/releases/tag/v2.12.3), 5 days ago) - Efficiently show and monitor end-of-life dates for a number of products in your terminal and CI using endoflife.date API
 
 #### 🔨 My recent Pull Requests
 
-- [fix(ionet): add kimi-k2.6 to reasoning models](https://github.com/charmbracelet/catwalk/pull/254) on [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) (today)
+- [fix(ionet): add kimi-k2.6 to reasoning models](https://github.com/charmbracelet/catwalk/pull/254) on [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) (1 day ago)
 - [plumbing: transport/http, harden redirect handling to match canonical git](https://github.com/go-git/go-git/pull/1997) on [go-git/go-git](https://github.com/go-git/go-git) (1 week ago)
 - [RFC: x/config — struct-tag-based Git config marshaling](https://github.com/go-git/go-git/pull/1995) on [go-git/go-git](https://github.com/go-git/go-git) (1 week ago)
 - [Support CBT and CHT control sequences in the emulator and terminal model](https://github.com/JetBrains/jediterm/pull/331) on [JetBrains/jediterm](https://github.com/JetBrains/jediterm) (1 week ago)
