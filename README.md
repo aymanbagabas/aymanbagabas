@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go. (today)
 - [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) - 🐈 A collection of LLM inference providers and models  (3 days ago)
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (1 week ago)
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘 (1 week ago)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 week ago)
-- [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -20,8 +20,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.37.13](https://github.com/charmbracelet/catwalk/releases/tag/v0.37.13), today) - 🐈 A collection of LLM inference providers and models 
 - [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), today) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
+- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.37.13](https://github.com/charmbracelet/catwalk/releases/tag/v0.37.13), today) - 🐈 A collection of LLM inference providers and models 
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), today) - Glamourous agentic coding for all 💘
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v2.0.1](https://github.com/charmbracelet/wish/releases/tag/v2.0.1), 1 week ago) - Make SSH apps, just like that! 💫
 - [opt-nc/geol](https://github.com/opt-nc/geol) ([v2.12.3](https://github.com/opt-nc/geol/releases/tag/v2.12.3), 1 week ago) - Efficiently show and monitor end-of-life dates for a number of products in your terminal and CI using endoflife.date API
