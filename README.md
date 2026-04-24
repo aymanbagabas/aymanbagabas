@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [git: add repository and remote archive support](https://github.com/go-git/go-git/pull/2013) on [go-git/go-git](https://github.com/go-git/go-git) (today)
 - [fix(ionet): add kimi-k2.6 to reasoning models](https://github.com/charmbracelet/catwalk/pull/254) on [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) (3 days ago)
 - [plumbing: transport/http, harden redirect handling to match canonical git](https://github.com/go-git/go-git/pull/1997) on [go-git/go-git](https://github.com/go-git/go-git) (1 week ago)
 - [RFC: x/config — struct-tag-based Git config marshaling](https://github.com/go-git/go-git/pull/1995) on [go-git/go-git](https://github.com/go-git/go-git) (1 week ago)
 - [Support CBT and CHT control sequences in the emulator and terminal model](https://github.com/JetBrains/jediterm/pull/331) on [JetBrains/jediterm](https://github.com/JetBrains/jediterm) (1 week ago)
-- [plumbing: transport, correct the test to use the correct receive-pack…](https://github.com/go-git/go-git/pull/1988) on [go-git/go-git](https://github.com/go-git/go-git) (1 week ago)
 
 #### 📜 My recent blog posts
 
