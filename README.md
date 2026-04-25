@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [storage: filesystem, close packfile iterators after use](https://github.com/go-git/go-git/pull/2027) on [go-git/go-git](https://github.com/go-git/go-git) (today)
 - [internal: servers, add git server implementation](https://github.com/go-git/go-git/pull/2014) on [go-git/go-git](https://github.com/go-git/go-git) (1 day ago)
 - [git: add repository and remote archive support](https://github.com/go-git/go-git/pull/2013) on [go-git/go-git](https://github.com/go-git/go-git) (1 day ago)
 - [fix(ionet): add kimi-k2.6 to reasoning models](https://github.com/charmbracelet/catwalk/pull/254) on [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) (4 days ago)
 - [plumbing: transport/http, harden redirect handling to match canonical git](https://github.com/go-git/go-git/pull/1997) on [go-git/go-git](https://github.com/go-git/go-git) (1 week ago)
-- [RFC: x/config — struct-tag-based Git config marshaling](https://github.com/go-git/go-git/pull/1995) on [go-git/go-git](https://github.com/go-git/go-git) (1 week ago)
 
 #### 📜 My recent blog posts
 
