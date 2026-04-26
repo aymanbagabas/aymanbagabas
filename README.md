@@ -4,8 +4,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go. (1 day ago)
-- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) - 🐈 A collection of LLM inference providers and models  (4 days ago)
+- [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go. (2 days ago)
+- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) - 🐈 A collection of LLM inference providers and models  (5 days ago)
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (1 week ago)
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘 (1 week ago)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 week ago)
@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), today) - Glamourous agentic coding for all 💘
-- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.37.15](https://github.com/charmbracelet/catwalk/releases/tag/v0.37.15), 1 day ago) - 🐈 A collection of LLM inference providers and models 
-- [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), 1 day ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), 1 day ago) - Glamourous agentic coding for all 💘
+- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.37.15](https://github.com/charmbracelet/catwalk/releases/tag/v0.37.15), 2 days ago) - 🐈 A collection of LLM inference providers and models 
+- [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), 2 days ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v2.0.1](https://github.com/charmbracelet/wish/releases/tag/v2.0.1), 1 week ago) - Make SSH apps, just like that! 💫
 - [opt-nc/geol](https://github.com/opt-nc/geol) ([v2.12.3](https://github.com/opt-nc/geol/releases/tag/v2.12.3), 1 week ago) - Efficiently show and monitor end-of-life dates for a number of products in your terminal and CI using endoflife.date API
 
 #### 🔨 My recent Pull Requests
 
-- [plumbing: pktline, use Scanner for decoding](https://github.com/go-git/go-git/pull/2038) on [go-git/go-git](https://github.com/go-git/go-git) (today)
-- [storage: filesystem, close packfile iterators after use](https://github.com/aymanbagabas/go-git/pull/22) on [aymanbagabas/go-git](https://github.com/aymanbagabas/go-git) (today)
-- [storage: filesystem, close packfile iterators after use](https://github.com/go-git/go-git/pull/2027) on [go-git/go-git](https://github.com/go-git/go-git) (today)
-- [internal: servers, add git server implementation](https://github.com/go-git/go-git/pull/2014) on [go-git/go-git](https://github.com/go-git/go-git) (1 day ago)
-- [git: add repository and remote archive support](https://github.com/go-git/go-git/pull/2013) on [go-git/go-git](https://github.com/go-git/go-git) (1 day ago)
+- [plumbing: pktline, use Scanner for decoding](https://github.com/go-git/go-git/pull/2038) on [go-git/go-git](https://github.com/go-git/go-git) (1 day ago)
+- [storage: filesystem, close packfile iterators after use](https://github.com/aymanbagabas/go-git/pull/22) on [aymanbagabas/go-git](https://github.com/aymanbagabas/go-git) (1 day ago)
+- [storage: filesystem, close packfile iterators after use](https://github.com/go-git/go-git/pull/2027) on [go-git/go-git](https://github.com/go-git/go-git) (1 day ago)
+- [internal: servers, add git server implementation](https://github.com/go-git/go-git/pull/2014) on [go-git/go-git](https://github.com/go-git/go-git) (2 days ago)
+- [git: add repository and remote archive support](https://github.com/go-git/go-git/pull/2013) on [go-git/go-git](https://github.com/go-git/go-git) (2 days ago)
 
 #### 📜 My recent blog posts
 
@@ -45,7 +45,7 @@
 #### ⭐ Recent Stars
 
 - [maaslalani/sheets](https://github.com/maaslalani/sheets) - Terminal based spreadsheet tool (3 weeks ago)
-- [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations. (3 weeks ago)
+- [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations. (4 weeks ago)
 - [gavinmcfall/home-ops](https://github.com/gavinmcfall/home-ops) - HomeOps driven by Kubernetes and GitOps using Flux (1 month ago)
 - [jiangcuo/pxvirt](https://github.com/jiangcuo/pxvirt) - A fork of Proxmox VE for ARM and LoongArch architectures (2 months ago)
 - [taigrr/trophy](https://github.com/taigrr/trophy) - Terminal 3D Model Viewer - View 3D model files in your terminal (2 months ago)
