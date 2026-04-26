@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [aymanbagabas/mopidy-mp3quran](https://github.com/aymanbagabas/mopidy-mp3quran) - A Mopidy extension for Mp3Quran (http://www.mp3quran.net/). (today)
 - [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go. (2 days ago)
 - [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) - 🐈 A collection of LLM inference providers and models  (5 days ago)
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (1 week ago)
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘 (1 week ago)
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 week ago)
 
 #### 🌱 My latest projects
 
