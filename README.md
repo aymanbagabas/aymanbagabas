@@ -5,7 +5,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [aymanbagabas/mopidy-mp3quran](https://github.com/aymanbagabas/mopidy-mp3quran) - A Mopidy extension for Mp3Quran (http://www.mp3quran.net/). (1 day ago)
-- [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go. (3 days ago)
+- [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go. (2 days ago)
 - [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) - 🐈 A collection of LLM inference providers and models  (6 days ago)
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (1 week ago)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 week ago)
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Search and lookup enhancements and Moshaf support](https://github.com/aymanbagabas/mopidy-mp3quran/pull/3) on [aymanbagabas/mopidy-mp3quran](https://github.com/aymanbagabas/mopidy-mp3quran) (today)
 - [plumbing: pktline, use Scanner for decoding](https://github.com/go-git/go-git/pull/2038) on [go-git/go-git](https://github.com/go-git/go-git) (2 days ago)
 - [storage: filesystem, close packfile iterators after use](https://github.com/aymanbagabas/go-git/pull/22) on [aymanbagabas/go-git](https://github.com/aymanbagabas/go-git) (2 days ago)
 - [storage: filesystem, close packfile iterators after use](https://github.com/go-git/go-git/pull/2027) on [go-git/go-git](https://github.com/go-git/go-git) (2 days ago)
 - [internal: servers, add git server implementation](https://github.com/go-git/go-git/pull/2014) on [go-git/go-git](https://github.com/go-git/go-git) (3 days ago)
-- [git: add repository and remote archive support](https://github.com/go-git/go-git/pull/2013) on [go-git/go-git](https://github.com/go-git/go-git) (3 days ago)
 
 #### 📜 My recent blog posts
 
