@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: add support for SGR-pixel mouse encoding](https://github.com/charmbracelet/ultraviolet/pull/112) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (today)
 - [Search and lookup enhancements and Moshaf support](https://github.com/aymanbagabas/mopidy-mp3quran/pull/3) on [aymanbagabas/mopidy-mp3quran](https://github.com/aymanbagabas/mopidy-mp3quran) (1 day ago)
 - [plumbing: pktline, use Scanner for decoding](https://github.com/go-git/go-git/pull/2038) on [go-git/go-git](https://github.com/go-git/go-git) (3 days ago)
 - [storage: filesystem, close packfile iterators after use](https://github.com/aymanbagabas/go-git/pull/22) on [aymanbagabas/go-git](https://github.com/aymanbagabas/go-git) (3 days ago)
 - [storage: filesystem, close packfile iterators after use](https://github.com/go-git/go-git/pull/2027) on [go-git/go-git](https://github.com/go-git/go-git) (3 days ago)
-- [internal: servers, add git server implementation](https://github.com/go-git/go-git/pull/2014) on [go-git/go-git](https://github.com/go-git/go-git) (4 days ago)
 
 #### 📜 My recent blog posts
 
