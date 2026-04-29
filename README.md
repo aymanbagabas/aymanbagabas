@@ -20,8 +20,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.64.0](https://github.com/charmbracelet/crush/releases/tag/v0.64.0), today) - Glamourous agentic coding for all 💘
 - [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.38.0](https://github.com/charmbracelet/catwalk/releases/tag/v0.38.0), today) - 🐈 A collection of LLM inference providers and models 
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), today) - Glamourous agentic coding for all 💘
 - [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), today) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 - [microsoft/terminal](https://github.com/microsoft/terminal) ([v1.25.1171.0](https://github.com/microsoft/terminal/releases/tag/v1.25.1171.0), today) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [aymanbagabas/mopidy-mp3quran](https://github.com/aymanbagabas/mopidy-mp3quran) ([v0.2.1](https://github.com/aymanbagabas/mopidy-mp3quran/releases/tag/v0.2.1), 1 day ago) - A Mopidy extension for Mp3Quran (http://www.mp3quran.net/).
