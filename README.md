@@ -4,9 +4,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [aymanbagabas/mopidy-mp3quran](https://github.com/aymanbagabas/mopidy-mp3quran) - A Mopidy extension for Mp3Quran (http://www.mp3quran.net/). (today)
-- [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (today)
-- [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go. (3 days ago)
+- [aymanbagabas/mopidy-mp3quran](https://github.com/aymanbagabas/mopidy-mp3quran) - A Mopidy extension for Mp3Quran (http://www.mp3quran.net/). (1 day ago)
+- [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (1 day ago)
+- [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go. (4 days ago)
 - [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) - 🐈 A collection of LLM inference providers and models  (1 week ago)
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (1 week ago)
 
@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.37.17](https://github.com/charmbracelet/catwalk/releases/tag/v0.37.17), today) - 🐈 A collection of LLM inference providers and models 
-- [aymanbagabas/mopidy-mp3quran](https://github.com/aymanbagabas/mopidy-mp3quran) ([v0.2.1](https://github.com/aymanbagabas/mopidy-mp3quran/releases/tag/v0.2.1), today) - A Mopidy extension for Mp3Quran (http://www.mp3quran.net/).
-- [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), today) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), today) - Glamourous agentic coding for all 💘
-- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v2.0.1](https://github.com/charmbracelet/wish/releases/tag/v2.0.1), 1 week ago) - Make SSH apps, just like that! 💫
+- [microsoft/terminal](https://github.com/microsoft/terminal) ([v1.25.1171.0](https://github.com/microsoft/terminal/releases/tag/v1.25.1171.0), today) - The new Windows Terminal and the original Windows console host, all in the same place!
+- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.37.17](https://github.com/charmbracelet/catwalk/releases/tag/v0.37.17), 1 day ago) - 🐈 A collection of LLM inference providers and models 
+- [aymanbagabas/mopidy-mp3quran](https://github.com/aymanbagabas/mopidy-mp3quran) ([v0.2.1](https://github.com/aymanbagabas/mopidy-mp3quran/releases/tag/v0.2.1), 1 day ago) - A Mopidy extension for Mp3Quran (http://www.mp3quran.net/).
+- [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), 1 day ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), 1 day ago) - Glamourous agentic coding for all 💘
 
 #### 🔨 My recent Pull Requests
 
-- [add ultraviolet example](https://github.com/raphamorim/glyph-protocol-examples/pull/2) on [raphamorim/glyph-protocol-examples](https://github.com/raphamorim/glyph-protocol-examples) (today)
-- [feat: add support for SGR-pixel mouse encoding](https://github.com/charmbracelet/ultraviolet/pull/112) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (today)
-- [Search and lookup enhancements and Moshaf support](https://github.com/aymanbagabas/mopidy-mp3quran/pull/3) on [aymanbagabas/mopidy-mp3quran](https://github.com/aymanbagabas/mopidy-mp3quran) (1 day ago)
-- [plumbing: pktline, use Scanner for decoding](https://github.com/go-git/go-git/pull/2038) on [go-git/go-git](https://github.com/go-git/go-git) (3 days ago)
-- [storage: filesystem, close packfile iterators after use](https://github.com/aymanbagabas/go-git/pull/22) on [aymanbagabas/go-git](https://github.com/aymanbagabas/go-git) (3 days ago)
+- [add ultraviolet example](https://github.com/raphamorim/glyph-protocol-examples/pull/2) on [raphamorim/glyph-protocol-examples](https://github.com/raphamorim/glyph-protocol-examples) (1 day ago)
+- [feat: add support for SGR-pixel mouse encoding](https://github.com/charmbracelet/ultraviolet/pull/112) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (1 day ago)
+- [Search and lookup enhancements and Moshaf support](https://github.com/aymanbagabas/mopidy-mp3quran/pull/3) on [aymanbagabas/mopidy-mp3quran](https://github.com/aymanbagabas/mopidy-mp3quran) (2 days ago)
+- [plumbing: pktline, use Scanner for decoding](https://github.com/go-git/go-git/pull/2038) on [go-git/go-git](https://github.com/go-git/go-git) (4 days ago)
+- [storage: filesystem, close packfile iterators after use](https://github.com/aymanbagabas/go-git/pull/22) on [aymanbagabas/go-git](https://github.com/aymanbagabas/go-git) (4 days ago)
 
 #### 📜 My recent blog posts
 
