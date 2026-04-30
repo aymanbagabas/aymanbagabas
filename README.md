@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [git: worktree, fix treeContainsDirs test to build a new tree for each…](https://github.com/go-git/go-git/pull/2047) on [go-git/go-git](https://github.com/go-git/go-git) (today)
 - [plumbing: ssh, fix concurrent test failures due to cert key generation](https://github.com/go-git/go-git/pull/2043) on [go-git/go-git](https://github.com/go-git/go-git) (today)
 - [add ultraviolet example](https://github.com/raphamorim/glyph-protocol-examples/pull/2) on [raphamorim/glyph-protocol-examples](https://github.com/raphamorim/glyph-protocol-examples) (2 days ago)
 - [feat: add support for SGR-pixel mouse encoding](https://github.com/charmbracelet/ultraviolet/pull/112) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (2 days ago)
 - [Search and lookup enhancements and Moshaf support](https://github.com/aymanbagabas/mopidy-mp3quran/pull/3) on [aymanbagabas/mopidy-mp3quran](https://github.com/aymanbagabas/mopidy-mp3quran) (3 days ago)
-- [plumbing: pktline, use Scanner for decoding](https://github.com/go-git/go-git/pull/2038) on [go-git/go-git](https://github.com/go-git/go-git) (5 days ago)
 
 #### 📜 My recent blog posts
 
