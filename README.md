@@ -6,7 +6,7 @@
 
 - [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (today)
 - [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go. (5 days ago)
-- [aymanbagabas/mopidy-mp3quran](https://github.com/aymanbagabas/mopidy-mp3quran) - A Mopidy extension for Mp3Quran (http://www.mp3quran.net/). (1 week ago)
+- [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (1 week ago)
 
 #### 🌱 My latest projects
 
