@@ -4,6 +4,10 @@ on:
   push:
   schedule:
     - cron: "0 */1 * * *"
+  workflow_call:
+    secrets:
+      PERSONAL_GITHUB_TOKEN:
+        required: true
 
 jobs:
   markscribe:
