@@ -4,9 +4,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (today)
-- [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go. (5 days ago)
-- [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (1 week ago)
+- [aymanbagabas/aymanbagabas.github.io](https://github.com/aymanbagabas/aymanbagabas.github.io) - Personal website (1 day ago)
+- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (1 day ago)
+- [aymanbagabas/Huawei-WMI](https://github.com/aymanbagabas/Huawei-WMI) - Huawei WMI laptop extras linux driver (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -16,27 +16,27 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), today) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), today) - Glamourous agentic coding for all 💘
-- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.39.5](https://github.com/charmbracelet/catwalk/releases/tag/v0.39.5), 1 day ago) - 🐈 A collection of LLM inference providers and models 
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), 1 day ago) - Glamourous agentic coding for all 💘
+- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.44.14](https://github.com/charmbracelet/catwalk/releases/tag/v0.44.14), 2 days ago) - 🐈 A collection of LLM inference providers and models 
+- [raphamorim/rio](https://github.com/raphamorim/rio) ([v0.4.6](https://github.com/raphamorim/rio/releases/tag/v0.4.6), 3 days ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 
 #### 🔨 My recent Pull Requests
 
-- [plumbing: packp, validate push options to prevent invalid characters](https://github.com/go-git/go-git/pull/2057) on [go-git/go-git](https://github.com/go-git/go-git) (1 day ago)
-- [plumbing: transport, close storage in tests](https://github.com/go-git/go-git/pull/2055) on [go-git/go-git](https://github.com/go-git/go-git) (2 days ago)
-- [git: worktree, fix treeContainsDirs test to build a new tree for each…](https://github.com/go-git/go-git/pull/2047) on [go-git/go-git](https://github.com/go-git/go-git) (5 days ago)
+- [feat(vt): add support for DECST8C escape sequence](https://github.com/kovidgoyal/kitty/pull/10074) on [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) (1 week ago)
+- [fix(screen): preserve tab stops across window resizes](https://github.com/kovidgoyal/kitty/pull/10073) on [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) (1 week ago)
+- [Add XTVERSION sequence support](https://github.com/microsoft/terminal/pull/20268) on [microsoft/terminal](https://github.com/microsoft/terminal) (1 week ago)
 
 #### 📜 My recent blog posts
 
-- [A Brief History of Terminal Emulators](https://aymanbagabas.com/blog/2025/03/11/a-brief-history-of-terminal-emulators.html) (1 year ago)
-- [Self-hosted Soft Serve](https://aymanbagabas.com/blog/2023/04/28/self-hosted-soft-serve.html) (3 years ago)
-- [Simple Vim Session Management](https://aymanbagabas.com/blog/2023/04/13/simple-vim-session-management.html) (3 years ago)
+- [A Brief History of Terminal Emulators](https://aymanbagabas.com/posts/a-brief-history-of-terminal-emulators/) (1 year ago)
+- [Self-hosted Soft Serve](https://aymanbagabas.com/posts/self-hosted-soft-serve/) (3 years ago)
+- [Simple Vim Session Management](https://aymanbagabas.com/posts/simple-vim-session-management/) (3 years ago)
 
 #### ⭐ Recent Stars
 
-- [maaslalani/sheets](https://github.com/maaslalani/sheets) - Terminal based spreadsheet tool (1 month ago)
-- [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations. (1 month ago)
-- [gavinmcfall/home-ops](https://github.com/gavinmcfall/home-ops) - HomeOps driven by Kubernetes and GitOps using Flux (1 month ago)
+- [raphamorim/jamstation](https://github.com/raphamorim/jamstation) - A Playstation One (PS1) emulator fully written in Jam (1 day ago)
+- [raphamorim/jam](https://github.com/raphamorim/jam) - Jam Programming Language (3 weeks ago)
+- [maaslalani/sheets](https://github.com/maaslalani/sheets) - Terminal based spreadsheet tool (2 months ago)
 
 #### 📫 How to reach me
 
