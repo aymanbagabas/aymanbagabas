@@ -16,9 +16,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.44.19](https://github.com/charmbracelet/catwalk/releases/tag/v0.44.19), today) - 🐈 A collection of LLM inference providers and models 
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), today) - Glamourous agentic coding for all 💘
 - [raphamorim/rio](https://github.com/raphamorim/rio) ([v0.4.7](https://github.com/raphamorim/rio/releases/tag/v0.4.7), 1 day ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
-- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.44.17](https://github.com/charmbracelet/catwalk/releases/tag/v0.44.17), 1 day ago) - 🐈 A collection of LLM inference providers and models 
 
 #### 🔨 My recent Pull Requests
 
