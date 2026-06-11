@@ -4,8 +4,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [aymanbagabas/aymanbagabas.github.io](https://github.com/aymanbagabas/aymanbagabas.github.io) - Personal website (2 days ago)
-- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (3 days ago)
+- [aymanbagabas/aymanbagabas.github.io](https://github.com/aymanbagabas/aymanbagabas.github.io) - Personal website (3 days ago)
+- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (4 days ago)
 - [aymanbagabas/Huawei-WMI](https://github.com/aymanbagabas/Huawei-WMI) - Huawei WMI laptop extras linux driver (2 weeks ago)
 
 #### 🌱 My latest projects
@@ -16,9 +16,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.44.19](https://github.com/charmbracelet/catwalk/releases/tag/v0.44.19), today) - 🐈 A collection of LLM inference providers and models 
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), today) - Glamourous agentic coding for all 💘
-- [raphamorim/rio](https://github.com/raphamorim/rio) ([v0.4.7](https://github.com/raphamorim/rio/releases/tag/v0.4.7), 1 day ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
+- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.44.19](https://github.com/charmbracelet/catwalk/releases/tag/v0.44.19), 1 day ago) - 🐈 A collection of LLM inference providers and models 
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), 1 day ago) - Glamourous agentic coding for all 💘
+- [raphamorim/rio](https://github.com/raphamorim/rio) ([v0.4.7](https://github.com/raphamorim/rio/releases/tag/v0.4.7), 2 days ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 
 #### 🔨 My recent Pull Requests
 
@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
-- [raphamorim/jamstation](https://github.com/raphamorim/jamstation) - A Playstation One (PS1) emulator fully written in Jam (3 days ago)
-- [raphamorim/jam](https://github.com/raphamorim/jam) - Jam Programming Language (3 weeks ago)
+- [raphamorim/jamstation](https://github.com/raphamorim/jamstation) - A Playstation One (PS1) emulator fully written in Jam (4 days ago)
+- [raphamorim/jam](https://github.com/raphamorim/jam) - Jam Programming Language (4 weeks ago)
 - [maaslalani/sheets](https://github.com/maaslalani/sheets) - Terminal based spreadsheet tool (2 months ago)
 
 #### 📫 How to reach me
