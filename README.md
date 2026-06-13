@@ -7,8 +7,8 @@ and infrastructure automation. I spend most of my free time hacking on open sour
 
 #### 👷 Check out what I'm currently working on
 
-- [aymanbagabas/aymanbagabas.github.io](https://github.com/aymanbagabas/aymanbagabas.github.io) - Personal website (1 day ago)
-- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (5 days ago)
+- [aymanbagabas/aymanbagabas.github.io](https://github.com/aymanbagabas/aymanbagabas.github.io) - Personal website (2 days ago)
+- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (6 days ago)
 - [aymanbagabas/Huawei-WMI](https://github.com/aymanbagabas/Huawei-WMI) - Huawei WMI laptop extras linux driver (2 weeks ago)
 
 #### 🌱 Latest projects
@@ -19,9 +19,9 @@ and infrastructure automation. I spend most of my free time hacking on open sour
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.44.23](https://github.com/charmbracelet/catwalk/releases/tag/v0.44.23), today) - 🐈 A collection of LLM inference providers and models 
-- [charmbracelet/glamour](https://github.com/charmbracelet/glamour) ([v2.0.1](https://github.com/charmbracelet/glamour/releases/tag/v2.0.1), today) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v2.0.4](https://github.com/charmbracelet/lipgloss/releases/tag/v2.0.4), today) - Style definitions for nice terminal layouts 👄
+- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.44.23](https://github.com/charmbracelet/catwalk/releases/tag/v0.44.23), 1 day ago) - 🐈 A collection of LLM inference providers and models 
+- [charmbracelet/glamour](https://github.com/charmbracelet/glamour) ([v2.0.1](https://github.com/charmbracelet/glamour/releases/tag/v2.0.1), 1 day ago) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v2.0.4](https://github.com/charmbracelet/lipgloss/releases/tag/v2.0.4), 1 day ago) - Style definitions for nice terminal layouts 👄
 
 #### 🔨 Recent Pull Requests
 
@@ -37,14 +37,14 @@ and infrastructure automation. I spend most of my free time hacking on open sour
 
 #### ⭐ Recent Stars
 
-- [raphamorim/jamstation](https://github.com/raphamorim/jamstation) - A Playstation One (PS1) emulator fully written in Jam (5 days ago)
-- [raphamorim/jam](https://github.com/raphamorim/jam) - Jam Programming Language (4 weeks ago)
+- [raphamorim/jamstation](https://github.com/raphamorim/jamstation) - A Playstation One (PS1) emulator fully written in Jam (6 days ago)
+- [raphamorim/jam](https://github.com/raphamorim/jam) - Jam Programming Language (1 month ago)
 - [maaslalani/sheets](https://github.com/maaslalani/sheets) - Terminal based spreadsheet tool (2 months ago)
 
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [jquast](https://github.com/jquast) (2 weeks ago)
+- [jquast](https://github.com/jquast) (3 weeks ago)
 
 
 #### 📫 How to reach me
