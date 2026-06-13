@@ -19,9 +19,9 @@ and infrastructure automation. I spend most of my free time hacking on open sour
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), today) - Glamourous agentic coding for all 💘
 - [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.44.23](https://github.com/charmbracelet/catwalk/releases/tag/v0.44.23), 1 day ago) - 🐈 A collection of LLM inference providers and models 
 - [charmbracelet/glamour](https://github.com/charmbracelet/glamour) ([v2.0.1](https://github.com/charmbracelet/glamour/releases/tag/v2.0.1), 1 day ago) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v2.0.4](https://github.com/charmbracelet/lipgloss/releases/tag/v2.0.4), 1 day ago) - Style definitions for nice terminal layouts 👄
 
 #### 🔨 Recent Pull Requests
 
