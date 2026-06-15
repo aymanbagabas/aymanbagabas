@@ -7,9 +7,9 @@ and infrastructure automation. I spend most of my free time hacking on open sour
 
 #### 👷 Check out what I'm currently working on
 
-- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (today)
-- [aymanbagabas/aymanbagabas.github.io](https://github.com/aymanbagabas/aymanbagabas.github.io) - Personal website (3 days ago)
-- [aymanbagabas/Huawei-WMI](https://github.com/aymanbagabas/Huawei-WMI) - Huawei WMI laptop extras linux driver (2 weeks ago)
+- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (1 day ago)
+- [aymanbagabas/aymanbagabas.github.io](https://github.com/aymanbagabas/aymanbagabas.github.io) - Personal website (4 days ago)
+- [aymanbagabas/Huawei-WMI](https://github.com/aymanbagabas/Huawei-WMI) - Huawei WMI laptop extras linux driver (3 weeks ago)
 
 #### 🌱 Latest projects
 
@@ -19,9 +19,9 @@ and infrastructure automation. I spend most of my free time hacking on open sour
 
 #### 🔭 Latest releases I've contributed to
 
-- [opt-nc/geol](https://github.com/opt-nc/geol) ([v2.14.0](https://github.com/opt-nc/geol/releases/tag/v2.14.0), today) - Efficiently show and monitor end-of-life dates for a number of products in your terminal and CI using endoflife.date API
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.77.0](https://github.com/charmbracelet/crush/releases/tag/v0.77.0), today) - Glamourous agentic coding for all 💘
-- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.44.24](https://github.com/charmbracelet/catwalk/releases/tag/v0.44.24), today) - 🐈 A collection of LLM inference providers and models 
+- [opt-nc/geol](https://github.com/opt-nc/geol) ([v2.14.0](https://github.com/opt-nc/geol/releases/tag/v2.14.0), 1 day ago) - Efficiently show and monitor end-of-life dates for a number of products in your terminal and CI using endoflife.date API
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.77.0](https://github.com/charmbracelet/crush/releases/tag/v0.77.0), 1 day ago) - Glamourous agentic coding for all 💘
+- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.44.24](https://github.com/charmbracelet/catwalk/releases/tag/v0.44.24), 1 day ago) - 🐈 A collection of LLM inference providers and models 
 
 #### 🔨 Recent Pull Requests
 
