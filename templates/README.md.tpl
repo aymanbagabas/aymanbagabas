@@ -20,11 +20,6 @@ and infrastructure automation. I spend most of my free time hacking on open sour
 - [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
 {{- end}}
 
-#### 🔨 Recent Pull Requests
-{{range recentPullRequests 3}}
-- [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
-{{- end}}
-
 #### 📜 Recent blog posts
 {{range rss "https://aymanbagabas.com/blog/feed.xml" 3}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
