@@ -7,7 +7,7 @@ and infrastructure automation. I spend most of my free time hacking on open sour
 
 #### 👷 Check out what I'm currently working on
 
-- [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go. (1 day ago)
+- [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go. (today)
 - [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (1 week ago)
 - [aymanbagabas/aymanbagabas.github.io](https://github.com/aymanbagabas/aymanbagabas.github.io) - Personal website (1 week ago)
 
