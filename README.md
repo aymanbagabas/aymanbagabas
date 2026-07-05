@@ -19,9 +19,9 @@ and infrastructure automation. I spend most of my free time hacking on open sour
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v2.1.1](https://github.com/charmbracelet/bubbles/releases/tag/v2.1.1), today) - TUI components for Bubble Tea 🫧
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), today) - Glamourous agentic coding for all 💘
-- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.49.0](https://github.com/charmbracelet/catwalk/releases/tag/v0.49.0), 1 day ago) - 🐈 A collection of LLM inference providers and models 
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v2.1.1](https://github.com/charmbracelet/bubbles/releases/tag/v2.1.1), 1 day ago) - TUI components for Bubble Tea 🫧
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), 1 day ago) - Glamourous agentic coding for all 💘
+- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.49.0](https://github.com/charmbracelet/catwalk/releases/tag/v0.49.0), 2 days ago) - 🐈 A collection of LLM inference providers and models 
 
 #### 📜 Recent blog posts
 
@@ -31,8 +31,8 @@ and infrastructure automation. I spend most of my free time hacking on open sour
 
 #### ⭐ Recent Stars
 
-- [caarlos0/prowl](https://github.com/caarlos0/prowl) - A tiny terminal radar for your GitHub pull requests. (1 week ago)
-- [raphamorim/jamstation](https://github.com/raphamorim/jamstation) - A Playstation One (PS1) emulator fully written in Jam (3 weeks ago)
+- [caarlos0/prowl](https://github.com/caarlos0/prowl) - A tiny terminal radar for your GitHub pull requests. (2 weeks ago)
+- [raphamorim/jamstation](https://github.com/raphamorim/jamstation) - A Playstation One (PS1) emulator fully written in Jam (4 weeks ago)
 - [raphamorim/jam](https://github.com/raphamorim/jam) - Jam Programming Language (1 month ago)
 
 
