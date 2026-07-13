@@ -9,7 +9,7 @@ and infrastructure automation. I spend most of my free time hacking on open sour
 
 - [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go. (2 weeks ago)
 - [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (3 weeks ago)
-- [aymanbagabas/aymanbagabas.github.io](https://github.com/aymanbagabas/aymanbagabas.github.io) - Personal website (3 weeks ago)
+- [aymanbagabas/aymanbagabas.github.io](https://github.com/aymanbagabas/aymanbagabas.github.io) - Personal website (4 weeks ago)
 
 #### 🌱 Latest projects
 
@@ -20,8 +20,8 @@ and infrastructure automation. I spend most of my free time hacking on open sour
 #### 🔭 Latest releases I've contributed to
 
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), today) - Glamourous agentic coding for all 💘
-- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.49.20](https://github.com/charmbracelet/catwalk/releases/tag/v0.49.20), 2 days ago) - 🐈 A collection of LLM inference providers and models 
-- [raphamorim/rio](https://github.com/raphamorim/rio) ([v0.4.10](https://github.com/raphamorim/rio/releases/tag/v0.4.10), 3 days ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
+- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.49.20](https://github.com/charmbracelet/catwalk/releases/tag/v0.49.20), 3 days ago) - 🐈 A collection of LLM inference providers and models 
+- [raphamorim/rio](https://github.com/raphamorim/rio) ([v0.4.10](https://github.com/raphamorim/rio/releases/tag/v0.4.10), 4 days ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 
 #### 📜 Recent blog posts
 
@@ -33,7 +33,7 @@ and infrastructure automation. I spend most of my free time hacking on open sour
 
 - [caarlos0/prowl](https://github.com/caarlos0/prowl) - 🦉 A tiny terminal radar for your GitHub pull requests. (3 weeks ago)
 - [raphamorim/jamstation](https://github.com/raphamorim/jamstation) - A Playstation One (PS1) emulator fully written in Jam (1 month ago)
-- [raphamorim/jam](https://github.com/raphamorim/jam) - Jam Programming Language (1 month ago)
+- [raphamorim/jam](https://github.com/raphamorim/jam) - Jam Programming Language (2 months ago)
 
 
 #### ❤️ These awesome people sponsor me (thank you!)
