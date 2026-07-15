@@ -7,9 +7,9 @@ and infrastructure automation. I spend most of my free time hacking on open sour
 
 #### 👷 Check out what I'm currently working on
 
-- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (today)
+- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (1 day ago)
 - [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go. (2 weeks ago)
-- [aymanbagabas/aymanbagabas.github.io](https://github.com/aymanbagabas/aymanbagabas.github.io) - Personal website (4 weeks ago)
+- [aymanbagabas/aymanbagabas.github.io](https://github.com/aymanbagabas/aymanbagabas.github.io) - Personal website (1 month ago)
 
 #### 🌱 Latest projects
 
@@ -19,9 +19,9 @@ and infrastructure automation. I spend most of my free time hacking on open sour
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.49.24](https://github.com/charmbracelet/catwalk/releases/tag/v0.49.24), today) - 🐈 A collection of LLM inference providers and models 
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), today) - Glamourous agentic coding for all 💘
-- [raphamorim/rio](https://github.com/raphamorim/rio) ([v0.4.10](https://github.com/raphamorim/rio/releases/tag/v0.4.10), 5 days ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
+- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.49.24](https://github.com/charmbracelet/catwalk/releases/tag/v0.49.24), 1 day ago) - 🐈 A collection of LLM inference providers and models 
+- [raphamorim/rio](https://github.com/raphamorim/rio) ([v0.4.10](https://github.com/raphamorim/rio/releases/tag/v0.4.10), 6 days ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 
 #### 📜 Recent blog posts
 
