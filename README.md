@@ -19,9 +19,9 @@ and infrastructure automation. I spend most of my free time hacking on open sour
 
 #### 🔭 Latest releases I've contributed to
 
+- [raphamorim/rio](https://github.com/raphamorim/rio) ([v0.4.12](https://github.com/raphamorim/rio/releases/tag/v0.4.12), today) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 - [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.50.3](https://github.com/charmbracelet/catwalk/releases/tag/v0.50.3), today) - 🐈 A collection of LLM inference providers and models 
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), today) - Glamourous agentic coding for all 💘
-- [opt-nc/geol](https://github.com/opt-nc/geol) ([v2.18.0](https://github.com/opt-nc/geol/releases/tag/v2.18.0), 1 day ago) - Efficiently show and monitor end-of-life dates for a number of products in your terminal and CI using endoflife.date API
 
 #### 📜 Recent blog posts
 
