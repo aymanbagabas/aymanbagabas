@@ -7,8 +7,8 @@ and infrastructure automation. I spend most of my free time hacking on open sour
 
 #### 👷 Check out what I'm currently working on
 
-- [aymanbagabas/aymanbagabas.github.io](https://github.com/aymanbagabas/aymanbagabas.github.io) - Personal website (5 days ago)
-- [aymanbagabas/go-udiff](https://github.com/aymanbagabas/go-udiff) - µDiff - a micro Go diffing library (5 days ago)
+- [aymanbagabas/aymanbagabas.github.io](https://github.com/aymanbagabas/aymanbagabas.github.io) - Personal website (6 days ago)
+- [aymanbagabas/go-udiff](https://github.com/aymanbagabas/go-udiff) - µDiff - a micro Go diffing library (6 days ago)
 - [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (1 week ago)
 
 #### 🌱 Latest projects
@@ -19,9 +19,9 @@ and infrastructure automation. I spend most of my free time hacking on open sour
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.50.2](https://github.com/charmbracelet/catwalk/releases/tag/v0.50.2), today) - 🐈 A collection of LLM inference providers and models 
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), today) - Glamourous agentic coding for all 💘
-- [opt-nc/geol](https://github.com/opt-nc/geol) ([v2.18.0](https://github.com/opt-nc/geol/releases/tag/v2.18.0), today) - Efficiently show and monitor end-of-life dates for a number of products in your terminal and CI using endoflife.date API
+- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.50.2](https://github.com/charmbracelet/catwalk/releases/tag/v0.50.2), 1 day ago) - 🐈 A collection of LLM inference providers and models 
+- [opt-nc/geol](https://github.com/opt-nc/geol) ([v2.18.0](https://github.com/opt-nc/geol/releases/tag/v2.18.0), 1 day ago) - Efficiently show and monitor end-of-life dates for a number of products in your terminal and CI using endoflife.date API
 
 #### 📜 Recent blog posts
 
@@ -38,7 +38,7 @@ and infrastructure automation. I spend most of my free time hacking on open sour
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [jquast](https://github.com/jquast) (1 month ago)
+- [jquast](https://github.com/jquast) (2 months ago)
 
 
 #### 📫 How to reach me
