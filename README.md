@@ -19,9 +19,9 @@ and infrastructure automation. I spend most of my free time hacking on open sour
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), today) - Glamourous agentic coding for all 💘
-- [taigrr/trophy](https://github.com/taigrr/trophy) ([v1.4.0](https://github.com/taigrr/trophy/releases/tag/v1.4.0), 1 day ago) - Terminal 3D Model Viewer - View 3D model files in your terminal
-- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.51.1](https://github.com/charmbracelet/catwalk/releases/tag/v0.51.1), 3 days ago) - 🐈 A collection of LLM inference providers and models 
+- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.51.3](https://github.com/charmbracelet/catwalk/releases/tag/v0.51.3), today) - 🐈 A collection of LLM inference providers and models 
+- [raphamorim/rio](https://github.com/raphamorim/rio) ([v0.5.0](https://github.com/raphamorim/rio/releases/tag/v0.5.0), today) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
+- [aymanbagabas/uncurses](https://github.com/aymanbagabas/uncurses) ([v0.0.1](https://github.com/aymanbagabas/uncurses/releases/tag/v0.0.1), today) - A terminal toolkit library for building UIs
 
 #### 📜 Recent blog posts
 
