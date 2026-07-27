@@ -19,9 +19,9 @@ and infrastructure automation. I spend most of my free time hacking on open sour
 
 #### 🔭 Latest releases I've contributed to
 
-- [taigrr/trophy](https://github.com/taigrr/trophy) ([v1.4.0](https://github.com/taigrr/trophy/releases/tag/v1.4.0), today) - Terminal 3D Model Viewer - View 3D model files in your terminal
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), today) - Glamourous agentic coding for all 💘
-- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.51.1](https://github.com/charmbracelet/catwalk/releases/tag/v0.51.1), 2 days ago) - 🐈 A collection of LLM inference providers and models 
+- [taigrr/trophy](https://github.com/taigrr/trophy) ([v1.4.0](https://github.com/taigrr/trophy/releases/tag/v1.4.0), 1 day ago) - Terminal 3D Model Viewer - View 3D model files in your terminal
+- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.51.1](https://github.com/charmbracelet/catwalk/releases/tag/v0.51.1), 3 days ago) - 🐈 A collection of LLM inference providers and models 
 
 #### 📜 Recent blog posts
 
@@ -31,7 +31,7 @@ and infrastructure automation. I spend most of my free time hacking on open sour
 
 #### ⭐ Recent Stars
 
-- [maaslalani/calendar](https://github.com/maaslalani/calendar) - Calendar in your terminal (4 days ago)
+- [maaslalani/calendar](https://github.com/maaslalani/calendar) - Calendar in your terminal (5 days ago)
 - [caarlos0/prowl](https://github.com/caarlos0/prowl) - 🦉 A tiny terminal radar for your GitHub pull requests. (1 month ago)
 - [raphamorim/jamstation](https://github.com/raphamorim/jamstation) - A Playstation One (PS1) emulator fully written in Jam (1 month ago)
 
