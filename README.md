@@ -19,8 +19,8 @@ and infrastructure automation. I spend most of my free time hacking on open sour
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.51.7](https://github.com/charmbracelet/catwalk/releases/tag/v0.51.7), today) - 🐈 A collection of LLM inference providers and models 
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), today) - Glamourous agentic coding for all 💘
-- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.51.6](https://github.com/charmbracelet/catwalk/releases/tag/v0.51.6), 1 day ago) - 🐈 A collection of LLM inference providers and models 
 - [go-git/go-git](https://github.com/go-git/go-git) ([v6.0.0-alpha.5](https://github.com/go-git/go-git/releases/tag/v6.0.0-alpha.5), 1 day ago) - A highly extensible Git implementation in pure Go.
 
 #### 📜 Recent blog posts
