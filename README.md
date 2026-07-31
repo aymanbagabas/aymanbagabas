@@ -7,7 +7,7 @@ and infrastructure automation. I spend most of my free time hacking on open sour
 
 #### 👷 Check out what I'm currently working on
 
-- [aymanbagabas/uncurses](https://github.com/aymanbagabas/uncurses) - A terminal toolkit library for building UIs (2 days ago)
+- [aymanbagabas/uncurses](https://github.com/aymanbagabas/uncurses) - A terminal toolkit library for building UIs (3 days ago)
 - [aymanbagabas/aymanbagabas.github.io](https://github.com/aymanbagabas/aymanbagabas.github.io) - Personal website (2 weeks ago)
 - [aymanbagabas/go-udiff](https://github.com/aymanbagabas/go-udiff) - µDiff - a micro Go diffing library (2 weeks ago)
 
@@ -19,9 +19,9 @@ and infrastructure automation. I spend most of my free time hacking on open sour
 
 #### 🔭 Latest releases I've contributed to
 
-- [opt-nc/geol](https://github.com/opt-nc/geol) ([v2.19.0-develop.2](https://github.com/opt-nc/geol/releases/tag/v2.19.0-develop.2), today) - Efficiently show and monitor end-of-life dates for a number of products in your terminal and CI using endoflife.date API
-- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v2.0.2](https://github.com/charmbracelet/wish/releases/tag/v2.0.2), today) - Make SSH apps, just like that! 💫
-- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.51.7](https://github.com/charmbracelet/catwalk/releases/tag/v0.51.7), today) - 🐈 A collection of LLM inference providers and models 
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), today) - Glamourous agentic coding for all 💘
+- [opt-nc/geol](https://github.com/opt-nc/geol) ([v2.19.0](https://github.com/opt-nc/geol/releases/tag/v2.19.0), today) - Efficiently show and monitor end-of-life dates for a number of products in your terminal and CI using endoflife.date API
+- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v2.0.2](https://github.com/charmbracelet/wish/releases/tag/v2.0.2), 1 day ago) - Make SSH apps, just like that! 💫
 
 #### 📜 Recent blog posts
 
@@ -31,7 +31,7 @@ and infrastructure automation. I spend most of my free time hacking on open sour
 
 #### ⭐ Recent Stars
 
-- [aymanbagabas/uncurses](https://github.com/aymanbagabas/uncurses) - A terminal toolkit library for building UIs (3 days ago)
+- [aymanbagabas/uncurses](https://github.com/aymanbagabas/uncurses) - A terminal toolkit library for building UIs (4 days ago)
 - [maaslalani/calendar](https://github.com/maaslalani/calendar) - Calendar in your terminal (1 week ago)
 - [caarlos0/prowl](https://github.com/caarlos0/prowl) - 🦉 A tiny terminal radar for your GitHub pull requests. (1 month ago)
 
