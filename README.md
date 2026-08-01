@@ -19,9 +19,9 @@ and infrastructure automation. I spend most of my free time hacking on open sour
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.12.0](https://github.com/charmbracelet/soft-serve/releases/tag/v0.12.0), today) - The mighty, self-hostable Git server for the command line🍦
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), today) - Glamourous agentic coding for all 💘
 - [raphamorim/rio](https://github.com/raphamorim/rio) ([v0.5.3](https://github.com/raphamorim/rio/releases/tag/v0.5.3), 1 day ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
-- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v2.0.3](https://github.com/charmbracelet/wish/releases/tag/v2.0.3), 1 day ago) - Make SSH apps, just like that! 💫
 
 #### 📜 Recent blog posts
 
