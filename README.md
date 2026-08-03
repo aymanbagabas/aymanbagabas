@@ -7,7 +7,7 @@ and infrastructure automation. I spend most of my free time hacking on open sour
 
 #### 👷 Check out what I'm currently working on
 
-- [aymanbagabas/uncurses](https://github.com/aymanbagabas/uncurses) - A terminal toolkit library for building UIs (5 days ago)
+- [aymanbagabas/uncurses](https://github.com/aymanbagabas/uncurses) - A terminal toolkit library for building UIs (6 days ago)
 - [aymanbagabas/aymanbagabas.github.io](https://github.com/aymanbagabas/aymanbagabas.github.io) - Personal website (2 weeks ago)
 - [aymanbagabas/go-udiff](https://github.com/aymanbagabas/go-udiff) - µDiff - a micro Go diffing library (2 weeks ago)
 
@@ -19,9 +19,9 @@ and infrastructure automation. I spend most of my free time hacking on open sour
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.51.11](https://github.com/charmbracelet/catwalk/releases/tag/v0.51.11), today) - 🐈 A collection of LLM inference providers and models 
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), today) - Glamourous agentic coding for all 💘
-- [raphamorim/rio](https://github.com/raphamorim/rio) ([v0.5.5](https://github.com/raphamorim/rio/releases/tag/v0.5.5), 1 day ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
+- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.51.11](https://github.com/charmbracelet/catwalk/releases/tag/v0.51.11), 1 day ago) - 🐈 A collection of LLM inference providers and models 
+- [raphamorim/rio](https://github.com/raphamorim/rio) ([v0.5.5](https://github.com/raphamorim/rio/releases/tag/v0.5.5), 2 days ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 
 #### 📜 Recent blog posts
 
@@ -31,7 +31,7 @@ and infrastructure automation. I spend most of my free time hacking on open sour
 
 #### ⭐ Recent Stars
 
-- [aymanbagabas/uncurses](https://github.com/aymanbagabas/uncurses) - A terminal toolkit library for building UIs (6 days ago)
+- [aymanbagabas/uncurses](https://github.com/aymanbagabas/uncurses) - A terminal toolkit library for building UIs (1 week ago)
 - [maaslalani/calendar](https://github.com/maaslalani/calendar) - Calendar in your terminal (1 week ago)
 - [caarlos0/prowl](https://github.com/caarlos0/prowl) - 🦉 A tiny terminal radar for your GitHub pull requests. (1 month ago)
 
