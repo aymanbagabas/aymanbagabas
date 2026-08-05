@@ -7,8 +7,8 @@ and infrastructure automation. I spend most of my free time hacking on open sour
 
 #### 👷 Check out what I'm currently working on
 
-- [haugene/vpn-configs-contrib](https://github.com/haugene/vpn-configs-contrib) - A collection of configs for various VPN providers (today)
-- [aymanbagabas/uncurses](https://github.com/aymanbagabas/uncurses) - A terminal toolkit library for building UIs (1 day ago)
+- [haugene/vpn-configs-contrib](https://github.com/haugene/vpn-configs-contrib) - A collection of configs for various VPN providers (1 day ago)
+- [aymanbagabas/uncurses](https://github.com/aymanbagabas/uncurses) - A terminal toolkit library for building UIs (2 days ago)
 - [aymanbagabas/aymanbagabas.github.io](https://github.com/aymanbagabas/aymanbagabas.github.io) - Personal website (2 weeks ago)
 
 #### 🌱 Latest projects
@@ -19,9 +19,9 @@ and infrastructure automation. I spend most of my free time hacking on open sour
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.12.1](https://github.com/charmbracelet/soft-serve/releases/tag/v0.12.1), today) - The mighty, self-hostable Git server for the command line🍦
-- [raphamorim/rio](https://github.com/raphamorim/rio) ([v0.5.10](https://github.com/raphamorim/rio/releases/tag/v0.5.10), today) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), today) - Glamourous agentic coding for all 💘
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.12.1](https://github.com/charmbracelet/soft-serve/releases/tag/v0.12.1), 1 day ago) - The mighty, self-hostable Git server for the command line🍦
+- [raphamorim/rio](https://github.com/raphamorim/rio) ([v0.5.10](https://github.com/raphamorim/rio/releases/tag/v0.5.10), 1 day ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 
 #### 📜 Recent blog posts
 
@@ -32,7 +32,7 @@ and infrastructure automation. I spend most of my free time hacking on open sour
 #### ⭐ Recent Stars
 
 - [aymanbagabas/uncurses](https://github.com/aymanbagabas/uncurses) - A terminal toolkit library for building UIs (1 week ago)
-- [maaslalani/calendar](https://github.com/maaslalani/calendar) - Calendar in your terminal (1 week ago)
+- [maaslalani/calendar](https://github.com/maaslalani/calendar) - Calendar in your terminal (2 weeks ago)
 - [caarlos0/prowl](https://github.com/caarlos0/prowl) - 🦉 A tiny terminal radar for your GitHub pull requests. (1 month ago)
 
 
