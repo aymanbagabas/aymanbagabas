@@ -19,9 +19,9 @@ and infrastructure automation. I spend most of my free time hacking on open sour
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.12.2](https://github.com/charmbracelet/soft-serve/releases/tag/v0.12.2), today) - The mighty, self-hostable Git server for the command line🍦
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.88.1](https://github.com/charmbracelet/crush/releases/tag/v0.88.1), today) - Glamourous agentic coding for all 💘
 - [aymanbagabas/drift](https://github.com/aymanbagabas/drift) ([v0.0.4](https://github.com/aymanbagabas/drift/releases/tag/v0.0.4), today) - 👾 A git diff pager that actually wants to be looked at
-- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.51.18](https://github.com/charmbracelet/catwalk/releases/tag/v0.51.18), today) - 🐈 A collection of LLM inference providers and models 
 
 #### 📜 Recent blog posts
 
