@@ -19,9 +19,9 @@ and infrastructure automation. I spend most of my free time hacking on open sour
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.88.1](https://github.com/charmbracelet/crush/releases/tag/v0.88.1), today) - Glamourous agentic coding for all 💘
 - [aymanbagabas/drift](https://github.com/aymanbagabas/drift) ([v0.0.4](https://github.com/aymanbagabas/drift/releases/tag/v0.0.4), today) - 👾 A git diff pager that actually wants to be looked at
 - [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.51.18](https://github.com/charmbracelet/catwalk/releases/tag/v0.51.18), today) - 🐈 A collection of LLM inference providers and models 
-- [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), today) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 
 #### 📜 Recent blog posts
 
