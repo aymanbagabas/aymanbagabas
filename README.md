@@ -7,9 +7,9 @@ and infrastructure automation. I spend most of my free time hacking on open sour
 
 #### 👷 Check out what I'm currently working on
 
-- [aymanbagabas/drift](https://github.com/aymanbagabas/drift) - 👾 A git diff pager that actually wants to be looked at (1 day ago)
-- [aymanbagabas/scoop-bucket](https://github.com/aymanbagabas/scoop-bucket) - Scoop Bucket (2 days ago)
-- [aymanbagabas/homebrew-tap](https://github.com/aymanbagabas/homebrew-tap) - aymanbagabas/tap (2 days ago)
+- [aymanbagabas/drift](https://github.com/aymanbagabas/drift) - 👾 A git diff pager that actually wants to be looked at (2 days ago)
+- [aymanbagabas/scoop-bucket](https://github.com/aymanbagabas/scoop-bucket) - Scoop Bucket (3 days ago)
+- [aymanbagabas/homebrew-tap](https://github.com/aymanbagabas/homebrew-tap) - aymanbagabas/tap (3 days ago)
 
 #### 🌱 Latest projects
 
@@ -19,9 +19,9 @@ and infrastructure automation. I spend most of my free time hacking on open sour
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), today) - Glamourous agentic coding for all 💘
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.12.2](https://github.com/charmbracelet/soft-serve/releases/tag/v0.12.2), 2 days ago) - The mighty, self-hostable Git server for the command line🍦
-- [aymanbagabas/drift](https://github.com/aymanbagabas/drift) ([v0.0.4](https://github.com/aymanbagabas/drift/releases/tag/v0.0.4), 2 days ago) - 👾 A git diff pager that actually wants to be looked at
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), 1 day ago) - Glamourous agentic coding for all 💘
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.12.2](https://github.com/charmbracelet/soft-serve/releases/tag/v0.12.2), 3 days ago) - The mighty, self-hostable Git server for the command line🍦
+- [aymanbagabas/drift](https://github.com/aymanbagabas/drift) ([v0.0.4](https://github.com/aymanbagabas/drift/releases/tag/v0.0.4), 3 days ago) - 👾 A git diff pager that actually wants to be looked at
 
 #### 📜 Recent blog posts
 
@@ -31,9 +31,9 @@ and infrastructure automation. I spend most of my free time hacking on open sour
 
 #### ⭐ Recent Stars
 
-- [rockorager/comview](https://github.com/rockorager/comview) - the best diff viewer ever made (3 days ago)
-- [aymanbagabas/drift](https://github.com/aymanbagabas/drift) - 👾 A git diff pager that actually wants to be looked at (3 days ago)
-- [aymanbagabas/uncurses](https://github.com/aymanbagabas/uncurses) - A terminal toolkit library for building UIs (1 week ago)
+- [rockorager/comview](https://github.com/rockorager/comview) - the best diff viewer ever made (4 days ago)
+- [aymanbagabas/drift](https://github.com/aymanbagabas/drift) - 👾 A git diff pager that actually wants to be looked at (4 days ago)
+- [aymanbagabas/uncurses](https://github.com/aymanbagabas/uncurses) - A terminal toolkit library for building UIs (2 weeks ago)
 
 
 #### ❤️ These awesome people sponsor me (thank you!)
