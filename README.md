@@ -7,9 +7,9 @@ and infrastructure automation. I spend most of my free time hacking on open sour
 
 #### 👷 Check out what I'm currently working on
 
+- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (today)
 - [aymanbagabas/drift](https://github.com/aymanbagabas/drift) - 👾 A git diff pager that actually wants to be looked at (today)
 - [aymanbagabas/scoop-bucket](https://github.com/aymanbagabas/scoop-bucket) - Scoop Bucket (3 days ago)
-- [aymanbagabas/homebrew-tap](https://github.com/aymanbagabas/homebrew-tap) - aymanbagabas/tap (3 days ago)
 
 #### 🌱 Latest projects
 
