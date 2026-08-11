@@ -7,9 +7,9 @@ and infrastructure automation. I spend most of my free time hacking on open sour
 
 #### 👷 Check out what I'm currently working on
 
+- [aymanbagabas/scoop-bucket](https://github.com/aymanbagabas/scoop-bucket) - Scoop Bucket (1 day ago)
+- [aymanbagabas/homebrew-tap](https://github.com/aymanbagabas/homebrew-tap) - aymanbagabas/tap (1 day ago)
 - [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (1 day ago)
-- [aymanbagabas/drift](https://github.com/aymanbagabas/drift) - 👾 A git diff pager that actually wants to be looked at (1 day ago)
-- [aymanbagabas/scoop-bucket](https://github.com/aymanbagabas/scoop-bucket) - Scoop Bucket (4 days ago)
 
 #### 🌱 Latest projects
 
@@ -19,9 +19,9 @@ and infrastructure automation. I spend most of my free time hacking on open sour
 
 #### 🔭 Latest releases I've contributed to
 
+- [aymanbagabas/drift](https://github.com/aymanbagabas/drift) ([v0.0.5](https://github.com/aymanbagabas/drift/releases/tag/v0.0.5), today) - 👾 A git diff pager that actually wants to be looked at
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), today) - Glamourous agentic coding for all 💘
 - [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.51.20](https://github.com/charmbracelet/catwalk/releases/tag/v0.51.20), 1 day ago) - 🐈 A collection of LLM inference providers and models 
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.12.2](https://github.com/charmbracelet/soft-serve/releases/tag/v0.12.2), 4 days ago) - The mighty, self-hostable Git server for the command line🍦
 
 #### 📜 Recent blog posts
 
