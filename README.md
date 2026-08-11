@@ -19,9 +19,9 @@ and infrastructure automation. I spend most of my free time hacking on open sour
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.51.21](https://github.com/charmbracelet/catwalk/releases/tag/v0.51.21), today) - 🐈 A collection of LLM inference providers and models 
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v2.0.6](https://github.com/charmbracelet/lipgloss/releases/tag/v2.0.6), today) - Style definitions for nice terminal layouts 👄
 - [aymanbagabas/drift](https://github.com/aymanbagabas/drift) ([v0.0.5](https://github.com/aymanbagabas/drift/releases/tag/v0.0.5), today) - 👾 A git diff pager that actually wants to be looked at
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), today) - Glamourous agentic coding for all 💘
 
 #### 📜 Recent blog posts
 
