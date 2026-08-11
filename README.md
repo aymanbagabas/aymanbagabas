@@ -19,7 +19,7 @@ and infrastructure automation. I spend most of my free time hacking on open sour
 
 #### 🔭 Latest releases I've contributed to
 
-- [raphamorim/rio](https://github.com/raphamorim/rio) ([nightly](https://github.com/raphamorim/rio/releases/tag/nightly), today) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
+- [raphamorim/rio](https://github.com/raphamorim/rio) ([v0.5.20](https://github.com/raphamorim/rio/releases/tag/v0.5.20), today) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 - [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.51.21](https://github.com/charmbracelet/catwalk/releases/tag/v0.51.21), today) - 🐈 A collection of LLM inference providers and models 
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v2.0.6](https://github.com/charmbracelet/lipgloss/releases/tag/v2.0.6), today) - Style definitions for nice terminal layouts 👄
 
