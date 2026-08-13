@@ -7,9 +7,9 @@ and infrastructure automation. I spend most of my free time hacking on open sour
 
 #### 👷 Check out what I'm currently working on
 
-- [aymanbagabas/drift](https://github.com/aymanbagabas/drift) - 👾 A git diff pager that actually wants to be looked at (1 day ago)
-- [aymanbagabas/scoop-bucket](https://github.com/aymanbagabas/scoop-bucket) - Scoop Bucket (2 days ago)
-- [aymanbagabas/homebrew-tap](https://github.com/aymanbagabas/homebrew-tap) - aymanbagabas/tap (2 days ago)
+- [aymanbagabas/drift](https://github.com/aymanbagabas/drift) - 👾 A git diff pager that actually wants to be looked at (2 days ago)
+- [aymanbagabas/scoop-bucket](https://github.com/aymanbagabas/scoop-bucket) - Scoop Bucket (3 days ago)
+- [aymanbagabas/homebrew-tap](https://github.com/aymanbagabas/homebrew-tap) - aymanbagabas/tap (3 days ago)
 
 #### 🌱 Latest projects
 
@@ -19,9 +19,9 @@ and infrastructure automation. I spend most of my free time hacking on open sour
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.89.0](https://github.com/charmbracelet/crush/releases/tag/v0.89.0), today) - Glamourous agentic coding for all 💘
-- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.51.23](https://github.com/charmbracelet/catwalk/releases/tag/v0.51.23), today) - 🐈 A collection of LLM inference providers and models 
-- [raphamorim/rio](https://github.com/raphamorim/rio) ([v0.5.23](https://github.com/raphamorim/rio/releases/tag/v0.5.23), today) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), today) - Glamourous agentic coding for all 💘
+- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.51.23](https://github.com/charmbracelet/catwalk/releases/tag/v0.51.23), 1 day ago) - 🐈 A collection of LLM inference providers and models 
+- [raphamorim/rio](https://github.com/raphamorim/rio) ([v0.5.23](https://github.com/raphamorim/rio/releases/tag/v0.5.23), 1 day ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 
 #### 📜 Recent blog posts
 
@@ -31,8 +31,8 @@ and infrastructure automation. I spend most of my free time hacking on open sour
 
 #### ⭐ Recent Stars
 
-- [rockorager/comview](https://github.com/rockorager/comview) - the best diff viewer ever made (6 days ago)
-- [aymanbagabas/drift](https://github.com/aymanbagabas/drift) - 👾 A git diff pager that actually wants to be looked at (6 days ago)
+- [rockorager/comview](https://github.com/rockorager/comview) - the best diff viewer ever made (1 week ago)
+- [aymanbagabas/drift](https://github.com/aymanbagabas/drift) - 👾 A git diff pager that actually wants to be looked at (1 week ago)
 - [aymanbagabas/uncurses](https://github.com/aymanbagabas/uncurses) - A terminal toolkit library for building UIs (2 weeks ago)
 
 
