@@ -8,8 +8,8 @@ and infrastructure automation. I spend most of my free time hacking on open sour
 #### 👷 Check out what I'm currently working on
 
 - [aymanbagabas/uncurses](https://github.com/aymanbagabas/uncurses) - A terminal toolkit library for building UIs (today)
-- [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers. (2 days ago)
-- [aymanbagabas/drift](https://github.com/aymanbagabas/drift) - 👾 A git diff pager that actually wants to be looked at (4 days ago)
+- [aymanbagabas/shcopy](https://github.com/aymanbagabas/shcopy) - 📋 Copy text to your system clipboard locally and remotely using ANSI OSC52 sequence (today)
+- [aymanbagabas/drift](https://github.com/aymanbagabas/drift) - 👾 A git diff pager that actually wants to be looked at (today)
 
 #### 🌱 Latest projects
 
