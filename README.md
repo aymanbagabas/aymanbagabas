@@ -9,7 +9,7 @@ and infrastructure automation. I spend most of my free time hacking on open sour
 
 - [aymanbagabas/homebrew-tap](https://github.com/aymanbagabas/homebrew-tap) - aymanbagabas/tap (today)
 - [aymanbagabas/aymanbagabas.github.io](https://github.com/aymanbagabas/aymanbagabas.github.io) - Personal website (today)
-- [aymanbagabas/nur](https://github.com/aymanbagabas/nur) - Ayman&#39;s own Nix User Repository (today)
+- [aymanbagabas/nur](https://github.com/aymanbagabas/nur) - Ayman&#39;s Nix User Repository (today)
 
 #### 🌱 Latest projects
 
@@ -19,7 +19,7 @@ and infrastructure automation. I spend most of my free time hacking on open sour
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.51.28](https://github.com/charmbracelet/catwalk/releases/tag/v0.51.28), today) - 🐈 A collection of LLM inference providers and models 
+- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.51.29](https://github.com/charmbracelet/catwalk/releases/tag/v0.51.29), today) - 🐈 A collection of LLM inference providers and models 
 - [aymanbagabas/drift](https://github.com/aymanbagabas/drift) ([v0.0.6](https://github.com/aymanbagabas/drift/releases/tag/v0.0.6), today) - 👾 A git diff pager that actually wants to be looked at
 - [aymanbagabas/uncurses](https://github.com/aymanbagabas/uncurses) ([v0.0.2](https://github.com/aymanbagabas/uncurses/releases/tag/v0.0.2), today) - A terminal toolkit library for building UIs
 
