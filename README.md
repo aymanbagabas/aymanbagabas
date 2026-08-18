@@ -7,9 +7,9 @@ and infrastructure automation. I spend most of my free time hacking on open sour
 
 #### 👷 Check out what I'm currently working on
 
-- [aymanbagabas/homebrew-tap](https://github.com/aymanbagabas/homebrew-tap) - aymanbagabas/tap (today)
-- [aymanbagabas/aymanbagabas.github.io](https://github.com/aymanbagabas/aymanbagabas.github.io) - Personal website (today)
-- [aymanbagabas/nur](https://github.com/aymanbagabas/nur) - Ayman&#39;s Nix User Repository (today)
+- [aymanbagabas/homebrew-tap](https://github.com/aymanbagabas/homebrew-tap) - aymanbagabas/tap (1 day ago)
+- [aymanbagabas/aymanbagabas.github.io](https://github.com/aymanbagabas/aymanbagabas.github.io) - Personal website (1 day ago)
+- [aymanbagabas/nur](https://github.com/aymanbagabas/nur) - Ayman&#39;s Nix User Repository (1 day ago)
 
 #### 🌱 Latest projects
 
@@ -19,9 +19,9 @@ and infrastructure automation. I spend most of my free time hacking on open sour
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.51.31](https://github.com/charmbracelet/catwalk/releases/tag/v0.51.31), today) - 🐈 A collection of LLM inference providers and models 
-- [aymanbagabas/drift](https://github.com/aymanbagabas/drift) ([v0.0.6](https://github.com/aymanbagabas/drift/releases/tag/v0.0.6), today) - 👾 A git diff pager that actually wants to be looked at
-- [aymanbagabas/uncurses](https://github.com/aymanbagabas/uncurses) ([v0.0.2](https://github.com/aymanbagabas/uncurses/releases/tag/v0.0.2), today) - A terminal toolkit library for building UIs
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), today) - Glamourous agentic coding for all 💘
+- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.51.31](https://github.com/charmbracelet/catwalk/releases/tag/v0.51.31), 1 day ago) - 🐈 A collection of LLM inference providers and models 
+- [aymanbagabas/drift](https://github.com/aymanbagabas/drift) ([v0.0.6](https://github.com/aymanbagabas/drift/releases/tag/v0.0.6), 1 day ago) - 👾 A git diff pager that actually wants to be looked at
 
 #### 📜 Recent blog posts
 
