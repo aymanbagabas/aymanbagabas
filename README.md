@@ -7,9 +7,9 @@ and infrastructure automation. I spend most of my free time hacking on open sour
 
 #### 👷 Check out what I'm currently working on
 
-- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (today)
-- [aymanbagabas/uncurses](https://github.com/aymanbagabas/uncurses) - A terminal toolkit library for building UIs (today)
-- [aymanbagabas/homebrew-tap](https://github.com/aymanbagabas/homebrew-tap) - aymanbagabas/tap (2 days ago)
+- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (1 day ago)
+- [aymanbagabas/uncurses](https://github.com/aymanbagabas/uncurses) - A terminal toolkit library for building UIs (1 day ago)
+- [aymanbagabas/homebrew-tap](https://github.com/aymanbagabas/homebrew-tap) - aymanbagabas/tap (3 days ago)
 
 #### 🌱 Latest projects
 
@@ -19,9 +19,9 @@ and infrastructure automation. I spend most of my free time hacking on open sour
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.90.0](https://github.com/charmbracelet/crush/releases/tag/v0.90.0), today) - Glamourous agentic coding for all 💘
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v2.0.9](https://github.com/charmbracelet/bubbletea/releases/tag/v2.0.9), today) - A powerful little TUI framework 🏗
-- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.52.1](https://github.com/charmbracelet/catwalk/releases/tag/v0.52.1), today) - 🐈 A collection of LLM inference providers and models 
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), today) - Glamourous agentic coding for all 💘
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v2.0.9](https://github.com/charmbracelet/bubbletea/releases/tag/v2.0.9), 1 day ago) - A powerful little TUI framework 🏗
+- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.52.1](https://github.com/charmbracelet/catwalk/releases/tag/v0.52.1), 1 day ago) - 🐈 A collection of LLM inference providers and models 
 
 #### 📜 Recent blog posts
 
@@ -31,8 +31,8 @@ and infrastructure automation. I spend most of my free time hacking on open sour
 
 #### ⭐ Recent Stars
 
-- [rockorager/comview](https://github.com/rockorager/comview) - the best diff viewer ever made (1 week ago)
-- [aymanbagabas/drift](https://github.com/aymanbagabas/drift) - 👾 A git diff pager that actually wants to be looked at (1 week ago)
+- [rockorager/comview](https://github.com/rockorager/comview) - the best diff viewer ever made (2 weeks ago)
+- [aymanbagabas/drift](https://github.com/aymanbagabas/drift) - 👾 A git diff pager that actually wants to be looked at (2 weeks ago)
 - [aymanbagabas/uncurses](https://github.com/aymanbagabas/uncurses) - A terminal toolkit library for building UIs (3 weeks ago)
 
 
