@@ -19,9 +19,9 @@ and infrastructure automation. I spend most of my free time hacking on open sour
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.52.2](https://github.com/charmbracelet/catwalk/releases/tag/v0.52.2), today) - 🐈 A collection of LLM inference providers and models 
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v2.0.0](https://github.com/charmbracelet/gum/releases/tag/v2.0.0), today) - A tool for glamorous shell scripts 🎀
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), today) - Glamourous agentic coding for all 💘
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v2.0.9](https://github.com/charmbracelet/bubbletea/releases/tag/v2.0.9), 1 day ago) - A powerful little TUI framework 🏗
 
 #### 📜 Recent blog posts
 
