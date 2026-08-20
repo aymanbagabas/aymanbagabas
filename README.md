@@ -7,9 +7,9 @@ and infrastructure automation. I spend most of my free time hacking on open sour
 
 #### 👷 Check out what I'm currently working on
 
-- [aymanbagabas/uncurses](https://github.com/aymanbagabas/uncurses) - A terminal toolkit library for building UIs (today)
-- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (1 day ago)
-- [aymanbagabas/homebrew-tap](https://github.com/aymanbagabas/homebrew-tap) - aymanbagabas/tap (3 days ago)
+- [aymanbagabas/scoop-bucket](https://github.com/aymanbagabas/scoop-bucket) - Scoop Bucket (today)
+- [aymanbagabas/nur](https://github.com/aymanbagabas/nur) - Ayman&#39;s Nix User Repository (today)
+- [aymanbagabas/drift](https://github.com/aymanbagabas/drift) - 👾 A git diff pager that actually wants to be looked at (today)
 
 #### 🌱 Latest projects
 
@@ -19,9 +19,9 @@ and infrastructure automation. I spend most of my free time hacking on open sour
 
 #### 🔭 Latest releases I've contributed to
 
+- [aymanbagabas/drift](https://github.com/aymanbagabas/drift) ([v0.0.8](https://github.com/aymanbagabas/drift/releases/tag/v0.0.8), today) - 👾 A git diff pager that actually wants to be looked at
+- [aymanbagabas/uncurses](https://github.com/aymanbagabas/uncurses) ([v0.0.3](https://github.com/aymanbagabas/uncurses/releases/tag/v0.0.3), today) - A terminal toolkit library for building UIs
 - [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.52.2](https://github.com/charmbracelet/catwalk/releases/tag/v0.52.2), today) - 🐈 A collection of LLM inference providers and models 
-- [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v2.0.0](https://github.com/charmbracelet/gum/releases/tag/v2.0.0), today) - A tool for glamorous shell scripts 🎀
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), today) - Glamourous agentic coding for all 💘
 
 #### 📜 Recent blog posts
 
