@@ -19,7 +19,7 @@ and infrastructure automation. I spend most of my free time hacking on open sour
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.52.3](https://github.com/charmbracelet/catwalk/releases/tag/v0.52.3), today) - 🐈 A collection of LLM inference providers and models 
+- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.52.4](https://github.com/charmbracelet/catwalk/releases/tag/v0.52.4), today) - 🐈 A collection of LLM inference providers and models 
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v2.2.0](https://github.com/charmbracelet/bubbles/releases/tag/v2.2.0), today) - TUI components for Bubble Tea 🫧
 - [opt-nc/geol](https://github.com/opt-nc/geol) ([v2.21.0](https://github.com/opt-nc/geol/releases/tag/v2.21.0), today) - Efficiently show and monitor end-of-life dates for a number of products in your terminal and CI using endoflife.date API
 
