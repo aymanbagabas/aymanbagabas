@@ -19,9 +19,9 @@ and infrastructure automation. I spend most of my free time hacking on open sour
 
 #### 🔭 Latest releases I've contributed to
 
+- [opt-nc/geol](https://github.com/opt-nc/geol) ([v2.21.0](https://github.com/opt-nc/geol/releases/tag/v2.21.0), today) - Efficiently show and monitor end-of-life dates for a number of products in your terminal and CI using endoflife.date API
 - [aymanbagabas/drift](https://github.com/aymanbagabas/drift) ([v0.0.8](https://github.com/aymanbagabas/drift/releases/tag/v0.0.8), 1 day ago) - 👾 A git diff pager that actually wants to be looked at
 - [aymanbagabas/uncurses](https://github.com/aymanbagabas/uncurses) ([v0.0.3](https://github.com/aymanbagabas/uncurses/releases/tag/v0.0.3), 1 day ago) - A terminal toolkit library for building UIs
-- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.52.2](https://github.com/charmbracelet/catwalk/releases/tag/v0.52.2), 1 day ago) - 🐈 A collection of LLM inference providers and models 
 
 #### 📜 Recent blog posts
 
