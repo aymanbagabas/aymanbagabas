@@ -19,9 +19,9 @@ and infrastructure automation. I spend most of my free time hacking on open sour
 
 #### 🔭 Latest releases I've contributed to
 
+- [taigrr/trophy](https://github.com/taigrr/trophy) ([v1.4.1](https://github.com/taigrr/trophy/releases/tag/v1.4.1), today) - Terminal 3D Model Viewer - View 3D model files in your terminal
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.91.0](https://github.com/charmbracelet/crush/releases/tag/v0.91.0), today) - Glamourous agentic coding for all 💘
 - [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.52.6](https://github.com/charmbracelet/catwalk/releases/tag/v0.52.6), 1 day ago) - 🐈 A collection of LLM inference providers and models 
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v2.2.0](https://github.com/charmbracelet/bubbles/releases/tag/v2.2.0), 1 day ago) - TUI components for Bubble Tea 🫧
 
 #### 📜 Recent blog posts
 
