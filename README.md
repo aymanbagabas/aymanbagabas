@@ -7,9 +7,9 @@ and infrastructure automation. I spend most of my free time hacking on open sour
 
 #### 👷 Check out what I'm currently working on
 
-- [aymanbagabas/scoop-bucket](https://github.com/aymanbagabas/scoop-bucket) - Scoop Bucket (1 day ago)
-- [aymanbagabas/nur](https://github.com/aymanbagabas/nur) - Ayman&#39;s Nix User Repository (1 day ago)
-- [aymanbagabas/drift](https://github.com/aymanbagabas/drift) - 👾 A git diff pager that actually wants to be looked at (1 day ago)
+- [aymanbagabas/scoop-bucket](https://github.com/aymanbagabas/scoop-bucket) - Scoop Bucket (2 days ago)
+- [aymanbagabas/nur](https://github.com/aymanbagabas/nur) - Ayman&#39;s Nix User Repository (2 days ago)
+- [aymanbagabas/drift](https://github.com/aymanbagabas/drift) - 👾 A git diff pager that actually wants to be looked at (2 days ago)
 
 #### 🌱 Latest projects
 
@@ -19,9 +19,9 @@ and infrastructure automation. I spend most of my free time hacking on open sour
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.52.6](https://github.com/charmbracelet/catwalk/releases/tag/v0.52.6), today) - 🐈 A collection of LLM inference providers and models 
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v2.2.0](https://github.com/charmbracelet/bubbles/releases/tag/v2.2.0), today) - TUI components for Bubble Tea 🫧
-- [opt-nc/geol](https://github.com/opt-nc/geol) ([v2.21.0](https://github.com/opt-nc/geol/releases/tag/v2.21.0), today) - Efficiently show and monitor end-of-life dates for a number of products in your terminal and CI using endoflife.date API
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), today) - Glamourous agentic coding for all 💘
+- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.52.6](https://github.com/charmbracelet/catwalk/releases/tag/v0.52.6), 1 day ago) - 🐈 A collection of LLM inference providers and models 
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v2.2.0](https://github.com/charmbracelet/bubbles/releases/tag/v2.2.0), 1 day ago) - TUI components for Bubble Tea 🫧
 
 #### 📜 Recent blog posts
 
