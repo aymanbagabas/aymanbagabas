@@ -7,9 +7,9 @@ and infrastructure automation. I spend most of my free time hacking on open sour
 
 #### 👷 Check out what I'm currently working on
 
-- [aymanbagabas/scoop-bucket](https://github.com/aymanbagabas/scoop-bucket) - Scoop Bucket (2 days ago)
-- [aymanbagabas/nur](https://github.com/aymanbagabas/nur) - Ayman&#39;s Nix User Repository (2 days ago)
-- [aymanbagabas/drift](https://github.com/aymanbagabas/drift) - 👾 A git diff pager that actually wants to be looked at (2 days ago)
+- [aymanbagabas/scoop-bucket](https://github.com/aymanbagabas/scoop-bucket) - Scoop Bucket (3 days ago)
+- [aymanbagabas/nur](https://github.com/aymanbagabas/nur) - Ayman&#39;s Nix User Repository (3 days ago)
+- [aymanbagabas/drift](https://github.com/aymanbagabas/drift) - 👾 A git diff pager that actually wants to be looked at (3 days ago)
 
 #### 🌱 Latest projects
 
@@ -19,9 +19,9 @@ and infrastructure automation. I spend most of my free time hacking on open sour
 
 #### 🔭 Latest releases I've contributed to
 
-- [taigrr/trophy](https://github.com/taigrr/trophy) ([v1.4.1](https://github.com/taigrr/trophy/releases/tag/v1.4.1), today) - Terminal 3D Model Viewer - View 3D model files in your terminal
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.91.0](https://github.com/charmbracelet/crush/releases/tag/v0.91.0), today) - Glamourous agentic coding for all 💘
-- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.52.6](https://github.com/charmbracelet/catwalk/releases/tag/v0.52.6), 1 day ago) - 🐈 A collection of LLM inference providers and models 
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), today) - Glamourous agentic coding for all 💘
+- [taigrr/trophy](https://github.com/taigrr/trophy) ([v1.4.1](https://github.com/taigrr/trophy/releases/tag/v1.4.1), 1 day ago) - Terminal 3D Model Viewer - View 3D model files in your terminal
+- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.52.6](https://github.com/charmbracelet/catwalk/releases/tag/v0.52.6), 2 days ago) - 🐈 A collection of LLM inference providers and models 
 
 #### 📜 Recent blog posts
 
