@@ -19,9 +19,9 @@ and infrastructure automation. I spend most of my free time hacking on open sour
 
 #### 🔭 Latest releases I've contributed to
 
+- [raphamorim/rio](https://github.com/raphamorim/rio) ([v0.5.26](https://github.com/raphamorim/rio/releases/tag/v0.5.26), today) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), today) - Glamourous agentic coding for all 💘
 - [taigrr/trophy](https://github.com/taigrr/trophy) ([v1.4.1](https://github.com/taigrr/trophy/releases/tag/v1.4.1), 1 day ago) - Terminal 3D Model Viewer - View 3D model files in your terminal
-- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.52.6](https://github.com/charmbracelet/catwalk/releases/tag/v0.52.6), 2 days ago) - 🐈 A collection of LLM inference providers and models 
 
 #### 📜 Recent blog posts
 
