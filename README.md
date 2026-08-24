@@ -19,9 +19,9 @@ and infrastructure automation. I spend most of my free time hacking on open sour
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v2.2.1](https://github.com/charmbracelet/bubbles/releases/tag/v2.2.1), today) - TUI components for Bubble Tea 🫧
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), today) - Glamourous agentic coding for all 💘
 - [raphamorim/rio](https://github.com/raphamorim/rio) ([v0.5.26](https://github.com/raphamorim/rio/releases/tag/v0.5.26), 1 day ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
-- [taigrr/trophy](https://github.com/taigrr/trophy) ([v1.4.1](https://github.com/taigrr/trophy/releases/tag/v1.4.1), 2 days ago) - Terminal 3D Model Viewer - View 3D model files in your terminal
 
 #### 📜 Recent blog posts
 
