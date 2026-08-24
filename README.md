@@ -7,9 +7,9 @@ and infrastructure automation. I spend most of my free time hacking on open sour
 
 #### 👷 Check out what I'm currently working on
 
-- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (today)
-- [aymanbagabas/scoop-bucket](https://github.com/aymanbagabas/scoop-bucket) - Scoop Bucket (3 days ago)
-- [aymanbagabas/nur](https://github.com/aymanbagabas/nur) - Ayman&#39;s Nix User Repository (3 days ago)
+- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (1 day ago)
+- [aymanbagabas/scoop-bucket](https://github.com/aymanbagabas/scoop-bucket) - Scoop Bucket (4 days ago)
+- [aymanbagabas/nur](https://github.com/aymanbagabas/nur) - Ayman&#39;s Nix User Repository (4 days ago)
 
 #### 🌱 Latest projects
 
@@ -19,9 +19,9 @@ and infrastructure automation. I spend most of my free time hacking on open sour
 
 #### 🔭 Latest releases I've contributed to
 
-- [raphamorim/rio](https://github.com/raphamorim/rio) ([v0.5.26](https://github.com/raphamorim/rio/releases/tag/v0.5.26), today) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), today) - Glamourous agentic coding for all 💘
-- [taigrr/trophy](https://github.com/taigrr/trophy) ([v1.4.1](https://github.com/taigrr/trophy/releases/tag/v1.4.1), 1 day ago) - Terminal 3D Model Viewer - View 3D model files in your terminal
+- [raphamorim/rio](https://github.com/raphamorim/rio) ([v0.5.26](https://github.com/raphamorim/rio/releases/tag/v0.5.26), 1 day ago) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
+- [taigrr/trophy](https://github.com/taigrr/trophy) ([v1.4.1](https://github.com/taigrr/trophy/releases/tag/v1.4.1), 2 days ago) - Terminal 3D Model Viewer - View 3D model files in your terminal
 
 #### 📜 Recent blog posts
 
@@ -33,7 +33,7 @@ and infrastructure automation. I spend most of my free time hacking on open sour
 
 - [rockorager/comview](https://github.com/rockorager/comview) - the best diff viewer ever made (2 weeks ago)
 - [aymanbagabas/drift](https://github.com/aymanbagabas/drift) - 👾 A git diff pager that actually wants to be looked at (2 weeks ago)
-- [aymanbagabas/uncurses](https://github.com/aymanbagabas/uncurses) - A terminal toolkit library for building UIs (3 weeks ago)
+- [aymanbagabas/uncurses](https://github.com/aymanbagabas/uncurses) - A terminal toolkit library for building UIs (4 weeks ago)
 
 
 #### ❤️ These awesome people sponsor me (thank you!)
