@@ -7,9 +7,9 @@ and infrastructure automation. I spend most of my free time hacking on open sour
 
 #### 👷 Check out what I'm currently working on
 
-- [aymanbagabas/uncurses](https://github.com/aymanbagabas/uncurses) - A terminal toolkit library for building UIs (today)
-- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (1 day ago)
-- [aymanbagabas/nur](https://github.com/aymanbagabas/nur) - Ayman&#39;s Nix User Repository (4 days ago)
+- [aymanbagabas/uncurses](https://github.com/aymanbagabas/uncurses) - A terminal toolkit library for building UIs (1 day ago)
+- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (2 days ago)
+- [aymanbagabas/nur](https://github.com/aymanbagabas/nur) - Ayman&#39;s Nix User Repository (5 days ago)
 
 #### 🌱 Latest projects
 
@@ -19,9 +19,9 @@ and infrastructure automation. I spend most of my free time hacking on open sour
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.52.8](https://github.com/charmbracelet/catwalk/releases/tag/v0.52.8), today) - 🐈 A collection of LLM inference providers and models 
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v2.2.1](https://github.com/charmbracelet/bubbles/releases/tag/v2.2.1), today) - TUI components for Bubble Tea 🫧
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), today) - Glamourous agentic coding for all 💘
+- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.52.8](https://github.com/charmbracelet/catwalk/releases/tag/v0.52.8), 1 day ago) - 🐈 A collection of LLM inference providers and models 
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v2.2.1](https://github.com/charmbracelet/bubbles/releases/tag/v2.2.1), 1 day ago) - TUI components for Bubble Tea 🫧
 
 #### 📜 Recent blog posts
 
