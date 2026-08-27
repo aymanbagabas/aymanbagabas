@@ -7,7 +7,7 @@ and infrastructure automation. I spend most of my free time hacking on open sour
 
 #### 👷 Check out what I'm currently working on
 
-- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (1 day ago)
+- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (today)
 - [aymanbagabas/uncurses](https://github.com/aymanbagabas/uncurses) - A terminal toolkit library for building UIs (3 days ago)
 - [caarlos0/prowl](https://github.com/caarlos0/prowl) - 🦉 A tiny terminal radar for your GitHub pull requests. (1 week ago)
 
@@ -19,9 +19,9 @@ and infrastructure automation. I spend most of my free time hacking on open sour
 
 #### 🔭 Latest releases I've contributed to
 
+- [opt-nc/geol](https://github.com/opt-nc/geol) ([v2.21.2-develop.1](https://github.com/opt-nc/geol/releases/tag/v2.21.2-develop.1), today) - Efficiently show and monitor end-of-life dates for a number of products in your terminal and CI using endoflife.date API
+- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.52.13](https://github.com/charmbracelet/catwalk/releases/tag/v0.52.13), today) - 🐈 A collection of LLM inference providers and models 
 - [caarlos0/prowl](https://github.com/caarlos0/prowl) ([v1.12.1](https://github.com/caarlos0/prowl/releases/tag/v1.12.1), today) - 🦉 A tiny terminal radar for your GitHub pull requests.
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), today) - Glamourous agentic coding for all 💘
-- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.52.12](https://github.com/charmbracelet/catwalk/releases/tag/v0.52.12), 1 day ago) - 🐈 A collection of LLM inference providers and models 
 
 #### 📜 Recent blog posts
 
