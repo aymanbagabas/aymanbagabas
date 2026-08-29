@@ -7,8 +7,8 @@ and infrastructure automation. I spend most of my free time hacking on open sour
 
 #### 👷 Check out what I'm currently working on
 
+- [aymanbagabas/uncurses](https://github.com/aymanbagabas/uncurses) - A terminal toolkit library for building UIs (today)
 - [aymanbagabas/aymanbagabas.github.io](https://github.com/aymanbagabas/aymanbagabas.github.io) - Personal website (1 day ago)
-- [aymanbagabas/uncurses](https://github.com/aymanbagabas/uncurses) - A terminal toolkit library for building UIs (1 day ago)
 - [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (2 days ago)
 
 #### 🌱 Latest projects
@@ -19,9 +19,9 @@ and infrastructure automation. I spend most of my free time hacking on open sour
 
 #### 🔭 Latest releases I've contributed to
 
+- [aymanbagabas/uncurses](https://github.com/aymanbagabas/uncurses) ([v0.0.4](https://github.com/aymanbagabas/uncurses/releases/tag/v0.0.4), today) - A terminal toolkit library for building UIs
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), today) - Glamourous agentic coding for all 💘
 - [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.52.15](https://github.com/charmbracelet/catwalk/releases/tag/v0.52.15), 1 day ago) - 🐈 A collection of LLM inference providers and models 
-- [opt-nc/geol](https://github.com/opt-nc/geol) ([v2.21.2](https://github.com/opt-nc/geol/releases/tag/v2.21.2), 1 day ago) - Efficiently show and monitor end-of-life dates for a number of products in your terminal and CI using endoflife.date API
 
 #### 📜 Recent blog posts
 
