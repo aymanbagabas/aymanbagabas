@@ -19,9 +19,9 @@ and infrastructure automation. I spend most of my free time hacking on open sour
 
 #### 🔭 Latest releases I've contributed to
 
+- [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) ([v16.0.0](https://github.com/docker-mailserver/docker-mailserver/releases/tag/v16.0.0), today) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), today) - Glamourous agentic coding for all 💘
 - [aymanbagabas/uncurses](https://github.com/aymanbagabas/uncurses) ([v0.0.4](https://github.com/aymanbagabas/uncurses/releases/tag/v0.0.4), 1 day ago) - A terminal toolkit library for building UIs
-- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.52.15](https://github.com/charmbracelet/catwalk/releases/tag/v0.52.15), 2 days ago) - 🐈 A collection of LLM inference providers and models 
 
 #### 📜 Recent blog posts
 
