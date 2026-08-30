@@ -19,9 +19,9 @@ and infrastructure automation. I spend most of my free time hacking on open sour
 
 #### 🔭 Latest releases I've contributed to
 
+- [raphamorim/rio](https://github.com/raphamorim/rio) ([v0.5.27](https://github.com/raphamorim/rio/releases/tag/v0.5.27), today) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 - [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) ([v16.0.0](https://github.com/docker-mailserver/docker-mailserver/releases/tag/v16.0.0), today) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), today) - Glamourous agentic coding for all 💘
-- [aymanbagabas/uncurses](https://github.com/aymanbagabas/uncurses) ([v0.0.4](https://github.com/aymanbagabas/uncurses/releases/tag/v0.0.4), 1 day ago) - A terminal toolkit library for building UIs
 
 #### 📜 Recent blog posts
 
