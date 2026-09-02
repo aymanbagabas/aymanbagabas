@@ -19,9 +19,9 @@ and infrastructure automation. I spend most of my free time hacking on open sour
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.52.21](https://github.com/charmbracelet/catwalk/releases/tag/v0.52.21), 1 day ago) - 🐈 A collection of LLM inference providers and models 
+- [caarlos0/prowl](https://github.com/caarlos0/prowl) ([v1.13.0](https://github.com/caarlos0/prowl/releases/tag/v1.13.0), today) - 🦉 A tiny terminal radar for your GitHub pull requests.
+- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.52.22](https://github.com/charmbracelet/catwalk/releases/tag/v0.52.22), today) - 🐈 A collection of LLM inference providers and models 
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), 1 day ago) - Glamourous agentic coding for all 💘
-- [opt-nc/geol](https://github.com/opt-nc/geol) ([v2.21.3-develop.1](https://github.com/opt-nc/geol/releases/tag/v2.21.3-develop.1), 3 days ago) - Efficiently show and monitor end-of-life dates for a number of products in your terminal and CI using endoflife.date API
 
 #### 📜 Recent blog posts
 
