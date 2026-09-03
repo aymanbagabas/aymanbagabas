@@ -19,8 +19,8 @@ and infrastructure automation. I spend most of my free time hacking on open sour
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.52.25](https://github.com/charmbracelet/catwalk/releases/tag/v0.52.25), today) - 🐈 A collection of LLM inference providers and models 
 - [charmbracelet/log](https://github.com/charmbracelet/log) ([v2.0.1](https://github.com/charmbracelet/log/releases/tag/v2.0.1), today) - A minimal, colorful Go logging library 🪵
-- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.52.23](https://github.com/charmbracelet/catwalk/releases/tag/v0.52.23), 1 day ago) - 🐈 A collection of LLM inference providers and models 
 - [caarlos0/prowl](https://github.com/caarlos0/prowl) ([v1.13.0](https://github.com/caarlos0/prowl/releases/tag/v1.13.0), 1 day ago) - 🦉 A tiny terminal radar for your GitHub pull requests.
 
 #### 📜 Recent blog posts
