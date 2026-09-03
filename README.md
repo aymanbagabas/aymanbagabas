@@ -7,9 +7,9 @@ and infrastructure automation. I spend most of my free time hacking on open sour
 
 #### 👷 Check out what I'm currently working on
 
-- [aymanbagabas/uncurses](https://github.com/aymanbagabas/uncurses) - A terminal toolkit library for building UIs (today)
-- [aymanbagabas/aymanbagabas.github.io](https://github.com/aymanbagabas/aymanbagabas.github.io) - Personal website (5 days ago)
-- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (6 days ago)
+- [aymanbagabas/uncurses](https://github.com/aymanbagabas/uncurses) - A terminal toolkit library for building UIs (1 day ago)
+- [aymanbagabas/aymanbagabas.github.io](https://github.com/aymanbagabas/aymanbagabas.github.io) - Personal website (6 days ago)
+- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (1 week ago)
 
 #### 🌱 Latest projects
 
@@ -19,9 +19,9 @@ and infrastructure automation. I spend most of my free time hacking on open sour
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.52.23](https://github.com/charmbracelet/catwalk/releases/tag/v0.52.23), today) - 🐈 A collection of LLM inference providers and models 
-- [caarlos0/prowl](https://github.com/caarlos0/prowl) ([v1.13.0](https://github.com/caarlos0/prowl/releases/tag/v1.13.0), today) - 🦉 A tiny terminal radar for your GitHub pull requests.
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), 1 day ago) - Glamourous agentic coding for all 💘
+- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.52.23](https://github.com/charmbracelet/catwalk/releases/tag/v0.52.23), 1 day ago) - 🐈 A collection of LLM inference providers and models 
+- [caarlos0/prowl](https://github.com/caarlos0/prowl) ([v1.13.0](https://github.com/caarlos0/prowl/releases/tag/v1.13.0), 1 day ago) - 🦉 A tiny terminal radar for your GitHub pull requests.
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), 2 days ago) - Glamourous agentic coding for all 💘
 
 #### 📜 Recent blog posts
 
@@ -31,8 +31,8 @@ and infrastructure automation. I spend most of my free time hacking on open sour
 
 #### ⭐ Recent Stars
 
-- [rockorager/comview](https://github.com/rockorager/comview) - the best diff viewer ever made (3 weeks ago)
-- [aymanbagabas/drift](https://github.com/aymanbagabas/drift) - 👾 A git diff pager that actually wants to be looked at (3 weeks ago)
+- [rockorager/comview](https://github.com/rockorager/comview) - the best diff viewer ever made (4 weeks ago)
+- [aymanbagabas/drift](https://github.com/aymanbagabas/drift) - 👾 A git diff pager that actually wants to be looked at (4 weeks ago)
 - [aymanbagabas/uncurses](https://github.com/aymanbagabas/uncurses) - A terminal toolkit library for building UIs (1 month ago)
 
 
