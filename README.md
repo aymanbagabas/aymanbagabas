@@ -7,8 +7,8 @@ and infrastructure automation. I spend most of my free time hacking on open sour
 
 #### 👷 Check out what I'm currently working on
 
-- [aymanbagabas/uncurses](https://github.com/aymanbagabas/uncurses) - A terminal toolkit library for building UIs (today)
-- [aymanbagabas/aymanbagabas.github.io](https://github.com/aymanbagabas/aymanbagabas.github.io) - Personal website (6 days ago)
+- [aymanbagabas/uncurses](https://github.com/aymanbagabas/uncurses) - A terminal toolkit library for building UIs (1 day ago)
+- [aymanbagabas/aymanbagabas.github.io](https://github.com/aymanbagabas/aymanbagabas.github.io) - Personal website (1 week ago)
 - [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (1 week ago)
 
 #### 🌱 Latest projects
@@ -19,9 +19,9 @@ and infrastructure automation. I spend most of my free time hacking on open sour
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.52.26](https://github.com/charmbracelet/catwalk/releases/tag/v0.52.26), today) - 🐈 A collection of LLM inference providers and models 
-- [charmbracelet/log](https://github.com/charmbracelet/log) ([v2.0.1](https://github.com/charmbracelet/log/releases/tag/v2.0.1), today) - A minimal, colorful Go logging library 🪵
-- [caarlos0/prowl](https://github.com/caarlos0/prowl) ([v1.13.0](https://github.com/caarlos0/prowl/releases/tag/v1.13.0), 1 day ago) - 🦉 A tiny terminal radar for your GitHub pull requests.
+- [opt-nc/geol](https://github.com/opt-nc/geol) ([v2.21.3](https://github.com/opt-nc/geol/releases/tag/v2.21.3), 1 day ago) - Efficiently show and monitor end-of-life dates for a number of products in your terminal and CI using endoflife.date API
+- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.52.26](https://github.com/charmbracelet/catwalk/releases/tag/v0.52.26), 1 day ago) - 🐈 A collection of LLM inference providers and models 
+- [charmbracelet/log](https://github.com/charmbracelet/log) ([v2.0.1](https://github.com/charmbracelet/log/releases/tag/v2.0.1), 1 day ago) - A minimal, colorful Go logging library 🪵
 
 #### 📜 Recent blog posts
 
