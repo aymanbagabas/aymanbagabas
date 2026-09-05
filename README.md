@@ -7,8 +7,8 @@ and infrastructure automation. I spend most of my free time hacking on open sour
 
 #### 👷 Check out what I'm currently working on
 
-- [aymanbagabas/uncurses](https://github.com/aymanbagabas/uncurses) - A terminal toolkit library for building UIs (today)
-- [aymanbagabas/drift](https://github.com/aymanbagabas/drift) - 👾 A git diff pager that actually wants to be looked at (today)
+- [aymanbagabas/uncurses](https://github.com/aymanbagabas/uncurses) - A terminal toolkit library for building UIs (1 day ago)
+- [aymanbagabas/drift](https://github.com/aymanbagabas/drift) - 👾 A git diff pager that actually wants to be looked at (1 day ago)
 - [aymanbagabas/aymanbagabas.github.io](https://github.com/aymanbagabas/aymanbagabas.github.io) - Personal website (1 week ago)
 
 #### 🌱 Latest projects
@@ -19,9 +19,9 @@ and infrastructure automation. I spend most of my free time hacking on open sour
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.52.28](https://github.com/charmbracelet/catwalk/releases/tag/v0.52.28), today) - 🐈 A collection of LLM inference providers and models 
-- [aymanbagabas/uncurses](https://github.com/aymanbagabas/uncurses) ([v0.0.5](https://github.com/aymanbagabas/uncurses/releases/tag/v0.0.5), today) - A terminal toolkit library for building UIs
-- [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) ([v16.0.1](https://github.com/docker-mailserver/docker-mailserver/releases/tag/v16.0.1), today) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
+- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.52.28](https://github.com/charmbracelet/catwalk/releases/tag/v0.52.28), 1 day ago) - 🐈 A collection of LLM inference providers and models 
+- [aymanbagabas/uncurses](https://github.com/aymanbagabas/uncurses) ([v0.0.5](https://github.com/aymanbagabas/uncurses/releases/tag/v0.0.5), 1 day ago) - A terminal toolkit library for building UIs
+- [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) ([v16.0.1](https://github.com/docker-mailserver/docker-mailserver/releases/tag/v16.0.1), 1 day ago) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
 
 #### 📜 Recent blog posts
 
@@ -31,8 +31,8 @@ and infrastructure automation. I spend most of my free time hacking on open sour
 
 #### ⭐ Recent Stars
 
-- [rockorager/comview](https://github.com/rockorager/comview) - the best diff viewer ever made (4 weeks ago)
-- [aymanbagabas/drift](https://github.com/aymanbagabas/drift) - 👾 A git diff pager that actually wants to be looked at (4 weeks ago)
+- [rockorager/comview](https://github.com/rockorager/comview) - the best diff viewer ever made (1 month ago)
+- [aymanbagabas/drift](https://github.com/aymanbagabas/drift) - 👾 A git diff pager that actually wants to be looked at (1 month ago)
 - [aymanbagabas/uncurses](https://github.com/aymanbagabas/uncurses) - A terminal toolkit library for building UIs (1 month ago)
 
 
