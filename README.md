@@ -8,7 +8,7 @@ and infrastructure automation. I spend most of my free time hacking on open sour
 #### 👷 Check out what I'm currently working on
 
 - [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (today)
-- [aymanbagabas/drift](https://github.com/aymanbagabas/drift) - 👾 A git diff pager that actually wants to be looked at (1 day ago)
+- [aymanbagabas/drift](https://github.com/aymanbagabas/drift) - 👾 A git diff pager that actually wants to be looked at (today)
 - [caarlos0/prowl](https://github.com/caarlos0/prowl) - 🦉 A tiny terminal radar for your GitHub pull requests. (5 days ago)
 
 #### 🌱 Latest projects
@@ -19,9 +19,9 @@ and infrastructure automation. I spend most of my free time hacking on open sour
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.52.36](https://github.com/charmbracelet/catwalk/releases/tag/v0.52.36), today) - 🐈 A collection of LLM inference providers and models 
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v2.0.4](https://github.com/charmbracelet/wish/releases/tag/v2.0.4), today) - Make SSH apps, just like that! 💫
 - [caarlos0/prowl](https://github.com/caarlos0/prowl) ([v1.13.1](https://github.com/caarlos0/prowl/releases/tag/v1.13.1), today) - 🦉 A tiny terminal radar for your GitHub pull requests.
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.93.1](https://github.com/charmbracelet/crush/releases/tag/v0.93.1), 1 day ago) - Glamourous agentic coding for all 💘
 
 #### 📜 Recent blog posts
 
