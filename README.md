@@ -7,9 +7,9 @@ and infrastructure automation. I spend most of my free time hacking on open sour
 
 #### 👷 Check out what I'm currently working on
 
-- [aymanbagabas/drift](https://github.com/aymanbagabas/drift) - 👾 A git diff pager that actually wants to be looked at (1 day ago)
-- [aymanbagabas/scoop-bucket](https://github.com/aymanbagabas/scoop-bucket) - Scoop Bucket (1 day ago)
-- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (1 day ago)
+- [aymanbagabas/drift](https://github.com/aymanbagabas/drift) - 👾 A git diff pager that actually wants to be looked at (2 days ago)
+- [aymanbagabas/scoop-bucket](https://github.com/aymanbagabas/scoop-bucket) - Scoop Bucket (2 days ago)
+- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (2 days ago)
 
 #### 🌱 Latest projects
 
@@ -19,9 +19,9 @@ and infrastructure automation. I spend most of my free time hacking on open sour
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.94.1](https://github.com/charmbracelet/crush/releases/tag/v0.94.1), today) - Glamourous agentic coding for all 💘
-- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.52.38](https://github.com/charmbracelet/catwalk/releases/tag/v0.52.38), 1 day ago) - 🐈 A collection of LLM inference providers and models 
-- [aymanbagabas/drift](https://github.com/aymanbagabas/drift) ([v0.0.9](https://github.com/aymanbagabas/drift/releases/tag/v0.0.9), 1 day ago) - 👾 A git diff pager that actually wants to be looked at
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), today) - Glamourous agentic coding for all 💘
+- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.52.38](https://github.com/charmbracelet/catwalk/releases/tag/v0.52.38), 2 days ago) - 🐈 A collection of LLM inference providers and models 
+- [aymanbagabas/drift](https://github.com/aymanbagabas/drift) ([v0.0.9](https://github.com/aymanbagabas/drift/releases/tag/v0.0.9), 2 days ago) - 👾 A git diff pager that actually wants to be looked at
 
 #### 📜 Recent blog posts
 
