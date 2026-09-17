@@ -7,9 +7,9 @@ and infrastructure automation. I spend most of my free time hacking on open sour
 
 #### 👷 Check out what I'm currently working on
 
+- [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers. (today)
 - [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (2 days ago)
-- [aymanbagabas/drift](https://github.com/aymanbagabas/drift) - 👾 A git diff pager that actually wants to be looked at (6 days ago)
-- [aymanbagabas/scoop-bucket](https://github.com/aymanbagabas/scoop-bucket) - Scoop Bucket (6 days ago)
+- [aymanbagabas/homebrew-tap](https://github.com/aymanbagabas/homebrew-tap) - aymanbagabas/tap (6 days ago)
 
 #### 🌱 Latest projects
 
@@ -19,7 +19,7 @@ and infrastructure automation. I spend most of my free time hacking on open sour
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.52.44](https://github.com/charmbracelet/catwalk/releases/tag/v0.52.44), today) - 🐈 A collection of LLM inference providers and models 
+- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.52.45](https://github.com/charmbracelet/catwalk/releases/tag/v0.52.45), today) - 🐈 A collection of LLM inference providers and models 
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), today) - Glamourous agentic coding for all 💘
 - [aymanbagabas/drift](https://github.com/aymanbagabas/drift) ([v0.0.9](https://github.com/aymanbagabas/drift/releases/tag/v0.0.9), 6 days ago) - 👾 A git diff pager that actually wants to be looked at
 
