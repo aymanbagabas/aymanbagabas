@@ -7,8 +7,8 @@ and infrastructure automation. I spend most of my free time hacking on open sour
 
 #### 👷 Check out what I'm currently working on
 
-- [aymanbagabas/uncurses](https://github.com/aymanbagabas/uncurses) - A terminal toolkit library for building UIs (today)
-- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (2 days ago)
+- [aymanbagabas/uncurses](https://github.com/aymanbagabas/uncurses) - A terminal toolkit library for building UIs (1 day ago)
+- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (3 days ago)
 - [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers. (1 week ago)
 
 #### 🌱 Latest projects
@@ -19,9 +19,9 @@ and infrastructure automation. I spend most of my free time hacking on open sour
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.52.56](https://github.com/charmbracelet/catwalk/releases/tag/v0.52.56), today) - 🐈 A collection of LLM inference providers and models 
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), today) - Glamourous agentic coding for all 💘
-- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) ([v0.12.1](https://github.com/charmbracelet/vhs/releases/tag/v0.12.1), 1 day ago) - Your CLI home video recorder 📼
+- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.52.56](https://github.com/charmbracelet/catwalk/releases/tag/v0.52.56), 1 day ago) - 🐈 A collection of LLM inference providers and models 
+- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) ([v0.12.1](https://github.com/charmbracelet/vhs/releases/tag/v0.12.1), 2 days ago) - Your CLI home video recorder 📼
 
 #### 📜 Recent blog posts
 
