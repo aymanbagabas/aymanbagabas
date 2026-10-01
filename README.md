@@ -7,9 +7,9 @@ and infrastructure automation. I spend most of my free time hacking on open sour
 
 #### 👷 Check out what I'm currently working on
 
-- [aymanbagabas/nur](https://github.com/aymanbagabas/nur) - Ayman&#39;s Nix User Repository (1 day ago)
-- [aymanbagabas/scoop-bucket](https://github.com/aymanbagabas/scoop-bucket) - Scoop Bucket (1 day ago)
-- [aymanbagabas/drift](https://github.com/aymanbagabas/drift) - 👾 A git diff pager that actually wants to be looked at (1 day ago)
+- [aymanbagabas/nur](https://github.com/aymanbagabas/nur) - Ayman&#39;s Nix User Repository (2 days ago)
+- [aymanbagabas/scoop-bucket](https://github.com/aymanbagabas/scoop-bucket) - Scoop Bucket (2 days ago)
+- [aymanbagabas/drift](https://github.com/aymanbagabas/drift) - 👾 A git diff pager that actually wants to be looked at (2 days ago)
 
 #### 🌱 Latest projects
 
@@ -19,9 +19,9 @@ and infrastructure automation. I spend most of my free time hacking on open sour
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.52.59](https://github.com/charmbracelet/catwalk/releases/tag/v0.52.59), today) - 🐈 A collection of LLM inference providers and models 
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), today) - Glamourous agentic coding for all 💘
-- [aymanbagabas/drift](https://github.com/aymanbagabas/drift) ([v0.0.10](https://github.com/aymanbagabas/drift/releases/tag/v0.0.10), 1 day ago) - 👾 A git diff pager that actually wants to be looked at
+- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.52.59](https://github.com/charmbracelet/catwalk/releases/tag/v0.52.59), 1 day ago) - 🐈 A collection of LLM inference providers and models 
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), 1 day ago) - Glamourous agentic coding for all 💘
+- [aymanbagabas/drift](https://github.com/aymanbagabas/drift) ([v0.0.10](https://github.com/aymanbagabas/drift/releases/tag/v0.0.10), 2 days ago) - 👾 A git diff pager that actually wants to be looked at
 
 #### 📜 Recent blog posts
 
@@ -31,9 +31,9 @@ and infrastructure automation. I spend most of my free time hacking on open sour
 
 #### ⭐ Recent Stars
 
+- [raphamorim/jam-objc](https://github.com/raphamorim/jam-objc) - Objective-C runtime bindings for Jam (1 day ago)
 - [rockorager/comview](https://github.com/rockorager/comview) - the best diff viewer ever made (1 month ago)
 - [aymanbagabas/drift](https://github.com/aymanbagabas/drift) - 👾 A git diff pager that actually wants to be looked at (1 month ago)
-- [aymanbagabas/uncurses](https://github.com/aymanbagabas/uncurses) - A terminal toolkit library for building UIs (2 months ago)
 
 
 #### ❤️ These awesome people sponsor me (thank you!)
