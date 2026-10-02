@@ -7,9 +7,9 @@ and infrastructure automation. I spend most of my free time hacking on open sour
 
 #### 👷 Check out what I'm currently working on
 
+- [caarlos0/prowl](https://github.com/caarlos0/prowl) - 🦉 A tiny terminal radar for your GitHub pull requests. (today)
 - [aymanbagabas/uncurses](https://github.com/aymanbagabas/uncurses) - A terminal toolkit library for building UIs (1 day ago)
-- [aymanbagabas/scoop-bucket](https://github.com/aymanbagabas/scoop-bucket) - Scoop Bucket (3 days ago)
-- [aymanbagabas/homebrew-tap](https://github.com/aymanbagabas/homebrew-tap) - aymanbagabas/tap (3 days ago)
+- [aymanbagabas/nur](https://github.com/aymanbagabas/nur) - Ayman&#39;s Nix User Repository (3 days ago)
 
 #### 🌱 Latest projects
 
