@@ -19,8 +19,8 @@ and infrastructure automation. I spend most of my free time hacking on open sour
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.52.62](https://github.com/charmbracelet/catwalk/releases/tag/v0.52.62), today) - 🐈 A collection of LLM inference providers and models 
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v2.0.5](https://github.com/charmbracelet/wish/releases/tag/v2.0.5), 1 day ago) - Make SSH apps, just like that! 💫
-- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.52.61](https://github.com/charmbracelet/catwalk/releases/tag/v0.52.61), 1 day ago) - 🐈 A collection of LLM inference providers and models 
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), 1 day ago) - Glamourous agentic coding for all 💘
 
 #### 📜 Recent blog posts
