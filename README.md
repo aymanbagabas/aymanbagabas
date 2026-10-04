@@ -19,9 +19,9 @@ and infrastructure automation. I spend most of my free time hacking on open sour
 
 #### 🔭 Latest releases I've contributed to
 
+- [go-git/go-git](https://github.com/go-git/go-git) ([v5.19.3](https://github.com/go-git/go-git/releases/tag/v5.19.3), today) - A highly extensible Git implementation in pure Go.
 - [caarlos0/prowl](https://github.com/caarlos0/prowl) ([v1.14.0](https://github.com/caarlos0/prowl/releases/tag/v1.14.0), 2 days ago) - 🦉 A tiny terminal radar for your GitHub pull requests.
 - [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.52.62](https://github.com/charmbracelet/catwalk/releases/tag/v0.52.62), 2 days ago) - 🐈 A collection of LLM inference providers and models 
-- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v2.0.5](https://github.com/charmbracelet/wish/releases/tag/v2.0.5), 3 days ago) - Make SSH apps, just like that! 💫
 
 #### 📜 Recent blog posts
 
