@@ -19,9 +19,9 @@ and infrastructure automation. I spend most of my free time hacking on open sour
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), today) - Glamourous agentic coding for all 💘
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.12.3](https://github.com/charmbracelet/soft-serve/releases/tag/v0.12.3), today) - The mighty, self-hostable Git server for the command line🍦
 - [go-git/go-git](https://github.com/go-git/go-git) ([v5.19.3](https://github.com/go-git/go-git/releases/tag/v5.19.3), 1 day ago) - A highly extensible Git implementation in pure Go.
-- [caarlos0/prowl](https://github.com/caarlos0/prowl) ([v1.14.0](https://github.com/caarlos0/prowl/releases/tag/v1.14.0), 3 days ago) - 🦉 A tiny terminal radar for your GitHub pull requests.
 
 #### 📜 Recent blog posts
 
