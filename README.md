@@ -7,9 +7,9 @@ and infrastructure automation. I spend most of my free time hacking on open sour
 
 #### 👷 Check out what I'm currently working on
 
-- [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers. (1 day ago)
-- [aymanbagabas/uncurses](https://github.com/aymanbagabas/uncurses) - A terminal toolkit library for building UIs (1 day ago)
-- [caarlos0/prowl](https://github.com/caarlos0/prowl) - 🦉 A tiny terminal radar for your GitHub pull requests. (2 days ago)
+- [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers. (2 days ago)
+- [aymanbagabas/uncurses](https://github.com/aymanbagabas/uncurses) - A terminal toolkit library for building UIs (2 days ago)
+- [caarlos0/prowl](https://github.com/caarlos0/prowl) - 🦉 A tiny terminal radar for your GitHub pull requests. (3 days ago)
 
 #### 🌱 Latest projects
 
@@ -19,9 +19,9 @@ and infrastructure automation. I spend most of my free time hacking on open sour
 
 #### 🔭 Latest releases I've contributed to
 
-- [go-git/go-git](https://github.com/go-git/go-git) ([v5.19.3](https://github.com/go-git/go-git/releases/tag/v5.19.3), today) - A highly extensible Git implementation in pure Go.
-- [caarlos0/prowl](https://github.com/caarlos0/prowl) ([v1.14.0](https://github.com/caarlos0/prowl/releases/tag/v1.14.0), 2 days ago) - 🦉 A tiny terminal radar for your GitHub pull requests.
-- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.52.62](https://github.com/charmbracelet/catwalk/releases/tag/v0.52.62), 2 days ago) - 🐈 A collection of LLM inference providers and models 
+- [go-git/go-git](https://github.com/go-git/go-git) ([v5.19.3](https://github.com/go-git/go-git/releases/tag/v5.19.3), 1 day ago) - A highly extensible Git implementation in pure Go.
+- [caarlos0/prowl](https://github.com/caarlos0/prowl) ([v1.14.0](https://github.com/caarlos0/prowl/releases/tag/v1.14.0), 3 days ago) - 🦉 A tiny terminal radar for your GitHub pull requests.
+- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.52.62](https://github.com/charmbracelet/catwalk/releases/tag/v0.52.62), 3 days ago) - 🐈 A collection of LLM inference providers and models 
 
 #### 📜 Recent blog posts
 
@@ -31,9 +31,9 @@ and infrastructure automation. I spend most of my free time hacking on open sour
 
 #### ⭐ Recent Stars
 
-- [raphamorim/jam-objc](https://github.com/raphamorim/jam-objc) - Objective-C runtime bindings for Jam (4 days ago)
-- [rockorager/comview](https://github.com/rockorager/comview) - the best diff viewer ever made (1 month ago)
-- [aymanbagabas/drift](https://github.com/aymanbagabas/drift) - 👾 A git diff pager that actually wants to be looked at (1 month ago)
+- [raphamorim/jam-objc](https://github.com/raphamorim/jam-objc) - Objective-C runtime bindings for Jam (5 days ago)
+- [rockorager/comview](https://github.com/rockorager/comview) - the best diff viewer ever made (2 months ago)
+- [aymanbagabas/drift](https://github.com/aymanbagabas/drift) - 👾 A git diff pager that actually wants to be looked at (2 months ago)
 
 
 #### ❤️ These awesome people sponsor me (thank you!)
