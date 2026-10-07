@@ -7,9 +7,9 @@ and infrastructure automation. I spend most of my free time hacking on open sour
 
 #### 👷 Check out what I'm currently working on
 
-- [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers. (3 days ago)
-- [aymanbagabas/uncurses](https://github.com/aymanbagabas/uncurses) - A terminal toolkit library for building UIs (3 days ago)
-- [caarlos0/prowl](https://github.com/caarlos0/prowl) - 🦉 A tiny terminal radar for your GitHub pull requests. (4 days ago)
+- [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers. (4 days ago)
+- [aymanbagabas/uncurses](https://github.com/aymanbagabas/uncurses) - A terminal toolkit library for building UIs (4 days ago)
+- [caarlos0/prowl](https://github.com/caarlos0/prowl) - 🦉 A tiny terminal radar for your GitHub pull requests. (5 days ago)
 
 #### 🌱 Latest projects
 
@@ -19,9 +19,9 @@ and infrastructure automation. I spend most of my free time hacking on open sour
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.52.64](https://github.com/charmbracelet/catwalk/releases/tag/v0.52.64), today) - 🐈 A collection of LLM inference providers and models 
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), 1 day ago) - Glamourous agentic coding for all 💘
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.12.3](https://github.com/charmbracelet/soft-serve/releases/tag/v0.12.3), 1 day ago) - The mighty, self-hostable Git server for the command line🍦
+- [caarlos0/prowl](https://github.com/caarlos0/prowl) ([v1.15.0](https://github.com/caarlos0/prowl/releases/tag/v1.15.0), today) - 🦉 A tiny terminal radar for your GitHub pull requests.
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), today) - Glamourous agentic coding for all 💘
+- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.52.64](https://github.com/charmbracelet/catwalk/releases/tag/v0.52.64), 1 day ago) - 🐈 A collection of LLM inference providers and models 
 
 #### 📜 Recent blog posts
 
@@ -31,7 +31,7 @@ and infrastructure automation. I spend most of my free time hacking on open sour
 
 #### ⭐ Recent Stars
 
-- [raphamorim/jam-objc](https://github.com/raphamorim/jam-objc) - Objective-C runtime bindings for Jam (6 days ago)
+- [raphamorim/jam-objc](https://github.com/raphamorim/jam-objc) - Objective-C runtime bindings for Jam (1 week ago)
 - [rockorager/comview](https://github.com/rockorager/comview) - the best diff viewer ever made (2 months ago)
 - [aymanbagabas/drift](https://github.com/aymanbagabas/drift) - 👾 A git diff pager that actually wants to be looked at (2 months ago)
 
