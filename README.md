@@ -19,7 +19,7 @@ and infrastructure automation. I spend most of my free time hacking on open sour
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.52.65](https://github.com/charmbracelet/catwalk/releases/tag/v0.52.65), today) - 🐈 A collection of LLM inference providers and models 
+- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.52.66](https://github.com/charmbracelet/catwalk/releases/tag/v0.52.66), today) - 🐈 A collection of LLM inference providers and models 
 - [caarlos0/prowl](https://github.com/caarlos0/prowl) ([v1.15.0](https://github.com/caarlos0/prowl/releases/tag/v1.15.0), today) - 🦉 A tiny terminal radar for your GitHub pull requests.
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), today) - Glamourous agentic coding for all 💘
 
