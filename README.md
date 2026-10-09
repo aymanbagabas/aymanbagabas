@@ -7,9 +7,9 @@ and infrastructure automation. I spend most of my free time hacking on open sour
 
 #### 👷 Check out what I'm currently working on
 
-- [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers. (5 days ago)
-- [aymanbagabas/uncurses](https://github.com/aymanbagabas/uncurses) - A terminal toolkit library for building UIs (5 days ago)
-- [caarlos0/prowl](https://github.com/caarlos0/prowl) - 🦉 A tiny terminal radar for your GitHub pull requests. (6 days ago)
+- [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers. (6 days ago)
+- [aymanbagabas/uncurses](https://github.com/aymanbagabas/uncurses) - A terminal toolkit library for building UIs (6 days ago)
+- [caarlos0/prowl](https://github.com/caarlos0/prowl) - 🦉 A tiny terminal radar for your GitHub pull requests. (1 week ago)
 
 #### 🌱 Latest projects
 
@@ -19,9 +19,9 @@ and infrastructure automation. I spend most of my free time hacking on open sour
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.98.0](https://github.com/charmbracelet/crush/releases/tag/v0.98.0), today) - Glamourous agentic coding for all 💘
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v2.1.0](https://github.com/charmbracelet/bubbletea/releases/tag/v2.1.0), today) - A powerful little TUI framework 🏗
-- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.52.67](https://github.com/charmbracelet/catwalk/releases/tag/v0.52.67), 1 day ago) - 🐈 A collection of LLM inference providers and models 
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.98.0](https://github.com/charmbracelet/crush/releases/tag/v0.98.0), 1 day ago) - Glamourous agentic coding for all 💘
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v2.1.0](https://github.com/charmbracelet/bubbletea/releases/tag/v2.1.0), 1 day ago) - A powerful little TUI framework 🏗
+- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.52.67](https://github.com/charmbracelet/catwalk/releases/tag/v0.52.67), 2 days ago) - 🐈 A collection of LLM inference providers and models 
 
 #### 📜 Recent blog posts
 
