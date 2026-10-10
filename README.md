@@ -7,9 +7,9 @@ and infrastructure automation. I spend most of my free time hacking on open sour
 
 #### 👷 Check out what I'm currently working on
 
+- [aymanbagabas/homebrew-tap](https://github.com/aymanbagabas/homebrew-tap) - aymanbagabas/tap (today)
+- [aymanbagabas/scoop-bucket](https://github.com/aymanbagabas/scoop-bucket) - Scoop Bucket (today)
 - [aymanbagabas/uncurses](https://github.com/aymanbagabas/uncurses) - A terminal toolkit library for building UIs (today)
-- [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers. (1 week ago)
-- [caarlos0/prowl](https://github.com/caarlos0/prowl) - 🦉 A tiny terminal radar for your GitHub pull requests. (1 week ago)
 
 #### 🌱 Latest projects
 
@@ -19,9 +19,9 @@ and infrastructure automation. I spend most of my free time hacking on open sour
 
 #### 🔭 Latest releases I've contributed to
 
+- [aymanbagabas/drift](https://github.com/aymanbagabas/drift) ([v0.0.11](https://github.com/aymanbagabas/drift/releases/tag/v0.0.11), today) - 👾 A git diff pager that actually wants to be looked at
+- [aymanbagabas/uncurses](https://github.com/aymanbagabas/uncurses) ([v0.0.6](https://github.com/aymanbagabas/uncurses/releases/tag/v0.0.6), today) - A terminal toolkit library for building UIs
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.98.1](https://github.com/charmbracelet/crush/releases/tag/v0.98.1), 1 day ago) - Glamourous agentic coding for all 💘
-- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.52.69](https://github.com/charmbracelet/catwalk/releases/tag/v0.52.69), 1 day ago) - 🐈 A collection of LLM inference providers and models 
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v2.1.0](https://github.com/charmbracelet/bubbletea/releases/tag/v2.1.0), 2 days ago) - A powerful little TUI framework 🏗
 
 #### 📜 Recent blog posts
 
