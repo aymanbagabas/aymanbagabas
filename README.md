@@ -7,9 +7,9 @@ and infrastructure automation. I spend most of my free time hacking on open sour
 
 #### 👷 Check out what I'm currently working on
 
-- [aymanbagabas/homebrew-tap](https://github.com/aymanbagabas/homebrew-tap) - aymanbagabas/tap (today)
-- [aymanbagabas/scoop-bucket](https://github.com/aymanbagabas/scoop-bucket) - Scoop Bucket (today)
-- [aymanbagabas/uncurses](https://github.com/aymanbagabas/uncurses) - A terminal toolkit library for building UIs (today)
+- [aymanbagabas/homebrew-tap](https://github.com/aymanbagabas/homebrew-tap) - aymanbagabas/tap (1 day ago)
+- [aymanbagabas/scoop-bucket](https://github.com/aymanbagabas/scoop-bucket) - Scoop Bucket (1 day ago)
+- [aymanbagabas/uncurses](https://github.com/aymanbagabas/uncurses) - A terminal toolkit library for building UIs (1 day ago)
 
 #### 🌱 Latest projects
 
@@ -19,9 +19,9 @@ and infrastructure automation. I spend most of my free time hacking on open sour
 
 #### 🔭 Latest releases I've contributed to
 
-- [aymanbagabas/drift](https://github.com/aymanbagabas/drift) ([v0.0.11](https://github.com/aymanbagabas/drift/releases/tag/v0.0.11), today) - 👾 A git diff pager that actually wants to be looked at
-- [aymanbagabas/uncurses](https://github.com/aymanbagabas/uncurses) ([v0.0.6](https://github.com/aymanbagabas/uncurses/releases/tag/v0.0.6), today) - A terminal toolkit library for building UIs
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.98.1](https://github.com/charmbracelet/crush/releases/tag/v0.98.1), 1 day ago) - Glamourous agentic coding for all 💘
+- [aymanbagabas/drift](https://github.com/aymanbagabas/drift) ([v0.0.11](https://github.com/aymanbagabas/drift/releases/tag/v0.0.11), 1 day ago) - 👾 A git diff pager that actually wants to be looked at
+- [aymanbagabas/uncurses](https://github.com/aymanbagabas/uncurses) ([v0.0.6](https://github.com/aymanbagabas/uncurses/releases/tag/v0.0.6), 1 day ago) - A terminal toolkit library for building UIs
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.98.1](https://github.com/charmbracelet/crush/releases/tag/v0.98.1), 2 days ago) - Glamourous agentic coding for all 💘
 
 #### 📜 Recent blog posts
 
