@@ -7,9 +7,9 @@ and infrastructure automation. I spend most of my free time hacking on open sour
 
 #### 👷 Check out what I'm currently working on
 
-- [aymanbagabas/uncurses](https://github.com/aymanbagabas/uncurses) - A terminal toolkit library for building UIs (1 day ago)
-- [aymanbagabas/drift](https://github.com/aymanbagabas/drift) - 👾 A git diff pager that actually wants to be looked at (1 day ago)
-- [aymanbagabas/homebrew-tap](https://github.com/aymanbagabas/homebrew-tap) - aymanbagabas/tap (2 days ago)
+- [aymanbagabas/uncurses](https://github.com/aymanbagabas/uncurses) - A terminal toolkit library for building UIs (2 days ago)
+- [aymanbagabas/drift](https://github.com/aymanbagabas/drift) - 👾 A git diff pager that actually wants to be looked at (2 days ago)
+- [aymanbagabas/homebrew-tap](https://github.com/aymanbagabas/homebrew-tap) - aymanbagabas/tap (3 days ago)
 
 #### 🌱 Latest projects
 
@@ -19,9 +19,9 @@ and infrastructure automation. I spend most of my free time hacking on open sour
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), today) - Glamourous agentic coding for all 💘
-- [aymanbagabas/uncurses](https://github.com/aymanbagabas/uncurses) ([v0.0.7](https://github.com/aymanbagabas/uncurses/releases/tag/v0.0.7), 1 day ago) - A terminal toolkit library for building UIs
-- [aymanbagabas/drift](https://github.com/aymanbagabas/drift) ([v0.0.11](https://github.com/aymanbagabas/drift/releases/tag/v0.0.11), 2 days ago) - 👾 A git diff pager that actually wants to be looked at
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), 1 day ago) - Glamourous agentic coding for all 💘
+- [aymanbagabas/uncurses](https://github.com/aymanbagabas/uncurses) ([v0.0.7](https://github.com/aymanbagabas/uncurses/releases/tag/v0.0.7), 2 days ago) - A terminal toolkit library for building UIs
+- [aymanbagabas/drift](https://github.com/aymanbagabas/drift) ([v0.0.11](https://github.com/aymanbagabas/drift/releases/tag/v0.0.11), 3 days ago) - 👾 A git diff pager that actually wants to be looked at
 
 #### 📜 Recent blog posts
 
