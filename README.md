@@ -19,7 +19,7 @@ and infrastructure automation. I spend most of my free time hacking on open sour
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), 1 day ago) - Glamourous agentic coding for all 💘
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), today) - Glamourous agentic coding for all 💘
 - [aymanbagabas/uncurses](https://github.com/aymanbagabas/uncurses) ([v0.0.7](https://github.com/aymanbagabas/uncurses/releases/tag/v0.0.7), 2 days ago) - A terminal toolkit library for building UIs
 - [aymanbagabas/drift](https://github.com/aymanbagabas/drift) ([v0.0.11](https://github.com/aymanbagabas/drift/releases/tag/v0.0.11), 3 days ago) - 👾 A git diff pager that actually wants to be looked at
 
