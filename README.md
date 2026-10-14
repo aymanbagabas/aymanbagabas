@@ -7,9 +7,9 @@ and infrastructure automation. I spend most of my free time hacking on open sour
 
 #### 👷 Check out what I'm currently working on
 
-- [aymanbagabas/drift](https://github.com/aymanbagabas/drift) - 👾 A git diff pager that actually wants to be looked at (today)
-- [aymanbagabas/uncurses](https://github.com/aymanbagabas/uncurses) - A terminal toolkit library for building UIs (today)
-- [aymanbagabas/nur](https://github.com/aymanbagabas/nur) - Ayman&#39;s Nix User Repository (3 days ago)
+- [aymanbagabas/drift](https://github.com/aymanbagabas/drift) - 👾 A git diff pager that actually wants to be looked at (1 day ago)
+- [aymanbagabas/uncurses](https://github.com/aymanbagabas/uncurses) - A terminal toolkit library for building UIs (1 day ago)
+- [aymanbagabas/nur](https://github.com/aymanbagabas/nur) - Ayman&#39;s Nix User Repository (4 days ago)
 
 #### 🌱 Latest projects
 
@@ -19,9 +19,9 @@ and infrastructure automation. I spend most of my free time hacking on open sour
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.52.70](https://github.com/charmbracelet/catwalk/releases/tag/v0.52.70), today) - 🐈 A collection of LLM inference providers and models 
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), today) - Glamourous agentic coding for all 💘
-- [aymanbagabas/uncurses](https://github.com/aymanbagabas/uncurses) ([v0.0.7](https://github.com/aymanbagabas/uncurses/releases/tag/v0.0.7), 2 days ago) - A terminal toolkit library for building UIs
+- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.52.70](https://github.com/charmbracelet/catwalk/releases/tag/v0.52.70), 1 day ago) - 🐈 A collection of LLM inference providers and models 
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), 1 day ago) - Glamourous agentic coding for all 💘
+- [aymanbagabas/uncurses](https://github.com/aymanbagabas/uncurses) ([v0.0.7](https://github.com/aymanbagabas/uncurses/releases/tag/v0.0.7), 3 days ago) - A terminal toolkit library for building UIs
 
 #### 📜 Recent blog posts
 
@@ -31,7 +31,7 @@ and infrastructure automation. I spend most of my free time hacking on open sour
 
 #### ⭐ Recent Stars
 
-- [raphamorim/jam-objc](https://github.com/raphamorim/jam-objc) - Objective-C runtime bindings for Jam (1 week ago)
+- [raphamorim/jam-objc](https://github.com/raphamorim/jam-objc) - Objective-C runtime bindings for Jam (2 weeks ago)
 - [rockorager/comview](https://github.com/rockorager/comview) - the best diff viewer ever made (2 months ago)
 - [aymanbagabas/drift](https://github.com/aymanbagabas/drift) - 👾 A git diff pager that actually wants to be looked at (2 months ago)
 
