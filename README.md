@@ -7,8 +7,8 @@ and infrastructure automation. I spend most of my free time hacking on open sour
 
 #### 👷 Check out what I'm currently working on
 
-- [altscreen/helloworld](https://github.com/altscreen/helloworld) - Hello World library, command, and nested module for altscreen.io vanity imports (2 days ago)
-- [aymanbagabas/drift](https://github.com/aymanbagabas/drift) - 👾 A git diff pager that actually wants to be looked at (5 days ago)
+- [altscreen/helloworld](https://github.com/altscreen/helloworld) - Hello World library, command, and nested module for altscreen.io vanity imports (3 days ago)
+- [aymanbagabas/drift](https://github.com/aymanbagabas/drift) - 👾 A git diff pager that actually wants to be looked at (6 days ago)
 - [aymanbagabas/uncurses](https://github.com/aymanbagabas/uncurses) - A terminal toolkit library for building UIs (1 week ago)
 
 #### 🌱 Latest projects
@@ -19,9 +19,9 @@ and infrastructure automation. I spend most of my free time hacking on open sour
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.52.79](https://github.com/charmbracelet/catwalk/releases/tag/v0.52.79), today) - 🐈 A collection of LLM inference providers and models 
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), today) - Glamourous agentic coding for all 💘
-- [opt-nc/geol](https://github.com/opt-nc/geol) ([v2.21.5](https://github.com/opt-nc/geol/releases/tag/v2.21.5), 1 day ago) - Efficiently show and monitor end-of-life dates for a number of products in your terminal and CI using endoflife.date API
+- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.52.79](https://github.com/charmbracelet/catwalk/releases/tag/v0.52.79), 1 day ago) - 🐈 A collection of LLM inference providers and models 
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), 1 day ago) - Glamourous agentic coding for all 💘
+- [opt-nc/geol](https://github.com/opt-nc/geol) ([v2.21.5](https://github.com/opt-nc/geol/releases/tag/v2.21.5), 2 days ago) - Efficiently show and monitor end-of-life dates for a number of products in your terminal and CI using endoflife.date API
 
 #### 📜 Recent blog posts
 
@@ -31,7 +31,7 @@ and infrastructure automation. I spend most of my free time hacking on open sour
 
 #### ⭐ Recent Stars
 
-- [raphamorim/jam-objc](https://github.com/raphamorim/jam-objc) - Objective-C runtime bindings for Jam (2 weeks ago)
+- [raphamorim/jam-objc](https://github.com/raphamorim/jam-objc) - Objective-C runtime bindings for Jam (3 weeks ago)
 - [rockorager/comview](https://github.com/rockorager/comview) - the best diff viewer ever made (2 months ago)
 - [aymanbagabas/drift](https://github.com/aymanbagabas/drift) - 👾 A git diff pager that actually wants to be looked at (2 months ago)
 
