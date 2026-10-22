@@ -19,9 +19,9 @@ and infrastructure automation. I spend most of my free time hacking on open sour
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.52.81](https://github.com/charmbracelet/catwalk/releases/tag/v0.52.81), today) - 🐈 A collection of LLM inference providers and models 
+- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.52.82](https://github.com/charmbracelet/catwalk/releases/tag/v0.52.82), today) - 🐈 A collection of LLM inference providers and models 
+- [git-lfs/git-lfs](https://github.com/git-lfs/git-lfs) ([v3.8.1](https://github.com/git-lfs/git-lfs/releases/tag/v3.8.1), today) - Git extension for versioning large files
 - [aymanbagabas/drift](https://github.com/aymanbagabas/drift) ([v0.0.13](https://github.com/aymanbagabas/drift/releases/tag/v0.0.13), today) - 👾 A git diff pager that actually wants to be looked at
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), today) - Glamourous agentic coding for all 💘
 
 #### 📜 Recent blog posts
 
