@@ -7,9 +7,9 @@ and infrastructure automation. I spend most of my free time hacking on open sour
 
 #### 👷 Check out what I'm currently working on
 
-- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (today)
-- [aymanbagabas/drift](https://github.com/aymanbagabas/drift) - 👾 A git diff pager that actually wants to be looked at (1 day ago)
-- [aymanbagabas/homebrew-tap](https://github.com/aymanbagabas/homebrew-tap) - aymanbagabas/tap (1 day ago)
+- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (1 day ago)
+- [aymanbagabas/drift](https://github.com/aymanbagabas/drift) - 👾 A git diff pager that actually wants to be looked at (2 days ago)
+- [aymanbagabas/homebrew-tap](https://github.com/aymanbagabas/homebrew-tap) - aymanbagabas/tap (2 days ago)
 
 #### 🌱 Latest projects
 
@@ -19,9 +19,9 @@ and infrastructure automation. I spend most of my free time hacking on open sour
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.52.80](https://github.com/charmbracelet/catwalk/releases/tag/v0.52.80), today) - 🐈 A collection of LLM inference providers and models 
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), today) - Glamourous agentic coding for all 💘
-- [aymanbagabas/drift](https://github.com/aymanbagabas/drift) ([v0.0.12](https://github.com/aymanbagabas/drift/releases/tag/v0.0.12), today) - 👾 A git diff pager that actually wants to be looked at
+- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.52.80](https://github.com/charmbracelet/catwalk/releases/tag/v0.52.80), 1 day ago) - 🐈 A collection of LLM inference providers and models 
+- [aymanbagabas/drift](https://github.com/aymanbagabas/drift) ([v0.0.12](https://github.com/aymanbagabas/drift/releases/tag/v0.0.12), 1 day ago) - 👾 A git diff pager that actually wants to be looked at
 
 #### 📜 Recent blog posts
 
