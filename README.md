@@ -19,8 +19,8 @@ and infrastructure automation. I spend most of my free time hacking on open sour
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([v0.98.2](https://github.com/charmbracelet/crush/releases/tag/v0.98.2), today) - Glamourous agentic coding for all 💘
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.12.4](https://github.com/charmbracelet/soft-serve/releases/tag/v0.12.4), today) - The mighty, self-hostable Git server for the command line🍦
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) ([nightly](https://github.com/charmbracelet/crush/releases/tag/nightly), today) - Glamourous agentic coding for all 💘
 - [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.52.82](https://github.com/charmbracelet/catwalk/releases/tag/v0.52.82), 1 day ago) - 🐈 A collection of LLM inference providers and models 
 
 #### 📜 Recent blog posts
