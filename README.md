@@ -1,7 +1,5 @@
 ### Hi 👋 I'm Ayman.
 
-![Profile Views](https://komarev.com/ghpvc/?username=aymanbagabas&label=PROFILE+VIEWS)
-
 A software engineer working on terminal and command-line tools, Git plumbing,
 and infrastructure automation. I spend most of my free time hacking on open source.
 
