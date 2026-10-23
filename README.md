@@ -7,9 +7,9 @@ and infrastructure automation. I spend most of my free time hacking on open sour
 
 #### 👷 Check out what I'm currently working on
 
-- [aymanbagabas/nur](https://github.com/aymanbagabas/nur) - Ayman&#39;s Nix User Repository (1 day ago)
-- [aymanbagabas/homebrew-tap](https://github.com/aymanbagabas/homebrew-tap) - aymanbagabas/tap (1 day ago)
-- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (1 day ago)
+- [aymanbagabas/nur](https://github.com/aymanbagabas/nur) - Ayman&#39;s Nix User Repository (2 days ago)
+- [aymanbagabas/homebrew-tap](https://github.com/aymanbagabas/homebrew-tap) - aymanbagabas/tap (2 days ago)
+- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (2 days ago)
 
 #### 🌱 Latest projects
 
@@ -19,9 +19,9 @@ and infrastructure automation. I spend most of my free time hacking on open sour
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.52.82](https://github.com/charmbracelet/catwalk/releases/tag/v0.52.82), today) - 🐈 A collection of LLM inference providers and models 
-- [git-lfs/git-lfs](https://github.com/git-lfs/git-lfs) ([v3.8.1](https://github.com/git-lfs/git-lfs/releases/tag/v3.8.1), today) - Git extension for versioning large files
-- [aymanbagabas/drift](https://github.com/aymanbagabas/drift) ([v0.0.13](https://github.com/aymanbagabas/drift/releases/tag/v0.0.13), today) - 👾 A git diff pager that actually wants to be looked at
+- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) ([v0.52.82](https://github.com/charmbracelet/catwalk/releases/tag/v0.52.82), 1 day ago) - 🐈 A collection of LLM inference providers and models 
+- [git-lfs/git-lfs](https://github.com/git-lfs/git-lfs) ([v3.8.1](https://github.com/git-lfs/git-lfs/releases/tag/v3.8.1), 1 day ago) - Git extension for versioning large files
+- [aymanbagabas/drift](https://github.com/aymanbagabas/drift) ([v0.0.13](https://github.com/aymanbagabas/drift/releases/tag/v0.0.13), 1 day ago) - 👾 A git diff pager that actually wants to be looked at
 
 #### 📜 Recent blog posts
 
