@@ -10,13 +10,13 @@ and infrastructure automation. I spend most of my free time hacking on open sour
 - [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (2 days ago)
 - [aymanbagabas/drift](https://github.com/aymanbagabas/drift) - 👾 A git diff pager that actually wants to be looked at (2 days ago)
 - [aymanbagabas/scoop-bucket](https://github.com/aymanbagabas/scoop-bucket) - Scoop Bucket (2 days ago)
-- [altscreen/helloworld](https://github.com/altscreen/helloworld) - Hello World library, command, and nested module for altscreen.io vanity imports (5 days ago)
+- [altscreen/helloworld](https://github.com/altscreen/helloworld) - Hello World! (5 days ago)
 
 #### 🌱 Latest projects
 
 - [aymanbagabas/drift](https://github.com/aymanbagabas/drift) - 👾 A git diff pager that actually wants to be looked at
 - [aymanbagabas/uncurses](https://github.com/aymanbagabas/uncurses) - A terminal toolkit library for building UIs
-- [aymanbagabas/go-git-docs](https://github.com/aymanbagabas/go-git-docs) - go-git documentation fork
+- [aymanbagabas/cloudflare-prometheus-exporter](https://github.com/aymanbagabas/cloudflare-prometheus-exporter) - Cloudfront Prometheus exporter
 
 
 #### ❤️ These awesome people sponsor me (thank you!)
