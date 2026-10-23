@@ -4,7 +4,7 @@ A software engineer working on terminal and command-line tools, Git plumbing,
 and infrastructure automation. I spend most of my free time hacking on open source.
 
 #### 👷 Check out what I'm currently working on
-{{range recentContributions 3}}
+{{range recentContributions 6}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{- end}}
 
