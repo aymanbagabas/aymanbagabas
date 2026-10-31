@@ -5,7 +5,7 @@ and infrastructure automation. I spend most of my free time hacking on open sour
 
 #### 👷 Check out what I'm currently working on
 
-- [aymanbagabas/gh-notifs](https://github.com/aymanbagabas/gh-notifs) - List the GitHub issues and pull requests that have changes you did not see (4 days ago)
+- [aymanbagabas/gh-notifs](https://github.com/aymanbagabas/gh-notifs) - List the GitHub issues and pull requests that have changes you did not see (5 days ago)
 - [aymanbagabas/uncurses](https://github.com/aymanbagabas/uncurses) - A terminal toolkit library for building UIs (1 week ago)
 - [aymanbagabas/scoop-bucket](https://github.com/aymanbagabas/scoop-bucket) - Scoop Bucket (1 week ago)
 - [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (1 week ago)
