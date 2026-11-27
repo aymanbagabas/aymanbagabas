@@ -5,12 +5,12 @@ and infrastructure automation. I spend most of my free time hacking on open sour
 
 #### 👷 Check out what I'm currently working on
 
-- [go-git/go-xdiff](https://github.com/go-git/go-xdiff) - A pure-Go port of Git&#39;s xdiff for line diffs and three-way merges. (today)
-- [aymanbagabas/drift](https://github.com/aymanbagabas/drift) - 👾 A git diff pager that actually wants to be looked at (1 day ago)
-- [aymanbagabas/uncurses](https://github.com/aymanbagabas/uncurses) - A terminal toolkit library for building UIs (1 day ago)
-- [aymanbagabas/homebrew-tap](https://github.com/aymanbagabas/homebrew-tap) - aymanbagabas/tap (2 days ago)
-- [aymanbagabas/nur](https://github.com/aymanbagabas/nur) - Ayman&#39;s Nix User Repository (2 days ago)
-- [caarlos0/prowl](https://github.com/caarlos0/prowl) - 🦉 A tiny terminal radar for your GitHub pull requests. (2 days ago)
+- [go-git/go-xdiff](https://github.com/go-git/go-xdiff) - A pure-Go port of Git&#39;s xdiff for line diffs and three-way merges. (1 day ago)
+- [aymanbagabas/drift](https://github.com/aymanbagabas/drift) - 👾 A git diff pager that actually wants to be looked at (2 days ago)
+- [aymanbagabas/uncurses](https://github.com/aymanbagabas/uncurses) - A terminal toolkit library for building UIs (2 days ago)
+- [aymanbagabas/homebrew-tap](https://github.com/aymanbagabas/homebrew-tap) - aymanbagabas/tap (3 days ago)
+- [aymanbagabas/nur](https://github.com/aymanbagabas/nur) - Ayman&#39;s Nix User Repository (3 days ago)
+- [caarlos0/prowl](https://github.com/caarlos0/prowl) - 🦉 A tiny terminal radar for your GitHub pull requests. (3 days ago)
 
 #### 🌱 Latest projects
 
